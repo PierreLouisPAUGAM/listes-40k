@@ -3,6 +3,8 @@
 Dépôt de travail pour la construction de listes Warhammer 40,000 (11e édition) et la
 planification de la peinture.
 
+Pour savoir quoi lancer selon ce que tu veux faire : `MODE-EMPLOI.md`.
+
 ## État au 08/10/2026
 
 - **Factions actives** : Space Marines / Dark Angels, Tyranides.
