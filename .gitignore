@@ -2,3 +2,7 @@
 Thumbs.db
 *.tmp
 *:Zone.Identifier
+
+# Documents bruts : retéléchargeables, seuls leurs extraits sont versionnés
+sources/*.pdf
+sources/*.html

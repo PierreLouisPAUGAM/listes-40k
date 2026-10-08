@@ -4,7 +4,10 @@
 Mode par défaut : détection. Compare l'état en ligne des sources officielles à
 l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
 
-  --enregistrer   écrit l'état constaté dans etat.json (après une intégration)
+  --extraire [ID] écrit points, détachements et attachements des factions
+                  (toutes les actives si aucun ID) dans regles/factions/
+  --enregistrer [ID…]  écrit l'état constaté dans etat.json, pour les sources dont
+                  l'identifiant commence par l'un des ID (toutes si aucun)
   --js            affiche le JavaScript à exécuter dans Chrome pour les sources
                   communautaires (sites bloqués en accès direct)
   --navigateur F  ajoute au rapport le résultat de ce JavaScript, enregistré dans F
@@ -34,6 +37,8 @@ RACINE = Path(__file__).resolve().parent.parent
 PROFIL = RACINE / "profil.md"
 FACTIONS = RACINE / "sources" / "factions.json"
 ETAT = RACINE / "sources" / "etat.json"
+RASSEMBLER = RACINE / "regles" / "rassembler-les-armees.txt"
+CONSTRUCTION = "regles/construction-armee.md"
 
 MFM = "https://mfm.warhammer-community.com/{langue}/{faction}"
 API_TELECHARGEMENTS = "https://www.warhammer-community.com/api/search/downloads/"
@@ -290,6 +295,227 @@ def verifier_pdf(factions):
     return entrees
 
 
+# ------------------------------------------------------ extraction structurée
+
+UUID = re.compile(r"^[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}$")
+CLASSE_BLOC = "flex flex-col space-y-1 m-1 print:break-inside-avoid-page"
+ROLES = {"/leader.svg": "meneur", "/support.svg": "appui"}
+
+
+class Arbre:
+    """Accès à l'arbre de composants d'une page du Munitorum."""
+
+    def __init__(self, page):
+        self.lignes = rsc_lignes(page)
+        self.cache = {}
+
+    def resoudre(self, n):
+        if isinstance(n, str) and n.startswith("$L") and n[2:] in self.lignes:
+            if n not in self.cache:
+                self.cache[n] = json.loads(self.lignes[n[2:]])
+            return self.cache[n]
+        return n
+
+    @staticmethod
+    def element(n):
+        return isinstance(n, list) and len(n) == 4 and n[0] == "$" and isinstance(n[3], dict)
+
+    def enfants(self, n):
+        n = self.resoudre(n)
+        c = self.resoudre(n[3].get("children")) if self.element(n) else n
+        if self.element(c):
+            return [c]
+        return [self.resoudre(x) for x in c] if isinstance(c, list) else []
+
+    def texte(self, n):
+        n = self.resoudre(n)
+        if isinstance(n, str):
+            return "" if n.startswith("$") else n
+        if self.element(n):
+            return self.texte(n[3].get("children"))
+        if isinstance(n, list):
+            return "".join(self.texte(c) for c in n)
+        return ""
+
+    def parcourir(self, n, visiteur):
+        """Appelle visiteur sur chaque élément ; s'il renvoie False, n'entre pas dedans."""
+        n = self.resoudre(n)
+        if self.element(n):
+            if visiteur(n) is not False:
+                self.parcourir(n[3].get("children"), visiteur)
+        elif isinstance(n, list):
+            for c in n:
+                self.parcourir(c, visiteur)
+
+    def blocs(self):
+        """Blocs d'unité et de détachement, indexés par leur identifiant."""
+        trouves = {}
+
+        def visiteur(n):
+            if (n[1] == "div" and isinstance(n[2], str) and UUID.match(n[2])
+                    and n[3].get("className") == CLASSE_BLOC):
+                trouves.setdefault(n[2], n)
+                return False
+
+        for ligne in self.lignes.values():
+            try:
+                self.parcourir(json.loads(ligne), visiteur)
+            except ValueError:
+                continue
+        return trouves
+
+
+def nettoyer(texte):
+    return re.sub(r"\s+", " ", re.sub(r"[▲▼]\s*(\([+-]?\d+\)\s*)?", "", texte)).strip()
+
+
+def palier(intitule):
+    """« DE LA 1RE À LA 2E, VOS UNITÉS COÛTENT » → 1-2 ; « VOTRE UNITÉ COÛTE » → toutes."""
+    nombres = re.findall(r"\d+", intitule)
+    if len(nombres) >= 2:
+        return f"{nombres[0]}-{nombres[1]}"
+    if nombres:
+        suivantes = "+" in intitule or "SUIVANT" in intitule.upper()
+        return nombres[0] + ("+" if suivantes else "")
+    return "toutes"
+
+
+def attachements(arbre, bloc):
+    """Rôles de meneur ou d'appui : icône du rôle, puis liste des gardes du corps."""
+    trouves = []
+
+    def visiteur(n):
+        enfants = arbre.enfants(n)
+        if len(enfants) < 2:
+            return
+        icones = []
+        arbre.parcourir(enfants[0], lambda e: icones.append(e[3].get("src")))
+        role = next((ROLES[s] for s in icones if s in ROLES), None)
+        if role:
+            noms = [nettoyer(x) for x in arbre.texte(enfants[1]).split(",")]
+            trouves.append((role, [x for x in noms if x]))
+            return False
+
+    arbre.parcourir(bloc[3].get("children"), visiteur)
+    return trouves
+
+
+def lire_bloc(arbre, bloc):
+    enfants = arbre.enfants(bloc)
+    entete = enfants[0] if enfants else None
+    spans = []
+    arbre.parcourir(entete, lambda e: spans.append(arbre.texte(e)) if e[1] == "span" else None)
+    nom = nettoyer(spans[0] if spans else arbre.texte(entete))
+    pdd = next((m.group(1) for s in spans for m in [re.fullmatch(r"(\d+)\s*(PDD|DP)", s.strip())] if m), None)
+
+    if pdd is not None:
+        dispositions, optimisations = [], []
+
+        def visiteur(n):
+            style = n[3].get("style") or {}
+            if "backgroundColor" in style:
+                dispositions.append(nettoyer(arbre.texte(n)))
+                return False
+            if isinstance(n[2], str) and UUID.match(n[2]) and n[1] == "div" and n is not bloc:
+                valeurs = []
+                arbre.parcourir(n, lambda e: valeurs.append(arbre.texte(e)) if e[1] == "span" else None)
+                valeurs = [nettoyer(v) for v in valeurs if nettoyer(v)]
+                if len(valeurs) >= 2 and valeurs[1].endswith("pts"):
+                    optimisations.append({"id": n[2], "nom": valeurs[0], "cout": valeurs[1],
+                                          "attachements": attachements(arbre, n)})
+                    return False
+
+        arbre.parcourir(entete, lambda e: None)
+        for c in enfants[1:]:
+            arbre.parcourir(c, visiteur)
+        return {"type": "detachement", "nom": nom, "pdd": pdd,
+                "dispositions": dispositions, "optimisations": optimisations}
+
+    couts = []
+
+    def visiteur(n):
+        enfants_n = arbre.enfants(n)
+        listes = [e for e in enfants_n if arbre.element(e) and e[1] == "ul"]
+        if listes and arbre.element(enfants_n[0]) and enfants_n[0][1] == "div":
+            intitule = nettoyer(arbre.texte(enfants_n[0]))
+            for li in arbre.enfants(listes[0]):
+                morceaux = [nettoyer(arbre.texte(x)) for x in arbre.enfants(li)]
+                morceaux = [m for m in morceaux if m]
+                if len(morceaux) >= 2:
+                    couts.append({"palier": palier(intitule), "effectif": morceaux[0],
+                                  "points": morceaux[-1]})
+            return False
+
+    for c in enfants[1:]:
+        arbre.parcourir(c, visiteur)
+    return {"type": "unite", "nom": nom, "couts": couts, "attachements": attachements(arbre, bloc)}
+
+
+def mfm_structure(page):
+    arbre = Arbre(page)
+    return {cle: lire_bloc(arbre, bloc) for cle, bloc in arbre.blocs().items()}
+
+
+def ecrire_tsv(chemin, entetes, lignes):
+    contenu = ["\t".join(entetes)] + ["\t".join(str(c) for c in l) for l in lignes]
+    chemin.write_text("\n".join(contenu) + "\n", encoding="utf-8")
+
+
+def nombre(points):
+    return int(re.sub(r"\D", "", points)) if re.search(r"\d", points) else points
+
+
+def extraire(faction, page_fr=None):
+    """Écrit les fichiers <faction>-points, -detachements et -attachements.tsv."""
+    fr = mfm_structure(page_fr or telecharger(MFM.format(langue="fr", faction=faction["mfm"])))
+    en = mfm_structure(telecharger(MFM.format(langue="en", faction=faction["mfm"])))
+    manquants = sorted(set(fr) ^ set(en))
+    if manquants:
+        raise ErreurAcces(f"blocs sans équivalent entre /fr et /en : {len(manquants)}")
+    nom_en = {}
+    for cle, bloc in fr.items():
+        nom_en[bloc["nom"]] = en[cle]["nom"]
+
+    dossier = RACINE / faction["dossier"]
+    dossier.mkdir(parents=True, exist_ok=True)
+    prefixe = faction["mfm"]
+    unites = sorted((b for b in fr.items() if b[1]["type"] == "unite"), key=lambda b: b[1]["nom"])
+    detachements = sorted((b for b in fr.items() if b[1]["type"] == "detachement"),
+                          key=lambda b: b[1]["nom"])
+
+    points = []
+    for cle, u in unites:
+        for c in u["couts"]:
+            points.append((u["nom"], en[cle]["nom"], c["palier"], c["effectif"], nombre(c["points"])))
+    attache = []
+    for cle, u in unites:
+        for role, gardes in u["attachements"]:
+            for g in gardes:
+                attache.append((u["nom"], en[cle]["nom"], role, g, nom_en.get(g, "")))
+    lignes_det = []
+    for cle, d in detachements:
+        opt_en = {o["id"]: o["nom"] for o in en[cle]["optimisations"]}
+        for o in d["optimisations"] or [{"id": None, "nom": "", "cout": "", "attachements": []}]:
+            lignes_det.append((d["nom"], en[cle]["nom"], d["pdd"], ", ".join(d["dispositions"]),
+                               o["nom"], opt_en.get(o["id"], ""), nombre(o["cout"])))
+            for role, gardes in o["attachements"]:
+                for g in gardes:
+                    attache.append((o["nom"], opt_en.get(o["id"], ""), role, g, nom_en.get(g, "")))
+
+    fichiers = {
+        f"{prefixe}-points.tsv": (("unite", "unite_en", "palier", "effectif", "points"), points),
+        f"{prefixe}-detachements.tsv": (("detachement", "detachement_en", "pdd", "dispositions",
+                                         "optimisation", "optimisation_en", "cout"), lignes_det),
+        f"{prefixe}-attachements.tsv": (("unite", "unite_en", "role", "gardes_du_corps",
+                                         "gardes_du_corps_en"), attache),
+    }
+    for nom, (entetes, lignes) in fichiers.items():
+        ecrire_tsv(dossier / nom, entetes, lignes)
+    return [str((dossier / n).relative_to(RACINE)) for n in fichiers], \
+        {"unites": len(unites), "couts": len(points), "detachements": len(detachements),
+         "attachements": len(attache)}
+
+
 # ---------------------------------------------------- sources via le navigateur
 
 # 40k.app bloque les accès directs (protection Vercel) : ce code s'exécute dans un
@@ -361,16 +587,32 @@ def comparer(entrees, etat):
     return entrees
 
 
-def enregistrer(entrees, chemin, etat):
+def derives_par_defaut(e, factions):
+    """Fichiers du dépôt alimentés par une source, quand l'intégration ne les précise pas."""
+    if e["id"].startswith("mfm:rassembler"):
+        return [str(RASSEMBLER.relative_to(RACINE)), CONSTRUCTION]
+    if e["id"].startswith(("pdf:regles-de-base", "pdf:maj-universelles")):
+        return [CONSTRUCTION]
+    for f in factions:
+        if e["id"] == f"mfm:{f['mfm']}:fr":
+            return [f"{f['dossier']}/{f['mfm']}-{n}.tsv" for n in ("points", "detachements", "attachements")]
+        if e["id"].startswith((f"pdf:pack:{f['id']}:", f"c:40kapp:{f['app40k']}")):
+            return [f"{f['dossier']}/datasheets.md", f"{f['dossier']}/detachements.md"]
+    return []
+
+
+def enregistrer(entrees, chemin, etat, filtres, factions, derives=None):
     aujourdhui = datetime.date.today().isoformat()
     for e in entrees:
-        if "erreur" in e:
+        if "erreur" in e or (filtres and not e["id"].startswith(tuple(filtres))):
             continue
         ancien = etat.get(e["id"], {})
         etat[e["id"]] = {
             "libelle": e["libelle"], "type": e["type"], "url": e["url"],
             "version": e["version"], "empreinte": e["empreinte"],
-            "consulte_le": aujourdhui, "derives": ancien.get("derives", []),
+            "consulte_le": aujourdhui,
+            "derives": (derives or {}).get(e["id"]) or ancien.get("derives")
+                       or derives_par_defaut(e, factions),
         }
     chemin.write_text(json.dumps({"sources": dict(sorted(etat.items()))},
                                  ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
@@ -398,8 +640,9 @@ def rapport_texte(entrees, infos, avertissements):
 
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
-    p.add_argument("--enregistrer", action="store_true")
+    p.add_argument("--enregistrer", nargs="*", metavar="ID")
     p.add_argument("--js", action="store_true")
+    p.add_argument("--extraire", nargs="*", metavar="ID")
     p.add_argument("--navigateur", type=Path, metavar="FICHIER")
     p.add_argument("--json", action="store_true")
     p.add_argument("--langue", default="fr")
@@ -412,10 +655,11 @@ def main():
     etat = json.loads(args.etat.read_text(encoding="utf-8"))["sources"] if args.etat.exists() else {}
 
     entrees, infos, avertissements = [], [], []
-    rassembler = None
+    rassembler, pages = None, {}
     for f in factions:
         try:
             page, entree = verifier_mfm(f, args.langue, urls.get(f["mfm"]))
+            pages[f["id"]] = page
             entrees.append(entree)
             if rassembler is None:
                 rassembler = verifier_rassembler(page, args.langue, entree["url"])
@@ -447,9 +691,33 @@ def main():
         avertissements.append("pdftotext absent : l'intégration des PDF sera impossible "
                               "(brew install poppler)")
 
+    derives = {}
+    if args.extraire is not None:
+        if args.langue != "fr" or urls:
+            raise SystemExit("--extraire ne s'utilise qu'avec le Munitorum français en ligne")
+        for f in factions:
+            if args.extraire and f["id"] not in args.extraire and f["mfm"] not in args.extraire:
+                continue
+            try:
+                fichiers, compte = extraire(f, pages.get(f["id"]))
+            except ErreurAcces as e:
+                avertissements.append(f"extraction {f['nom']} impossible : {e}")
+                continue
+            derives[f"mfm:{f['mfm']}:fr"] = fichiers
+            infos.append(f"extrait {f['nom']} : {compte['unites']} unités, {compte['couts']} coûts, "
+                         f"{compte['detachements']} détachements, {compte['attachements']} "
+                         f"attachements → {', '.join(fichiers)}")
+
+        if rassembler:
+            page = next(iter(pages.values()))
+            RASSEMBLER.write_text("\n".join(mfm_rassembler(page)) + "\n", encoding="utf-8")
+            fichier = str(RASSEMBLER.relative_to(RACINE))
+            derives[rassembler["id"]] = [fichier, CONSTRUCTION]
+            infos.append(f"extrait Rassembler les Armées → {fichier}")
+
     comparer(entrees, etat)
-    if args.enregistrer:
-        enregistrer(entrees, args.etat, etat)
+    if args.enregistrer is not None:
+        enregistrer(entrees, args.etat, etat, args.enregistrer, factions, derives)
         avertissements.append(f"état enregistré dans {args.etat}")
 
     if args.json:
