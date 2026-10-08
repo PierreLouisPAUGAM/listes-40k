@@ -5,6 +5,9 @@ Mode par défaut : détection. Compare l'état en ligne des sources officielles 
 l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
 
   --enregistrer   écrit l'état constaté dans etat.json (après une intégration)
+  --js            affiche le JavaScript à exécuter dans Chrome pour les sources
+                  communautaires (sites bloqués en accès direct)
+  --navigateur F  ajoute au rapport le résultat de ce JavaScript, enregistré dans F
   --json          rapport au format JSON
   --langue en     lit le Munitorum en anglais (tests)
   --url ID=URL    remplace l'adresse du Munitorum d'une faction (tests, archives)
@@ -128,10 +131,94 @@ def mfm_contenu(lignes):
     return version, contenu
 
 
+def rsc_lignes(page):
+    """Lignes « id:json » des données que Next.js insère dans la page."""
+    flux = "".join(json.loads('"' + m + '"') for m in re.findall(
+        r'self\.__next_f\.push\(\[1,"((?:[^"\\]|\\.)*)"\]\)', page))
+    lignes = {}
+    for l in flux.split("\n"):
+        m = re.match(r"([0-9a-f]+):(.*)", l)
+        if m:
+            lignes[m.group(1)] = m.group(2)
+    return lignes
+
+
+BLOCS = {"div", "p", "li", "ul", "ol", "table", "thead", "tbody", "tr",
+         "h1", "h2", "h3", "h4", "h5", "h6"}
+
+
+def rsc_texte(noeud, lignes, sortie):
+    """Texte d'un arbre de composants : une ligne par paragraphe, cellules séparées par « | »."""
+    def resoudre(n):
+        if isinstance(n, str) and n.startswith("$L") and n[2:] in lignes:
+            return json.loads(lignes[n[2:]])
+        return n
+
+    def element(n):
+        return isinstance(n, list) and len(n) == 4 and n[0] == "$" and isinstance(n[3], dict)
+
+    def plat(n):
+        n = resoudre(n)
+        if isinstance(n, str):
+            return "" if n.startswith("$") else n
+        if element(n):
+            if n[1] == "tr":
+                enfants = n[3].get("children") or []
+                enfants = enfants if isinstance(enfants, list) and not element(enfants) else [enfants]
+                return " | ".join(plat(c).strip() for c in enfants)
+            return plat(n[3].get("children"))
+        if isinstance(n, list):
+            return "".join(plat(c) for c in n)
+        return ""
+
+    def contient_bloc(n):
+        n = resoudre(n)
+        if element(n):
+            return n[1] in BLOCS or contient_bloc(n[3].get("children"))
+        return isinstance(n, list) and any(contient_bloc(c) for c in n)
+
+    def ajouter(texte):
+        texte = re.sub(r"\s+", " ", texte).strip()
+        if texte:
+            sortie.append(texte)
+
+    noeud = resoudre(noeud)
+    if element(noeud) and noeud[1] != "tr" and contient_bloc(noeud[3].get("children")):
+        rsc_texte(noeud[3].get("children"), lignes, sortie)
+    elif isinstance(noeud, list) and not element(noeud):
+        # Texte et éléments en ligne qui se suivent forment un seul paragraphe.
+        tampon = ""
+        for c in map(resoudre, noeud):
+            if element(c) and c[1] == "br":
+                ajouter(tampon)
+                tampon = ""
+            elif contient_bloc(c):
+                ajouter(tampon)
+                tampon = ""
+                rsc_texte(c, lignes, sortie)
+            else:
+                tampon += plat(c)
+        ajouter(tampon)
+    else:
+        ajouter(plat(noeud))
+    return sortie
+
+
+def mfm_rassembler(page):
+    """Panneau « Rassembler les Armées » : présent dans les données de la page, pas
+    dans le HTML affiché. Ses titres sont les seuls éléments de classe text-lg."""
+    lignes = rsc_lignes(page)
+    ligne = next((v for v in lignes.values() if '"className":"text-lg"' in v), None)
+    if ligne is None:
+        raise ErreurAcces("panneau « Rassembler les Armées » introuvable")
+    return rsc_texte(json.loads(ligne), lignes, [])
+
+
 def verifier_mfm(faction, langue, url=None):
     url = url or MFM.format(langue=langue, faction=faction["mfm"])
-    version, contenu = mfm_contenu(mfm_texte(telecharger(url)))
-    return {
+    page = telecharger(url)
+    version, contenu = mfm_contenu(mfm_texte(page))
+    return page, {
         "id": f"mfm:{faction['mfm']}:{langue}",
         "libelle": f"Munitorum {faction['nom']} ({langue})",
         "type": "officielle",
@@ -139,6 +226,19 @@ def verifier_mfm(faction, langue, url=None):
         "version": version,
         "empreinte": hashlib.sha256("\n".join(contenu).encode()).hexdigest(),
         "detail": f"{sum(1 for l in contenu if l.endswith(' pts'))} coûts",
+    }
+
+
+def verifier_rassembler(page, langue, url):
+    contenu = mfm_rassembler(page)
+    return {
+        "id": f"mfm:rassembler:{langue}",
+        "libelle": f"Rassembler les Armées ({langue})",
+        "type": "officielle",
+        "url": url,
+        "version": "sans version",
+        "empreinte": hashlib.sha256("\n".join(contenu).encode()).hexdigest(),
+        "detail": f"{len(contenu)} paragraphes",
     }
 
 
@@ -188,6 +288,49 @@ def verifier_pdf(factions):
         entrees.append(entree_pdf(f"pdf:pack:{faction['id']}:en",
                                   f"Pack de Faction {faction['nom']} (en)", pack_en, note))
     return entrees
+
+
+# ---------------------------------------------------- sources via le navigateur
+
+# 40k.app bloque les accès directs (protection Vercel) : ce code s'exécute dans un
+# onglet Chrome ouvert sur https://www.40k.app/. Il ne couvre que l'index des
+# datasheets (avec les points), les détachements et les mises à jour : une
+# correction du seul texte d'une règle n'y apparaît pas.
+JS_40KAPP = """await (async () => {
+  const factions = %s;
+  const texte = async (u) => {
+    const r = await fetch(u);
+    if (!r.ok) throw new Error(u + " : HTTP " + r.status);
+    const d = new DOMParser().parseFromString(await r.text(), "text/html");
+    d.querySelectorAll("script,style").forEach((e) => e.remove());
+    return [d, (d.querySelector("main") || d.body).innerText.replace(/\\s+/g, " ").trim()];
+  };
+  const sha = async (t) => [...new Uint8Array(await crypto.subtle.digest("SHA-256",
+    new TextEncoder().encode(t)))].map((b) => b.toString(16).padStart(2, "0")).join("");
+  const sortie = [];
+  for (const f of factions) {
+    const base = "/factions/" + f.app40k;
+    try {
+      const [, index] = await texte(base);
+      const [det, detachements] = await texte(base + "/detachments");
+      const [, maj] = await texte(base + "/updates");
+      const n = new Set([...det.querySelectorAll("a")].map((a) => a.getAttribute("href"))
+        .filter((h) => h && h.startsWith(base + "/detachments/"))).size;
+      sortie.push({id: "c:40kapp:" + f.app40k, libelle: "40k.app " + f.nom + " (en)",
+        type: "communautaire", url: "https://www.40k.app" + base, version: "sans version",
+        empreinte: await sha([index, detachements, maj].join("\\n")), detail: n + " détachements"});
+    } catch (e) {
+      sortie.push({id: "c:40kapp:" + f.app40k, libelle: "40k.app " + f.nom + " (en)",
+        erreur: String(e)});
+    }
+  }
+  return JSON.stringify(sortie);
+})()"""
+
+
+def sans_pack_francais(factions, entrees):
+    ids = {e["id"] for e in entrees}
+    return [f for f in factions if f"pdf:pack:{f['id']}:fr" not in ids]
 
 
 # ------------------------------------------------------------------- BSData
@@ -256,6 +399,8 @@ def rapport_texte(entrees, infos, avertissements):
 def main():
     p = argparse.ArgumentParser(description=__doc__.splitlines()[0])
     p.add_argument("--enregistrer", action="store_true")
+    p.add_argument("--js", action="store_true")
+    p.add_argument("--navigateur", type=Path, metavar="FICHIER")
     p.add_argument("--json", action="store_true")
     p.add_argument("--langue", default="fr")
     p.add_argument("--url", action="append", default=[], metavar="ID=URL")
@@ -267,16 +412,33 @@ def main():
     etat = json.loads(args.etat.read_text(encoding="utf-8"))["sources"] if args.etat.exists() else {}
 
     entrees, infos, avertissements = [], [], []
+    rassembler = None
     for f in factions:
         try:
-            entrees.append(verifier_mfm(f, args.langue, urls.get(f["mfm"])))
+            page, entree = verifier_mfm(f, args.langue, urls.get(f["mfm"]))
+            entrees.append(entree)
+            if rassembler is None:
+                rassembler = verifier_rassembler(page, args.langue, entree["url"])
         except ErreurAcces as e:
             entrees.append({"id": f"mfm:{f['mfm']}:{args.langue}",
                             "libelle": f"Munitorum {f['nom']} ({args.langue})", "erreur": str(e)})
+    if rassembler:
+        entrees.append(rassembler)
     try:
         entrees += verifier_pdf(factions)
     except (ErreurAcces, KeyError, ValueError) as e:
         entrees.append({"id": "pdf", "libelle": "API des téléchargements", "erreur": str(e)})
+
+    communautaires = sans_pack_francais(factions, entrees)
+    if args.js:
+        print(JS_40KAPP % json.dumps([{"app40k": f["app40k"], "nom": f["nom"]}
+                                       for f in communautaires], ensure_ascii=False))
+        return 0
+    if args.navigateur:
+        entrees += json.loads(args.navigateur.read_text(encoding="utf-8"))
+    elif communautaires:
+        avertissements.append("40k.app non vérifié (" + ", ".join(f["nom"] for f in communautaires)
+                              + ") : lancer --js dans Chrome puis --navigateur")
     try:
         infos += pr_bsdata()
     except ErreurAcces as e:
