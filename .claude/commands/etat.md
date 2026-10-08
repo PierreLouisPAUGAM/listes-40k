@@ -8,6 +8,7 @@ Fais le point sur le projet, sans rien inventer :
 2. Donne : le palier en cours, le nombre de figurines par statut et par faction, et la
    prochaine unité à peindre selon le plan.
 3. Avec `git log`, indique ce qui a changé depuis une semaine.
-4. Signale les sources périmées et les informations manquantes.
+4. Signale les informations manquantes (« À récupérer », « Points en suspens » du
+   README). Pour savoir si des sources sont périmées, propose `/veille`.
 5. Ne propose aucune date tant que `peinture/historique.csv` ne contient pas assez de
    données.

@@ -40,7 +40,8 @@ collection/                  inventaire par faction + calendrier Hachette
 peinture/plan.md             séquence de paliers
 peinture/historique.csv      journal des sessions
 listes/                      une liste par fichier
-sources/                     PDF et captures d'écran bruts
+sources/                     bruts, état des sources, carte des sources
+outils/veille.py             vérification, extraction et état des sources
 ```
 
 Ne lis que les fichiers nécessaires à la tâche en cours.
