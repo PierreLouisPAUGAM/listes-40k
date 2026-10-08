@@ -1,5 +1,29 @@
 {
   "sources": {
+    "c:40kapp:dark-angels": {
+      "libelle": "40k.app Dark Angels (en)",
+      "type": "communautaire",
+      "url": "https://www.40k.app/factions/dark-angels",
+      "version": "sans version",
+      "empreinte": "b689938efcfb722a40e32172d79d5b2bd8767c75b9e11526b2d5820cae0b90ae",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/datasheets.md",
+        "regles/factions/space-marines/detachements.md"
+      ]
+    },
+    "c:40kapp:space-marines": {
+      "libelle": "40k.app Space Marines (en)",
+      "type": "communautaire",
+      "url": "https://www.40k.app/factions/space-marines",
+      "version": "sans version",
+      "empreinte": "22bcd27bddac8fd8498e7bb5902ebe287c6301a0f8c244aac6931bb8ada4fc17",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/datasheets.md",
+        "regles/factions/space-marines/detachements.md"
+      ]
+    },
     "c:40kapp:tyranids": {
       "libelle": "40k.app Tyranides (en)",
       "type": "communautaire",
@@ -12,6 +36,20 @@
         "regles/factions/tyranides/detachements.md"
       ]
     },
+    "mfm:dark-angels:fr": {
+      "libelle": "Munitorum Dark Angels (fr)",
+      "type": "officielle",
+      "url": "https://mfm.warhammer-community.com/fr/dark-angels",
+      "version": "v1.5",
+      "empreinte": "a79f75c25d896510e4f583869eb31c0d227d0735711c55328d4a26db66321e3d",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/dark-angels-points.tsv",
+        "regles/factions/space-marines/dark-angels-detachements.tsv",
+        "regles/factions/space-marines/dark-angels-attachements.tsv",
+        "regles/factions/space-marines/dark-angels-options.tsv"
+      ]
+    },
     "mfm:rassembler:fr": {
       "libelle": "Rassembler les Armées (fr)",
       "type": "officielle",
@@ -22,6 +60,20 @@
       "derives": [
         "regles/rassembler-les-armees.txt",
         "regles/construction-armee.md"
+      ]
+    },
+    "mfm:space-marines:fr": {
+      "libelle": "Munitorum Space Marines (fr)",
+      "type": "officielle",
+      "url": "https://mfm.warhammer-community.com/fr/space-marines",
+      "version": "v1.5",
+      "empreinte": "37b2800873cd8276c57f63c322ffeaf8db8716d9e40826d324314925a748f9e8",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/space-marines-points.tsv",
+        "regles/factions/space-marines/space-marines-detachements.tsv",
+        "regles/factions/space-marines/space-marines-attachements.tsv",
+        "regles/factions/space-marines/space-marines-options.tsv"
       ]
     },
     "mfm:tyranids:fr": {
@@ -47,6 +99,30 @@
       "consulte_le": "2026-10-08",
       "derives": [
         "regles/construction-armee.md"
+      ]
+    },
+    "pdf:pack:dark-angels:en": {
+      "libelle": "Pack de Faction Dark Angels (en)",
+      "type": "officielle",
+      "url": "https://assets.warhammer-community.com/eng_30-09_wh40k_faction_pack_dark_angels-grkkeaxdr3-zkavqgpgvq.pdf",
+      "version": "MAJ 30/09/2026",
+      "empreinte": "30/09/2026|eng_30-09_wh40k_faction_pack_dark_angels-grkkeaxdr3-zkavqgpgvq.pdf",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/datasheets.md",
+        "regles/factions/space-marines/detachements.md"
+      ]
+    },
+    "pdf:pack:space-marines:en": {
+      "libelle": "Pack de Faction Space Marines (en)",
+      "type": "officielle",
+      "url": null,
+      "version": "absent",
+      "empreinte": "absent",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/space-marines/datasheets.md",
+        "regles/factions/space-marines/detachements.md"
       ]
     },
     "pdf:pack:tyranides:fr": {

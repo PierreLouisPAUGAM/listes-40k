@@ -21,29 +21,29 @@ planification de la peinture.
 | Mises à jour des règles universelles (PDF français) | v1.1, 26/08/2026 | Stratagèmes, débarquement | À jour au 08/10/2026 |
 | Panneau « Rassembler les Armées » (Munitorum) | Sans version | Construction d'armée | À jour au 08/10/2026. Contredit les captures de l'appli sur le détachement à 3 PdD en Incursion |
 | Appli Warhammer 40,000, section 25 | Captures du 21/09/2026 | Seigneur de Guerre, Héros Épique et optimisations (compléments au panneau) | Supplantée par le panneau là où ils divergent |
-| Inventaire du Munitorum SM / DA | v1.4 | Points, rôles Meneur/Appui | **PÉRIMÉ** : v1.5 publiée le 30/09/2026, puis modifiée sans changement de version entre le 02/10 et le 05/10/2026 |
+| Inventaire du Munitorum SM / DA | v1.5 (30/09/2026, corrigée sans changement de version entre le 02/10 et le 05/10/2026) | Points, détachements, rôles Meneur/Appui, surcoûts d'équipement | À jour au 08/10/2026 (extraction postérieure au 05/10) |
+| Packs de Faction SM / DA | SM : aucun ; DA : 30/09/2026, réduit aux Legends | Rien à intégrer | Vérifié le 08/10/2026 |
 | Inventaire du Munitorum Tyranides | v1.5 | Points, détachements, rôles Meneur | À jour au 08/10/2026 |
 | Pack de Faction Tyranides (PDF français) | v1.2, 26/08/2026 | 4 détachements, errata, noms français | À jour au 08/10/2026 |
 | 40k.app Tyranides (communautaire, anglais) | Sans version | Fiches des unités possédées, 6 détachements du codex | À jour au 08/10/2026, à recouper avec le codex ou l'appli |
+| 40k.app Space Marines et Dark Angels (communautaire, anglais) | Sans version | Règle d'armée, 25 détachements, fiches des unités possédées | À jour au 08/10/2026, à recouper avec le codex ou l'appli |
 
 ## À récupérer
 
-- Codex Space Marines 11e (sorti le 03/10/2026) : règles d'armée, détachements, datasheets.
-  À fournir (texte français uniquement dans le codex et l'appli).
-- Mise à jour numérique Dark Angels, qui remplace l'ancien supplément. À fournir
-  (captures de l'appli).
-- Inventaire du Munitorum v1.5 : Space Marines, Dark Angels. Accessible directement.
-  Récupérer une version postérieure au 05/10/2026 (valeurs modifiées sans changement de
-  numéro).
+- Codex Space Marines 11e (sorti le 03/10/2026) : texte français des règles d'armée,
+  détachements et datasheets (en anglais communautaire pour l'instant). À fournir.
+- Mise à jour numérique Dark Angels, qui remplace l'ancien supplément : texte français
+  des 3 détachements et des fiches Dark Angels. À fournir (captures de l'appli).
 - Codex Tyranides ou captures de l'appli : texte français des fiches et des 6 détachements
   absents du Pack (en anglais communautaire pour l'instant).
 - Capture de l'appli, section 25.03 : trancher le détachement à 3 PdD en Incursion.
 
 ## Points en suspens
 
-- Escouade Suppressor : hors plan tant qu'elle n'apparaît pas dans les données du codex.
-- Guetteurs dans les Ténèbres : absents de l'Inventaire du Munitorum, probablement sans
-  datasheet. À confirmer.
+- Escouade Suppressor : absente de l'Inventaire du Munitorum v1.5 SM et DA et de
+  40k.app au 08/10/2026. Reste hors plan.
+- Guetteurs dans les Ténèbres : confirmé sans fiche propre. C'est un équipement des
+  Chevaliers de la Deathwing (1 par unité) et de l'Escouade Terminator de la Deathwing.
 
 ## Procédures de recherche
 
