@@ -42,8 +42,6 @@ planification de la peinture.
 
 - Escouade Suppressor : absente de l'Inventaire du Munitorum v1.5 SM et DA et de
   40k.app au 08/10/2026. Reste hors plan.
-- Guetteurs dans les Ténèbres : confirmé sans fiche propre. C'est un équipement des
-  Chevaliers de la Deathwing (1 par unité) et de l'Escouade Terminator de la Deathwing.
 
 ## Procédures de recherche
 
