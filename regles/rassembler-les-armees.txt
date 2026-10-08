@@ -1,0 +1,36 @@
+Les règles suivantes vous expliquent comment créer une armée à partir d’une liste de figurines et d’unités de votre collection de Warhammer 40,000.
+COMMENCER SA FEUILLE D'ARMÉE
+Il faut noter les détails de votre armée sur une feuille d’armée. Vous pouvez soit l’écrire, soit utiliser l’appli Warhammer 40,000. Chaque joueur doit présenter sa liste d’armée à son adversaire avant le début de la bataille.
+CHOISIR UNE FACTION D’ARMÉE
+Notez un mot-clé de faction sur votre feuille d’armée; il s’agit de votre faction d'armée.
+CHOISIR LE FORMAT DE LA BATAILLE
+Avec votre adversaire, choisissez un des formats de bataille ci-dessous. Cela déterminera le nombre total de points (parfois appelé total en points) que chaque joueur peut dépenser pour constituer son armée. Les valeurs en points des unités se trouvent dans l’appli Warhammer 40,000. Vous devez vous référer à ces valeurs lorsque vous constituez votre armée.
+Le format de la bataille déterminera également le nombre de Points de Détachement (PdD) avec lesquels les joueurs pourront débloquer des détachements, le nombre d’unités ayant le même nom de fiche technique qu’ils pourront inclure dans leur armée, et le nombre d’optimisations qu'ils pourront inclure dans leur armée.
+Ces détails sont résumés ci-dessous.
+FORMAT DE LA BATAILLE | Total en Points | Points de Détachement (PdD) | Limite d’Optimisations | Limite d’Unité*
+INCURSION | 1000 | 2 | 2 | 2
+FORCE DE FRAPPE | 2000 | 3 | 4 | 3
+* La limite d’unités pour les unités de LIGNE et de TRANSPORT ASSIGNÉ est le double du nombre correspondant indiqué ci-dessous, et chaque HÉROS ÉPIQUE a une limite de 1, quel que soit le format de la bataille.
+REMPLIR VOTRE FEUILLE D'ARMÉE
+Vous allez à présent choisir vos détachements, vos unités, votre SEIGNEUR DE GUERRE et les optimisations qui seront dans votre armée. Vous attacherez aussi vos unités de meneurs et d'appui aux autres unités.
+Ce faisant:
+Vous ne pouvez pas dépasser les valeurs présentées dans le tableau Choisir le Format de la Bataille (25.03). Par exemple, pour une bataille d'Incursion, vous ne pouvez pas ajouter de détachements pour une valeur de plus de 2 PdD.
+Aucune unité (y compris les unités attachées) ne peut avoir plus d'une optimisation.
+Votre Feuille d'Armée doit suivre toutes les restrictions qui lui sont imposées par les règles et les unités qu'elle inclut.
+CHOISIR DES DÉTACHEMENTS
+Vous pouvez à présent utiliser vos PdD pour choisir des détachements pour votre armée. Vous pouvez choisir seulement ceux accessibles à votre faction d'armée. Chacun vous donnera accès à différentes dispositions de force, règles de détachement, optimisations et/ou stratagèmes à utiliser pour la bataille à venir. Vous ne pouvez pas choisir le même détachement plus d'une fois. Notez les détachements choisis sur votre feuille d'armée.Notez que certaines règles de détachement listent des unités et d'autres détachement que votre armée doit soit inclure, soit ne pas inclure; vous devez suivre ces règles quand vous composez votre armée avec les détachements choisis.
+CHOISIR DES UNITÉS
+Choisissez toutes les unités que vous voulez inclure à votre armée. Vous pouvez seulement choisir des unités ayant votre mot-clé de faction et des unités accessibles à votre faction d'armée. Chaque fois que vous incluez une unité à votre armée, elle peut prendre tous les équipements et options auxquels elle a accès. Notez sur votre feuille d'armée le nombre de figurines dans l'unité, ses équipements et ses améliorations, et sa valeur en points.Choisissez 1 unité de PERSONNAGE pour qu'elle soit votre unité de Seigneur de Guerre. Il doit s'agir d'une unité qui a le mot-clé de faction que vous avez choisi comme faction d'armée. Puis choisissez 1 figurine de PERSONNAGE dans cette unité pour qu'elle soit votre Seigneur de Guerre, le chef suprême de votre armée, et notez-le sur votre feuille d'armée. Cette figurine gagne le mot-clé SEIGNEUR DE GUERRE. Certaines unités ont une règle sur leur fiche technique stipulant qu'elles doivent être votre SEIGNEUR DE GUERRE. Si vous voulez inclure une ou plusieurs de ces unités dans votre armée, vous devez en choisir une pour qu'elle soit votre SEIGNEUR DE GUERRE. Les règles qui stipulent qu'une figurine ne peut pas être votre SEIGNEUR DE GUERRE prennent le pas sur celles qui impose qu'elle soit votre SEIGNEUR DE GUERRE.
+ATTACHER LES UNITÉS DE MENEUR ET D'APPUI
+Vous pouvez attacher chaque unité de meneur et d' appui sur votre feuille à une unité de gardes du corps qu'elle peut rejoindre, selon les règles pour Former des Unités Attachées (19.01). Chaque unité d' appui de votre feuille doit être attachée à une unité de gardes du corps.
+CHOISIR DES OPTIMISATIONS
+Choisissez toutes les optimisations que vous voulez inclure à partir des détachements que vous avez choisis, et donnez chacune d'elles à une unité différente de votre armée. Ce faisant, augmentez en conséquence les valeurs en points de ces unités. Les valeurs en points des optimisations se trouvent dans l'appli Warhammer 40,000.
+Sauf mention contraire:
+Seules les unités de PERSONNAGE peuvent recevoir des optimisations. Si une telle unité contient plus d'une figurine, choisissez 1 figurine de PERSONNAGE de l'unité à laquelle donner cette optimisation.
+Les figurines de HÉROS ÉPIQUE ne peuvent pas recevoir d'optimisations.
+Votre armée ne peut pas inclure plus d'un exemplaire de la même optimisation.
+Améliorations:
+Certaines optimisations ont l'étiquette "Amélioration". Contrairement aux autres optimisations:
+Vous pouvez les donner à des unités autres que PERSONNAGE.
+Vous pouvez inclure jusqu'à trois exemplaires de la même Amélioration dans votre armée (la deuxième et la troisième occurrence de la même Amélioration ne comptent pas dans le nombre total d' optimisations de votre armée, mais vous devez ajouter à chaque fois leur coût en points).
+.

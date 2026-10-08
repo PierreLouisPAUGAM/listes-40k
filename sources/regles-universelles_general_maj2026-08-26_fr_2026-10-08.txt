@@ -1,0 +1,50 @@
+MISES À JOUR DES RÈGLES UNIVERSELLES
+                                                               VERSION 1.1
+                                                 Valide pour le jeu égal à partir du 26 août 2026
+
+
+Ce document contient des mises à jour qui dépassent le cadre des Packs de Faction et visent à améliorer le fonctionnement
+de certaines mécaniques ou règles de codex pour l’ensemble des factions.
+
+
+MODIFIER LE COÛT EN PC D’UN STRATAGÈME
+Les règles qui vous permettent de cibler une unité amie avec un
+stratagème pour 0PC, sans préciser le nom du stratagème, réduisent
+à la place de 1PC le coût de cette utilisation de ce stratagème.
+
+STRATAGÈMES QUI PEUVENT ÊTRE UTILISÉS
+PLUS D’UNE FOIS PAR PHASE/TOUR
+Les parties d’une règle qui permettent à un joueur d’utiliser un
+stratagème, même s’il a déjà ciblé une autre unité avec celui-ci à la
+même phase peuvent seulement être utilisées si le nom du stratagème
+y est précisé. De même, si un stratagème est limité à une seule
+utilisation par joueur, par tour, par round de bataille ou par bataille,
+les parties d’une telle règle peuvent être utilisées seulement si le nom
+du stratagème y est précisé.
+
+STRATAGÈMES QUI EMPÊCHENT DES UNITÉS D’ÊTRE CIBLÉES
+Si un stratagème a un effet qui stipule que l’unité cible “peut seulement
+être choisie comme cible d’une attaque de tir si la figurine attaquante
+est à 12" ou moins”, ou “ne peut pas être ciblée par des attaques de tir
+à moins que la figurine attaquante soit à 12" ou moins”, cet effet est
+modifié comme suit : “peut être choisie comme cible d’une attaque
+de tir seulement si la figurine attaquante est à 18" ou moins.”
+
+STRATAGÈMES QUI AJOUTENT DE NOUVELLES UNITÉS
+À VOTRE ARMÉE
+Si un stratagème a l’effet d’ajouter “une nouvelle unité à votre armée,
+identique à votre unité détruite”, ajoutez la Restriction suivante à ce
+stratagème : “RESTRICTIONS : Vous pouvez utiliser ce stratagème une
+seule fois par bataille.”
+
+TYPES DE MOUVEMENT POUR LES UNITÉS QUI DÉBARQUENT
+▪ Si une règle permet à une unité d'être éligible pour déclarer une
+   charge après avoir débarqué d’une figurine de TRANSPORT qui a fait
+   un mouvement normal à ce tour, l’unité fait un mouvement de
+   débarquement d’assaut (18.06) pour ce débarquement (au lieu d’un
+   mouvement de débarquement).
+▪ Si une règle permet à une unité de débarquer d’une figurine de
+   TRANSPORT qui a fait un mouvement d’avance à ce tour, l’unité
+   fait un mouvement de débarquement de choc (18.07) pour ce
+   débarquement (au lieu d’un mouvement de débarquement).
+
