@@ -1,0 +1,30 @@
+{
+  "Space Marines / Dark Angels": [
+    {
+      "id": "space-marines",
+      "nom": "Space Marines",
+      "mfm": "space-marines",
+      "pack": "space_marines",
+      "app40k": "space-marines",
+      "dossier": "regles/factions/space-marines"
+    },
+    {
+      "id": "dark-angels",
+      "nom": "Dark Angels",
+      "mfm": "dark-angels",
+      "pack": "dark_angels",
+      "app40k": "dark-angels",
+      "dossier": "regles/factions/space-marines"
+    }
+  ],
+  "Tyranides": [
+    {
+      "id": "tyranides",
+      "nom": "Tyranides",
+      "mfm": "tyranids",
+      "pack": "tyranids",
+      "app40k": "tyranids",
+      "dossier": "regles/factions/tyranides"
+    }
+  ]
+}
