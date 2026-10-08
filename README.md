@@ -3,7 +3,7 @@
 Dépôt de travail pour la construction de listes Warhammer 40,000 (11e édition) et la
 planification de la peinture.
 
-## État au 06/10/2026
+## État au 08/10/2026
 
 - **Factions actives** : Space Marines / Dark Angels, Tyranides.
 - **Factions à venir** : 7 factions livrées par abonnement Hachette entre fin 2026 et
@@ -15,18 +15,25 @@ planification de la peinture.
 
 ## Fraîcheur des sources
 
-| Source | Version / date | Utilisée pour | État |
-|---|---|---|---|
-| Règles de Base 11e (PDF français) | Mise à jour du 01/06/2026 | Unités attachées (section 19) | À jour au 08/10/2026. Ne contient pas la construction d'armée |
-| Mises à jour des règles universelles (PDF français) | v1.1, 26/08/2026 | Stratagèmes, débarquement | À jour au 08/10/2026 |
-| Panneau « Rassembler les Armées » (Munitorum) | Sans version | Construction d'armée | À jour au 08/10/2026. Contredit les captures de l'appli sur le détachement à 3 PdD en Incursion |
-| Appli Warhammer 40,000, section 25 | Captures du 21/09/2026 | Seigneur de Guerre, Héros Épique et optimisations (compléments au panneau) | Supplantée par le panneau là où ils divergent |
-| Inventaire du Munitorum SM / DA | v1.5 (30/09/2026, corrigée sans changement de version entre le 02/10 et le 05/10/2026) | Points, détachements, rôles Meneur/Appui, surcoûts d'équipement | À jour au 08/10/2026 (extraction postérieure au 05/10) |
-| Packs de Faction SM / DA | SM : aucun ; DA : 30/09/2026, réduit aux Legends | Rien à intégrer | Vérifié le 08/10/2026 |
-| Inventaire du Munitorum Tyranides | v1.5 | Points, détachements, rôles Meneur | À jour au 08/10/2026 |
-| Pack de Faction Tyranides (PDF français) | v1.2, 26/08/2026 | 4 détachements, errata, noms français | À jour au 08/10/2026 |
-| 40k.app Tyranides (communautaire, anglais) | Sans version | Fiches des unités possédées, 6 détachements du codex | À jour au 08/10/2026, à recouper avec le codex ou l'appli |
-| 40k.app Space Marines et Dark Angels (communautaire, anglais) | Sans version | Règle d'armée, 25 détachements, fiches des unités possédées | À jour au 08/10/2026, à recouper avec le codex ou l'appli |
+<!-- fraicheur:debut -->
+Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`. Pour savoir si une source a changé depuis son intégration : `/veille`.
+
+| Source | Type | Version | Alimente | Intégrée le |
+|---|---|---|---|---|
+| Mises à jour des règles universelles (fr) | officielle | MAJ 26/08/2026 | `construction-armee.md` | 08/10/2026 |
+| Munitorum Dark Angels (fr) | officielle | v1.5 | `dark-angels-points.tsv`, `dark-angels-detachements.tsv`, `dark-angels-attachements.tsv`, `dark-angels-options.tsv` | 08/10/2026 |
+| Munitorum Space Marines (fr) | officielle | v1.5 | `space-marines-points.tsv`, `space-marines-detachements.tsv`, `space-marines-attachements.tsv`, `space-marines-options.tsv` | 08/10/2026 |
+| Munitorum Tyranides (fr) | officielle | v1.5 | `tyranids-points.tsv`, `tyranids-detachements.tsv`, `tyranids-attachements.tsv`, `tyranids-options.tsv` | 08/10/2026 |
+| Pack de Faction Dark Angels (en) | officielle | MAJ 30/09/2026 | `datasheets.md`, `detachements.md` | 08/10/2026 |
+| Pack de Faction Space Marines (en) | officielle | absent | `datasheets.md`, `detachements.md` | 08/10/2026 |
+| Pack de Faction Tyranides (fr) | officielle | MAJ 26/08/2026 | `datasheets.md`, `detachements.md` | 08/10/2026 |
+| Rassembler les Armées (fr) | officielle | sans version | `rassembler-les-armees.txt`, `construction-armee.md` | 08/10/2026 |
+| Règles de Base (fr) | officielle | MAJ 01/06/2026 | `construction-armee.md` | 08/10/2026 |
+| Appli Warhammer 40,000, section 25 (captures) | fournie | captures du 21/09/2026 | `construction-armee.md` | 21/09/2026 |
+| 40k.app Dark Angels (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 08/10/2026 |
+| 40k.app Space Marines (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 08/10/2026 |
+| 40k.app Tyranides (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 08/10/2026 |
+<!-- fraicheur:fin -->
 
 ## À récupérer
 
@@ -45,15 +52,5 @@ planification de la peinture.
 
 ## Procédures de recherche
 
-Détail des accès, du nommage et de la veille : `sources/procedures.md`.
-
-| Information | Source | Accessible par Claude ? |
-|---|---|---|
-| Points, coûts en PdD et des optimisations | Inventaire du Munitorum en ligne (`/fr/<faction>`) | Oui |
-| Règles de base | PDF français, Warhammer Community | Oui |
-| Construction d'armée | Panneau « Rassembler les Armées » du Munitorum ; appli, section 25 | Oui pour le panneau (via Chrome) ; captures de l'appli à fournir |
-| Datasheets, détachements, stratagèmes (factions sans codex) | Packs de Faction en PDF français | Oui |
-| Datasheets, détachements, stratagèmes (Tyranides : codex complété par un Pack) | Pack de Faction pour ce qu'il contient, codex ou appli pour le reste | Pack : oui. Reste : texte français à fournir ; équivalent anglais communautaire sur 40k.app (via Chrome) |
-| Datasheets, détachements, stratagèmes (factions à codex : SM, DA) | Codex ou appli | Texte français à fournir. Équivalent anglais communautaire : 40k.app, probablement à jour du codex (via Chrome) ; Wahapedia pas encore à jour au 06/10/2026 |
-| Contenu d'une boîte | Boutique warhammer.com FR | Oui (via Chrome) |
-| Dates de sortie, actualités | Warhammer Community FR, recherche web | Oui |
+Carte des sources, accès et nommage : `sources/procedures.md`. Vérification et
+intégration : `/veille`, puis `/maj-regles <faction>`.

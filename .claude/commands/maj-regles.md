@@ -9,7 +9,7 @@ Pars du rapport de `/veille` (lance-la s'il n'est pas dans la conversation). Tra
 sources « modifié » ou « absent du dépôt » de cette faction, et les sources générales
 signalées (panneau « Rassembler les Armées », Règles de Base, Mises à jour des règles
 universelles) si aucune autre intégration ne les a encore prises en charge. Nommage des
-bruts, en-tête des fichiers et messages de commit : `sources/procedures.md`, partie 4.
+bruts, en-tête des fichiers et messages de commit : `sources/procedures.md`, partie 6.
 
 Les identifiants `<id>` sont ceux de `sources/factions.json`. Une ligne de `profil.md`
 peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une fois.
@@ -61,6 +61,9 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
    40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2). Enregistre
    aussi les Packs de Faction qui n'ont rien à intégrer (absents, ou réduits aux
    Legends) : leur état est connu, la veille ne doit plus les signaler.
-7. Mets à jour le tableau de fraîcheur du `README.md`, puis liste les fichiers de
-   `listes/` qui citent une source modifiée : ils sont à revérifier.
+7. Régénère le tableau de fraîcheur (`python3 -I outils/veille.py --readme`), mets à
+   jour « À récupérer » et « Points en suspens » du `README.md`, puis liste les fichiers
+   de `listes/` qui citent une source modifiée : ils sont à revérifier. Un document
+   fourni par l'utilisateur s'enregistre à la main dans `sources/etat.json`
+   (`sources/procedures.md`, partie 6).
 8. Propose les messages de commit, un par domaine.

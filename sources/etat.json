@@ -36,6 +36,17 @@
         "regles/factions/tyranides/detachements.md"
       ]
     },
+    "doc:appli-s25:fr": {
+      "libelle": "Appli Warhammer 40,000, section 25 (captures)",
+      "type": "fournie",
+      "url": null,
+      "version": "captures du 21/09/2026",
+      "empreinte": "sans objet",
+      "consulte_le": "2026-09-21",
+      "derives": [
+        "regles/construction-armee.md"
+      ]
+    },
     "mfm:dark-angels:fr": {
       "libelle": "Munitorum Dark Angels (fr)",
       "type": "officielle",

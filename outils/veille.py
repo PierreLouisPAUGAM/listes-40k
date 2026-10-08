@@ -11,6 +11,8 @@ l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
   --js            affiche le JavaScript à exécuter dans Chrome pour 40k.app
                   (site bloqué en accès direct), pour toutes les factions actives
   --navigateur F  ajoute au rapport le résultat de ce JavaScript, enregistré dans F
+  --readme        régénère le tableau de fraîcheur de README.md depuis etat.json
+                  (sans accès réseau)
   --json          rapport au format JSON
   --langue en     lit le Munitorum en anglais (tests)
   --url ID=URL    remplace l'adresse du Munitorum d'une faction (tests, archives)
@@ -39,6 +41,8 @@ PROFIL = RACINE / "profil.md"
 FACTIONS = RACINE / "sources" / "factions.json"
 ETAT = RACINE / "sources" / "etat.json"
 RASSEMBLER = RACINE / "regles" / "rassembler-les-armees.txt"
+README = RACINE / "README.md"
+MARQUES = ("<!-- fraicheur:debut -->", "<!-- fraicheur:fin -->")
 CONSTRUCTION = "regles/construction-armee.md"
 
 MFM = "https://mfm.warhammer-community.com/{langue}/{faction}"
@@ -675,6 +679,31 @@ def enregistrer(entrees, chemin, etat, filtres, factions, derives=None):
                                  ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
 
 
+def tableau_readme(etat):
+    """Tableau de fraîcheur du README. Les entrées « doc: » sont des documents fournis
+    par l'utilisateur (captures, extraits de codex) : enregistrées à la main, jamais
+    comparées en ligne."""
+    ordre = {"officielle": 0, "fournie": 1, "communautaire": 2}
+    lignes = ["Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`. "
+              "Pour savoir si une source a changé depuis son intégration : `/veille`.", "",
+              "| Source | Type | Version | Alimente | Intégrée le |", "|---|---|---|---|---|"]
+    for cle, s in sorted(etat.items(), key=lambda kv: (ordre.get(kv[1]["type"], 3), kv[1]["libelle"])):
+        alimente = ", ".join(f"`{Path(d).name}`" for d in s.get("derives", [])) or "—"
+        date = datetime.date.fromisoformat(s["consulte_le"]).strftime("%d/%m/%Y")
+        lignes.append(f"| {s['libelle']} | {s['type']} | {s['version']} | {alimente} | {date} |")
+    return "\n".join(lignes)
+
+
+def ecrire_readme(etat):
+    texte = README.read_text(encoding="utf-8")
+    debut, fin = MARQUES
+    if debut not in texte or fin not in texte:
+        raise SystemExit(f"Marqueurs {debut} et {fin} absents de README.md")
+    avant, reste = texte.split(debut, 1)
+    _, apres = reste.split(fin, 1)
+    README.write_text(f"{avant}{debut}\n{tableau_readme(etat)}\n{fin}{apres}", encoding="utf-8")
+
+
 def rapport_texte(entrees, infos, avertissements):
     largeur = max(len(e["libelle"]) for e in entrees)
     print(f"Veille du {datetime.date.today().strftime('%d/%m/%Y')}\n")
@@ -701,6 +730,7 @@ def main():
     p.add_argument("--js", action="store_true")
     p.add_argument("--extraire", nargs="*", metavar="ID")
     p.add_argument("--navigateur", type=Path, metavar="FICHIER")
+    p.add_argument("--readme", action="store_true")
     p.add_argument("--json", action="store_true")
     p.add_argument("--langue", default="fr")
     p.add_argument("--url", action="append", default=[], metavar="ID=URL")
@@ -710,6 +740,10 @@ def main():
     urls = dict(u.split("=", 1) for u in args.url)
     factions = [f for _, f in correspondances(factions_actives())]
     etat = json.loads(args.etat.read_text(encoding="utf-8"))["sources"] if args.etat.exists() else {}
+    if args.readme:
+        ecrire_readme(etat)
+        print("Tableau de fraîcheur de README.md régénéré.")
+        return 0
 
     entrees, infos, avertissements = [], [], []
     rassembler, pages = None, {}
