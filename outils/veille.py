@@ -542,6 +542,10 @@ def extraire(faction, page_fr=None):
                 for g in gardes:
                     attache.append((o["nom"], opt_en.get(o["id"], ""), role, g, nom_en.get(g, "")))
 
+    # Deux noms d'unités collés : virgule manquante dans la source officielle.
+    anomalies = sorted({g for *_, g, _ in attache if g not in nom_en and any(
+        g[:i].strip() in nom_en and g[i:].strip() in nom_en for i in range(1, len(g)))})
+
     fichiers = {
         f"{prefixe}-points.tsv": (("unite", "unite_en", "palier", "effectif", "points"), points),
         f"{prefixe}-detachements.tsv": (("detachement", "detachement_en", "pdd", "dispositions",
@@ -555,7 +559,7 @@ def extraire(faction, page_fr=None):
         ecrire_tsv(dossier / nom, entetes, lignes)
     return [str((dossier / n).relative_to(RACINE)) for n in fichiers], \
         {"unites": len(unites), "couts": len(points), "detachements": len(detachements),
-         "attachements": len(attache), "options": len(lignes_opt)}
+         "attachements": len(attache), "options": len(lignes_opt), "anomalies": anomalies}
 
 
 # ---------------------------------------------------- sources via le navigateur
@@ -767,6 +771,9 @@ def main():
             infos.append(f"extrait {f['nom']} : {compte['unites']} unités, {compte['couts']} coûts, "
                          f"{compte['detachements']} détachements, {compte['attachements']} "
                          f"attachements, {compte['options']} options → {', '.join(fichiers)}")
+            for g in compte["anomalies"]:
+                avertissements.append(f"{f['nom']} : garde du corps « {g} » inconnu, virgule "
+                                      "probablement manquante dans le Munitorum (recopié tel quel)")
 
         if rassembler:
             page = next(iter(pages.values()))

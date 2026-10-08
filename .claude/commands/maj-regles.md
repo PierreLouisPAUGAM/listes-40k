@@ -19,11 +19,15 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
    `-options.tsv` (surcoûts d'équipement) (`<mfm>` : nom anglais du Munitorum, ex.
    `tyranids`), et
    `regles/rassembler-les-armees.txt`. Résume le `git diff` (écarts de points, unités
-   ajoutées ou retirées) et signale les noms de `collection/` absents des fichiers TSV.
-2. **Rassembler les Armées** : si `regles/rassembler-les-armees.txt` a changé, mets à
+   ajoutées ou retirées) et reprends les avertissements du script.
+2. **Collection** : compare `collection/<faction>.md` et `peinture/plan.md` aux fichiers
+   TSV et relève les noms d'unités différents du nom officiel, les unités absentes du
+   Munitorum et toute affirmation contredite par les nouvelles données. Propose les
+   corrections et ne les applique qu'avec l'accord de l'utilisateur.
+3. **Rassembler les Armées** : si `regles/rassembler-les-armees.txt` a changé, mets à
    jour `regles/construction-armee.md`. Ce panneau officiel l'emporte sur les captures
    de l'appli.
-3. **Texte des règles** : rédige `datasheets.md` (unités possédées uniquement : profils,
+4. **Texte des règles** : rédige `datasheets.md` (unités possédées uniquement : profils,
    armes, aptitudes, options d'équipement) et `detachements.md` (règle d'armée, puis
    **tous** les détachements de la faction : règle, optimisations, stratagèmes). Sources
    par ordre de priorité :
@@ -50,13 +54,13 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
 
    Avant de passer à la suite, vérifie que chaque détachement de `<mfm>-detachements.tsv`
    et chaque unité de `collection/` ont leur section, et signale ce qui manque.
-4. **Règles de Base, Mises à jour des règles universelles** : télécharge, extrais et
+5. **Règles de Base, Mises à jour des règles universelles** : télécharge, extrais et
    mets à jour les passages utilisés dans `regles/construction-armee.md`.
-5. Enregistre l'état des seules sources intégrées :
+6. Enregistre l'état des seules sources intégrées :
    `python3 -I outils/veille.py --enregistrer <id> [<id>…]`, avec `--navigateur` si
    40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2). Enregistre
    aussi les Packs de Faction qui n'ont rien à intégrer (absents, ou réduits aux
    Legends) : leur état est connu, la veille ne doit plus les signaler.
-6. Mets à jour le tableau de fraîcheur du `README.md`, puis liste les fichiers de
+7. Mets à jour le tableau de fraîcheur du `README.md`, puis liste les fichiers de
    `listes/` qui citent une source modifiée : ils sont à revérifier.
-7. Propose les messages de commit, un par domaine.
+8. Propose les messages de commit, un par domaine.
