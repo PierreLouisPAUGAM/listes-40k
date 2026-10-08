@@ -266,12 +266,13 @@ def documents(langue):
             for h in reponse["hits"]]
 
 
-def entree_pdf(ident, libelle, doc, note=""):
+def entree_pdf(ident, libelle, doc, note="", qualificatif=""):
+    # L'empreinte « absent » est conservée : seule la version affichée est explicite.
     if doc is None:
         return {"id": ident, "libelle": libelle, "type": "officielle", "url": None,
-                "version": "absent", "empreinte": "absent", "detail": note}
+                "version": "aucun pack (codex ou appli)", "empreinte": "absent", "detail": note}
     return {"id": ident, "libelle": libelle, "type": "officielle",
-            "url": ASSETS + doc["fichier"], "version": f"MAJ {doc['maj']}",
+            "url": ASSETS + doc["fichier"], "version": f"{qualificatif}MAJ {doc['maj']}",
             "empreinte": f"{doc['maj']}|{doc['fichier']}", "detail": note}
 
 
@@ -292,14 +293,14 @@ def verifier_pdf(factions):
             continue
         # Sans pack français, le texte officiel est passé dans un codex ou l'appli.
         pack_en = chercher(en, motif)
+        note, qualificatif = "", ""
         if pack_en and "legends" in pack_en["titre"].lower():
-            note = "pack réduit aux Legends : règles dans le codex ou l'appli"
+            qualificatif = "Legends seulement, "
         elif pack_en:
             note = "pack en anglais seulement"
-        else:
-            note = "aucun pack : règles dans le codex ou l'appli"
         entrees.append(entree_pdf(f"pdf:pack:{faction['id']}:en",
-                                  f"Pack de Faction {faction['nom']} (en)", pack_en, note))
+                                  f"Pack de Faction {faction['nom']} (en)", pack_en, note,
+                                  qualificatif))
     return entrees
 
 
