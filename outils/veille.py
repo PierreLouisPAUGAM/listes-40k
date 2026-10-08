@@ -8,8 +8,8 @@ l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
                   (toutes les actives si aucun ID) dans regles/factions/
   --enregistrer [ID…]  écrit l'état constaté dans etat.json, pour les sources dont
                   l'identifiant commence par l'un des ID (toutes si aucun)
-  --js            affiche le JavaScript à exécuter dans Chrome pour les sources
-                  communautaires (sites bloqués en accès direct)
+  --js            affiche le JavaScript à exécuter dans Chrome pour 40k.app
+                  (site bloqué en accès direct), pour toutes les factions actives
   --navigateur F  ajoute au rapport le résultat de ce JavaScript, enregistré dans F
   --json          rapport au format JSON
   --langue en     lit le Munitorum en anglais (tests)
@@ -519,7 +519,9 @@ def extraire(faction, page_fr=None):
 # ---------------------------------------------------- sources via le navigateur
 
 # 40k.app bloque les accès directs (protection Vercel) : ce code s'exécute dans un
-# onglet Chrome ouvert sur https://www.40k.app/. Il ne couvre que l'index des
+# onglet Chrome ouvert sur https://www.40k.app/. Il sert à toutes les factions : un Pack
+# de Faction peut compléter un codex sans le remplacer, et le texte du codex n'a pas
+# d'autre source automatisable. Il ne couvre que l'index des
 # datasheets (avec les points), les détachements et les mises à jour : une
 # correction du seul texte d'une règle n'y apparaît pas.
 JS_40KAPP = """await (async () => {
@@ -552,11 +554,6 @@ JS_40KAPP = """await (async () => {
   }
   return JSON.stringify(sortie);
 })()"""
-
-
-def sans_pack_francais(factions, entrees):
-    ids = {e["id"] for e in entrees}
-    return [f for f in factions if f"pdf:pack:{f['id']}:fr" not in ids]
 
 
 # ------------------------------------------------------------------- BSData
@@ -673,16 +670,14 @@ def main():
     except (ErreurAcces, KeyError, ValueError) as e:
         entrees.append({"id": "pdf", "libelle": "API des téléchargements", "erreur": str(e)})
 
-    communautaires = sans_pack_francais(factions, entrees)
     if args.js:
         print(JS_40KAPP % json.dumps([{"app40k": f["app40k"], "nom": f["nom"]}
-                                       for f in communautaires], ensure_ascii=False))
+                                       for f in factions], ensure_ascii=False))
         return 0
     if args.navigateur:
         entrees += json.loads(args.navigateur.read_text(encoding="utf-8"))
-    elif communautaires:
-        avertissements.append("40k.app non vérifié (" + ", ".join(f["nom"] for f in communautaires)
-                              + ") : lancer --js dans Chrome puis --navigateur")
+    else:
+        avertissements.append("40k.app non vérifié : lancer --js dans Chrome puis --navigateur")
     try:
         infos += pr_bsdata()
     except ErreurAcces as e:

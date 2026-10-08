@@ -6,8 +6,7 @@ Vérifie les sources des factions actives, sans rien écrire dans le dépôt.
 
 1. Génère le JavaScript des sources communautaires dans ton répertoire temporaire :
    `python3 -I outils/veille.py --js > <temp>/veille.js`.
-   Il ne couvre que les factions sans Pack de Faction français.
-2. Si ce fichier contient des factions, ouvre un nouvel onglet Chrome sur
+2. Ouvre un nouvel onglet Chrome sur
    `https://www.40k.app/`, exécute son contenu tel quel avec l'outil JavaScript, ferme
    l'onglet et enregistre le JSON renvoyé dans `<temp>/veille-navigateur.json`.
    Si Chrome est indisponible, passe à l'étape 3 sans `--navigateur` : le rapport
