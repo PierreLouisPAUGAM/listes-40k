@@ -14,7 +14,8 @@ Vérifie les sources des factions actives, sans rien écrire dans le dépôt.
 3. Lance `python3 -I outils/veille.py --navigateur <temp>/veille-navigateur.json`.
 4. Rends compte selon le code de retour :
    - **0** : tout est à jour. Affiche le tableau, rien de plus.
-   - **1** : pour chaque source modifiée ou absente du dépôt, indique les fichiers qui en
+   - **1** : si 40k.app n'a pas pu être vérifié, dis-le en premier. Pour chaque source
+     modifiée ou absente du dépôt, indique les fichiers qui en
      dépendent (champ `derives` de `sources/etat.json`, listes de `listes/` qui citent
      cette source). Explique le changement : résumé de la PR BSData listée en
      information pour le Munitorum, annonce sur Warhammer Community FR (via Chrome)

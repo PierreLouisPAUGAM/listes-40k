@@ -16,7 +16,8 @@ l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
   --url ID=URL    remplace l'adresse du Munitorum d'une faction (tests, archives)
   --etat CHEMIN   utilise un autre fichier d'état (tests)
 
-Codes de retour : 0 tout est à jour, 1 au moins un changement, 2 erreur d'accès.
+Codes de retour : 0 tout est à jour, 1 au moins un changement ou 40k.app non vérifié,
+2 erreur d'accès.
 Python standard uniquement, aucun navigateur.
 """
 
@@ -795,7 +796,9 @@ def main():
 
     if any(e["statut"] == "erreur" for e in entrees):
         return 2
-    return 0 if all(e["statut"] == "à jour" for e in entrees) else 1
+    # Sans le relevé de Chrome, rien ne permet d'affirmer que 40k.app est à jour.
+    complet = args.navigateur is not None
+    return 0 if complet and all(e["statut"] == "à jour" for e in entrees) else 1
 
 
 if __name__ == "__main__":
