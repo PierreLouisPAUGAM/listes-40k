@@ -44,10 +44,6 @@ planification de la peinture.
 - Escouade Suppressor : hors plan tant qu'elle n'apparaît pas dans les données du codex.
 - Guetteurs dans les Ténèbres : absents de l'Inventaire du Munitorum, probablement sans
   datasheet. À confirmer.
-- Noms tyranides de `collection/tyranides.md` différents du Munitorum : Prime Tyranide
-  Ailé (Primat Tyranide Ailé), Screamer-Killer (Tueur-Hurleur), Sauteurs de Von Ryan
-  (Bondisseurs de Von Ryan), Essaims de Rippers (Nuées de Voraces). Les « Neuroloïdes »
-  sont des pions du Neurotyran, pas une unité.
 
 ## Procédures de recherche
 
