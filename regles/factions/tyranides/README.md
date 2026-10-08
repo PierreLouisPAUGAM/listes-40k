@@ -8,10 +8,11 @@ tête de chaque fichier ; état des sources dans `sources/etat.json`.
 - `tyranids-detachements.tsv` — détachements, PdD, dispositions de force, optimisations
   et leurs coûts (Munitorum).
 - `tyranids-attachements.tsv` — meneurs et unités de gardes du corps (Munitorum).
+- `tyranids-options.tsv` — surcoûts d'équipement (Munitorum).
 - `detachements.md` — règle d'armée et les 10 détachements : règles, optimisations,
   stratagèmes.
 - `datasheets.md` — uniquement les unités possédées (voir `collection/tyranides.md`) :
   profils, armes, aptitudes, options d'équipement.
 
-Les trois fichiers TSV sont produits par `python3 -I outils/veille.py --extraire
+Les quatre fichiers TSV sont produits par `python3 -I outils/veille.py --extraire
 tyranides` : ne pas les modifier à la main.

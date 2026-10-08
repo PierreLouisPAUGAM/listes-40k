@@ -34,7 +34,8 @@
       "derives": [
         "regles/factions/tyranides/tyranids-points.tsv",
         "regles/factions/tyranides/tyranids-detachements.tsv",
-        "regles/factions/tyranides/tyranids-attachements.tsv"
+        "regles/factions/tyranides/tyranids-attachements.tsv",
+        "regles/factions/tyranides/tyranids-options.tsv"
       ]
     },
     "pdf:maj-universelles:fr": {
