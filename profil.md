@@ -17,7 +17,6 @@
 | Aeldari, Space Marines du Chaos, Orks, Ligues de Votann, Cultes Genestealer, Astra Militarum, World Eaters | En cours de réception | Atteindre 750 à 1 000 points jouables, pour orienter les achats |
 
 Les figurines peintes en Dark Angels se jouent aussi bien en Space Marines génériques.
-Les unités spécifiquement Dark Angels sont signalées dans `collection/space-marines.md`.
 
 ## Peinture
 

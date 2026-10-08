@@ -47,5 +47,4 @@ montage peut se faire à réception.
 - **Escouade Suppressor** : hors plan tant qu'elle n'apparaît pas dans les données du
   codex. Si elle y figure, elle reprend sa place normale.
 - **Guetteurs dans les Ténèbres** : en dernier, priorité très basse, peints pour le plaisir.
-- **Apothicaire Biologis** : priorité basse, injouable tant qu'aucune unité de gardes du
-  corps compatible n'est acquise.
+- **Apothicaire Biologis** : priorité basse.

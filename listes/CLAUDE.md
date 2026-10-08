@@ -25,9 +25,7 @@ Retour de partie :
 ## Règles
 
 - Détailler le calcul : points ligne par ligne, total, PdD, optimisations.
-- Respecter les limites du format (`regles/formats-maison.md`).
-- Un appui **doit** être attaché, un meneur non ; une unité ne reçoit qu'un meneur et
-  qu'un appui.
-- Toujours désigner le Seigneur de Guerre.
+- Respecter les règles de construction (`regles/construction-armee.md`) et les limites
+  du format (`regles/formats-maison.md`).
 - Indiquer ce qui est peint, ce qui est monté, ce qui serait à acheter.
 - Citer la version des points utilisée : une liste sans source de points n'est pas valide.

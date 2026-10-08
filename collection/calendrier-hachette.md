@@ -32,8 +32,6 @@
 - Les Boyz des n°43 et 45 font partie de la Combat Patrol Orks (20 Boyz au total) :
   ce n'est pas une unité supplémentaire.
 - Tigurius et Haarken sont envoyés d'office. L'offre décors (89 €) est à valider soi-même.
-- Le Chapelain à moto (n°20) est jouable en Dark Angels : il mène les Chevaliers Noirs de
-  la Ravenwing et les Escouades Outrider, non possédées à ce jour.
 
 ## À chaque livraison
 

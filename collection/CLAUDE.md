@@ -16,3 +16,6 @@ Toute unité ayant des options d'équipement est **aimantée** : ne jamais figer
 seront recensées.
 
 Un fichier par faction. Ne pas mélanger deux factions dans un même tableau.
+
+Pas de règles recopiées (rôles de meneur ou d'appui, points, options, faction où l'unité
+est jouable) : elles sont dans `regles/` et changent à chaque mise à jour.
