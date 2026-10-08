@@ -1,0 +1,75 @@
+{
+  "sources": {
+    "c:40kapp:tyranids": {
+      "libelle": "40k.app Tyranides (en)",
+      "type": "communautaire",
+      "url": "https://www.40k.app/factions/tyranids",
+      "version": "sans version",
+      "empreinte": "743264e2b59d1c7fef233dd1ef1e1d1a9e976c978d500da97f1db9cfe34510f9",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/tyranides/datasheets.md",
+        "regles/factions/tyranides/detachements.md"
+      ]
+    },
+    "mfm:rassembler:fr": {
+      "libelle": "Rassembler les Armées (fr)",
+      "type": "officielle",
+      "url": "https://mfm.warhammer-community.com/fr/space-marines",
+      "version": "sans version",
+      "empreinte": "63735ae65a92eba9d1aa758b13c644dee39a0b74b304725f196063c87f585182",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/rassembler-les-armees.txt",
+        "regles/construction-armee.md"
+      ]
+    },
+    "mfm:tyranids:fr": {
+      "libelle": "Munitorum Tyranides (fr)",
+      "type": "officielle",
+      "url": "https://mfm.warhammer-community.com/fr/tyranids",
+      "version": "v1.5",
+      "empreinte": "d47fe4a5978fcce42d6f001839e9d21264d19777bcf5c4ade769fc317c7136f7",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/tyranides/tyranids-points.tsv",
+        "regles/factions/tyranides/tyranids-detachements.tsv",
+        "regles/factions/tyranides/tyranids-attachements.tsv"
+      ]
+    },
+    "pdf:maj-universelles:fr": {
+      "libelle": "Mises à jour des règles universelles (fr)",
+      "type": "officielle",
+      "url": "https://assets.warhammer-community.com/fre_wh40k_core&key_universal_rules_updates-41x8ngd0xc-skoqigyucy.pdf",
+      "version": "MAJ 26/08/2026",
+      "empreinte": "26/08/2026|fre_wh40k_core&key_universal_rules_updates-41x8ngd0xc-skoqigyucy.pdf",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/construction-armee.md"
+      ]
+    },
+    "pdf:pack:tyranides:fr": {
+      "libelle": "Pack de Faction Tyranides (fr)",
+      "type": "officielle",
+      "url": "https://assets.warhammer-community.com/fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
+      "version": "MAJ 26/08/2026",
+      "empreinte": "26/08/2026|fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/factions/tyranides/datasheets.md",
+        "regles/factions/tyranides/detachements.md"
+      ]
+    },
+    "pdf:regles-de-base:fr": {
+      "libelle": "Règles de Base (fr)",
+      "type": "officielle",
+      "url": "https://assets.warhammer-community.com/fre_01-06_warhammer40k_new40k_core_rules-ooyuallyp9-s4aczdfbm2.pdf",
+      "version": "MAJ 01/06/2026",
+      "empreinte": "01/06/2026|fre_01-06_warhammer40k_new40k_core_rules-ooyuallyp9-s4aczdfbm2.pdf",
+      "consulte_le": "2026-10-08",
+      "derives": [
+        "regles/construction-armee.md"
+      ]
+    }
+  }
+}
