@@ -18,8 +18,8 @@ en-tête des fichiers et messages de commit : `sources/procedures.md`, partie 4.
    de l'appli.
 3. **Pack de Faction français** : télécharge le PDF indiqué par le rapport dans
    `sources/`, extrais-le avec `pdftotext -layout`, puis rédige `datasheets.md` (unités
-   possédées uniquement) et `detachements.md` (règle d'armée, détachements, optimisations,
-   stratagèmes).
+   possédées uniquement) et `detachements.md` (règle d'armée, puis **tous** les
+   détachements de la faction : règle, optimisations, stratagèmes).
 4. **Faction sans Pack de Faction français** : récupère les mêmes contenus sur 40k.app
    par `fetch`, dans un onglet Chrome ouvert sur le site (`/factions/<id>/army-rules`,
    `/factions/<id>/detachments/<détachement>`, `/factions/<id>/units/<unité>`).

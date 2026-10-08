@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -I outils/veille.py *)",
+      "Bash(pdftotext *)"
+    ]
+  }
+}
