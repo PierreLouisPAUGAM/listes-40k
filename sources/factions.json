@@ -6,6 +6,14 @@
       "mfm": "space-marines",
       "pack": "space_marines",
       "app40k": "space-marines",
+      "app40k_complements": [
+        "imperial-fists",
+        "iron-hands",
+        "raven-guard",
+        "salamanders",
+        "ultramarines",
+        "white-scars"
+      ],
       "dossier": "regles/factions/space-marines"
     },
     {

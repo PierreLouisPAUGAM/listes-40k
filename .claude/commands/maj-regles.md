@@ -15,8 +15,9 @@ Les identifiants `<id>` sont ceux de `sources/factions.json`. Une ligne de `prof
 peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une fois.
 
 1. **Munitorum** : `python3 -I outils/veille.py --extraire <id> [<id>…]` écrit dans le
-   dossier de la faction `<mfm>-points.tsv`, `-detachements.tsv`, `-attachements.tsv`
-   (`<mfm>` : nom anglais du Munitorum, ex. `tyranids`), et
+   dossier de la faction `<mfm>-points.tsv`, `-detachements.tsv`, `-attachements.tsv`,
+   `-options.tsv` (surcoûts d'équipement) (`<mfm>` : nom anglais du Munitorum, ex.
+   `tyranids`), et
    `regles/rassembler-les-armees.txt`. Résume le `git diff` (écarts de points, unités
    ajoutées ou retirées) et signale les noms de `collection/` absents des fichiers TSV.
 2. **Rassembler les Armées** : si `regles/rassembler-les-armees.txt` a changé, mets à
@@ -33,7 +34,13 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
    2. **40k.app** pour tout ce que le Pack ne contient pas : `fetch` dans un onglet
       Chrome ouvert sur le site (`/factions/<id>/army-rules`,
       `/factions/<id>/detachments/<détachement>`, `/factions/<id>/units/<unité>`).
-      Texte anglais marqué `[C]`. Noms d'unités, de détachements et d'optimisations
+      Les détachements absents de la page de la faction sont sur les pages listées dans
+      `app40k_complements` de `sources/factions.json`. L'outil JavaScript ne renvoie que
+      1 000 caractères : pour un gros volume, dépose le texte dans la page et lis-le
+      avec l'outil de lecture de texte. Espace les requêtes : le site répond HTTP 429
+      au-delà d'un certain débit.
+      Texte anglais marqué `[C]`. L'en-tête cite chaque page utilisée, pages
+      complémentaires comprises. Noms d'unités, de détachements et d'optimisations
       remplacés par leur nom français, retrouvé par la colonne `_en` des fichiers TSV
       (sans tenir compte de la casse) ; sans correspondance : nom anglais entre
       guillemets, « terme français non trouvé ». Si 40k.app contredit un erratum du
@@ -47,7 +54,9 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
    mets à jour les passages utilisés dans `regles/construction-armee.md`.
 5. Enregistre l'état des seules sources intégrées :
    `python3 -I outils/veille.py --enregistrer <id> [<id>…]`, avec `--navigateur` si
-   40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2).
+   40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2). Enregistre
+   aussi les Packs de Faction qui n'ont rien à intégrer (absents, ou réduits aux
+   Legends) : leur état est connu, la veille ne doit plus les signaler.
 6. Mets à jour le tableau de fraîcheur du `README.md`, puis liste les fichiers de
    `listes/` qui citent une source modifiée : ils sont à revérifier.
 7. Propose les messages de commit, un par domaine.

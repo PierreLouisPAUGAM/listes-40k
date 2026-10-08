@@ -223,6 +223,7 @@ def verifier_mfm(faction, langue, url=None):
     url = url or MFM.format(langue=langue, faction=faction["mfm"])
     page = telecharger(url)
     version, contenu = mfm_contenu(mfm_texte(page))
+    detachements = sum(1 for b in mfm_structure(page).values() if b["type"] == "detachement")
     return page, {
         "id": f"mfm:{faction['mfm']}:{langue}",
         "libelle": f"Munitorum {faction['nom']} ({langue})",
@@ -230,7 +231,9 @@ def verifier_mfm(faction, langue, url=None):
         "url": url,
         "version": version,
         "empreinte": hashlib.sha256("\n".join(contenu).encode()).hexdigest(),
-        "detail": f"{sum(1 for l in contenu if l.endswith(' pts'))} coûts",
+        "detail": f"{sum(1 for l in contenu if l.endswith(' pts'))} coûts, "
+                  f"{detachements} détachements",
+        "detachements": detachements,
     }
 
 
@@ -300,6 +303,7 @@ def verifier_pdf(factions):
 UUID = re.compile(r"^[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}$")
 CLASSE_BLOC = "flex flex-col space-y-1 m-1 print:break-inside-avoid-page"
 ROLES = {"/leader.svg": "meneur", "/support.svg": "appui"}
+ICONE_OPTIONS = "/cog.svg"  # rubrique « OPTIONS D'ÉQUIPEMENT » : surcoût par équipement
 
 
 class Arbre:
@@ -400,6 +404,35 @@ def attachements(arbre, bloc):
     return trouves
 
 
+def options(arbre, bloc):
+    """Surcoûts d'équipement, indexés par l'identifiant de leur ligne."""
+    trouves = []
+
+    def visiteur(n):
+        enfants = arbre.enfants(n)
+        if len(enfants) < 2:
+            return
+        icones = []
+        arbre.parcourir(enfants[0], lambda e: icones.append(e[3].get("src")))
+        if ICONE_OPTIONS not in icones:
+            return
+
+        def ligne(e):
+            if e[1] == "li":
+                morceaux = [nettoyer(arbre.texte(x)) for x in arbre.enfants(e)]
+                morceaux = [m for m in morceaux if m]
+                if len(morceaux) >= 2:
+                    trouves.append({"id": e[2], "option": morceaux[0], "points": morceaux[-1]})
+                return False
+
+        for c in enfants[1:]:
+            arbre.parcourir(c, ligne)
+        return False
+
+    arbre.parcourir(bloc[3].get("children"), visiteur)
+    return trouves
+
+
 def lire_bloc(arbre, bloc):
     enfants = arbre.enfants(bloc)
     entete = enfants[0] if enfants else None
@@ -448,7 +481,8 @@ def lire_bloc(arbre, bloc):
 
     for c in enfants[1:]:
         arbre.parcourir(c, visiteur)
-    return {"type": "unite", "nom": nom, "couts": couts, "attachements": attachements(arbre, bloc)}
+    return {"type": "unite", "nom": nom, "couts": couts, "attachements": attachements(arbre, bloc),
+            "options": options(arbre, bloc)}
 
 
 def mfm_structure(page):
@@ -487,6 +521,12 @@ def extraire(faction, page_fr=None):
     for cle, u in unites:
         for c in u["couts"]:
             points.append((u["nom"], en[cle]["nom"], c["palier"], c["effectif"], nombre(c["points"])))
+    lignes_opt = []
+    for cle, u in unites:
+        opt_en = {o["id"]: o["option"] for o in en[cle]["options"]}
+        for o in u["options"]:
+            lignes_opt.append((u["nom"], en[cle]["nom"], o["option"], opt_en.get(o["id"], ""),
+                               nombre(o["points"])))
     attache = []
     for cle, u in unites:
         for role, gardes in u["attachements"]:
@@ -508,12 +548,14 @@ def extraire(faction, page_fr=None):
                                          "optimisation", "optimisation_en", "cout"), lignes_det),
         f"{prefixe}-attachements.tsv": (("unite", "unite_en", "role", "gardes_du_corps",
                                          "gardes_du_corps_en"), attache),
+        f"{prefixe}-options.tsv": (("unite", "unite_en", "option", "option_en", "points"),
+                                   lignes_opt),
     }
     for nom, (entetes, lignes) in fichiers.items():
         ecrire_tsv(dossier / nom, entetes, lignes)
     return [str((dossier / n).relative_to(RACINE)) for n in fichiers], \
         {"unites": len(unites), "couts": len(points), "detachements": len(detachements),
-         "attachements": len(attache)}
+         "attachements": len(attache), "options": len(lignes_opt)}
 
 
 # ---------------------------------------------------- sources via le navigateur
@@ -521,12 +563,15 @@ def extraire(faction, page_fr=None):
 # 40k.app bloque les accès directs (protection Vercel) : ce code s'exécute dans un
 # onglet Chrome ouvert sur https://www.40k.app/. Il sert à toutes les factions : un Pack
 # de Faction peut compléter un codex sans le remplacer, et le texte du codex n'a pas
-# d'autre source automatisable. Il ne couvre que l'index des
+# d'autre source automatisable. Les détachements absents de la page d'une faction
+# (détachements de Chapitre des Space Marines) sont sur les pages app40k_complements de
+# factions.json. Il ne couvre que l'index des
 # datasheets (avec les points), les détachements et les mises à jour : une
 # correction du seul texte d'une règle n'y apparaît pas.
 JS_40KAPP = """await (async () => {
   const factions = %s;
   const texte = async (u) => {
+    await new Promise((ok) => setTimeout(ok, 300));  // 40k.app limite le débit (HTTP 429)
     const r = await fetch(u);
     if (!r.ok) throw new Error(u + " : HTTP " + r.status);
     const d = new DOMParser().parseFromString(await r.text(), "text/html");
@@ -542,11 +587,20 @@ JS_40KAPP = """await (async () => {
       const [, index] = await texte(base);
       const [det, detachements] = await texte(base + "/detachments");
       const [, maj] = await texte(base + "/updates");
-      const n = new Set([...det.querySelectorAll("a")].map((a) => a.getAttribute("href"))
-        .filter((h) => h && h.startsWith(base + "/detachments/"))).size;
+      const textes = [index, detachements, maj];
+      const slugs = new Set();
+      const relever = (doc, b) => [...doc.querySelectorAll("a")].map((a) => a.getAttribute("href"))
+        .filter((h) => h && h.startsWith(b + "/detachments/")).forEach((h) => slugs.add(h.split("/").pop()));
+      relever(det, base);
+      for (const c of f.complements) {
+        const [doc, t] = await texte("/factions/" + c + "/detachments");
+        textes.push(t);
+        relever(doc, "/factions/" + c);
+      }
       sortie.push({id: "c:40kapp:" + f.app40k, libelle: "40k.app " + f.nom + " (en)",
         type: "communautaire", url: "https://www.40k.app" + base, version: "sans version",
-        empreinte: await sha([index, detachements, maj].join("\\n")), detail: n + " détachements"});
+        empreinte: await sha(textes.join("\\n")), detail: slugs.size + " détachements",
+        detachements: slugs.size});
     } catch (e) {
       sortie.push({id: "c:40kapp:" + f.app40k, libelle: "40k.app " + f.nom + " (en)",
         erreur: String(e)});
@@ -592,7 +646,8 @@ def derives_par_defaut(e, factions):
         return [CONSTRUCTION]
     for f in factions:
         if e["id"] == f"mfm:{f['mfm']}:fr":
-            return [f"{f['dossier']}/{f['mfm']}-{n}.tsv" for n in ("points", "detachements", "attachements")]
+            return [f"{f['dossier']}/{f['mfm']}-{n}.tsv"
+                    for n in ("points", "detachements", "attachements", "options")]
         if e["id"].startswith((f"pdf:pack:{f['id']}:", f"c:40kapp:{f['app40k']}")):
             return [f"{f['dossier']}/datasheets.md", f"{f['dossier']}/detachements.md"]
     return []
@@ -671,11 +726,21 @@ def main():
         entrees.append({"id": "pdf", "libelle": "API des téléchargements", "erreur": str(e)})
 
     if args.js:
-        print(JS_40KAPP % json.dumps([{"app40k": f["app40k"], "nom": f["nom"]}
+        print(JS_40KAPP % json.dumps([{"app40k": f["app40k"], "nom": f["nom"],
+                                        "complements": f.get("app40k_complements", [])}
                                        for f in factions], ensure_ascii=False))
         return 0
     if args.navigateur:
-        entrees += json.loads(args.navigateur.read_text(encoding="utf-8"))
+        navigateur = json.loads(args.navigateur.read_text(encoding="utf-8"))
+        entrees += navigateur
+        # 40k.app doit couvrir tous les détachements du Munitorum.
+        for f in factions:
+            mfm = next((e for e in entrees if e["id"] == f"mfm:{f['mfm']}:{args.langue}"), {})
+            nav = next((e for e in navigateur if e["id"] == f"c:40kapp:{f['app40k']}"), {})
+            if "detachements" in mfm and "detachements" in nav and mfm["detachements"] != nav["detachements"]:
+                avertissements.append(
+                    f"40k.app {f['nom']} : {nav['detachements']} détachements, contre "
+                    f"{mfm['detachements']} au Munitorum (compléter app40k_complements)")
     else:
         avertissements.append("40k.app non vérifié : lancer --js dans Chrome puis --navigateur")
     try:
@@ -701,7 +766,7 @@ def main():
             derives[f"mfm:{f['mfm']}:fr"] = fichiers
             infos.append(f"extrait {f['nom']} : {compte['unites']} unités, {compte['couts']} coûts, "
                          f"{compte['detachements']} détachements, {compte['attachements']} "
-                         f"attachements → {', '.join(fichiers)}")
+                         f"attachements, {compte['options']} options → {', '.join(fichiers)}")
 
         if rassembler:
             page = next(iter(pages.values()))
