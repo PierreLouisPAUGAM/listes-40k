@@ -8,7 +8,10 @@ Intègre les sources de : $ARGUMENTS
 Pars du rapport de `/veille` (lance-la s'il n'est pas dans la conversation). Traite les
 sources « modifié » ou « absent du dépôt » de cette faction, et les sources générales
 signalées (panneau « Rassembler les Armées », Règles de Base, Mises à jour des règles
-universelles) si aucune autre intégration ne les a encore prises en charge. Nommage des
+universelles) si aucune autre intégration ne les a encore prises en charge. Traite aussi
+les unités de la collection qui n'ont pas de fiche dans `datasheets.md` (achat,
+livraison), même si toutes les sources sont à jour : rédige leur fiche selon l'étape 4,
+à partir des mêmes sources que les fiches existantes. Nommage des
 bruts, en-tête des fichiers et messages de commit : `sources/procedures.md`, partie 6.
 
 Les identifiants `<id>` sont ceux de `sources/factions.json`. Une ligne de `profil.md`

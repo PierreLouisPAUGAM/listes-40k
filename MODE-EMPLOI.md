@@ -36,9 +36,10 @@ Que veux-tu faire ?
 │     /session <durée> <unité> <de X % à Y %>
 │        → historique, collection, vitesse par type de figurine, palier en cours
 │
-├─ Recevoir un colis Hachette
-│     dis : « j'ai reçu le colis n° X »
-│        → collection et calendrier mis à jour (collection/calendrier-hachette.md)
+├─ Recevoir des figurines (achat ou colis Hachette)
+│     dis : « j'ai acheté … » ou « j'ai reçu le colis n° X »
+│        → collection mise à jour (et calendrier pour un colis Hachette)
+│     /maj-regles <faction>          (fiches des nouvelles unités)
 │
 ├─ Activer une nouvelle faction
 │     dis : « active la faction X »
