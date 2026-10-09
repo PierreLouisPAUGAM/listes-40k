@@ -1,41 +1,5 @@
 {
   "sources": {
-    "c:40kapp:dark-angels": {
-      "libelle": "40k.app Dark Angels (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/dark-angels",
-      "version": "sans version",
-      "empreinte": "b689938efcfb722a40e32172d79d5b2bd8767c75b9e11526b2d5820cae0b90ae",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/space-marines/datasheets.md",
-        "regles/factions/space-marines/detachements.md"
-      ]
-    },
-    "c:40kapp:space-marines": {
-      "libelle": "40k.app Space Marines (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/space-marines",
-      "version": "sans version",
-      "empreinte": "22bcd27bddac8fd8498e7bb5902ebe287c6301a0f8c244aac6931bb8ada4fc17",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/space-marines/datasheets.md",
-        "regles/factions/space-marines/detachements.md"
-      ]
-    },
-    "c:40kapp:tyranids": {
-      "libelle": "40k.app Tyranides (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/tyranids",
-      "version": "sans version",
-      "empreinte": "743264e2b59d1c7fef233dd1ef1e1d1a9e976c978d500da97f1db9cfe34510f9",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/tyranides/datasheets.md",
-        "regles/factions/tyranides/detachements.md"
-      ]
-    },
     "doc:appli-s25:fr": {
       "libelle": "Appli Warhammer 40,000, section 25 (captures)",
       "type": "fournie",
@@ -110,42 +74,6 @@
       "consulte_le": "2026-10-08",
       "derives": [
         "regles/construction-armee.md"
-      ]
-    },
-    "pdf:pack:dark-angels:en": {
-      "libelle": "Pack de Faction Dark Angels (en)",
-      "type": "officielle",
-      "url": "https://assets.warhammer-community.com/eng_30-09_wh40k_faction_pack_dark_angels-grkkeaxdr3-zkavqgpgvq.pdf",
-      "version": "Legends seulement, MAJ 30/09/2026",
-      "empreinte": "30/09/2026|eng_30-09_wh40k_faction_pack_dark_angels-grkkeaxdr3-zkavqgpgvq.pdf",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/space-marines/datasheets.md",
-        "regles/factions/space-marines/detachements.md"
-      ]
-    },
-    "pdf:pack:space-marines:en": {
-      "libelle": "Pack de Faction Space Marines (en)",
-      "type": "officielle",
-      "url": null,
-      "version": "aucun pack (codex ou appli)",
-      "empreinte": "absent",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/space-marines/datasheets.md",
-        "regles/factions/space-marines/detachements.md"
-      ]
-    },
-    "pdf:pack:tyranides:fr": {
-      "libelle": "Pack de Faction Tyranides (fr)",
-      "type": "officielle",
-      "url": "https://assets.warhammer-community.com/fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
-      "version": "MAJ 26/08/2026",
-      "empreinte": "26/08/2026|fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
-      "consulte_le": "2026-10-08",
-      "derives": [
-        "regles/factions/tyranides/datasheets.md",
-        "regles/factions/tyranides/detachements.md"
       ]
     },
     "pdf:regles-de-base:fr": {
