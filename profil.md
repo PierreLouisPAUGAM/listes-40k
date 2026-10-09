@@ -2,11 +2,15 @@
 
 ## Contexte de jeu
 
-- Jeu en association, ambiance **amicale et non compétitive**, mais la recherche
-  d'efficacité reste appréciée.
+- Jeu en association, ambiance **amicale et non compétitive**.
 - Formats joués : 500, 750, 1 000, 1 250, 1 500 et 2 000 points.
-- Préférence pour une **montée en puissance progressive** : troupes et personnages
-  modestes d'abord, gros personnages et monstres ensuite.
+- Pas de préférence de style : chaque armée est à découvrir.
+- Le but d'une liste est d'**apprendre comment fonctionne l'armée**, pas de battre
+  l'adversaire. L'efficacité, appréciée, vient après.
+- **Montée en puissance progressive** : chaque palier prolonge le précédent et ajoute
+  peu de mécaniques nouvelles. Troupes et personnages modestes d'abord, personnages
+  d'élite, gros personnages et monstres ensuite (pas de Capitaine en Armure Terminator
+  à 500 pts, par exemple).
 
 ## Factions
 
