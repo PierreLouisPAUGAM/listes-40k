@@ -28,8 +28,10 @@ Les figurines sont montées avec des pièces Dark Angels et un panachage personn
 | Bélial | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
 | Asmodaï | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
 | Lion El'Jonson | 1 | Grosse figurine | En grappes | 0 % | Non faits | À décider |
+| Chapelain | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
+| Apothicaire | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
 
-**Total : 100 figurines.**
+**Total : 102 figurines.**
 
 Meneurs, appuis, unités jouables en Space Marines ou en Dark Angels, points et options :
 fichiers de `regles/factions/space-marines/`.
