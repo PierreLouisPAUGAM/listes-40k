@@ -47,7 +47,7 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
   absents du Pack (en anglais communautaire pour l'instant).
 - Tyranides : mots-clés de faction des 10 unités possédées, absents de 40k.app et du
   Pack (fiches du codex ou de l'appli).
-- Space Marines / Dark Angels : mots-clés de faction des 20 unités possédées, absents de
+- Space Marines / Dark Angels : mots-clés de faction des 22 unités possédées, absents de
   40k.app, sans Pack de Faction pour les donner (fiches du codex ou de l'appli).
 - Capture de l'appli, section 25.03 : trancher le détachement à 3 PdD en Incursion.
 

@@ -1,7 +1,7 @@
 # Space Marines / Dark Angels — fiches techniques des unités possédées
 
 > **Source** : 40k.app, Space Marines (en) — communautaire, à recouper avec le codex Space Marines ou l'appli
-> **URL** : https://www.40k.app/factions/space-marines/units/lieutenant-in-phobos-armour, /lieutenant-with-combi-weapon, /captain-in-terminator-armour, /librarian-in-terminator-armour, /apothecary-biologis, /ballistus-dreadnought, /infernus-squad, /assault-intercessor-squad, /incursor-squad, /infiltrator-squad, /eliminator-squad, /terminator-squad, /sternguard-veteran-squad, /assault-intercessors-with-jump-packs
+> **URL** : https://www.40k.app/factions/space-marines/units/lieutenant-in-phobos-armour, /lieutenant-with-combi-weapon, /captain-in-terminator-armour, /librarian-in-terminator-armour, /chaplain, /apothecary, /apothecary-biologis, /ballistus-dreadnought, /infernus-squad, /assault-intercessor-squad, /incursor-squad, /infiltrator-squad, /eliminator-squad, /terminator-squad, /sternguard-veteran-squad, /assault-intercessors-with-jump-packs
 > **Version** : sans version
 > **Consultée le** : 09/10/2026
 > **Brut** : aucun (pages lues dans Chrome)
@@ -27,7 +27,7 @@
 Aucun Pack de Faction ne couvre ces unités : profils, armes et aptitudes viennent de
 40k.app, en anglais, et portent le renvoi **[C]**. Noms d'unités, points, meneurs, appuis
 et surcoûts d'équipement : Inventaire du Munitorum. Les points affichés par 40k.app
-concordent avec le Munitorum pour les 20 fiches, surcoûts « 3e unité et suivantes »
+concordent avec le Munitorum pour les 22 fiches, surcoûts « 3e unité et suivantes »
 compris. Noms des aptitudes de base, des aptitudes d'armes et des mots-clés : Règles de
 Base et panneau « Rassembler les Armées ». Noms d'armes et d'aptitudes d'unité : anglais,
 terme français non trouvé au 09/10/2026, sauf le Lance-missiles Cyclone (Munitorum).
@@ -72,7 +72,8 @@ ABATTAGE ; CLOSE-QUARTERS = COMBAT RAPPROCHÉ ; DEVASTATING WOUNDS = BLESSURES
 DÉVASTATRICES ; HAZARDOUS = À RISQUE ; HEAVY = LOURD ; IGNORES COVER = IGNORE LE COUVERT ;
 LETHAL HITS = TOUCHES FATALES ; MELTA = FUSION ; PRECISION = PRÉCISION ; PSYCHIC =
 PSYCHIQUE ; RAPID FIRE = TIR RAPIDE ; SUSTAINED HITS = TOUCHES SOUTENUES ; TORRENT =
-TORRENT ; ANTI = ANTI. « HUNTER » : terme français non trouvé.
+TORRENT ; ANTI = ANTI. « HUNTER », « LANCE », « EXTRA ATTACKS » : terme français non
+trouvé.
 
 Aptitudes de faction : « Combat Doctrines », « Transhuman Strategist », « Librarius »,
 texte dans `detachements.md`.
@@ -252,6 +253,73 @@ texte dans `detachements.md`.
 - Rôle : PERSONNAGE.
 - Mots-clés : "APOTHECARY", "GRAVIS", "IMPERIUM", INFANTERIE.
 - Optimisation dédiée : Gantelet Narthecis (Force de Siège Gravis).
+
+## Chapelain [C]
+
+60 pts (1 figurine). Socle 40 mm. SvIn 4+.
+
+| M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|
+| 6" | 5 | 3+ | 4 | 5+ | 1 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| "Absolvor Bolt Pistol" | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| "Crozius Arcanum" | 5 | 2+ | 6 | −1 | 2 | ABATTAGE 1 |
+
+- Aptitudes de base : Meneur.
+- Aptitudes de faction : « Combat Doctrines ».
+- "Litany of Hate" : this unit's melee attacks have ["LANCE"].
+- "Spiritual Leader" (once per battle round, per unit) : at the start of any phase, you
+  can select one friendly battle-shocked ADEPTUS ASTARTES unit within 6" of this model.
+  That unit is no longer battle-shocked.
+- Composition : 1 Chapelain, équipé de : "Absolvor Bolt Pistol", "Crozius Arcanum".
+- Options d'équipement : aucune.
+- **Meneur** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade de Frères
+  d'Épée ; Escouade de Vétérans d'Avant-garde ; Escouade de Vétérans d'Appui ; Escouade
+  de Vétérans Gardelames ; Escouade d'Assaut Intercessor ; Escouade Hellblaster ;
+  Escouade Infernus ; Escouade Intercessor ; Kill Team Decimus ; Kill Team Fortis ;
+  Marine de la Compagnie de la Mort ; Vétérans de la Deathwatch.
+- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Rôle : PERSONNAGE.
+- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS". 40k.app ne donne pas de
+  mot-clé CHAPLAIN à cette fiche.
+
+## Apothicaire [C]
+
+45 pts (1 figurine). Socle 40 mm.
+
+| M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|
+| 6" | 5 | 3+ | 4 | 6+ | 1 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| "Absolvor Bolt Pistol" | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| "Reductor Pistol" | 1 | 3+ | 5 | −4 | 2 | "EXTRA ATTACKS" |
+| "Servo-armature" | 4 | 3+ | 5 | 0 | 1 | — |
+
+- Aptitudes de base : Appui.
+- Aptitudes de faction : « Combat Doctrines ».
+- "Narthecium" : in your Command phase, this unit heals D3+1 wounds.
+- Composition : 1 Apothicaire, équipé de : "Absolvor Bolt Pistol", "Reductor Pistol",
+  "Servo-armature".
+- Options d'équipement : aucune.
+- **Appui** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade de Frères
+  d'Épée ; Escouade de Vétérans d'Appui ; Escouade de Vétérans Gardelames ; Escouade
+  Desolator ; Escouade d'Assaut Intercessor ; Escouade Hellblaster ; Escouade Infernus ;
+  Escouade Intercessor ; Héros de Compagnie ; Kill Team Decimus ; Kill Team Fortis ;
+  Vétérans de la Deathwatch.
+- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Rôle : PERSONNAGE.
+- Mots-clés : "IMPERIUM", INFANTERIE, "TACTICUS". 40k.app ne donne pas de mot-clé
+  APOTHECARY à cette fiche, alors qu'il le donne à l'Apothicaire Biologis.
 
 ## Dreadnought Ballistus [C]
 
