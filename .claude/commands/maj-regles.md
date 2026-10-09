@@ -20,7 +20,8 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
    `tyranids`), et
    `regles/rassembler-les-armees.txt`. Résume le `git diff` (écarts de points, unités
    ajoutées ou retirées) et reprends les avertissements du script.
-2. **Collection** : compare `collection/<faction>.md` et `peinture/plan.md` aux fichiers
+2. **Collection** : compare le fichier indiqué par le champ `collection` de la faction
+   dans `sources/factions.json` et `peinture/plan.md` aux fichiers
    TSV et relève les noms d'unités différents du nom officiel, les unités absentes du
    Munitorum et toute affirmation contredite par les nouvelles données. Propose les
    corrections et ne les applique qu'avec l'accord de l'utilisateur.
@@ -42,7 +43,8 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
       `app40k_complements` de `sources/factions.json`. L'outil JavaScript ne renvoie que
       1 000 caractères : pour un gros volume, dépose le texte dans la page et lis-le
       avec l'outil de lecture de texte. Espace les requêtes : le site répond HTTP 429
-      au-delà d'un certain débit.
+      au-delà d'un certain débit. Lis les tableaux cellule par cellule (une ligne par
+      `<tr>`, cellules séparées par « | »), jamais par `innerText` de la page entière.
       Texte anglais marqué `[C]`. L'en-tête cite chaque page utilisée, pages
       complémentaires comprises. Noms d'unités, de détachements et d'optimisations
       remplacés par leur nom français, retrouvé par la colonne `_en` des fichiers TSV
@@ -51,6 +53,22 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
       Pack, le Pack l'emporte et l'écart est signalé.
    3. Un document fourni par l'utilisateur (codex, captures de l'appli) remplace le
       passage communautaire correspondant, marqué `[O]`.
+
+   **Mots-clés.** Sur 40k.app, le bloc « KEYWORDS » d'une fiche mêle le rôle de l'unité
+   (BATTLELINE, DEDICATED TRANSPORT, CHARACTER, EPIC HERO…) aux autres mots-clés, et ne
+   donne aucun mot-clé de faction. Chaque fiche porte trois lignes :
+   - « Mots-clés de faction » : uniquement d'après une source officielle (bloc « MOTS-CLÉS
+     DE FACTION » des fiches du Pack, document fourni). Sans source : « non donnés par
+     40k.app, à fournir », et ajoute le manque à « À récupérer » du `README.md`.
+   - « Rôle » : LIGNE, TRANSPORT ASSIGNÉ, HÉROS ÉPIQUE, PERSONNAGE, ceux que porte la
+     fiche, ou « aucun ». Ils servent aux limites de la construction d'armée.
+   - « Mots-clés » : tous les autres.
+
+   Chaque mot-clé prend son terme français officiel quand une source officielle française
+   le donne : `regles/rassembler-les-armees.txt` (LIGNE, TRANSPORT ASSIGNÉ, HÉROS
+   ÉPIQUE, PERSONNAGE), l'extrait des Règles de Base dans `sources/`, les fiches du Pack
+   de Faction français. Sinon : terme anglais entre guillemets, « terme français non
+   trouvé ».
 
    Avant de passer à la suite, vérifie que chaque détachement de `<mfm>-detachements.tsv`
    et chaque unité de `collection/` ont leur section, et signale ce qui manque.
