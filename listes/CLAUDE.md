@@ -14,6 +14,7 @@ fichiers.
 - Source des points :
 - Détachement(s) et coût en PdD :
 - Seigneur de Guerre :
+- Axe retenu : <axe>, ce que la liste apprend de l'armée
 - Palier précédent : <fichier>, unités retirées : …
 
 | Unité | Effectif | Attachements | Points | Statut |

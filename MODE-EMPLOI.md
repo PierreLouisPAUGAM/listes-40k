@@ -29,7 +29,8 @@ Que veux-tu faire ?
 ├─ Construire la liste d'un palier du plan de peinture
 │     /veille                        (les données doivent être à jour)
 │     /liste <faction> <points>      (un palier de peinture/plan.md)
-│        → listes/palier-<NN>-<faction>-<points>.md, avec l'ordre de peinture
+│        → conversation : analyse, axes, discussion, brouillon chiffré
+│        → listes/palier-<NN>-<faction>-<points>.md, écrit après ton accord
 │
 ├─ Enregistrer une session de peinture
 │     /session <durée> <unité> <de X % à Y %>
