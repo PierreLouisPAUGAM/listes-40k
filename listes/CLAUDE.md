@@ -22,6 +22,8 @@ fichiers.
 
 Total : X / Y points — Z PdD sur N — O optimisations sur P
 
+Découpages possibles : <découpage> — <contrainte éventuelle>
+
 Ordre de peinture :
 1. <unité> — <justification>
 
@@ -43,6 +45,12 @@ Retour de partie :
   palier précédent a été joué dans une autre faction du groupe, signaler ses unités qui
   ne sont pas jouables dans la nouvelle.
 - Une escouade de 10 figurines peut être alignée à 5.
+- **Découpages possibles** : le tableau donne un découpage de référence. La ligne
+  « Découpages possibles » ne liste que des répartitions des mêmes figurines en escouades
+  (10 ou 5 + 5, attachement des personnages) qui laissent inchangés les figurines, les
+  points et les optimisations, et qui respectent les limites du format. Une variante qui
+  change le contenu de la liste passe par l'historique git. Ligne omise s'il n'y en a
+  aucun.
 - S'approcher au maximum du total **sans le dépasser**. Si l'écart résiduel est
   volontaire, pour préserver la cohérence de la liste, le signaler explicitement.
 - Respecter les règles de construction (`regles/construction-armee.md`) et les limites
