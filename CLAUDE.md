@@ -52,6 +52,9 @@ Le dépôt est versionné avec git : pas de numéro de version dans les fichiers
 modification, propose un message de commit court et explicite, préfixé par le domaine :
 `collection: Infernus terminés`, `points: MAJ codex SM 11e`, `listes: SM 750 v2`.
 
+Ne modifie jamais une commande de `.claude/commands/` pendant son exécution : note
+l'amélioration et propose-la une fois la commande terminée.
+
 ## Ton
 
 Sois direct, signale les erreurs et les incohérences dans ce qu'on te donne, et n'hésite
