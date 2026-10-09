@@ -75,8 +75,9 @@ peut en regrouper plusieurs : « Space Marines / Dark Angels » se traite en une
 5. **Règles de Base, Mises à jour des règles universelles** : télécharge, extrais et
    mets à jour les passages utilisés dans `regles/construction-armee.md`.
 6. Enregistre l'état des seules sources intégrées :
-   `python3 -I outils/veille.py --enregistrer <id> [<id>…]`, avec `--navigateur` si
-   40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2). Enregistre
+   `python3 -I outils/veille.py --enregistrer <source> [<source>…]`, où `<source>` est
+   un identifiant de source : `mfm:<mfm>:fr`, `pdf:pack:<id>:<langue>`,
+   `c:40kapp:<app40k>`. Avec `--navigateur` si 40k.app en fait partie (même procédure que `/veille`, étapes 1 et 2). Enregistre
    aussi les Packs de Faction qui n'ont rien à intégrer (absents, ou réduits aux
    Legends) : leur état est connu, la veille ne doit plus les signaler.
 7. Régénère le tableau de fraîcheur (`python3 -I outils/veille.py --readme`), mets à

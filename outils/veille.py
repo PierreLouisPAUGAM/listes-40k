@@ -822,6 +822,10 @@ def main():
     if args.enregistrer is not None:
         enregistrer(entrees, args.etat, etat, args.enregistrer, factions, derives)
         avertissements.append(f"état enregistré dans {args.etat}")
+        detectees = [e["id"] for e in entrees if "erreur" not in e]
+        for filtre in args.enregistrer:
+            if not any(i.startswith(filtre) for i in detectees):
+                avertissements.append(f"--enregistrer : aucune source ne commence par « {filtre} »")
 
     if args.json:
         print(json.dumps({"sources": entrees, "informations": infos,
