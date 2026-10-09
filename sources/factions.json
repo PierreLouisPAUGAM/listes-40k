@@ -14,7 +14,8 @@
         "ultramarines",
         "white-scars"
       ],
-      "dossier": "regles/factions/space-marines"
+      "dossier": "regles/factions/space-marines",
+      "collection": "collection/space-marines.md"
     },
     {
       "id": "dark-angels",
@@ -22,7 +23,8 @@
       "mfm": "dark-angels",
       "pack": "dark_angels",
       "app40k": "dark-angels",
-      "dossier": "regles/factions/space-marines"
+      "dossier": "regles/factions/space-marines",
+      "collection": "collection/space-marines.md"
     }
   ],
   "Tyranides": [
@@ -32,7 +34,8 @@
       "mfm": "tyranids",
       "pack": "tyranids",
       "app40k": "tyranids",
-      "dossier": "regles/factions/tyranides"
+      "dossier": "regles/factions/tyranides",
+      "collection": "collection/tyranides.md"
     }
   ]
 }
