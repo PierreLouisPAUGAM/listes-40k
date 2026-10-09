@@ -36,6 +36,14 @@ Les figurines sont montées avec des pièces Dark Angels et un panachage personn
 Meneurs, appuis, unités jouables en Space Marines ou en Dark Angels, points et options :
 fichiers de `regles/factions/space-marines/`.
 
+## Équipement recensé
+
+- **Escouade Eliminator** : figurines de la boîte Start Collecting! Vanguard Space
+  Marines, armées de Bolt Sniper Rifles, sergent compris. Pas de Las Fusil ni
+  d'Instigator Bolt Carbine : ces pièces viennent du kit Primaris Eliminators vendu seul
+  (recherche du 09/10/2026 : Lexicanum « Vanguard Eliminator », Bleeding Cool, Element
+  Games). Grappes restantes non vérifiées.
+
 ## Achats envisagés
 
 Du tir à longue portée, puis un transport. **À revalider avec les fichiers de `regles/`
