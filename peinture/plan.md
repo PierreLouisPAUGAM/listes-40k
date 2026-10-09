@@ -6,8 +6,8 @@ Le plan est une **séquence de paliers**, sans dates. La vitesse de peinture n'�
 mesurée, aucune échéance ne peut être annoncée honnêtement. Les dates se calculeront à
 partir de `historique.csv` quand il contiendra quelques semaines de données.
 
-Un palier est atteint quand les figurines peintes permettent de composer une liste
-**légale** à ce format, au plus près du total sans jamais le dépasser.
+Chaque palier a sa liste dans `listes/`, construite par `/liste`. Règles d'élaboration,
+ordre de peinture et condition d'atteinte du palier : `listes/CLAUDE.md`.
 
 ## Séquence cible
 
@@ -23,17 +23,6 @@ Un palier est atteint quand les figurines peintes permettent de composer une lis
 
 La suite sera décidée une fois ces paliers franchis, ou plus tôt si le rythme réel
 l'impose. C'est une **cible**, pas un engagement.
-
-## Règles d'élaboration des listes de palier
-
-- Une conversation dédiée **par faction**, alimentée par les données les plus récentes.
-- Une unité peinte n'est pas obligée d'entrer dans la liste.
-- Une escouade de 10 figurines peut être alignée à 5.
-- S'approcher au maximum du palier **sans le dépasser**. Si l'écart résiduel est
-  volontaire, pour préserver la cohérence de la liste, le signaler explicitement.
-- Respecter les limites de PdD, d'optimisations et d'exemplaires du format
-  (`regles/construction-armee.md` et `regles/formats-maison.md`).
-- Signaler ce qui est peint, ce qui ne l'est pas, et ce qui manque.
 
 ## Contrainte de capacité
 

@@ -26,10 +26,10 @@ Que veux-tu faire ?
 │     /maj-regles <faction> <document>
 │        → remplace le texte communautaire [C] par le texte officiel [O]
 │
-├─ Préparer une partie
+├─ Construire la liste d'un palier du plan de peinture
 │     /veille                        (les données doivent être à jour)
-│     /liste <faction> <points>      (500, 750, 1000, 1250, 1500 ou 2000)
-│        → listes/<faction>-<points>-<AAAA-MM>.md
+│     /liste <faction> <points>      (un palier de peinture/plan.md)
+│        → listes/palier-<NN>-<faction>-<points>.md, avec l'ordre de peinture
 │
 ├─ Enregistrer une session de peinture
 │     /session <durée> <unité> <de X % à Y %>
