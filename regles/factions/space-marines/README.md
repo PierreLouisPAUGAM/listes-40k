@@ -1,7 +1,8 @@
 # Space Marines / Dark Angels — règles et points
 
-**Alimenté le 08/10/2026** à partir de l'Inventaire du Munitorum v1.5 (Space Marines et
-Dark Angels) et de 40k.app (communautaire). Aucun Pack de Faction n'apporte de règles :
+**Alimenté le 08/10/2026** (fichiers TSV) et le 09/10/2026 (`datasheets.md`,
+`detachements.md`) à partir de l'Inventaire du Munitorum v1.5 (Space Marines et Dark
+Angels) et de 40k.app (communautaire). Aucun Pack de Faction n'apporte de règles :
 le texte français n'existe que dans le codex Space Marines et l'appli. Sources et dates
 détaillées en tête de chaque fichier ; état des sources dans `sources/etat.json`.
 
