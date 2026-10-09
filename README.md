@@ -26,10 +26,14 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
 | Munitorum Dark Angels (fr) | officielle | v1.5 | `dark-angels-points.tsv`, `dark-angels-detachements.tsv`, `dark-angels-attachements.tsv`, `dark-angels-options.tsv` | 08/10/2026 |
 | Munitorum Space Marines (fr) | officielle | v1.5 | `space-marines-points.tsv`, `space-marines-detachements.tsv`, `space-marines-attachements.tsv`, `space-marines-options.tsv` | 08/10/2026 |
 | Munitorum Tyranides (fr) | officielle | v1.5 | `tyranids-points.tsv`, `tyranids-detachements.tsv`, `tyranids-attachements.tsv`, `tyranids-options.tsv` | 08/10/2026 |
+| Pack de Faction Dark Angels (en) | officielle | Legends seulement, MAJ 30/09/2026 | `datasheets.md`, `detachements.md` | 09/10/2026 |
+| Pack de Faction Space Marines (en) | officielle | aucun pack (codex ou appli) | `datasheets.md`, `detachements.md` | 09/10/2026 |
 | Pack de Faction Tyranides (fr) | officielle | MAJ 26/08/2026 | `datasheets.md`, `detachements.md` | 09/10/2026 |
 | Rassembler les Armées (fr) | officielle | sans version | `rassembler-les-armees.txt`, `construction-armee.md` | 08/10/2026 |
 | Règles de Base (fr) | officielle | MAJ 01/06/2026 | `construction-armee.md` | 08/10/2026 |
 | Appli Warhammer 40,000, section 25 (captures) | fournie | captures du 21/09/2026 | `construction-armee.md` | 21/09/2026 |
+| 40k.app Dark Angels (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 09/10/2026 |
+| 40k.app Space Marines (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 09/10/2026 |
 | 40k.app Tyranides (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 09/10/2026 |
 <!-- fraicheur:fin -->
 
@@ -43,12 +47,20 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
   absents du Pack (en anglais communautaire pour l'instant).
 - Tyranides : mots-clés de faction des 10 unités possédées, absents de 40k.app et du
   Pack (fiches du codex ou de l'appli).
+- Space Marines / Dark Angels : mots-clés de faction des 20 unités possédées, absents de
+  40k.app, sans Pack de Faction pour les donner (fiches du codex ou de l'appli).
 - Capture de l'appli, section 25.03 : trancher le détachement à 3 PdD en Incursion.
 
 ## Points en suspens
 
 - Escouade Suppressor : absente de l'Inventaire du Munitorum v1.5 SM et DA et de
-  40k.app au 08/10/2026. Reste hors plan.
+  40k.app au 09/10/2026. Reste hors plan.
+- SM/DA, 40k.app : restriction au Chapitre non affichée pour la Colère de Medusa, la Serre
+  des Ombres et la Lame d'Ultramar ; texte de l'optimisation Maîtrise Défensive
+  (Sentinelles de Céramite) probablement erroné ; « Assault Disembark Move » sans clause
+  « After moving ». À vérifier dans le codex.
+- Mouvements de débarquement d'assaut (18.06) et de choc (18.07) : cités par les Mises à
+  jour des règles universelles, absents des Règles de Base du 01/06/2026.
 - Tyranides, Situation Insurmontable (Essaim Inépuisable) : l'erratum français du Pack
   v1.2 vise les unités « d'ESSAIM INÉPUISABLE », 40k.app les ENDLESS MULTITUDE
   (MULTITUDE INFINIE). Erreur probable de traduction, à trancher par l'appli ou le codex.
