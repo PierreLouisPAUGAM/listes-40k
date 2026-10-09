@@ -21,7 +21,7 @@ Les figurines sont montées avec des pièces Dark Angels et un panachage personn
 | Archiviste en Armure Terminator | 1 | Personnage | Monté | 0 % | Non faits | À décider |
 | Apothicaire Biologis | 1 | Personnage | Monté | 0 % | Non faits | À décider |
 | Dreadnought Ballistus | 1 | Grosse figurine | Monté | 0 % | Non faits | À décider |
-| Guetteurs dans les Ténèbres (équipement, pas une unité) | 9 | Fantassin | Monté | 0 % | Non faits | À décider |
+| Guetteurs dans les Ténèbres (équipement, pas une unité ; terme français non trouvé) | 9 | Fantassin | Monté | 0 % | Non faits | À décider |
 | Escouade Terminator | 10 | Fantassin | En grappes | 0 % | Non faits | À décider |
 | Chevaliers de la Deathwing | 5 | Fantassin | En grappes | 0 % | Non faits | À décider |
 | Compagnons du Cercle Intérieur | 6 | Fantassin | En grappes | 0 % | Non faits | À décider |
