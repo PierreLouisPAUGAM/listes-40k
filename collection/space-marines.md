@@ -1,35 +1,39 @@
 # Collection — Space Marines / Dark Angels
 
-**Dernier recensement : 06/10/2026.**
+**Dernier recensement : 06/10/2026. Mis à jour le 18/10/2026 (session de peinture).**
 
 Les figurines sont montées avec des pièces Dark Angels et un panachage personnalisé.
 
+Changement de recette de peinture pour toute l'armée le 18/10/2026. Les unités
+commencées avec l'ancienne recette sont décapées au bain d'alcool et repartent de l'état
+monté (10 %). Barème d'avancement : `peinture/etapes-space-marines.md`.
+
 | Unité | Nb | Type | Statut | Peinture | Socles | Vernis |
 |---|---|---|---|---|---|---|
-| Escouade Infernus | 10 | Fantassin | En peinture | 90 % | Non faits | À décider |
-| Escouade d'Assaut Intercessor | 10 | Fantassin | En peinture | 30 % | Non faits | À décider |
-| Escouade Suppressor | 3 | Fantassin | Sous-couché | 0 % | Non faits | À décider |
-| Escouade Incursor | 10 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Escouade Infiltrator | 10 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Escouade Eliminator | 3 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Escouade Terminator | 5 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Escouade de Vétérans d'Appui | 5 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Intercessors d'Assaut à Réacteurs Dorsaux | 5 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Lieutenant en Armure Phobos | 1 | Personnage | Monté | 0 % | Non faits | À décider |
-| Lieutenant avec Arme Combinée | 1 | Personnage | Monté | 0 % | Non faits | À décider |
-| Capitaine en Armure Terminator | 1 | Personnage | Monté | 0 % | Non faits | À décider |
-| Archiviste en Armure Terminator | 1 | Personnage | Monté | 0 % | Non faits | À décider |
-| Apothicaire Biologis | 1 | Personnage | Monté | 0 % | Non faits | À décider |
-| Dreadnought Ballistus | 1 | Grosse figurine | Monté | 0 % | Non faits | À décider |
-| Guetteurs dans les Ténèbres (équipement, pas une unité ; terme français non trouvé) | 9 | Fantassin | Monté | 0 % | Non faits | À décider |
-| Escouade Terminator | 10 | Fantassin | En grappes | 0 % | Non faits | À décider |
-| Chevaliers de la Deathwing | 5 | Fantassin | En grappes | 0 % | Non faits | À décider |
-| Compagnons du Cercle Intérieur | 6 | Fantassin | En grappes | 0 % | Non faits | À décider |
-| Bélial | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
-| Asmodaï | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
-| Lion El'Jonson | 1 | Grosse figurine | En grappes | 0 % | Non faits | À décider |
-| Chapelain | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
-| Apothicaire | 1 | Personnage | En grappes | 0 % | Non faits | À décider |
+| Escouade Infernus (à décaper, ancienne recette) | 10 | Fantassin | En peinture | 10 % | Non faits | Non fait |
+| Escouade d'Assaut Intercessor | 10 | Fantassin | En peinture | 15 % | Non faits | Non fait |
+| Escouade Suppressor | 3 | Fantassin | Sous-couché | 12 % | Non faits | Non fait |
+| Escouade Incursor | 10 | Fantassin | En peinture | 14 % | Non faits | Non fait |
+| Escouade Infiltrator | 10 | Fantassin | En peinture | 14 % | Non faits | Non fait |
+| Escouade Eliminator | 3 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Escouade Terminator | 5 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Escouade de Vétérans d'Appui | 5 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Intercessors d'Assaut à Réacteurs Dorsaux | 5 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Lieutenant en Armure Phobos | 1 | Personnage | En peinture | 14 % | Non faits | Non fait |
+| Lieutenant avec Arme Combinée | 1 | Personnage | En peinture | 14 % | Non faits | Non fait |
+| Capitaine en Armure Terminator | 1 | Personnage | Monté | 10 % | Non faits | Non fait |
+| Archiviste en Armure Terminator | 1 | Personnage | Monté | 10 % | Non faits | Non fait |
+| Apothicaire Biologis | 1 | Personnage | Monté | 10 % | Non faits | Non fait |
+| Dreadnought Ballistus | 1 | Grosse figurine | Monté | 10 % | Non faits | Non fait |
+| Guetteurs dans les Ténèbres (équipement, pas une unité ; terme français non trouvé) | 9 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Escouade Terminator | 10 | Fantassin | En grappes | 0 % | Non faits | Non fait |
+| Chevaliers de la Deathwing | 5 | Fantassin | En grappes | 0 % | Non faits | Non fait |
+| Compagnons du Cercle Intérieur | 6 | Fantassin | En grappes | 0 % | Non faits | Non fait |
+| Bélial | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Asmodaï | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Lion El'Jonson | 1 | Grosse figurine | En grappes | 0 % | Non faits | Non fait |
+| Chapelain | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Apothicaire | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
 
 **Total : 102 figurines.**
 
