@@ -157,7 +157,9 @@ au champ vide, plus de 1 100 entrées) prend plusieurs minutes : passer par la r
   nom du détachement, moment, cible, effet.
 - Texte des règles : balises HTML de l'appli (`<b>`, `<k>` pour un mot-clé, `<u>`,
   `<ul><li>`, `<nest>` pour une aptitude imbriquée), à convertir à la rédaction.
-- « Historique Replié : Bouton… » : texte d'ambiance, sans intérêt.
+- « Historique Replié : Bouton… » : texte d'ambiance sur les détachements et les règles.
+  Dans la section 25 des Règles de Base, le même libellé cache la FAQ de la section : elle
+  s'ouvre avec `cliquer` (constaté le 23/10/2026).
 
 Marqueurs à traiter :
 
@@ -188,6 +190,22 @@ Marqueurs à traiter :
 - Le coût en PdD n'est pas exposé dans la liste des détachements : il figure dans la page
   du détachement.
 - Rubriques de fiche : les titres ne sont pas exposés (le contenu reste reconnaissable).
+- `deplier` bloque l'appli sur certaines fiches (Archiviste en Armure Terminator, Escouade
+  d'Assaut Intercessor, Asmodaï, constaté le 23/10/2026). Remède : `relancer`, puis ouvrir
+  les rubriques une par une, de la dernière à la première (`appuyer "Déplié" N`), et
+  `lire` sans `deplier`.
+- `descendre` et `lire` peuvent sauter un passage entre deux écrans, même sans marqueur
+  « raccord incertain » : profils d'arme ou lignes d'aptitude manquants. Une fiche se
+  contrôle sur des captures prises par pas d'environ 900 px à la molette.
+- Certaines aptitudes d'arme ne s'affichent que dans un onglet au-dessus de l'arme
+  (« CHASSEUR : MONSTRE/VÉHICULE ») et ne sont pas exposées au texte.
+- Rubriques de fiche hors du schéma courant : « Aptitudes Psychiques », « Aptitudes
+  d'Équipement », options sans puce « ■ » (Deathwing), « Primarque de la Première Légion »,
+  « Commandant Suprême ».
+- Les bandeaux « Sergent … » au-dessus d'un profil ne se déplient pas : un seul profil vaut
+  pour toutes les figurines nommées.
+- Des libellés contiennent une espace fine insécable (« Force Opérationnelle Lance de
+  l'Orage ») : relever le libellé avec `ecran` et le passer tel quel.
 - Pages testées : 7 fiches (infanterie, véhicule, personnages, armes à profils, une fiche
   tyranide), les listes de Référence et l'index, les codex Space Marines et Tyranides, les
   suppléments Dark Angels et Ultramarines, un détachement complet, les règles d'armée, les
