@@ -1,24 +1,35 @@
 {
   "sources": {
-    "c:40kapp:dark-angels": {
-      "libelle": "40k.app Dark Angels (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/dark-angels",
-      "version": "sans version",
-      "empreinte": "b689938efcfb722a40e32172d79d5b2bd8767c75b9e11526b2d5820cae0b90ae",
-      "consulte_le": "2026-10-09",
+    "appli:dark-angels:fr": {
+      "libelle": "Appli Warhammer 40,000, Dark Angels (fr)",
+      "type": "officielle",
+      "url": null,
+      "version": "données v995",
+      "empreinte": "Dark Angels > Codex Supplement: Dark Angels=données v995",
+      "consulte_le": "2026-10-23",
       "derives": [
         "regles/factions/space-marines/datasheets.md",
         "regles/factions/space-marines/detachements.md"
       ]
     },
-    "c:40kapp:space-marines": {
-      "libelle": "40k.app Space Marines (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/space-marines",
-      "version": "sans version",
-      "empreinte": "22bcd27bddac8fd8498e7bb5902ebe287c6301a0f8c244aac6931bb8ada4fc17",
-      "consulte_le": "2026-10-09",
+    "appli:general:fr": {
+      "libelle": "Appli Warhammer 40,000, Règles de Base (fr)",
+      "type": "officielle",
+      "url": null,
+      "version": "données v995, MAJ 14/10/2026",
+      "empreinte": "Règles de Base=14 octobre 2026",
+      "consulte_le": "2026-10-23",
+      "derives": [
+        "regles/construction-armee.md"
+      ]
+    },
+    "appli:space-marines:fr": {
+      "libelle": "Appli Warhammer 40,000, Space Marines (fr)",
+      "type": "officielle",
+      "url": null,
+      "version": "données v995, MAJ 14/10/2026",
+      "empreinte": "Space Marines > Codex: Space Marines=14 octobre 2026|Imperial Fists > Supplément de Codex: Imperial Fists=données v995|Iron Hands > Supplément de Codex: Iron Hands=données v995|Raven Guard > Supplément de Codex: Raven Guard=données v995|Salamanders > Supplément de Codex: Salamanders=données v995|Ultramarines > Supplément de Codex: Ultramarines=données v995|White Scars > Supplément de Codex: White Scars=données v995|Deathwatch > Supplément de Codex: Deathwatch=données v995",
+      "consulte_le": "2026-10-23",
       "derives": [
         "regles/factions/space-marines/datasheets.md",
         "regles/factions/space-marines/detachements.md"
@@ -36,24 +47,13 @@
         "regles/factions/tyranides/detachements.md"
       ]
     },
-    "doc:appli-s25:fr": {
-      "libelle": "Appli Warhammer 40,000, section 25 (captures)",
-      "type": "fournie",
-      "url": null,
-      "version": "captures du 21/09/2026",
-      "empreinte": "sans objet",
-      "consulte_le": "2026-09-21",
-      "derives": [
-        "regles/construction-armee.md"
-      ]
-    },
     "mfm:dark-angels:fr": {
       "libelle": "Munitorum Dark Angels (fr)",
       "type": "officielle",
       "url": "https://mfm.warhammer-community.com/fr/dark-angels",
-      "version": "v1.5",
-      "empreinte": "a79f75c25d896510e4f583869eb31c0d227d0735711c55328d4a26db66321e3d",
-      "consulte_le": "2026-10-08",
+      "version": "v1.6",
+      "empreinte": "9f3ff80ca0de32f012201fb777865612826abbabeedf180a340096b01b3f7872",
+      "consulte_le": "2026-10-23",
       "derives": [
         "regles/factions/space-marines/dark-angels-points.tsv",
         "regles/factions/space-marines/dark-angels-detachements.tsv",
@@ -77,9 +77,9 @@
       "libelle": "Munitorum Space Marines (fr)",
       "type": "officielle",
       "url": "https://mfm.warhammer-community.com/fr/space-marines",
-      "version": "v1.5",
-      "empreinte": "37b2800873cd8276c57f63c322ffeaf8db8716d9e40826d324314925a748f9e8",
-      "consulte_le": "2026-10-08",
+      "version": "v1.6",
+      "empreinte": "39c844c2fba16a20515755073bd40c466a43375838788820a088ebc16615d1f3",
+      "consulte_le": "2026-10-23",
       "derives": [
         "regles/factions/space-marines/space-marines-points.tsv",
         "regles/factions/space-marines/space-marines-detachements.tsv",
