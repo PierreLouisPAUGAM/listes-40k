@@ -1,31 +1,35 @@
 # Sources : carte, accès, nommage
 
-Constats du 08/10/2026. Les règles d'usage sont dans `sources/CLAUDE.md`. La
+Constats du 08/10/2026, appli Warhammer 40,000 ajoutée le 23/10/2026. Les règles d'usage sont dans `sources/CLAUDE.md`. La
 vérification et l'intégration passent par `/veille` et `/maj-regles`, qui s'appuient sur
-`outils/veille.py` : ce document ne décrit que ce que ces outils ne disent pas.
+`outils/veille.py` et `outils/appli/` : ce document ne décrit que ce que ces outils ne
+disent pas.
 
 ## 1. Outils
 
 | Outil | Rôle | Limites |
 |---|---|---|
-| `outils/veille.py` | Détection (Munitorum, panneau « Rassembler les Armées », API des téléchargements, PR BSData), `--extraire`, `--enregistrer`, `--readme`, `--js` | Python standard, aucun navigateur |
-| Chrome (Claude in Chrome) | 40k.app, articles Warhammer Community, boutique | Seul accès à ces sites |
+| `outils/veille.py` | Détection (Munitorum, panneau « Rassembler les Armées », API des téléchargements, appli avec `--appli`, PR BSData), `--extraire`, `--enregistrer`, `--readme`, `--js` | Python standard ; l'appli passe par `outils/appli/appli` |
+| `outils/appli/appli` | Lecture de l'appli Warhammer 40,000 installée sur le Mac (mode d'emploi : `outils/appli/README.md`) | Mac déverrouillé, compte connecté ; la souris bouge sur certaines pages |
+| Chrome (Claude in Chrome) | 40k.app (secours de l'appli), articles Warhammer Community, boutique | Seul accès à ces sites |
 | `pdftotext` (poppler, installé par Homebrew le 08/10/2026) | Texte des PDF officiels | Mise en page approximative : relire les tableaux |
 | WebFetch | Repérage | Le contenu passe par un modèle de résumé : inutilisable pour transcrire |
 | Recherche web | Repérage | Remonte des PDF de la 10e édition : vérifier l'édition avant usage |
 
-Accès impossibles : l'appli Warhammer 40,000 (compte, parfois abonnement) et les codex
-papier. Leur contenu ne peut venir que de l'utilisateur (captures, extraits).
+Accès impossibles : les codex papier. Leur contenu ne peut venir que de l'utilisateur
+(extraits).
 
 ## 2. Carte des sources
 
 | Information | Source retenue | Type | Langue | Accès |
 |---|---|---|---|---|
 | Points, paliers, PdD, noms et coûts des optimisations, meneurs et appuis, surcoûts d'équipement | Inventaire du Munitorum, `mfm.warhammer-community.com/fr/<faction>` | officielle | FR | Script |
-| Construction d'armée | Panneau « Rassembler les Armées » du Munitorum ; appli, section 25, en complément | officielle | FR | Script ; appli : captures |
+| Construction d'armée | Panneau « Rassembler les Armées » du Munitorum ; appli, section 25, en complément | officielle | FR | Script ; `outils/appli` |
 | Règles de Base, Mises à jour des règles universelles | PDF de l'API des téléchargements | officielle | FR | Script, puis `pdftotext` |
 | Règles de faction contenues dans un Pack de Faction | Pack de Faction PDF | officielle | FR quand il existe | Script, puis `pdftotext` |
-| Règles de faction d'un codex ou de l'appli, hors Pack | 40k.app | communautaire | EN | Chrome |
+| Règles de faction (fiches, règle d'armée, détachements, errata) | Appli Warhammer 40,000 (codex et suppléments listés dans le champ `appli` de `factions.json`) | officielle | FR (codex Tyranides : EN) | `outils/appli` |
+| Règles de faction absentes de l'appli | Pack de Faction PDF | officielle | FR quand il existe | Script, puis `pdftotext` |
+| Règles de faction, en secours quand l'appli est inaccessible | 40k.app | communautaire | EN | Chrome |
 | Contenu des boîtes | Boutique `warhammer.com/fr-FR/shop/<produit>` | officielle | FR | Chrome |
 | Annonces (codex, équilibrage, précommandes) | `warhammer-community.com/fr-fr/` | officielle | FR | Chrome |
 
@@ -80,7 +84,21 @@ curl -s -A 'Mozilla/5.0' -H 'Content-Type: application/json' \
 - Si la requête cesse de fonctionner, relire les requêtes réseau de la page
   Téléchargements dans Chrome.
 
-### 40k.app
+### Appli Warhammer 40,000
+
+- Version iPad (« WH 40K ») installée sur le Mac, compte de l'utilisateur, version gratuite
+  (suffisante pour la Référence). Lue par `outils/appli/appli` ; plan de l'appli,
+  recettes et limites : `outils/appli/README.md`.
+- Contenu : codex et suppléments à jour de leurs errata (Space Marines, Dark Angels,
+  suppléments de Chapitre, Tyranides), Règles de Base avec la section 25, en français
+  sauf le codex Tyranides (anglais au 23/10/2026).
+- Datation : « Version des Données » (onglet Profil, v995 au 23/10/2026) et « Dernière
+  Mise à Jour » de la page Mises à Jour & Errata des codex et des Règles de Base. Les
+  suppléments n'en ont pas : leur empreinte suit la version des données.
+- `/veille` les relève par `outils/veille.py --appli` (champ `appli` de `factions.json`
+  pour les chemins des codex de chaque faction).
+
+### 40k.app (secours de l'appli)
 
 - Mainteneur et origine des données non indiqués (page de soutien et serveur Discord,
   aucun nom). Points et détachements concordent avec le Munitorum au 08/10/2026.
@@ -116,10 +134,11 @@ un changement, sans s'y fier.
 Ordre de recherche d'un terme de jeu :
 
 1. Inventaire du Munitorum `/fr/<faction>` (unités, détachements, optimisations, équipements) ;
-2. Pack de Faction et Règles de Base en PDF français ;
-3. boutique `warhammer.com/fr-FR` (noms de boîtes et de figurines) ;
-4. articles Warhammer Community FR ;
-5. documents fournis (codex, captures de l'appli).
+2. appli Warhammer 40,000 (armes, aptitudes, mots-clés, règles) ;
+3. Pack de Faction et Règles de Base en PDF français ;
+4. boutique `warhammer.com/fr-FR` (noms de boîtes et de figurines) ;
+5. articles Warhammer Community FR ;
+6. documents fournis (extraits de codex).
 
 Sans résultat : nom anglais entre guillemets, « terme français non trouvé ».
 
@@ -134,10 +153,11 @@ Bruts dans `sources/`, à plat :
 ```
 
 - `document` : `regles-de-base`, `regles-universelles`, `faction-pack`, `codex`,
-  `appli-s25`, `boite`…
+  `appli`, `appli-s25`, `boite`…
 - `portée` : faction ou produit, en minuscules avec tirets (`tyranides`, `general`).
 - `version` : la version officielle quand le document en affiche une (`v1.2`), sinon
-  `maj` suivi de la date officielle de mise à jour (`maj2026-08-26`), sinon `sv`.
+  `maj` suivi de la date officielle de mise à jour (`maj2026-08-26`), sinon `sv`. Appli :
+  version des données (`donnees-v995`).
 - `langue` : `fr` ou `en`. Date finale : date de récupération, suffixe `-01`, `-02` pour
   plusieurs captures du même jour.
 - Une source communautaire est préfixée par `communautaire_`.
@@ -145,6 +165,11 @@ Bruts dans `sources/`, à plat :
 Les PDF et pages HTML sont exclus de git (`.gitignore`) : on peut les retélécharger.
 Leur extrait texte par `pdftotext` est versionné à côté, avec le même nom en `.txt`. Les
 captures fournies par l'utilisateur sont versionnées.
+
+Appli : un brut texte par faction, `appli_<id>_donnees-<version>_<langue>_<date>.txt`,
+versionné. Il réunit la sortie de `outils/appli/appli lire` de chaque page lue, précédée
+d'une ligne `== <chemin dans l'appli>`. Les captures produites par l'outil (PV, armes à
+profils) ne sont pas versionnées : leur contenu passe dans les fichiers dérivés.
 
 ### Document fourni par l'utilisateur
 

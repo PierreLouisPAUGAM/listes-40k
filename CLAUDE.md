@@ -42,6 +42,7 @@ peinture/historique.csv      journal des sessions
 listes/                      une liste par fichier
 sources/                     bruts, état des sources, carte des sources
 outils/veille.py             vérification, extraction et état des sources
+outils/appli/                lecture de l'appli Warhammer 40,000 (mode d'emploi : README.md)
 ```
 
 Ne lis que les fichiers nécessaires à la tâche en cours.

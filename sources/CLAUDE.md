@@ -15,5 +15,7 @@ Carte des sources, accès, nommage des bruts et en-tête des fichiers dérivés 
   version) avant usage.
 - Page inaccessible ou vide par `curl` ou WebFetch : réessayer avec Claude in Chrome
   avant de conclure à un échec.
+- L'appli Warhammer 40,000 se lit uniquement par `outils/appli/appli` (mode d'emploi :
+  `outils/appli/README.md`).
 - Ne jamais contourner une authentification, un paiement ou une protection anti-robot :
   consigner la limite et demander le document.
