@@ -6,3 +6,6 @@ Thumbs.db
 # Documents bruts : retéléchargeables, seuls leurs extraits sont versionnés
 sources/*.pdf
 sources/*.html
+
+# Binaire compilé de l’outil de pilotage de l’appli (voir outils/appli/README.md)
+outils/appli/appli
