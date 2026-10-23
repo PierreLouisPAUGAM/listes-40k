@@ -1,0 +1,2406 @@
+== Référence > Space Marines > Codex: Space Marines > Règles d’Armée
+Stratège Transhumain,  Déplié
+Au début du round de bataille, si une figurine avec cette aptitude est votre <k>Seigneur de Guerre</k>, gagnez 1PC. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Doctrines de Combat,  Déplié
+Au début de votre phase de Commandement, vous pouvez choisir une <b>doctrine de combat</b> détaillée ci-dessous. Dans ce cas, cette <b>doctrine de combat</b> est active pour les unités de l'<k>Adeptus Astartes</k> amies qui ont cette aptitude jusqu'au début de votre prochaine phase de Commandement.<b><b>Doctrine d'Assaut</b></b>Quand cette unité est choisie pour faire un <b>mouvement d'avance</b>, ce dernier ne l'empêche pas d'être <b>éligible pour déclarer une charge</b>.<b><b>Doctrine Devastator</b></b>Les armes de tir de cette unité ont <k>[Assaut]</k>.<b><b>Doctrine Tactique</b></b>Quand cette unité est choisie pour faire un <b>mouvement de retraite</b>, ce dernier ne l'empêche pas d'être <b>éligible pour tirer</b> et <b>éligible pour déclarer une charge</b>. Sauf mention contraire:<ul><li>Vous pouvez choisir chaque <b>doctrine de Combat</b> une seule fois par bataille.</li><li>Une seule <b>doctrine de combat</b> peut être active pour chaque unité. Si une règle rend une <b>doctrine de combat</b> active pour une unité, toute <b>doctrine de combat</b> précédemment active pour cette unité ne l'est plus pour elle.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Librarius,  Déplié
+Les unités de <k>Psyker</k> de l’<k>Adeptus Astartes</k> avec cette aptitude ont un <b>niveau de psyker</b> de 1 ou plus, spécifié sur les aptitudes de l’unité. Chaque <b>aptitude psychique</b> a un <b>niveau psychique</b> de 1 ou plus, spécifié dans le nom de l’aptitude.Au cours d’un round de bataille, une unité de <k>Psyker </k>de l’<k>Adeptus Astartes</k> amie peut utiliser un nombre d’aptitudes <b>psychiques</b> dont le niveau cumulé ne dépasse pas le <b>niveau de Psyker</b> de l’unité. Par exemple, à un round de bataille donné, une unité de <k>Psyker</k> de <b>niveau de psyker 3</b> pourrait utiliser trois aptitudes de <b>niveau psychique 1</b>, ou une aptitude de <b>niveau psychique 1</b> et une de <b>niveau psychique 2</b>, ou une aptitude de <b>niveau psychique 3</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Types de Mouvement Spécial,  Déplié
+The following are special **move types** that certain or all of your units are eligible to make. 
+mouvement de débarquement de choc,  Déplié
+Comme précisé dans la règle permettant ce <b>type de mouvement</b>, si tous les points suivants s’appliquent à votre unité :Elle est embarquée dans une figurine de <k>TRANSPORT</k> qui est sur le champ de bataille.Elle n’a pas embarqué dans le <k>TRANSPORT</k> à cette phase. 
+Votre unité est placée comme décrit dans Placement (Règles de Base, 03.02). 
+Placez chaque figurine de votre unité entièrement dans la <b>distance de placement</b> du <k>TRANSPORT</k>. 
+Jusqu’à la fin du tour, votre unité n’est pas <b>éligible pour déclarer une charge</b>. 
+mouvement de Débarquement d’Assaut,  Déplié
+3" 
+Comme précisé dans les règles permettant ce <b>type de mouvement</b>, si tout ce qui suit s’applique à votre unité :<ul><li>Elle est embarquée dans une figurine de <k>TRANSPORT</k> qui est sur le champ de bataille.</li><li>Elle n’a pas embarqué dans ce <k>TRANSPORT</k>à cette phase.</li><li>Ce <k>TRANSPORT</k> n’a pas fait de <b>mouvement d’avance/de retraite </b>à cette phase.</li></ul> 
+Placez votre unité comme décrit dans Placement (Règles de Base, 03.02). 
+<ul><li>Placez chaque figurine de votre unité entièrement dans la<b> distance de placement</b> du <k>TRANSPORT</k>.</li></ul> 
+
+== Référence > Space Marines > Codex: Space Marines > Mises à Jour & Errata
+Dernière Mise à Jour : 14 octobre 2026
+Kayvaan Shrike, Archiviste en Armure Terminator
+Ajoutez "PERSONNAGE".
+Révérend de Fer Feirros, aptitude Révérend de Fer
+Remplacez par: 
+"Tant que cette figurine est à 3" ou moins d'une unité de VÉHICULE de l'ADEPTUS ASTARTES amie, cette figurine a Agent Solitaire.
+Techmarine, aptitude Techmarine
+Remplacez par: 
+"Tant que cette figurine est à 3" ou moins d'une unité de VÉHICULE de l'ADEPTUS ASTARTES amie, cette figurine a Agent Solitaire."
+Capitaine Titus, Aptitude Juste Fureur
+Remplacez par:
+À la phase de Combat, vous pouvez utiliser cette aptitude. Dans ce cas, les attaques de mêlée de cette unité ont +1 en F, et une fois que cette unité a combattu: 
+▪ Cette figurine soigne D3 points de vie.  
+▪  Ou: Si cette figurine a détruit une figurine ennemie à cette phase, cette figurine soigne 2D3 points de vie.
+Kayvaan Shrike
+Add ‘CHARACTER’ and ‘EPIC HERO'
+
+== Référence > Space Marines > Codex: Space Marines > Champions Cuirassés
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Vengeance Durable,  Déplié
+Les unités de <k>Dreadnought</k> de l’<k>Adeptus Astartes</k> amies peuvent relancer les <b>jets de touche</b> de 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Space Marines > Codex: Space Marines > Champions Cuirassés > Optimisations
+Champion Vénérable (Aura) (Amélioration), 30 Points, Déplié
+Unité de <k>Dreadnought</k> seulement. Tant qu’une unité d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k> amie est à 6" ou moins de cette unité, les attaques de l’unité amie peuvent relancer les <b>jets de touche</b> de 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Sarcophage d’Artificier (Amélioration), 40 Points, Déplié
+Unité de <k>Dreadnought</k> seulement. Les attaques qui ciblent cette unité ont -1 en <b>D</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Champions Cuirassés > Stratagèmes
+Terreur Adamantine, 1PC, Déplié
+Champions Cuirassés  
+Au début de la phase de Combat. 
+Une unité de <k>Dreadnought</k> amie. 
+Chaque unité ennemie <b>engagée</b> avec votre unité fait un <b>jet d’ébranlement</b>, avec -1 à ce dernier. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+La Pitié Est une Faiblesse, 1PC, Déplié
+Champions Cuirassés  
+À votre phase de Tir ou à la phase de Combat, quand une unité de <k>Dreadnought</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité de <k>Dreadnought</k>. 
+Les attaques de votre unité ont :<ul><li><k>[Touches Fatales]</k> .</li><li><u>Ou :</u> <k>[Touches Soutenues 1]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Progression Inarrêtable, 1PC, Déplié
+Champions Cuirassés  
+À votre phase de Mouvement/Charge, quand une unité de <k>Dreadnought</k> amie est <b>choisie pour se déplacer</b> ou <b>déclare une charge</b>. 
+Cette unité de <k>Dreadnought</k>. 
+Votre unité a le mot-clé <k>Mobile</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Devastator
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : DOCTRINES
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Maîtrise Devastator,  Déplié
+Vous pouvez choisir la <b>doctrine devastator</b> une fois supplémentaire par bataille. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Éliminez l’Adversaire
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Devastator > Optimisations
+Armes à Feu de Facture Magistrale, 15 Points, Déplié
+Figurine d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k> seulement. Les attaques de tir de cette figurine (attaques <k>[Psychiques]</k> exclues) ont +1 en <b>A</b>, en <b>F</b>, en <b>PA</b> et en <b>D</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Honneur Vigilant, 20 Points, Déplié
+Figurine de l’<k>Adeptus Astartes</k> seulement. 
+<ul><li>Les attaques de tir de cette unité ont <k>[Touches Fatales]</k>.</li>
+<li>Si la <b>doctrine devastator</b> est active pour cette unité, cette dernière peut relancer les <b>jets d’avance</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Devastator > Stratagèmes
+Armure de Mépris, 1PC, Déplié
+Confrérie Devastator  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>PA</b> jusqu’à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tempête de Feu, 1PC, Déplié
+Confrérie Devastator  
+À votre phase de Tir, quand une unité de l’<k>Adeptus Astartes</k> amie est <b>choisie pour tirer</b>. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont :
+<ul><li><k>[Ignore le Couvert]</k>.</li>
+<li><u>Ou :</u> Si la <b>doctrine devastator</b> est active pour votre unité, elles ont <k>[Ignore le Couvert]</k> et +1 en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Grêle Vengeresse, 2PC, Déplié
+Confrérie Devastator  
+À la phase de Tir adverse, une fois qu’une unité ennemie a tiré, si ces attaques ont <b>détruit</b> une figurine d’une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Votre unité tire en utilisant un <b>tir normal</b>, mais ce faisant, votre unité peut seulement cibler cette unité ennemie. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Tactique
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : DOCTRINES
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Maîtrise Tactique,  Déplié
+Vous pouvez choisir la <b>doctrine tactique</b> une fois supplémentaire par bataille. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Tactique > Optimisations
+Sagacité Tactique, 15 Points, Déplié
+Figurine de <k>Capitaine</k> seulement. La <b>doctrine tactique</b> est active pour cette unité <u>en plus</u> de toute autre <b>doctrine de combat</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Lauriers de la Vigilance, 10 Points, Déplié
+Figurine de l’<k>Adeptus Astartes</k> seulement.
+(Une fois par round de bataille, par armée) Quand vous utilisez le <b>stratagème Tir en État d’Alerte/Intervention Héroïque</b>, si vous ciblez une unité de <k>Ligne</k> de l’<k>Adeptus Astartes</k> amie à 12" ou moins de cette figurine avec lui, cette utilisation se fait à -1 PC. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie Tactique > Stratagèmes
+Armure de Mépris, 1PC, Déplié
+Confrérie Tactique  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>PA</b> jusqu’à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tactiques Magistrales, 1PC, Déplié
+Confrérie Tactique  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Cette unité d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de :
+<ul><li>D6" maximum.</li>
+<li><u>Ou :</u> Si la <b>doctrine tactique</b> est active pour votre unité, de 6" maximum.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Salve de Domination, 1PC, Déplié
+Confrérie Tactique  
+À votre phase de Tir, quand une unité de l’<k>Adeptus Astartes</k> amie a tiré. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Choisissez une unité ennemie touchée par ces attaques. L’unité ennemie est <b>neutralisée</b> jusqu’au début de votre prochain tour :
+<ul><li>Tant qu’une unité est <b>neutralisée</b>, ses attaques ont -1 aux <b>jets de touche</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie d’Assaut
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : DOCTRINES
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Maîtrise de l’Assaut,  Déplié
+Vous pouvez choisir la <b>doctrine d’assaut</b> une fois supplémentaire par bataille. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie d’Assaut > Optimisations
+Glaive de l’Imperium, 20 Points, Déplié
+Figurine de l’<k>Adeptus Astartes</k> seulement. Cette figurine a l’arme suivante : 
+PORTÉE | A | CC | F | PA | D
+Glaive de l’Imperium -  Glaive de l’Imperium.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 7.
+Pénétration d'Armure : -3.
+Dégats : 3.
+
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Assaut Furieux (Amélioration), 10 Points, Déplié
+Unité d’<k>Infanterie</k> de l’<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette unité ont <k>[Touches Soutenues 1 :</k> <b>≠</b> <k>Monstre/Véhicule]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Confrérie d’Assaut > Stratagèmes
+Puissance Génoforgée, 1PC, Déplié
+Confrérie d’Assaut  
+À la phase de Combat, quand une unité de l’<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont :
+<ul><li><k>[Lance]</k>.</li>
+<li><u>Ou :</u> Si la <b>doctrine d’assaut</b> est active pour votre unité, elles ont <k>[Lance]</k> et +1 en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Armure de Mépris, 1PC, Déplié
+Confrérie d’Assaut  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>PA</b> jusqu’à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Le Devoir Dans la Mort, 1PC, Déplié
+Confrérie d’Assaut  
+À la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Quand une figurine de votre unité est <b>détruite</b>, si votre unité n’a pas été <b>choisie pour combattre</b> à cette phase, jetez un D6, avec +1 à ce jet si la <b>doctrine d’assaut</b> est active pour votre unité :
+<ul><li>Sur 4+, ne retirez pas votre figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), votre figurine est retirée du champ de bataille.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Fer de Lance Déluge d’Acier
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : IRONSTORM
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Autocibleurs Déluge d’Acier,  Déplié
+Les attaques de tir des unités de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> amies (unités de <k>Marcheur</k> exclues) peuvent :
+<ul><li>Relancer <u>un</u> <b>jet de touche</b>.</li>
+<li>Relancer <u>un</u> <b>jet de blessure</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Éliminez l’Adversaire
+
+== Référence > Space Marines > Codex: Space Marines > Fer de Lance Déluge d’Acier > Optimisations
+Esprit de la Machine Redoutable (Amélioration), 25 Points, Déplié
+Unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> seulement (unités de <k>Transport Assigné/Vol/Marcheur</k> exclues). Cette unité :
+<ul><li>A une <b>InSv</b> de 5+.</li>
+<li>À la fin de votre phase de Commandement, elle <b>soigne</b> 1 PV.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Honneurs d’Artilleur (Amélioration), 15 Points, Déplié
+Unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> seulement (unités de <k>Transport Assigné/Vol/Marcheur</k> exclues). Les attaques de tir de cette unité ont <k>[Lourd]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Fer de Lance Déluge d’Acier > Stratagèmes
+Opiniâtreté de l’Esprit de la Machine, 1PC, Déplié
+Fer de Lance Déluge d’Acier  
+À votre phase de Commandement. 
+Une unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> amie (unités de <k>Transport Assigné/Vol/Marcheur</k> exclues). 
+Jusqu’au début de votre prochaine phase de Commandement, votre unité peut ignorer les modificateurs à :
+<ul><li>Son <b>M</b>.</li>
+<li>Sa <b>CT</b>.</li>
+<li>Ses <b>jets de Touche</b> et à ses <b>jets de blessure</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Céramite Stratifiée, 1PC, Déplié
+Fer de Lance Déluge d’Acier  
+À n’importe quelle phase, quand une unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> amie subit une <b>blessure mortelle</b>. 
+Cette unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k>. 
+Votre unité a <b>Insensible à la Douleur 5+</b> contre les <b>blessures mortelles</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Doctrine du Chasseur de Têtes, 1PC, Déplié
+Fer de Lance Déluge d’Acier  
+À votre phase de Tir, quand une unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k> amie (unités de <k>Transport Assigné/Vol/Marcheur</k> exclues) est <b>choisie pour tirer</b>. 
+Cette unité de <k>Véhicule</k> de l’<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont <k>[Touches Fatales : Monstre/Véhicule]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Briseuse de Ligne Gravis
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : GRAVIS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Forteresse Ambulante,  Déplié
+À un tour où une unité <k>Gravis</k> amie a fait un <b>mouvement normal</b>, ses attaques de tir :
+<ul><li>N’ont pas <k>[Lourd]</k>.</li>
+<li>Ont +1 aux <b>jets de touche</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Space Marines > Codex: Space Marines > Force Briseuse de Ligne Gravis > Optimisations
+Avance Implacable, 20 Points, Déplié
+Figurine <k>Gravis</k> seulement. Cette unité a <b>Éclaireurs 5"</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Robustesse Inaltérable, 20 Points, Déplié
+Figurine <k>Gravis</k> seulement. Les attaques qui ciblent cette unité avec une <b>F</b> supérieure à son <b>E</b> ont -1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Briseuse de Ligne Gravis > Stratagèmes
+Poussée Purgatoire, 1PC, Déplié
+Force Briseuse de Ligne Gravis  
+À votre phase de Tir, quand une unité <k>Gravis</k> amie a tiré. 
+Cette unité <k>Gravis</k>. 
+<ul><li>Si votre unité est <b>non engagée</b>, elle peut faire un <b>mouvement normal</b> de 5" maximum, et doit le finir à portée d’un <b>objectif</b>.</li><li>Votre unité n’est <u>pas</u> <b>éligible pour déclarer une charge</b> ou embarquer dans un <k>Transport</k> jusqu’à la fin du tour.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Impact Blindé, 1PC, Déplié
+Force Briseuse de Ligne Gravis  
+À votre phase de Charge, quand une unité <k>Gravis</k> amie finit un <b>mouvement de charge</b>. 
+Cette unité <k>Gravis</k>. 
+Quand votre unité finit un <b>mouvement de charge</b>, vous pouvez choisir une unité ennemie <b>engagée</b> avec elle. Dans ce cas, jetez un D6 pour chaque figurine de votre unité <b>engagée</b> avec l’unité ennemie choisie :<ul><li>Pour chaque jet de 3+, l’unité ennemie choisie subit 1 <b>blessure mortelle</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Force d’Annihilation, 1PC, Déplié
+Force Briseuse de Ligne Gravis  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Gravis</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité <k>Gravis</k>. 
+Les attaques de votre unité ont <k>[Touches Fatales]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Furtive Phobos
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : PHOBOS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Maîtres des Ombres,  Déplié
+Quand une unité <k>Phobos</k> ou d’<k>Escouade Scout</k> amie a tiré :
+<ul><li>Ces attaques ne l’empêchent pas d’être <b>cachée</b>.</li>
+<li><u>Ou :</u> L’unité peut faire un <b>mouvement normal</b> de D6" maximum. Jusqu’à la fin du tour, l’unité n’est <u>pas</u> <b>éligible pour déclarer une charge</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Space Marines > Codex: Space Marines > Force Furtive Phobos > Optimisations
+Omni-auspex Venator, 15 Points, Déplié
+Figurine <k>Phobos</k> seulement. Les attaques de cette unité qui ciblent une unité <b>cachée</b> peuvent :
+<ul><li>Relancer les <b>jets de blessure</b> de 1.</li>
+<li><u>Ou :</u> Si la <b>doctrine d’assaut</b> est active pour cette unité, elles peuvent relancer les <b>jets de blessure</b> de 1-2.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Exécution et Redéploiement, 25 Points, Déplié
+Figurine <k>Phobos</k> seulement. À votre phase de Tir, une fois que cette unité a tiré, si elle est <b>non engagée</b>, elle peut faire un <b>mouvement normal</b> de 6" maximum. Dans ce cas, jusqu’à la fin du tour, cette unité n’est <u>pas</u> <b>éligible pour déclarer une charge</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Furtive Phobos > Stratagèmes
+Rets Mortis, 1PC, Déplié
+Force Furtive Phobos  
+À la fin de votre phase de Mouvement. 
+Une unité <k>Phobos</k><b>/</b><k>Escouade Scout</k> amie <b>non engagée</b>. 
+Si votre unité contrôle un <b>objectif</b>, ce dernier est <b>rétiaire</b>. Tant qu’un <b>objectif</b> est <b>rétiaire</b>, quand une unité ennemie finit un mouvement à portée de lui, jetez un D6 :
+<ul><li>Sur 2+, l’unité ennemie subit D6 <b>blessures mortelles</b>. </li>
+<li>Cet <b>objectif</b> n’est plus <b>rétiaire</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Repli Tactique, 1PC, Déplié
+Force Furtive Phobos  
+À la fin de la phase de Combat adverse. 
+Une unité <k>Phobos</k><b>/</b><k>Escouade Scout</k> amie <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Frapper depuis les Ombres, 1PC, Déplié
+Force Furtive Phobos  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Phobos</k> amie <b>cachée</b> est <b>choisie pour attaquer</b>. 
+Cette unité <k>Phobos</k>. 
+Les attaques de votre unité ont :<ul><li>+1 en <b>F</b>.</li><li><k>[TOUCHES FATALES]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Ceste
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Déploiement Combiné,  Déplié
+À votre phase de Tir, quand une unité de <k>Transport</k> de l’<k>Adeptus Astartes</k> amie a tiré, vous pouvez choisir une unité ennemie touchée par ces attaques. Ladite unité ennemie est <b>assaillie</b> jusqu’à la fin du tour : <ul><li>Tant qu’une unité est <b>assaillie</b>, quand une unité de l’<k>Adeptus Astartes</k> qui a débarqué à ce tour la cible, ces attaques ont <k>[TOUCHES SOUTENUES 1]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Reconnaissance
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Ceste > Optimisations
+Offensive Briseuse de Ligne, 20 Points, Déplié
+Figurine d’<k>Infanterie</k> de l’<k>Adeptus Astartes</k> seulement. Si cette unité a débarqué à ce tour :<ul><li>Elle peut relancer les <b>jets de charge</b>.</li><li>Les unités ennemies ne peuvent pas la cibler avec des attaques de <b>tir au jugé</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Liaison de Classe Damoclès, 15 Points, Déplié
+Figurine de <k>Capitaine</k> seulement. À votre phase de Mouvement, si cette unité est embarquée dans une unité de <k>Transport</k>, vous pouvez choisir une unité d’<k>Infanterie</k> de l’<k>Adeptus Astartes</k> amie à 6" ou moins de cette unité de <k>Transport</k> et choisir une <b>doctrine de combat</b>. Cette <b>doctrine de combat</b> est active pour cette unité d’<k>Infanterie</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Ceste > Stratagèmes
+Assaillir et Sécuriser, 1PC, Déplié
+Force Opérationnelle Ceste  
+À la fin de votre phase de Mouvement. 
+Une unité de <k>Transport</k> de l’<k>Adeptus Astartes</k> amie qui a une unité de <k>Ligne</k> de l’<k>Adeptus Astartes</k> embarquée à son bord. 
+Choisissez un <b>objectif</b> que votre unité contrôle. Cet <b>objectif</b> est <b>sécurisé</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Débarquement Agressif, 1PC, Déplié
+Force Opérationnelle Ceste  
+À n’importe quelle phase, quand une unité de l’<k>Adeptus Astartes</k> amie embarquée dans un <k>Transport</k> est <b>choisie pour être déplacée</b>. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+En faisant ce mouvement, chaque figurine de votre unité peut être placée à <b>distance de placement</b> de ce <k>Transport</k>.<i>Cela vous permet de placer votre unité </i>à <bi>distance de placement</bi><i> de votre </i><k>Transport</k><i>, au lieu de la placer </i>entièrement à<i> cette distance.</i> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Le Devoir ne Connaît pas de Fin, 1PC, Déplié
+Force Opérationnelle Ceste  
+À la fin de la phase de Combat. 
+Une unité d’<k>Infanterie</k> de l’<k>Adeptus Astartes</k> amie <b>non engagée</b> qui était <b>éligible pour combattre</b> à cette phase, qui est entièrement à 6" ou moins d’une unité de <k>Transport</k> amie, et qui est éligible pour embarquer dans cette dernière. 
+Votre unité embarque dans cette unité de <k>Transport</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Gladius
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 3PdD.
+Discipline Codex,  Déplié
+Vous pouvez choisir une seule <b>doctrine de combat</b> une fois supplémentaire par bataille. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+Prendre et Tenir
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Gladius > Optimisations
+Lauriers du Triomphe, 20 Points, Déplié
+Figurine de l’<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette figurine ont :<ul><li>+1 en <b>F</b> et en <b>PA</b>. </li><li><u>Ou :</u> Si la <b>doctrine d’assaut</b> est active pour cette unité, elles ont +2 en <b>F</b> et en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adepte du Codex, 20 Points, Déplié
+Figurine de <k>Capitaine</k> seulement. La <b>doctrine tactique</b> est active pour cette unité <u>en plus</u> de toute autre <b>doctrine de combat</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Armure d’Artificier, 15 Points, Déplié
+Figurine de l’<k>Adeptus Astartes</k> seulement. Cette figurine a :
+<ul><li>Une <b>Sv</b> de 2+.</li>
+<li><b>Insensible à la Douleur 5+</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Étendard de l’Empereur Ascendant, 25 Points, Déplié
+Figurine de <k>Doyen</k> seulement. Cette figurine a :<ul><li>+1 en <b>CO</b> et en <b>Cd</b>.</li><li><b>Insensible à la Douleur 5+</b>.</li><li>L’aptitude suivante :</li></ul><nest>Exhortation du Doyen (Une fois par bataille, par armée) : Quand cette unité est <b>choisie pour combattre</b>, vous pouvez utiliser cette aptitude. Dans ce cas, les attaques de mêlée de cette unité ont +1 en <b>A</b> jusqu’à la fin de la phase.</nest> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Gladius > Stratagèmes
+Armure de Mépris, 1PC, Déplié
+Force Opérationnelle Gladius  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>PA</b> jusqu’à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adaptation Stratégique, 1PC, Déplié
+Force Opérationnelle Gladius  
+À votre phase de Commandement. 
+Une unité de l’<k>Adeptus Astartes</k> amie. 
+Choisissez 1 <b>doctrine de combat</b>. Cette dernière est active pour votre unité jusqu’au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Une Mort Digne, 1PC, Déplié
+Force Opérationnelle Gladius  
+À la phase de Combat, quand une unité ennemie cible une unité de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Quand une figurine de votre unité est <b>détruite</b>, si votre unité n’a pas été <b>choisie pour combattre</b> à cette phase, jetez un D6 :
+<ul><li>Sur 4+, ne retirez pas votre figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), votre figurine est retirée du champ de bataille.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tactiques Réactives, 1PC, Déplié
+Force Opérationnelle Gladius  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Cette unité d’<k>Infanterie/Montée</k> de l’<k>Adeptus Astartes</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de D6" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Orage Dévastateur, 1PC, Déplié
+Force Opérationnelle Gladius  
+À votre phase de Tir, quand une unité de l’<k>Adeptus Astartes</k> amie est <b>choisie pour tirer</b>. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont <k>[IGNORE LE COUVERT]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Puissance des Anges, 1PC, Déplié
+Force Opérationnelle Gladius  
+À la phase de Combat, quand une unité de l’<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de l’<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont <k>[Lance]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Tacticus Tempête de Feu
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : TACTICUS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Schémas de Tir Codex,  Déplié
+Les attaques à <k>[Tir Rapide]</k> des unités <k>Tacticus</k> amies bénéficient du <k>[Tir Rapide]</k> lorsqu’elles ciblent des unités jusqu’à la portée maximale de l’attaque. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Space Marines > Codex: Space Marines > Force Tacticus Tempête de Feu > Optimisations
+Cyberfamilier, 15 Points, Déplié
+Figurine <k>Tacticus</k> seulement. Une fois que les deux joueurs ont déployé leur armée, vous pouvez redéployer trois unités d’<k>Infanterie</k> de l’<k>Adeptus Astartes</k> amies maximum. Ce faisant, vous pouvez placer ces unités en <b>réserve stratégique</b>, quel que soit le nombre d’unités s’y trouvant déjà. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Trempé dans les Combats (Aura), 10 Points, Déplié
+Figurine <k>Tacticus</k> seulement. Les unités de l’<k>Adeptus Astartes</k> amies à 6" ou moins de cette figurine peuvent relancer les <b>jets de commandement</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Tacticus Tempête de Feu > Stratagèmes
+Brutalité à Bout Portant, 1PC, Déplié
+Force Tacticus Tempête de Feu  
+À votre phase de Tir, quand une unité <k>Tacticus</k> amie <b>engagée</b> est <b>choisie pour tirer</b>. 
+Cette unité <k>Tacticus</k>. 
+Les attaques de tir de votre unité (attaques à <k>[Déflagration]</k> exclues) ont :<ul><li><k>[Combat Rapproché]</k>.</li><li><k>[IGNORE LE COUVERT]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Pour l’Empereur !, 1PC, Déplié
+Force Tacticus Tempête de Feu  
+À la phase de Commandement. 
+Une unité <k>Tacticus</k> amie qui est à portée d’un <b>objectif</b>. 
+Votre unité a +1 en <b>CO</b> jusqu’à la fin du tour. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Assaut Implacable, 1PC, Déplié
+Force Tacticus Tempête de Feu  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Tacticus</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité <k>Tacticus</k>. 
+Les attaques de votre unité ont :<ul><li><k>[Touches Soutenues 1 :</k> <b>≠</b> <k>Monstre/Véhicule]</k>.</li><li><u>Ou :</u> <k>[Touches Fatales : Monstre/Véhicule]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force de Choc Phobos
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : PHOBOS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Avant-garde Embusquée,  Déplié
+À la fin de votre phase de Mouvement, si une unité <k>Phobos</k> amie est <b>cachée</b>, ses attaques peuvent relancer les <b>jets de blessure</b> de 1 jusqu’à la fin du tour. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Space Marines > Codex: Space Marines > Force de Choc Phobos > Optimisations
+Sceau de Dissimulation, 15 Points, Déplié
+Figurine <k>Phobos</k> seulement. Les unités ennemies ne peuvent pas cibler cette unité avec des attaques de <b>tir au jugé</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Omni-auspex Venator, 15 Points, Déplié
+Figurine <k>Phobos</k> seulement. Les attaques de cette unité qui ciblent une unité <b>cachée</b> peuvent :
+<ul><li>Relancer les <b>jets de blessure</b> de 1.</li>
+<li><u>Ou :</u> Si la <b>doctrine d’assaut</b> est active pour cette unité, elles peuvent relancer les <b>jets de blessure</b> de 1-2.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force de Choc Phobos > Stratagèmes
+Insaisissable Comme les Ombres, 1PC, Déplié
+Force de Choc Phobos  
+À la phase de Tir adverse, quand une unité ennemie cible une unité <k>Phobos</k> amie. 
+Cette unité <k>Phobos</k>. 
+Les attaques de tir qui ciblent votre unité ont -1 aux <b>jets de touche</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Frapper depuis les Ombres, 1PC, Déplié
+Force de Choc Phobos  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Phobos</k> amie <b>cachée</b> est <b>choisie pour attaquer</b>. 
+Cette unité <k>Phobos</k>. 
+Les attaques de votre unité ont :<ul><li>+1 en <b>F</b>.</li><li><k>[TOUCHES FATALES]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Réactions Transhumaines, 1PC, Déplié
+Force de Choc Phobos  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité <k>Phobos</k> amie <b>non engagée</b>. 
+Cette unité <k>Phobos</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de :
+<ul><li>D6" maximum.</li>
+<li><u>Ou :</u> Si la <b>doctrine tactique</b> est active pour votre unité, de 6" maximum. </li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force de Siège Gravis
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : GRAVIS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Défense Indomptable,  Déplié
+Tant qu’une unité <k>Gravis</k> amie est à portée d’un <b>objectif</b>, les attaques qui la ciblent avec une <b>F</b> supérieure à son <b>E</b> ont -1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Space Marines > Codex: Space Marines > Force de Siège Gravis > Optimisations
+Conquérants Inamovibles (Amélioration), 15 Points, Déplié
+Unité <k>Gravis</k> seulement. Cette unité a +1 en <b>CO</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Gantelet Narthecis, 20 Points, Déplié
+Figurine d’<k>Apothicaire Biologis</k> seulement. À votre phase de Commandement, cette unité <b>soigne</b> D3+1 PV. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force de Siège Gravis > Stratagèmes
+Force d’Annihilation, 1PC, Déplié
+Force de Siège Gravis  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Gravis</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité <k>Gravis</k>. 
+Les attaques de votre unité ont <k>[Touches Fatales]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Salves de Neutralisation, 1PC, Déplié
+Force de Siège Gravis  
+À votre phase de Tir, quand une unité <k>Gravis</k> amie a tiré. 
+Cette unité <k>Gravis</k>. 
+Choisissez une unité ennemie touchée par ces attaques. Celle-ci fait un <b>jet d’ébranlement</b>, avec -1 à ce dernier. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Posture Inflexible, 1PC, Déplié
+Force de Siège Gravis  
+À la fin de votre phase de Mouvement. 
+Une unité <k>Gravis</k> amie. 
+Choisissez un <b>objectif</b> que votre unité contrôle. Cet <b>objectif</b> est <b>sécurisé</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Assaut Terminator
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : TERMINATOR
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Frappe Terminale,  Déplié
+Les unités de <k>Terminator</k> de l’<k>Adeptus Astartes</k> amies ont +1 aux <b>jets de charge</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Assaut Terminator > Optimisations
+Reliquaire Corporeum, 25 Points, Déplié
+Figurine de <k>Terminator</k> de l’<k>Adeptus Astartes</k> seulement. À votre première phase de Mouvement, cette unité peut faire un <b>mouvement d’arrivée</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Champion de la Première Compagnie, 20 Points, Déplié
+Figurine de <k>Terminator</k> de l’<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette unité ont <k>[Touches Fatales]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Assaut Terminator > Stratagèmes
+Robustesse Tactique Dreadnought, 2PC, Déplié
+Force d’Assaut Terminator  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de <k>Terminator</k> de l’<k>Adeptus Astartes</k> amie. 
+Cette unité de <k>Terminator</k> de l’<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>D</b> jusqu’à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Extraction par Escorteur, 1PC, Déplié
+Force d’Assaut Terminator  
+À la fin de la phase de Combat adverse. 
+Une unité de <k>Terminator</k> de l’<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vétérans Impitoyables, 1PC, Déplié
+Force d’Assaut Terminator  
+À votre phase de Tir, quand une unité de <k>Terminator</k> de l’<k>Adeptus Astartes</k> amie est <b>choisie pour tirer</b>. 
+Cette unité de <k>Terminator</k> de l’<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont :
+<ul><li><k>[Touches Fatales]</k>.</li>
+<li><k>[Touches Soutenues 1]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Attaque Tacticus
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : TACTICUS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Courroux du Chapitre,  Déplié
+Les unités <k>Tacticus</k> amies peuvent relancer les <b>jets d’avance</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Attaque Tacticus > Optimisations
+Parangon Martial, 10 Points, Déplié
+Figurine <k>Tacticus</k> seulement. Les attaques de cette unité peuvent :
+<ul><li>Relancer <u>un</u> <b>jet de touche</b>.</li>
+<li>Relancer <u>un</u> <b>jet de blessure</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Champion d’Avant-garde, 15 Points, Déplié
+Figurine <k>Tacticus</k> seulement. Cette unité a <b>Éclaireurs 6"</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force d’Attaque Tacticus > Stratagèmes
+Vivacité Transhumaine, 1PC, Déplié
+Force d’Attaque Tacticus  
+À la phase de Combat, quand une unité ennemie a combattu. 
+Une unité <k>Tacticus</k> amie qui est à portée d’un <b>objectif</b> et qui est <b>éligible pour combattre</b>. 
+Votre unité a <b>Combat en Premier</b> et <u>doit</u> être la prochaine unité que vous <b>choisissez pour combattre</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Concentration Tactique, 1PC, Déplié
+Force d’Attaque Tacticus  
+À la phase de Combat, quand une unité <k>Tacticus</k> amie est choisie pour faire un <b>mouvement de consolidation</b>. 
+Cette unité <k>Tacticus</k>. 
+En faisant ce <b>mouvement de consolidation</b>, votre unité peut se déplacer de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Assaut Implacable, 1PC, Déplié
+Force d’Attaque Tacticus  
+À votre phase de Tir ou à la phase de Combat, quand une unité <k>Tacticus</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité <k>Tacticus</k>. 
+Les attaques de votre unité ont :<ul><li><k>[Touches Soutenues 1 :</k> <b>≠</b> <k>Monstre/Véhicule]</k>.</li><li><u>Ou :</u> <k>[Touches Fatales : Monstre/Véhicule]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Lance de l’Orage
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Frappe Fulgurante,  Déplié
+Les unités <k>Montées/Speeder</k> de l’<k>Adeptus Astartes</k> amies ont +2" en <b>M</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Reconnaissance
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Lance de l’Orage > Optimisations
+Autels-auspex de Triangulation (Amélioration), 10 Points, Déplié
+Unité de <k>Speeder</k> de l’<k>Adeptus Astartes</k> seulement. Au début de votre phase de Tir, choisissez une unité ennemie <b>visible</b> et à 12" ou moins de cette unité. L’unité ennemie choisie est <b>pointée</b> :<ul><li>Tant qu’une unité est <b>pointée</b>, elle a +3" en <b>portée de détection</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Moteurs Surgonflés (Amélioration), 10 Points, Déplié
+Unité <k>Montée</k> de l’<k>Adeptus Astartes</k> seulement. Cette unité peut relancer les <b>jets d’avance</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Space Marines > Codex: Space Marines > Force Opérationnelle Lance de l’Orage > Stratagèmes
+Cibles Véloces, 1PC, Déplié
+Force Opérationnelle Lance de l’Orage  
+À la phase de Tir adverse, quand une unité ennemie cible une unité <k>Montée/Speeder</k> de l’<k>Adeptus Astartes</k> amie. 
+Cette unité <k>Montée/Speeder</k> de l’<k>Adeptus Astartes</k>. 
+Les attaques de tir qui ciblent votre unité ont -1 aux <b>jets de touche</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Insaisissable Comme le Vent, 1PC, Déplié
+Force Opérationnelle Lance de l’Orage  
+À la fin de la phase de Combat. 
+Une unité <k>Montée</k> de l’<k>Adeptus Astartes</k> amie qui était <b>éligible pour combattre</b> à cette phase. 
+<ul><li>Si votre unité est <b>non engagée</b>, elle peut faire un <b>mouvement normal</b>.</li><li><u>Ou :</u> Si votre unité est <b>engagée</b>, elle peut faire un <b>mouvement de retraite</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Attaque Subite, 1PC, Déplié
+Force Opérationnelle Lance de l’Orage  
+À votre phase de Mouvement, quand une unité <k>Montée/Speeder</k> de l’<k>Adeptus Astartes</k> amie est choisie pour faire un <b>mouvement d’avance</b>. 
+Cette unité <k>Montée/Speeder </k>de l’<k>Adeptus Astartes</k>. 
+Votre unité peut remplacer ses <b>jets d’avance</b> par 6. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Imperial Fists > Supplément de Codex: Imperial Fists > Sentinelles de Céramite
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Défense Adaptative,  Déplié
+<ul><li>Tant qu'une unité de l'<k>Adeptus Astartes</k> amie est dans une <b>zone de terrain</b>, ses attaques peuvent relancer les <b>jets de blessure</b> de 1.</li><li>Les unités de l'<k>Adeptus Astartes</k> amies sont <b>retranchées</b> tant que tout ce qui suit s'applique:</li><ul><li>L'unité est dans une <b>zone de terrain</b>.</li><li>L'unité n'a pas été placée à ce tour.</li><li>Aucune figurine de l'unité ne s'est déplacée de plus de 3" à ce tour.</li></ul><li>Les unités de <k>Darnath Lysander/Tor Garadon</k> amies ont l'aptitude suivante:
+<b>Maîtrise Défensive</b>: Au début de chaque phase, cette unité est <b>retranchée</b>.</li></ul>
+
+<i>L'unité de Darnath Lysander/Tor Garadon est toujours <b>retranchée</b>, sans tenir compte des conditions ci-dessus.</i>
+
+<b>Restrictions:</b> Votre armée peut inclure des unités <k>Imperial Fists</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Imperial Fists > Supplément de Codex: Imperial Fists > Sentinelles de Céramite > Optimisations
+Omnivox Castellum, 10 Points, Déplié
+Unité de l'<k>Adeptus Astartes</k> seulement. Quand cette unité fait un <b>mouvement d'avance/de retraite</b>, ce dernier ne l'empêche pas d'être <b>éligible pour entreprendre une action</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Liaison par Crâne-espion, 10 Points, Déplié
+Unité de l'<k>Adeptus Astartes</k> seulement. Les armes de tir de cette unité ont <k>[IGNORE LE COUVERT]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Honneur Inoxydable, 10 Points, Déplié
+Figurine <k>Gravis</k> seulement. (Une fois par bataille, par armée) À la fin de la phase où cette figurine a été <b>détruite</b>, jetez un D6:<ul><li>Sur 2+, replacez cette figurine sur le champ de bataille, aussi près que possible de l'endroit où elle a été <b>détruite</b>, <b>non engagée</b>, avec 3 points de vie restants.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Maîtrise Défensive, 10 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Une fois que les deux joueurs ont déployé leurs armées, vous pouvez redéployer jusqu'à trois unités d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amies. Ce faisant, vous pouvez placer ces unités en <b>réserve stratégique</b>, quel que
+soit le nombre d’unités s’y trouvant déjà. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Imperial Fists > Supplément de Codex: Imperial Fists > Sentinelles de Céramite > Stratagèmes
+Ciblage Amélioré, 1PC, Déplié
+Sentinelles de Céramite  
+À votre phase de Tir ou à la phase de Combat, quand une unité de l'<k>Adeptus Astartes</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques de votre unité ont:<ul><li><k>[TOUCHES FATALES]</k>.</li><li><u>Ou:</u> <k>[TOUCHES SOUTENUES 1]</k>.</li><li><u>Ou:</u> Si votre unité est <b>retranchée</b>, elles ont <k>[TOUCHES FATALES]</k> et <k>[TOUCHES SOUTENUES 1]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Repositionnement Insaisissable, 1PC, Déplié
+Sentinelles de Céramite  
+À la phase de Tir adverse, quand une unité ennemie a tiré. 
+Une unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k> amie <b>non engagée</b> qui a perdu un ou plusieurs points de vie à cause de ces attaques. 
+<ul><li>Votre unité peut faire un <b>mouvement normal</b> de D6" maximum.</li><li><u>Ou:</u> Si votre unité est <b>retranchée</b>, elle peut faire un  <b>mouvement normal</b> de D3+3" maximum.</li></ul>Votre unité n'est <u>pas</u> capable d'embarquer dans un <k>TRANSPORT</k> jusqu'à la fin du tour. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Puissance Inflexible, 1PC, Déplié
+Sentinelles de Céramite  
+À la phase de Commandement. 
+Une unité de l'<k>Adeptus Astartes</k> amie qui est à portée d'un <b>objectif</b>. 
+Votre unité a +1 en <b>CO</b> jusqu'à la fin du tour. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tenez jusqu'au Bout, 1PC, Déplié
+Sentinelles de Céramite  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'<k>ADEPTUS ASTARTES</k> amie (unités de <k>Monstre/Véhicule</k> exclues). 
+Cette unité de l'<k>ADEPTUS ASTARTES</k>. 
+<ul><li>Les attaques qui ciblent cette unité avec une <b>F</b> supérieure à son <b>E</b> ont -1 aux <b>jets de blessure</b>.</li><li><u>Ou:</u> Si votre unité est <b>retranchée</b>, les attaques qui la ciblent ont -1 aux <b>jets de blessure</b>.</ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Instaurer la Suprématie, 1PC, Déplié
+Sentinelles de Céramite  
+À la phase de Combat, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie <b>retranchée</b> est choisie pour faire un <b>mouvement de consolidation</b>. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Vous pouvez choisir le <b>mode de consolidation sur objectif</b> pour ce <b>mouvement de consolidation</b>, quelles que soient les restrictions "Avant de se Déplacer" de ce ce <b>mouvement de consolidation</b>.
+
+<b>Note de conception:</b><i> Cela signifie que votre unité peut se séplacer hors de <b>portée d'engagement</b> d'unités ennemies, tant qu'elle remplit les conditions du <b>mode de consolidation sur objectif</b>.</i> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Frappe Prioritaire, 1PC, Déplié
+Sentinelles de Céramite  
+À votre phase de Tir ou à la phase de Combat, quand une unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de votre unité qui ciblent une unité de <k>Monstre/Véhicule</k> ont +1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Iron Hands > Supplément de Codex: Iron Hands > Colère de Medusa
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : IRONSTORM
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Colère Blindée,  Déplié
+Chaque fois qu'une unité de l'<k>ADEPTUS ASTARTES</k> amie est <b>choisie pour tirer</b> ou <b>choisie pour combattre</b> appliquez un des éléments suivants en résolvant ces attaques :<ul><li>Si l'unité est à 6" ou moins d'une unité de <k>Cannok Var/Révérend de Fer Feirros</k> amie, vous pouvez :<ul><li>Relancer <u>un</u> <b>jet de touche</b>.</li><li>Relancer <u>un</u> <b>jet de blessure</b>.</li><li>Relancer <u>un</u> <b>jet de dégâts</b>.</li></ul></li><li>Sinon vous pouvez :</li><ul><li>Relancer <u>un</u> <b>jet de touche</b>.</li><li><u>Ou :</u> Relancer <u>un</u> <b>jet de blessure</b>.</li><li><u>Ou :</u> Relancer <u>un</u> <b>jet de dégât</b>.</li></ul></ul> 
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Éliminez l’Adversaire
+
+== Référence > Iron Hands > Supplément de Codex: Iron Hands > Colère de Medusa > Optimisations
+La Chair est Faible, 15 Points, Déplié
+Figurine de l'<k>ADEPTUS ASTARTES</k> seulement. Cette figurine a : <ul><li>+1 en <b>E</b>.</li><li><b>Insensible à la Douleur 5+</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Toile Augure de Ciblage, 30 Points, Déplié
+Figurine de <k>TECHMARINE</k> seulement. 
+À votre phase de Mouvement, au début ou à la fin du mouvement de cette unité, vous pouvez choisir une unité de <k>VÉHICULE</k> de l'<k>ADEPTUS ASTARTES</k> amie à 3" ou moins de cette unité. Les attaques de la figurine de <k>VÉHICULE</k> ont <k>[TOUCHES FATALES]</k> jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Maître de la Guerre Mécanisée, 25 Points, Déplié
+Figurine de l'<k>ADEPTUS ASTARTES</k> seulement.À votre phase de Mouvement, vous pouvez choisir une unité de <k>VÉHICULE</k> de l'<k>ADEPTUS ASTARTES</k>amie <b>visible</b> à 6" ou moins de cette figurine et choisir la <b>doctrine devastator</b> ou la <b>doctrine tactique</b>. Cette doctrine est active pour l'unité de <k>VÉHICULE</k> jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adepte de l'Omnimessie, 25 Points, Déplié
+Figurine de <k>TECHMARINE</k> seulement. 
+(Une fois par round de bataille, par armée) Quand une unité ennemie cible une unité de <k>VÉHICULE</k> de l'<k>ADEPTUS ASTARTES</k> amie à 6" ou moins de cette unité, vous pouvez utiliser cette aptitude. Dans ce cas, l'unité de <k>VÉHICULE</k> a <b>Insensible à la Douleur 5+</b> jusqu'à ce que l'unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Iron Hands > Supplément de Codex: Iron Hands > Colère de Medusa > Stratagèmes
+Brutalité Méthodique, 1PC, Déplié
+Colère de Medusa  
+À votre phase de Tir ou à la phase de Combat, quand une unité de l'<k>ADEPTUS ASTARTES</k> amie est choisie pour attaquer. 
+Cette unité de l'<k>ADEPTUS ASTARTES</k>. 
+Les attaques de votre unité ont <k>[TOUCHES SOUTENUES 1]</k>. 
+
+• Si votre unité est un VÉHICULE, elles ont +1 aux jets de blessure.
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Esprits de Fer, 1PC, Déplié
+Colère de Medusa  
+À n'importe quelle phase, quand une unité de l'<k>ADEPTUS ASTARTES</k> amie subit une <b>blessure mortelle</b>. 
+Cette unité de l'<k>ADEPTUS ASTARTES</k>. 
+Votre unité a <b>Insensible à la Douleur 5+</b> contre les <b>blessures mortelles</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Conviction Inflexible, 1PC, Déplié
+Colère de Medusa  
+À votre phase de Commandement. 
+Une unité de l'<k>Adeptus Astartes</k> amie qui est <b>en dessous de son effectif initial</b>. 
+Jusqu'au début de votre prochaine phase de Commandement, votre unité peut ignorer les modificateurs à : <ul><li>Sa <b>CT</b> et sa <b>CC</b>.</li><li>À ses <b>jets de touche</b> et ses <b>jets de blessure</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Animus Vengeur, 1PC, Déplié
+Colère de Medusa  
+À n'importe quelle phase, quand une unité de <k>VÉHICULE</k> de l'<k>ADEPTUS ASTARTES</k> amie est <b>détruite</b>, avant le jet de <b>destruction néfaste<b>. 
+Cette unité de <k>VÉHICULE</k> de l'<k>ADEPTUS ASTARTES</k> amie. 
+Remplacez les jets de <b>Destruction Néfaste</b> pour cette unité en 6 non modifié. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Fureur de l'Ancien, 1PC, Déplié
+Colère de Medusa  
+À votre phase de Commandement. 
+Une unité de <k>DREADNOUGHT</k> de l'<k>ADEPTUS ASTARTES</k> amie. 
+Jusqu'au début de votre prochaine phase de Commandement, votre unité a :
+<ul><li>+1" en <b>M</b>.</li><li>+1 en <b>E</b>.</li><li>+1 en <b>Cd</b>.</li><li>+1 en <b>CO</b>.</li><li>+1 aux <b>jets de touche</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Pouvoir de l’Esprit de la Machine, 1PC, Déplié
+Colère de Medusa  
+À la phase de Tir adverse, une fois une unité ennemie qui a ciblé une unité de <k>Véhicule</k> de l'<k>Adeptus Astartes</k> amie <b>non engagée</b> a tiré. 
+Cette unité de <k>Véhicule</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité tire en utilisant : <ul><li>Le <b>tir au jugé</b>.</li><li><u>Ou :</u> Si votre unité est <b>à demi-effectif</b>/<b>en dessous de son demi-effectif</b>, elle utilise le <b>tir normal</b>.</li></ul>Ce faisant, votre unité peut seulement cibler cette unité ennemie. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Raven Guard > Supplément de Codex: Raven Guard > Serre des Ombres
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : PHOBOS
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Tactiques de l'Ombre,  Déplié
+Les unités de l'<k>Adeptus Astartes</k> amies ont <b>Discrétion</b>.
+
+Les unités de <k>Phobos/Escouade Scout</k> amies ont -3" en <b>portée de détection</b>.
+
+Les unités d'<k>Aethon Shaan</k> amies ont l'aptitude suivante :
+
+<b>Tacticien Incomparable</b> : (Une fois par round de bataille, par armée) Quand vous utilisez le <b>stratagème Dans les Ténèbres</b>, cette utilisation coûte -1PC. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Raven Guard > Supplément de Codex: Raven Guard > Serre des Ombres > Optimisations
+Couronne des Murmures, 30 Points, Déplié
+Figurine de <k>Phobos</k> seulement. Chaque unité ennemie (unité de <k>Monstre/Véhicule exclues</k>) <b>engagée</b> avec cette unité ne peut pas être ciblée par les <b>stratagèmes/b> du joueur en contrôle. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Suaire de l'Aile Noire, 25 Points, Déplié
+Figurine d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> seulement. Cette unité a <b>Infiltrateurs</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Rapace de l'Ombre, 15 Points, Déplié
+Figurine d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> seulement. Cette figurine a : <ul><li><b>Combat en Premier</b>.</li><li><b>Agent Solitaire</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Instincts du Chasseur, 25 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. À votre première phase de Mouvement, cette unité peut faire un <b>mouvement d'arrivée</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Raven Guard > Supplément de Codex: Raven Guard > Serre des Ombres > Stratagèmes
+Dans les Ténèbres, 1PC, Déplié
+Serre des Ombres  
+À la fin de la phase de Combat adverse. 
+Une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Fusillade Meurtrière, 1PC, Déplié
+Serre des Ombres  
+À votre phase de Tir, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie qui a fait un <b>mouvement d'arrivée</b> à ce tour est <b>choisie pour tirer</b>. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont : <ul><li>+1 en <b>CT</b>.</li><li>+1 en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Abattre les Tyrans, 1PC, Déplié
+Serre des Ombres  
+À la phase de Combat, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont <k>[Précision]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Armes Silencieuses, 1PC, Déplié
+Serre des Ombres  
+À votre phase de Tir, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie a tiré. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Ces attaques n'empêchent pas votre unité d'être <b>cachée</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vigilance du Rapace, 1PC, Déplié
+Serre des Ombres  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de :<ul><li>D6" maximum.</li><li><u>Ou :</u> Si votre unité est de <k>Phobos/Escouade Scout</k>, de 6" maximum.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Feinte et Enfoncement, 1PC, Déplié
+Dans les Ténèbres, 1PC, Déplié | À la fin de la phase de Combat adverse. 
+Serre des Ombres  
+À votre phase de Commandement. 
+Une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie. 
+La <b>doctrine tactique</b> est active pour votre unité <u>en plus</u> de toute autre <b>doctrine de combat</b>, jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Salamanders > Supplément de Codex: Salamanders > Chercheurs du Père de la Forge
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+La Quête de Vulkan,  Déplié
+<ul><li>Vous pouvez choisir la <b>doctrine devastator</b> une fois supplémentaire par bataille.</li><li>Les attaques de tir des unités de l'<k>Adeptus Astartes</k> amies qui ciblent une unité à 12” ou moins ont +1 en <b>F</b>.</li></ul>
+Si votre armée inclut une unité de <k>Vulkan He’stan</k>, les unités d'<k>Escouade Infernus</k> amies ont ce qui suit :<ul><li>Quand cette unité est choisie pour faire un <b>mouvement d'avance/de retraite</b>, ce dernier ne l'empêche pas d'être <b>éligible pour entreprendre une action</b>.</li><li>Quand cette unité <b>entreprend une action</b>, cette dernière ne l'empêche pas d'être <b>éligible pour tirer</b>.</li></ul><b>Restrictions :</b> Votre armée peut inclure des unités de <k>Salamanders</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Salamanders > Supplément de Codex: Salamanders > Chercheurs du Père de la Forge > Optimisations
+Artisan Aguerri, 25 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette figurine ont :<ul><li>+1 en <b>F</b>.</li><li>+1 en <b>D</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Cape Adamantine, 20 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques allouées à cette figurine ont -1 en <b>D</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Forgés par la Bataille, 25 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Cette unité peut ignorer les modificateurs : <ul><li>À la <b>CT</b>.</li><li>À la <b>CC</b>.</li><li>Aux <b>jets de touche<b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Immolator, 20 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les armes à <k>[TORRENT]</k> de cette unité ont +1 en <b>A</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Salamanders > Supplément de Codex: Salamanders > Chercheurs du Père de la Forge > Stratagèmes
+Creuset du Combat, 1PC, Déplié
+Chercheurs du Père de la Forge  
+À votre phase de Tir ou à la phase de Combat, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour attaquer</b> une unité ennemie à 6" ou moins. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de votre unité peuvent :
+<ul><li>Relancer les <b>jets de touche</b> de 1.</li>
+<li>Relancer les <b>jets de blessure</b> de 1.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Protocoles d'Immolation, 1PC, Déplié
+Chercheurs du Père de la Forge  
+À votre phase de tir, quand une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour attaquer</b>. 
+Cette unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de tir à <k>[TORRENT]</k> de votre unité ont +1 en <b>PA</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vengeance Brûlante, 1PC, Déplié
+Chercheurs du Père de la Forge  
+À la phase de Tir adverse, quand une unité ennemie cible unité de <k>Transport</k> de l'<k>Adeptus Astartes</k> amie. 
+Une unité de l'<k>Adeptus Astartes</k> amie embarquée dans ce <k>Transport</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité de l'<k>Adeptus Astartes</k> peut :<ul><li>Faire un <b>mouvement de débarquement</b>.</li><li>Tirer en utilisant le <b>tir normal</b>, mais ce faisant, elle peut seulement cibler cette unité ennemie.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Terre Embrasée, 1PC, Déplié
+Chercheurs du Père de la Forge  
+Au début de la phase de Charge adverse. 
+Une unité de l'<k>Adeptus Astartes</k> amie <b>non engagée</b> équipée d'une ou plusieurs armes à <k>Torrent/Fusion</k>. 
+Choisissez une unité ennemie <b>visible</b> et à 12" ou moins de votre unité. L'unité ennemie choisie a ‑1 aux <b>jets de charge</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Forgés dans le Feu, 1PC, Déplié
+Chercheurs du Père de la Forge  
+À votre phase de Tir, quand une unité de l'<k>Adeptus Astartes</k> amie <b>engagée</b> est <b>choisie pour tirer</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les armes à <k>Torrent</k> de votre unité : <ul><li>N'ont pas <k>[Déflagration]</k>.</li><li>Ont <k>[Combat Rapproché]</k>.</li><li>Ont +1 en <b>A</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Colère et Ruine, 1PC, Déplié
+Chercheurs du Père de la Forge  
+À votre phase de Commandement. 
+Une unité d'<k>Infanterie</k> de l'<k>Adeptus Astartes</k> amie. 
+La <b>doctrine d'assaut</b> <u>ou</u> la <b>doctine tactique</b> est active pour votre unité, jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Ultramarines > Supplément de Codex: Ultramarines > Lame d'Ultramar
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 3PdD.
+Doctrines Maîtrisées,  Déplié
+Si votre armée inclut une unité de <k>Marneus Calgar</k>, vous pouvez choisir la <b>doctrine d'assaut/doctrine devastator/ doctrine tactique</b> une fois supplémentaire chacune par bataille. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+Prendre et Tenir
+
+== Référence > Ultramarines > Supplément de Codex: Ultramarines > Lame d'Ultramar > Optimisations
+Armure d'Antoninus, 15 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Cette figurine a :
+<ul><li>Une <b>Sv</b> de 2+.</li><li><b>insensible à la Douleur 5+</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Érudit du Codex, 20 Points, Déplié
+Figurine de <k>Capitaine</k> seulement. La <b>doctrine tactique</b> est active pour cette unité <u>en plus</u> de toute autre <b>doctrine de combat</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Serment de Macragge, 20 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette figurine ont :
+<ul><li>+1 en <b>F</b> et en <b>PA</b>. </li><li><u>Ou :</u> Si la <b>doctrine d'assaut</b> est active pour cette unité, elles ont +2 en <b>F</b> et en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vétéran de Béhémoth, 20 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de tir de cette unité ont <k>[Touches Soutenues 1]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Ultramarines > Supplément de Codex: Ultramarines > Lame d'Ultramar > Stratagèmes
+Adaptabilité Ultramarienne, 1PC, Déplié
+Lame d'Ultramar  
+À votre phase de Commandement. 
+Une unité de l'<k>Adeptus Astartes</k> amie. 
+Choisissez une <b>doctrine de Combat</b>. La <b>doctrine de combat</b> est active pour votre unité jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vigilance Exemplaire, 1PC, Déplié
+Lame d'Ultramar  
+À votre phase de Tir, quand une unité de l'<k>Adeptus Astartes</k> amie est <b>choisie pour tirer</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont <k>[IGNORE LE COUVERT]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Courage et Honneur !, 1PC, Déplié
+Lame d'Ultramar  
+À la phase de Combat, quand une unité de l'<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont <k>[Lance]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Prévoyance Tactique, 1PC, Déplié
+Lame d'Ultramar  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'<k>Adeptus Astartes</k> amie. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les Attaques qui ciblent votre unité avec une <b>F</b> supérieure à son <b>E</b> ont -1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tactiques Pragmatiques, 1PC, Déplié
+Lame d'Ultramar  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Cette unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Armure de Mépris, 1PC, Déplié
+Lame d'Ultramar  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'<k>Adeptus Astartes</k> amie. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques qui ciblent votre unité ont -1 en <b>PA</b> jusqu'à ce que cette unité ennemie ait attaqué. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > White Scars > Supplément de Codex: White Scars > Force Opérationnelle de Pointe de Lance
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Offensive Telle la Tempête,  Déplié
+<ul><li>Vous pouvez choisir la <b>doctrine d'assaut</b> <u>ou</u> la <b>doctrine tactique</b> une fois supplémentaire par bataille.</li><li>Les unités <k>Montées/Speeder</k> de l'<k>Adeptus Astartes</k> amies ont +1 aux <b>jets d'avance</b>.</li></ul>
+
+Les unités de <k>Suboden Khan</k> amies ont l'aptitude suivante:
+
+<b>Colère du Premier Khan:</b> À la fin de la phase de Combat, si cette unité était <b>éligible pour combattre</b> à cette phase, vous pouvez utiliser cette aptitude. Dans ce cas : <ul><li>Si cette unité est <b>non engagée</b>, elle peut faire un <b>mouvement normal</b>.</li><li><u>Ou :</u> Si cette unité est <b>non engagée</b>, elle peut faire un <b>mouvement de retraite</b>.</li></ul>
+<b>Restrictions :</b> Votre armée peut inclure des unités de <k>White Scars</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Reconnaissance
+
+== Référence > White Scars > Supplément de Codex: White Scars > Force Opérationnelle de Pointe de Lance > Optimisations
+Parangon de Pointe de Lance, 25 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette figurine ont :<ul><li>+1 en <b>F</b> et en <b>PA</b>.</li><li><u>Ou :</u> Si cette unité a fait un <b>mouvement de charge</b> à ce tour, elles ont +2 en <b>F</b> et en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Sagesse des Devins d'Orage, 15 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Cette unité peut relancer les <b>jets d'avance</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Maître de Chasse Chogorien, 20 Points, Déplié
+Unité <k>Montée/Speeder</k> de l'<k>Adeptus Astartes</k> seulement. Quand cette unité est choisie pour faire un <b>mouvement d'arrivée</b>, considérez que le numéro du round de bataille en cours est supérieur de 1 à ce qu’il est. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Œil du Chasseur, 25 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de tir ce cette unité ont :<ul><li><k>[IGNORE LE COUVERT]</k>.</li><li> <k>[TOUCHES SOUTENUES 1]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > White Scars > Supplément de Codex: White Scars > Force Opérationnelle de Pointe de Lance > Stratagèmes
+Repli et Regroupement, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À la fin de la phase de Combat adverse. 
+Une unité de <k>Speeder/Montée</k> de l'<k>Adeptus Astartes</k>amie <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Instincts du Chasseur, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'<k>Infanterie/Montée/Speeder</k> de l'<k>Adeptus Astartes</k> amie <b>non engagée</b>. 
+Cette unité d'<k>Infanterie/Montée/Speeder</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Coups de Lance et de Sabre, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À la phase de Combat, quand une unité de l'<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont:<ul><li><k>[TOUCHES FATALES]</k>.</li><li><u>Ou :</u> <k>[LANCE]</k>.</li><li><u>Ou :</u> Si votre unité a le mot-clé <k>Monté</k>, elles ont <k>[TOUCHES FATALES]</k> et <k>[LANCE]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+PIlotes infaillibles, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À votre phase de Mouvement/Charge, quand une unité de <k>Montée</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour être déplacée</b> ou <b>déclare une charge</b>. 
+Cette unité <k>Montée</k> de l'<k>Adeptus Astartes</k>. 
+Votre unité a le mot-clé <k>Mobile</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Manœuvres d'Évasion, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À la phase de Tir adverse, quand une unité ennemie cible une unité de <k>Speeder/Montée</k> de l'<k>Adeptus Astartes</k> amie. 
+Cette unité de <k>Speeder/Montée</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de tir qui ciblent votre unité ont -1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Létalité Véloce, 1PC, Déplié
+Force Opérationnelle de Pointe de Lance  
+À votre phase de Mouvement, quand une unité de l'<k>Adeptus Astartes</k> amie est choisie pour faire un <b>mouvement d'avance/de retraite</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+<ul><li>Ce <b>mouvement de retraite</b> n'empêche pas votre unité d'être <b>éligible pour tirer</b>.</li><li>Les attaques de tir de votre unité ont <k>[ASSAUT]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Deathwatch > Supplément de Codex: Deathwatch > Appui de la Deathwatch
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Tactiques de Mission,  Déplié
+Les unités de <k>KILL TEAM</k> amies avec cette aptitude ont les aptitudes suivantes :
+
+<b>Tactiques Furor</b>: Si la <b>doctrine devastator</b> est active pour votre unité, ses attaques ont <k>[TOUCHES SOUTENUES 1]</k>.
+<b>Tactiques Malleus</b> : Si la <b>doctrine tactique</b> est active pour votre unité, ses attaques ont <k>[TOUCHES FATALES]</k>.
+<b>Tactiques Purgatus</b> : Si la <b>doctrine d'assaut</b> est active pour votre unité, ses attaques qui ciblent une unité ennemie à 9" ou moins d'elle ont <k>[PRÉCISION]<k>.
+
+ALLIÉS DE LA DEATHWATCH
+
+Vous pouvez inclure des unités de la <k>Deathwatch</k> dans votre armée, même si elles n'ont pas le même mot-clé de faction de Chapitre que les autres unités de votre armée. La valeur en points combinée de ces unités ne peut pas dépasser 500 points.
+
+Quand vous rassemblez votre armée, sauf mention contraire, vous ne pouvez pas choisir une figurine de la <k>Deathwatch</k> pour être votre <k>Seigneur de Guerre</k>. De plus, les unités de <k>Kill Team</k> peuvent seulement recevoir des optimisations issues de ce détachement.
+
+<i>Il s'agit d'une exception aux Règles d'Armée des Chapitres Space Marines (p. 156).</i> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Deathwatch > Supplément de Codex: Deathwatch > Appui de la Deathwatch > Optimisations
+Balise Angelis, 25 Points, Déplié
+Figurine de l'<k>ADEPTUS ASTARTES</k> seulement. Si cette unité est de <k>Kill Team</k>, elle a : <ul><li><b>Frappe en Profondeur</b>.</li><li>Quand vous ciblez cette unité avec le <b>stratagème Arrivée Précipitée</b>, cette utilisation coûte -1PC.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Deathwatch > Supplément de Codex: Deathwatch > Appui de la Deathwatch > Stratagèmes
+Munitions Dragonfire, 1PC, Déplié
+Appui de la Deathwatch  
+À votre phase de Tir, quand une unité de <k>KILL TEAM</k> est <b>choisie pour tirer</b>. 
+Cette unité de <k>KILL TEAM</k>. 
+Les attaques de tir de votre unité : <ul><li>Peuvent relancer les <b>jets de blessure</b> de 1.</li><li>Ont <k>[IGNORE LE COUVERT]</k>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Munitions Hellfire, 1PC, Déplié
+Appui de la Deathwatch  
+À votre phase de Tir, quand une unité de <k>KILL TEAM</k> est <b>choisie pour tirer</b>. 
+Cette unité de <k>KILL TEAM</k>. 
+Les attaques de tir de votre unité (attaques à <k>[BLESSURES DÉVASTATRICES]</k> exclues) ont <k>[ANTI</k> <b>≠</b> <k>VÉHICULE 4+]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Munitions Kraken, 1PC, Déplié
+Appui de la Deathwatch  
+À votre phase de Tir, quand une unité de <k>KILL TEAM</k> est <b>choisie pour tirer</b>. 
+Cette unité de <k>KILL TEAM</k>. 
+Les attaques de tir de votre unité ont : <ul><li>+6" en <b>P</b>.</li><li>+1 en <b>F</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Extraction par Corvus Blackstar, 1PC, Déplié
+Appui de la Deathwatch  
+À la fin de la phase de Combat adverse. 
+Une unité de <k>KILL TEAM</k> amie <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Lieutenant en Armure Phobos » > Lieutenant en Armure Phobos, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751509-1-caracteristiques.png | Lieutenant en Armure Phobos. Mouvement : 8". Endurance : 4. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Master-crafted bolt carbine.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 2.
+
+Armes de Tir -  Pistolet Bolter Spécialisé.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. PRÉCISION - Button.
+Armes de Mêlée -  Lames de Combat Monomoléculaires.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. PRÉCISION - Button. TOUCHES SOUTENUES 1 - Button.
+Base :
+INFILTRATEURS | APPUI | ÉCLAIREURS 6" | FRAPPE EN PROFONDEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+PRÉCISION TACTIQUE
+Les attaques de cette unité ont [TOUCHES FATALES : ≠ MONSTRE/VÉHICULE].
+COMMANDANT DE DEMI-COMPAGNIE (UNE FOIS PAR TOUR, PAR UNITÉ)
+Quand une unité de CAPITAINE amie utilise son aptitude Sens Stratégique, vous pouvez utiliser cette aptitude. Dans ce cas, la doctrine de combat choisie est active pour cette unité jusqu’au début de votre prochaine phase de Commandement.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ ELIMINATOR SQUAD
+■ INCURSOR SQUAD
+■ INFILTRATOR SQUAD
+■ REIVER SQUAD
+■ SPECTRUS KILL TEAM
+■ WOLF SCOUTS
+■ Cette figurine peut remplacer son Bolter Spécialisé par 1 Carabine Bolter de Maître.
+
+• 1 figurine de Lieutenant en Armure Phobos
+Cette figurine est équipée de : 1 Lames de Combat Monomoléculaires ; 1 Pistolet Bolter Spécialisé.
+Nom de Figurine | Compte | Points
+Lieutenant en Armure Phobos | 1 | 40
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, EXPLOSIFS, IMPERIUM, INFANTERIE, PHOBOS, FUMÉE
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Master-crafted bolt carbine ; arme parente probable : Carabine Bolter de Maître ; vérifier sur capture
+
+== Référence > Recherche « Lieutenant avec Arme Combinée » > Lieutenant avec Arme Combinée, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751538-1-caracteristiques.png | Lieutenant avec Arme Combinée. Mouvement : 8". Endurance : 4. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Bolter.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. ASSAUT - Button. TIR RAPIDE 1 - Button.
+Armes de Tir -  Lance-flammes.
+Portée : 12".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. ASSAUT - Button. DÉFLAGRATION 1 - Button. TORRENT - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Paire de Lames de Combat.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TOUCHES SOUTENUES 1 - Button.
+Base :
+INFILTRATEURS | INSENSIBLE À LA DOULEUR 5+ | AGENT SOLITAIRE
+DISCRÉTION
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+CIBLE PRIORITAIRE IDENTIFIÉE (UNE FOIS PAR BATAILLE, PAR UNITÉ)
+À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez 1 élément de terrain visible. Ce dernier est identifié jusqu’à la fin du tour. 
+
+• Tant qu’une unité ennemie est dans un élément de terrain identifié, elle a +3" en portée de détection.
+SE DÉROBER ET SURVIVRE (UNE FOIS PAR PHASE, PAR UNITÉ)
+À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins de cette unité, si cette dernière est non engagée, elle peut faire un mouvement normal de D3+3" maximum.
+
+• 1 figurine de Lieutenant avec Arme Combinée
+Cette figurine est équipée de : 1 Arme Combinée ; 1 Paire de Lames de Combat.
+Nom de Figurine | Compte | Points
+Lieutenant avec Arme Combinée | 1 | 85
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, EXPLOSIFS, IMPERIUM, INFANTERIE, PHOBOS, FUMÉE
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Bolter, Lance-flammes ; arme parente probable : Arme Combinée ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751539-2-armes.png
+
+== Référence > Recherche « Capitaine en Armure Terminator » > Capitaine en Armure Terminator, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751572-1-caracteristiques.png | Capitaine en Armure Terminator. Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Damnatus.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 2+.
+Force : 9.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. FUSION 2 - Button.
+Armes de Tir -  Infernus.
+Portée : 12".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 1 - Button. TORRENT - Button.
+Armes de Tir -  Purgatus.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Tir -  Bolter Tempête.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TIR RAPIDE 2 - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Arme Relique.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Gantelet Relique.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Base :
+FRAPPE EN PROFONDEUR | MENEUR
+Aptitudes de Faction :
+STRATÈGE TRANSHUMAIN | DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+VERTU INEXORABLE
+Vous pouvez relancer les jets de charge pour cette unité.
+SENS STRATÉGIQUE
+À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une doctrine de combat afin qu’elle soit active pour cette unité jusqu’au début de votre prochaine phase de Commandement.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ DEATHWATCH TERMINATOR SQUAD
+■ DEATHWING KNIGHTS
+■ DEATHWING TERMINATOR SQUAD
+■ TERMINATOR ASSAULT SQUAD
+■ TERMINATOR SQUAD
+■ WOLF GUARD TERMINATORS
+■ Cette figurine peut remplacer son Arme Relique par 1 Gantelet Relique.
+■ Cette figurine peut remplacer son Bolter Tempête par 1 Arme Combinée.
+
+• 1 figurine de Capitaine en Armure Terminator
+Cette figurine est équipée de : 1 Arme Relique ; 1 Bolter Tempête.
+Nom de Figurine | Compte | Points
+Capitaine en Armure Terminator | 1 | 90
+Taille de Socle
+40mm
+Mots-clés: CAPITAINE, PERSONNAGE, IMPERIUM, INFANTERIE, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Damnatus, Infernus, Purgatus ; arme parente probable : Arme Combinée ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751572-2-armes.png
+
+== Référence > Recherche « Apothicaire Biologis » > Apothicaire Biologis, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751723-1-caracteristiques.png | Apothicaire Biologis. Mouvement : 5". Endurance : 6. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Pistolet Bolter Absolvor.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Servo-armature.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+APPUI
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+ANALYSE DE CIBLAGE VIVISPECTRALE
+Les attaques de cette unité ont [TOUCHES FATALES : ≠ VÉHICULE].
+Cette figurine peut être attachée aux unités suivantes:
+
+■ AGGRESSOR SQUAD
+■ ERADICATOR SQUAD WITH HEAVY BOLTERS
+■ ERADICATOR SQUAD WITH MELTA RIFLES
+■ HEAVY INTERCESSOR SQUAD
+■ INDOMITOR KILL TEAM
+
+• 1 figurine d’Apothicaire Biologis
+Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Servo-armature.
+Nom de Figurine | Compte | Points
+Apothicaire Biologis | 1 | 60
+Taille de Socle
+40mm
+Mots-clés: APOTHICAIRE, PERSONNAGE, GRAVIS, IMPERIUM, INFANTERIE
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Chapelain » > Chapelain, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751760-1-caracteristiques.png | Chapelain. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 5+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Pistolet Bolter Absolvor.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Crozius Arcanum.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. ABATTAGE 1 - Button.
+Base :
+MENEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+LITANIE DE LA HAINE
+Les attaques de mêlée de cette unité ont [LANCE].
+CHEF SPIRITUEL (UNE FOIS PAR ROUND DE BATAILLE, PAR UNITÉ)
+Au début de n’importe quelle phase, vous pouvez choisir une unité de l’ADEPTUS ASTARTES amie ébranlée et 6" ou moins de cette figurine. L’unité choisie n’est plus ébranlée.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ ASSAULT INTERCESSOR SQUAD
+■ BLADEGUARD VETERAN SQUAD
+■ CRUSADER SQUAD
+■ DEATH COMPANY MARINES
+■ DEATHWATCH VETERANS
+■ DECIMUS KILL TEAM
+■ FORTIS KILL TEAM
+■ HELLBLASTER SQUAD
+■ INFERNUS SQUAD
+■ INNER CIRCLE COMPANIONS
+■ INTERCESSOR SQUAD
+■ STERNGUARD VETERAN SQUAD
+■ SWORD BRETHREN SQUAD
+■ VANGUARD VETERAN SQUAD
+
+• 1 figurine de Chapelain
+Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Crozius Arcanum.
+Nom de Figurine | Compte | Points
+Chapelain | 1 | 60
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Apothicaire » > Apothicaire, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751796-1-caracteristiques.png | Apothicaire. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Pistolet Bolter Absolvor.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Pistolet Reductor.
+Portée : Melee.
+Attaques : 1.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -4.
+Dégats : 2.
+Aptitudes d'Arme. ATTAQUES BONUS - Button.
+Armes de Mêlée -  Servo-armature.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+APPUI
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+NARTHECIUM
+À votre phase de Commandement, cette unité soigne D3+1 PV.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ ASSAULT INTERCESSOR SQUAD
+■ BLADEGUARD VETERAN SQUAD
+■ COMPANY HEROES
+■ CRUSADER SQUAD
+■ DEATHWATCH VETERANS
+■ DECIMUS KILL TEAM
+■ DESOLATION SQUAD
+■ FORTIS KILL TEAM
+■ HELLBLASTER SQUAD
+■ INFERNUS SQUAD
+■ INNER CIRCLE COMPANIONS
+■ INTERCESSOR SQUAD
+■ STERNGUARD VETERAN SQUAD
+■ SWORD BRETHREN SQUAD
+
+• 1 figurine d’Apothicaire
+Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Pistolet Reductor ; 1 Servo-armature.
+Nom de Figurine | Compte | Points
+Apothicaire | 1 | 45
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Dreadnought Ballistus » > Dreadnought Ballistus, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751832-1-caracteristiques.png | Dreadnought Ballistus. Mouvement : 8". Endurance : 10. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 4.
+Armes de Tir -  Bolters Tempête.
+Portée : 24".
+Attaques : 4.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TIR RAPIDE 4 - Button.
+Armes de Tir -  Canon Laser Ballistus.
+Portée : 48".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 12.
+Pénétration d'Armure : -3.
+Dégats : D3+3.
+
+Armes de Tir -  Frag..
+Portée : 48".
+Attaques : D6+6.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 2 - Button.
+Armes de Tir -  Antichar.
+Portée : 48".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -2.
+Dégats : D3+3.
+
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Pieds Blindés.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 3+.
+Force : 7.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+DESTRUCTION NÉFASTE D3 | ENDOMMAGÉ 4
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+FRAPPE BALLISTUS
+Les attaques de tir de cette unité qui ciblent une unité ennemie à 24" ou moins d’elle ont [TOUCHES SOUTENUES 1].
+
+• 1 figurine de Dreadnought Ballistus
+Cette figurine est équipée de : 1 Pieds Blindés ; 1 Canon Laser Ballistus ; 1 Lance-missiles Ballistus ; 1 Bolters Tempête.
+Nom de Figurine | Compte | Points
+Dreadnought Ballistus | 1 | 150
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +20 pts.
+Taille de Socle
+90mm
+Mots-clés: DREADNOUGHT, IMPERIUM, VÉHICULE, MARCHEUR
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Frag, Antichar ; arme parente probable : Lance-missiles Ballistus ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792751832-2-armes.png
+
+== Référence > Recherche « Escouade Infernus » > Escouade Infernus, Codex: Space Marines
+Sergent Infernus
+Marine Infernus, Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Pyroéclateur.
+Portée : 12".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 1 - Button. TORRENT - Button.
+Armes de Mêlée -  Poings de Céramite.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+CHASSÉS DU COUVERT
+À votre phase de Tir, une fois que cette unité a tiré, choisissez une unité ennemie touchée par ces attaques. Les attaques de tir des unités de l’ADEPTUS ASTARTES amies qui ciblent l’unité ennemie choisie ont [IGNORE LE COUVERT].
+
+• 1 figurine de Sergent Infernus
+• 4-9 figurines de Marine Infernus
+Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Pyroéclateur.
+Nom de Figurine | Compte | Points
+Sergent Infernus | 1
+95
+Marine Infernus | 4
+Sergent Infernus | 1
+190
+Marine Infernus | 9
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +10 pts.
+Taille de Socle
+32mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Escouade Incursor » > Escouade Incursor, Codex: Space Marines
+Incursor, Mouvement : 8". Endurance : 4. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Sergent Incursor
+Armes de Tir -  Carabine Bolter Occulus.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. ASSAUT - Button. IGNORE LE COUVERT - Button.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Paire de Lames de Combat.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TOUCHES SOUTENUES 1 - Button.
+Base :
+ÉCLAIREURS 6"
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+MINE DISRUPTRICE (UNE FOIS PAR BATAILLE, PAR UNITÉ)
+À votre phase de Tir, vous pouvez choisir une unité ennemie visible à 6" ou moins de cette unité et jeter un D6. Sur 2+ :
+• L’unité ennemie choisie subit D3 blessures mortelles.
+• Ou : Si l’unité ennemie choisie est une unité de VÉHICULE, elle subit 2D3 blessures mortelles.
+AUSPEX DE CLASSE DIVINATOR (UNE FOIS PAR PHASE, PAR UNITÉ)
+À votre phase de Tir, quand une unité de l’ADEPTUS ASTARTES amie est choisie pour tirer, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une unité ennemie visible et à 18" ou moins de cette unité. L’unité choisie est scannée :
+
+• Tant qu’une unité est scannée, les attaques de tir qui la ciblent peuvent relancer les jets de touche de 1.
+
+• 1 figurine de Sergent Incursor
+• 4-9 figurines d’Incursor
+Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Carabine Bolter Occulus ; 1 Paire de Lames de Combat.
+Nom de Figurine | Compte | Points
+Incursor | 4
+90
+Sergent Incursor | 1
+Incursor | 9
+170
+Sergent Incursor | 1
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +10 pts.
+Taille de Socle
+32mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, PHOBOS, FUMÉE
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Escouade Infiltrator » > Escouade Infiltrator, Codex: Space Marines
+Infiltrator, Mouvement : 8". Endurance : 4. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Sergent Infiltrator
+Armes de Tir -  Carabine Bolter d’Élite.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. PRÉCISION - Button. TIR RAPIDE 1 - Button.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Poings de Céramite.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+INFILTRATEURS
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+OMNIBROUILLEURS
+À votre phase de Tir, vous pouvez choisir une unité ennemie visible et à 18" ou moins de cette unité. L’unité choisie est détectée :
+
+• Tant qu’une unité est détectée, elle a +3" en portée de détection.
+Gantelet Helix
+À votre phase de Commandement, cette unité soigne D3 blessures.
+■ 1 figurine peut être équipée de 1 Gantelet Helix.
+
+• 1 figurine de Sergent Infiltrator
+• 4-9 figurines d’Infiltrator
+Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Carabine Bolter d’Élite.
+Nom de Figurine | Compte | Points
+Infiltrator | 4
+85
+Sergent Infiltrator | 1
+Infiltrator | 9
+150
+Sergent Infiltrator | 1
+Taille de Socle
+32mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, PHOBOS, FUMÉE
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Escouade Eliminator » > Escouade Eliminator, Codex: Space Marines
+Sergent Eliminator
+Eliminator, Mouvement : 8". Endurance : 4. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Arquebuse Laser.
+Portée : 36".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -3.
+Dégats : D3+3.
+Aptitudes d'Arme. LOURD - Button.
+Armes de Tir -  Carabine Bolter Instigator.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. TOUCHES FATALES: ≠ MONSTRE/VÉHICULE - Button. PRÉCISION - Button. TIR RAPIDE 2 - Button.
+Armes de Tir -  Fusil Bolter de Sniper.
+Portée : 36".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 3.
+Aptitudes d'Arme. LOURD - Button. PRÉCISION - Button.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Poings de Céramite.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+INFILTRATEURS | DISCRÉTION
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+CAPES DE CAMÉLÉOLIN
+Cette unité a -3" en portée de détection.
+OPTIQUES ET MUNITIONS SPÉCIALISÉES
+À votre phase de Tir, quand cette unité est choisie pour tirer, vous pouvez faire un des choix suivants :
+• Les attaques de tir de cette unité ont [IGNORE LE COUVERT].
+• Ou : choisissez une unité ennemie à 24" ou moins de cette unité. L’unité ennemie choisie a +6" en portée de détection jusqu’à ce que cette unité ait tiré.
+■ Le Sergent Eliminator peut remplacer son Fusil Bolter de Sniper par un des choix suivants :
+▫ 1 Carabine Bolter Instigator
+▫ 1 Arquebuse Laser
+■ Toutes les figurines d’Eliminator de cette unité peuvent chacune remplacer leur Fusil Bolter de Sniper par 1 Arquebuse Laser.
+
+• 1 figurine de Sergent Eliminator
+• 2 figurines d’Eliminator
+Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Fusil Bolter de Sniper ; 1 Poings de Céramite.
+Nom de Figurine | Compte | Points
+Sergent Eliminator | 1
+85
+Eliminator | 2
+Taille de Socle
+40mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, PHOBOS, FUMÉE
+Mots-clés de Faction: ADEPTUS ASTARTES
+
+== Référence > Recherche « Escouade Terminator » > Escouade Terminator, Codex: Space Marines
+Terminator, Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : 3. Commandement : 6+. Contrôle d'Objectif : 1.
+Sergent Terminator
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Bolter Tempête.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TIR RAPIDE 2 - Button.
+Armes de Tir -  Canon d’Assaut.
+Portée : 24".
+Attaques : 6.
+Capacité de Tir : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. TOUCHES SOUTENUES 1 - Button.
+Armes de Tir -  Lance-flammes Lourd.
+Portée : 12".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 2 - Button. TORRENT - Button.
+Armes de Tir -  Frag..
+Portée : 36".
+Attaques : 8.
+Capacité de Tir : 3+.
+Force : 4.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 2 - Button.
+Armes de Tir -  Antichar.
+Portée : 36".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -2.
+Dégats : D3+3.
+
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Armes de Mêlée -  Arme Énergétique.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 1.
+
+Armes de Mêlée -  Gantelet Énergétique.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Chasseur.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 12.
+Pénétration d'Armure : -2.
+Dégats : 3.
+
+Armes de Mêlée -  Standard.
+Portée : Melee.
+Attaques : 2.
+Capacité de Combat : 4+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Base :
+FRAPPE EN PROFONDEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+COLÈRE DE L’ÉLITE
+Les attaques de cette unité qui ciblent une unité à 9" ou moins d’elle unité ont +1 en PA.
+BALISE DE TÉLÉPORTATION (UNE FOIS PAR BATAILLE, PAR UNITÉ)
+Au début de la bataille, vous pouvez placer un pion de Balise de Téléportation pour cette unité sur le champ de bataille. Dans ce cas :
+• Quand vous ciblez cette unité avec le stratagème Arrivée Précipitée, vous pouvez utiliser ce pion de Balise de Téléportation. Dans ce cas, cette utilisation se fait à -1 PC, mais en résolvant ce stratagème, cette unité doit être placée à 3" ou moins de ce pion et à plus de 8" des unités ennemies. Ce pion de Balise de Téléportation est alors retiré du champ de bataille.
+• Si une unité ennemie finit un mouvement à 1" ou moins de ce pion de Balise de Téléportation, ce dernier est retiré du champ de bataille.
+■ Le Sergent Terminator peut remplacer son Gantelet Énergétique par un des choix suivants :
+▫ 1 Poing Tronçonneur
+▫ 1 Arme Énergétique
+■ Chaque figurine de Terminator (n’importe quel nombre) peut remplacer son Gantelet Énergétique par 1 Poing Tronçonneur.
+■ Par tranche de 5 figurines dans cette unité, 1 figurine de Terminator peut remplacer son Bolter Tempête par un des choix suivants :
+▫ 1 Canon d’Assaut
+▫ 1 Lance-flammes Lourd
+▫ 1 Lance-missiles Cyclone et 1 Bolter Tempête (le Bolter Tempête de cette figurine ne peut pas être remplacé).
+
+• 1 figurine de Sergent Terminator
+• 4-9 figurines de Terminator
+Chaque figurine est équipée de : 1 Gantelet Énergétique ; 1 Bolter Tempête.
+Nom de Figurine | Compte | Points
+Terminator | 4
+190
+Sergent Terminator | 1
+Terminator | 9
+380
+Sergent Terminator | 1
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +40 pts.
+Taille de Socle
+40mm
+Mots-clés: IMPERIUM, INFANTERIE, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Frag, Antichar, Chasseur, Standard ; arme parente probable : Poing Tronçonneur ou figurine de Terminator peut remplacer son Bolter Tempête un des choix suivants ou Lance-missiles Cyclone et 1 Bolter Tempête (le Bolter Tempête de cette figurine ne peut pas être remplacé) ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752057-2-armes.png
+
+== Référence > Recherche « Escouade de Vétérans d’Appui » > Escouade de Vétérans d’Appui, Codex: Space Marines
+Vétéran d’Appui, Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Sergent Vétéran d’Appui
+Armes de Tir -  Damnatus.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 9.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. ASSAUT - Button. FUSION 2 - Button.
+Armes de Tir -  Infernus.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. ASSAUT - Button. TIR RAPIDE 2 - Button.
+Armes de Tir -  Purgatus.
+Portée : 24".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. ASSAUT - Button. TIR RAPIDE 1 - Button.
+Armes de Tir -  Bolter Lourd.
+Portée : 36".
+Attaques : 3.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. LOURD - Button. TIR RAPIDE 2 - Button. TOUCHES SOUTENUES 1 - Button.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Armes de Mêlée -  Arme Énergétique.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 1.
+
+Armes de Mêlée -  Gantelet Énergétique.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Poings de Céramite.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Armes de Mêlée -  Épée Tronçonneuse.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+TIREURS DE PRÉCISION VÉTÉRANS
+Les attaques de tir de cette unité peuvent relancer les jets de touche de 1.
+■ Le Sergent Vétéran d’Appui peut remplacer son Épée Tronçonneuse par un des choix suivants :
+▫ 1 Gantelet Énergétique
+▫ 1 Arme Énergétique
+■ Par tranche de 5 figurines dans cette unité, 1 figurine de Vétéran d’Appui peut remplacer son Arme à Feu d’Artificier par un des choix suivants :
+▫ 1 Bolter Lourd
+▫ 1 Pyrocanon
+
+• 1 figurine de Sergent Vétéran d’Appui
+• 4-9 figurines de Vétéran d’Appui
+Le Sergent Vétéran d’Appui est équipé de : 1 Arme à feu d’artificier ; 1 Pistolet Bolter ; 1 Épée Tronçonneuse.
+Chaque Vétéran d’Appui est équipé de : 1 Arme à feu d’artificier ; 1 Pistolet Bolter ; 1 Poings de Céramite.
+Nom de Figurine | Compte | Points
+Vétéran d’Appui | 4
+105
+Sergent Vétéran d’Appui | 1
+Vétéran d’Appui | 9
+210
+Sergent Vétéran d’Appui | 1
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +15 pts.
+Taille de Socle
+32mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Damnatus, Infernus, Purgatus, Pistolet Bolter, Poings de Céramite, Épée Tronçonneuse ; arme parente probable : figurine de Vétéran d’Appui peut remplacer son Arme à Feu d’Artificier un des choix suivants ou Pyrocanon ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752096-2-armes.png
+
+== Référence > Recherche « Intercessors d’Assaut à Réacteurs Dorsaux » > Intercessors d’Assaut à Réacteurs Dorsaux, Codex: Space Marines
+Sergent Intercessor d’Assaut à Réacteur Dorsal
+Intercessor d’Assaut à Réacteur Dorsal, Mouvement : 12". Endurance : 5. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Lance-flammes Léger.
+Portée : 9".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. TORRENT - Button.
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Standard.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Surcharge.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 8.
+Pénétration d'Armure : -3.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. À RISQUE - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Armes de Mêlée -  Gantelet Énergétique.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Épée Tronçonneuse.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+
+Base :
+FRAPPE EN PROFONDEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+MARTEAU DE FUREUR
+Quand cette unité finit un mouvement de charge, vous pouvez choisir une unité ennemie engagée avec elle. Pour chaque figurine de cette unité engagée avec l’unité ennemie choisie, jetez un D6 :
+
+• Sur 4+, l’unité ennemie choisie subit 1 blessure mortelle.
+■ Le Sergent Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+▫ 1 Lance-flammes Léger
+▫ 1 Pistolet à Plasma
+■ Le Sergent Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Épée Tronçonneuse par un des choix suivants :
+▫ 1 Gantelet Énergétique
+▫ 1 Arme Énergétique
+■ Par tranche de 5 figurines dans cette unité, 1 figurine d’Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Pistolet Bolter Lourd par 1 Pistolet à Plasma.
+
+• 1 figurine de Sergent Intercessor d’Assaut à Réacteur Dorsal
+• 4-9 figurines d’Intercessor d’Assaut à Réacteur Dorsal
+Chaque figurine est équipée de : 1 Épée Tronçonneuse ; 1 Pistolet Bolter Lourd.
+Nom de Figurine | Compte | Points
+Sergent Intercessor d’Assaut à Réacteur Dorsal | 1
+95
+Intercessor d’Assaut à Réacteur Dorsal | 4
+Sergent Intercessor d’Assaut à Réacteur Dorsal | 1
+190
+Intercessor d’Assaut à Réacteur Dorsal | 9
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +10 pts.
+Taille de Socle
+32mm
+Mots-clés: EXPLOSIFS, VOL, IMPERIUM, INFANTERIE, RÉACTEUR DORSAL, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Standard, Surcharge ; arme parente probable : Pistolet à Plasma ou Arme Énergétique ou figurine d’Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Pistolet Bolter Lourd 1 Pistolet à Plasma ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752134-2-armes.png
+
+== Référence > Recherche « Archiviste en Armure Terminator » > Archiviste en Armure Terminator, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752720-1-caracteristiques.png | Archiviste en Armure Terminator. Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Bolter Tempête.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TIR RAPIDE 2 - Button.
+Armes de Tir -  Feu Sorcier Focalisé.
+Portée : 24".
+Attaques : D3+3.
+Capacité de Tir : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. BLESSURES DÉVASTATRICES - Button. À RISQUE - Button. PSYCHIQUE - Button.
+Armes de Tir -  Feu Sorcier.
+Portée : 24".
+Attaques : D6.
+Capacité de Tir : 3+.
+Force : 6.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. PSYCHIQUE - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Arme de Force.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. PSYCHIQUE - Button.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Base :
+FRAPPE EN PROFONDEUR | MENEUR
+Aptitudes de Faction :
+LIBRARIUS | DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+COIFFE PSYCHIQUE (PSYCHIQUE) (PSYCHIQUE)
+Cette unité a Insensible à la Douleur 4+ contre les attaques psychiques.
+ARCHIVISTE (NIVEAU DE PSYKER 1)
+Cette figurine a les aptitudes psychiques listées dans la section Aptitudes Psychiques.
+PUISSANCE DES HÉROS (NIVEAU PSYCHIQUE 1)
+À la phase de Combat, si cette unité n’est pas ébranlée, vous pouvez faire un jet psychique pour elle en jetant un D6. Dans ce cas :
+
+• Sur un résultat de 1, cette unité est ébranlée.
+
+• Les attaques de mêlée de cette unité ont +2 en F.
+FORCE DU TONNERRE (NIVEAU PSYCHIQUE 1)
+À votre phase de Tir, si cette unité n’est pas ébranlée, vous pouvez faire un jet psychique pour elle en jetant un D6. Dans ce cas :
+
+• Sur un résultat de 1, cette unité est ébranlée.
+
+• Les attaques de tir de cette unité ont +6" en P.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ DEATHWATCH TERMINATOR SQUAD
+■ DEATHWING KNIGHTS
+■ DEATHWING TERMINATOR SQUAD
+■ TERMINATOR ASSAULT SQUAD
+■ TERMINATOR SQUAD
+■ WOLF GUARD TERMINATORS
+
+• 1 figurine d’Archiviste en Armure Terminator
+Cette figurine est équipée de : 1 Arme de Force ; 1 Châtiment ; 1 Bolter Tempête.
+Nom de Figurine | Compte | Points
+Archiviste en Armure Terminator | 1 | 80
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, IMPERIUM, INFANTERIE, PSYKER, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Feu Sorcier Focalisé, Feu Sorcier ; arme parente probable : Châtiment ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752720-2-armes.png
+
+== Référence > Recherche « Escouade d’Assaut Intercessor » > Escouade d’Assaut Intercessor, Codex: Space Marines
+Intercessor d’Assaut, Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : 2. Commandement : 6+. Contrôle d'Objectif : 2.
+Sergent Intercessor d’Assaut
+Armes de Tir -  Lance-flammes Léger.
+Portée : 9".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. TORRENT - Button.
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Standard.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Surcharge.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 8.
+Pénétration d'Armure : -3.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. À RISQUE - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+(profil manquant relevé sur capture de l'appli, 23/10/2026)
+Armes de Mêlée -  Arme Énergétique.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 1.
+
+Armes de Mêlée -  Gantelet Énergétique.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Marteau Tonnerre.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 4+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 3.
+Aptitudes d'Arme. BLESSURES DÉVASTATRICES - Button.
+Armes de Mêlée -  Épée Tronçonneuse.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+INTERCESSION CIBLÉE
+Si cette unité a fait un mouvement de charge à ce tour, ses attaques de mêlée ont +1 en F et en PA.
+■ Le Sergent Intercessor d’Assaut peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+▫ 1 Lance-flammes Léger
+▫ 1 Pistolet à Plasma
+■ Le Sergent Intercessor d’Assaut peut remplacer son Épée Tronçonneuse par un des choix suivants :
+▫ 1 Gantelet Énergétique
+▫ 1 Arme Énergétique
+▫ 1 Marteau Tonnerre
+
+• 1 figurine de Sergent Intercessor d’Assaut
+• 4-9 figurines d’Intercessor d’Assaut
+Chaque figurine est équipée de : 1 Épée Tronçonneuse ; 1 Pistolet Bolter Lourd.
+Nom de Figurine | Compte | Points
+Intercessor d’Assaut | 4
+85
+Sergent Intercessor d’Assaut | 1
+Intercessor d’Assaut | 9
+170
+Sergent Intercessor d’Assaut | 1
+Taille de Socle
+32mm
+Mots-clés: LIGNE, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Standard, Surcharge ; arme parente probable : Pistolet à Plasma ou Arme Énergétique ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752770-2-armes.png
+
+== Référence > Recherche « Suppressor » > Substituts Légendaires
+Substituts Légendaires,  Déplié
+Escouade Devastator:
+• Escouade Desolator
+Lieutenant en Armure Reiver, Sergent Telion: 
+• Lieutenant en Armure Phobos
+Marneus Calgar en Armure d'Antilochus: 
+• Marneus Calgar
+Escouade Suppressor:
+• Escouade Inceptor
+Escouade Tactique:
+• Escouade Intercessor
+Ferren Aerios, Pedro Kantor, Uriel Ventris, Champion de Compagnie Primaris:
+• Capitaine
+Land Raider Helios, Land Raider Prometheus, Land Raider Terminus Ultra, Land Raider Proteus, Land Raider Achilles, Char d'Assaut Spartan: 
+• Land Raider 
+Predator Deimos:
+• Predator Destructor 
+Dreadnought Vénérable Chapelain, Dreadnought Ironclad:
+• Dreadnought Vénérable 
+Land Speeder Tempest, Land Speeder Tornado, Land Speeder Typhoon, Land Speeder Storm:
+• Land Speeder 
+Carab Culln the Risen, Dreadnought Contemtor Relique, Dreadnought Leviathan:
+• Dreadnought Redemptor
+Caestus Assault Ram, Intercepteur Xiphon, Escorteur Storm Eagle, Escorteur Fire Raptor: 
+• Escorteur Stormraven
+Sergent Chronus: 
+• Lieutenant
+Motards Vétérans de Compagnie, Escouade de Motards:
+• Outriders
+Transporteur Thunderhawk, Stormbird Modèle Sokar:
+• Escorteur Thunderhawk
+Canon Thunderfire:
+• Servo-tourelles Firestrike
+Chapelain Cassius:
+• Chapelain
+Escouade d'Assaut:
+• Escouade d'Assaut Intercessor
+Escouade d'Assaut à Réacteurs Dorsaux:
+• Escouade d'Assaut Intercessor à Réacteurs Dorsaux
+Escouade d'État-Major:
+• Héros de Compagnie
+Escouade Terminator Relique:
+• Escouade Terminator d'Assaut
+Escouade de Scouts Snipers:
+• Escouade de Scouts
+Vétérans de la Guerre Tyranique:
+• Escouade de Vétérans d'Appui 
+Escouade de Motos d'Assaut:
+• Quad Invader
+Hunter, Stalker, Whirlwind Scorpius: 
+• Whirlwind
+Dreadnought Deredeo:
+• Dreadnought Ballistus
+Speeder d'Attaque Javelin:
+• Storm Speeder Hailstrike
+Module de Largage Death Storm, Module de Largage à Dreadnought:
+• Module de Largage
+Vindicator à Destructeur Laser:
+• Vindicator
+Char de Combat Super-lourd Fellblade:
+• Astraeus 
+
+== Vérifications sur captures de l'appli (23/10/2026)
+Les 16 fiches ont été comparées à des captures de l'appli (non versionnées). Écarts avec la sortie texte ci-dessus :
+PV non exposés (%wounds@), lus sur capture : Lieutenant en Armure Phobos 4 ; Lieutenant avec Arme Combinée 4 ; Capitaine en Armure Terminator 6 ; Archiviste en Armure Terminator 5 ; Apothicaire Biologis 5 ; Chapelain 4 ; Apothicaire 4 ; Dreadnought Ballistus 12.
+Noms complets des armes à profils : Arme Combinée - Bolter / - Lance-flammes (Lieutenant avec Arme Combinée) ; Arme Combinée - Damnatus / - Infernus / - Purgatus (Capitaine en Armure Terminator) ; Châtiment - Feu Sorcier Focalisé / - Feu Sorcier (Archiviste en Armure Terminator) ; Lance-missiles Ballistus - Frag. / - Antichar ; Pistolet à Plasma - Standard / - Surcharge (Escouade d’Assaut Intercessor, Intercessors d’Assaut à Réacteurs Dorsaux) ; Lance-missiles Cyclone - Frag. / - Antichar, Poing Tronçonneur - Chasseur / - Standard (Escouade Terminator) ; Arme à feu d'Artificier - Damnatus / - Infernus / - Purgatus (Escouade de Vétérans d’Appui).
+Aptitude d'arme affichée en onglet, absente du texte : Poing Tronçonneur - Chasseur, CHASSEUR : MONSTRE/VÉHICULE (Escouade Terminator).
+Profils perdus au raccord : Pyrocanon, 12", A 4, CT -, F 6, PA -1, D 1, DÉFLAGRATION 2, TORRENT (Escouade de Vétérans d’Appui) ; Arme Énergétique, Mêlée, A 4, CC 3+, F 5, PA -2, D 1 (Intercessors d’Assaut à Réacteurs Dorsaux ; Escouade d’Assaut Intercessor, déjà ajoutée plus haut).
+Bandeaux « Sergent … » : ils ne se déplient pas ; l'appli n'affiche qu'un profil pour les figurines nommées.

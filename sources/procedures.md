@@ -63,7 +63,7 @@ disparaît ou se réduit aux Legends.
   contenu fait foi.
 - La version française garde des résidus non traduits (« Power of the Hive Mind »,
   « Chameleonic ») et des fautes de la source (virgule manquante dans les gardes du corps
-  de Marneus Calgar) : recopiés tels quels, signalés.
+  de Marneus Calgar en v1.5, corrigée en v1.6) : recopiés tels quels, signalés.
 
 ### API des téléchargements de Warhammer Community
 

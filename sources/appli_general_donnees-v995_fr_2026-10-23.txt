@@ -1,0 +1,141 @@
+== Référence > Règles de Base > 25. Rassembler les Armées
+Rassembler les Armées,  Déplié
+Les règles suivantes vous expliquent comment créer une armée à partir d’une liste de figurines et d’unités de votre collection de Warhammer 40,000. 
+Commencer sa Feuille d'Armée,  Déplié
+Il faut noter les détails de votre armée sur une feuille d’armée. Vous pouvez soit l’écrire, soit utiliser l’appli Warhammer 40,000. Chaque joueur doit présenter sa liste d’armée à son adversaire avant le début de la bataille. 
+Choisir une Faction d’Armée,  Déplié
+Notez un mot-clé de faction sur votre feuille d’armée; il s’agit de votre <b>faction d'armée</b>. 
+Choisir le Format de la Bataille,  Déplié
+Avec votre adversaire, choisissez un des formats de bataille ci-dessous. Cela déterminera le nombre total de points (parfois appelé total en points) que chaque joueur peut dépenser pour constituer son armée. Les valeurs en points des unités se trouvent dans l’appli Warhammer 40,000. Vous devez vous référer à ces valeurs lorsque vous constituez votre armée.
+
+Le format de la bataille déterminera également le nombre de Points de Détachement (PdD) avec lesquels les joueurs pourront débloquer des <b>détachements</b>, le nombre d’unités ayant le même nom de fiche technique qu’ils pourront inclure dans leur armée, et le nombre d’<b>optimisations</b> qu'ils pourront inclure dans leur armée.
+
+Ces détails sont résumés ci-dessous.
+<table>
+  <tr>
+    <td>FORMAT DE LA BATAILLE</td>
+    <td>Total en Points</td>
+    <td>Points de Détachement (PdD)</td>
+    <td>Limite d’Optimisations</td>
+    <td>Limite d’Unité*</td>
+  </tr>
+  <tr>
+    <td>INCURSION</td>
+    <td>1000</td>
+    <td>2</td>
+    <td>2</td>
+    <td>2</td>
+  </tr>
+   <tr>
+    <td>FORCE DE FRAPPE</td>
+    <td>2000</td>
+    <td>3</td>
+    <td>4</td>
+    <td>3</td>
+  </tr>
+</table>
+
+* La limite d’unités pour les unités de <k>LIGNE</k> et de <k>TRANSPORT ASSIGNÉ</k> est le double du nombre correspondant indiqué ci-dessous, et chaque <k>HÉROS ÉPIQUE</k> a une limite de 1, quel que soit le format de la bataille. 
+Remplir Votre Feuille d'Armée,  Déplié
+Vous allez à présent choisir vos <b>détachements</b>, vos unités, votre <k>seigneur de guerre</k> et les <b>optimisations</b> qui seront dans votre armée. Vous attacherez aussi vos unités de <b>meneurs</b> et d'<b>appui</b> aux autres unités.
+
+Ce faisant:
+<ul><li>Vous ne pouvez pas dépasser les valeurs présentées dans le tableau Choisir le Format de la Bataille (25.03). Par exemple, pour une bataille d'Incursion, vous ne pouvez pas ajouter de <b>détachements</b> pour une valeur de plus de 2 PdD.</li><li>Aucune unité (y compris les unités <b>attachées</b>) ne peut avoir plus d'une <b>optimisation</b>.</li><li>Votre Feuille d'Armée doit suivre toutes les restrictions qui lui sont imposées par les règles et les unités qu'elle inclut.</li></ul>
+
+
+<b>CHOISIR DES DÉTACHEMENTS</b>
+
+Vous pouvez à présent utiliser vos PdD pour choisir des <b>détachements</b> pour votre armée. Vous pouvez choisir seulement ceux accessibles à votre <b>faction d'armée</b>. Chacun vous donnera accès à différentes <b>dispositions de force</b>, <b>règles de détachement</b>, <b>optimisations</b> et/ou <b>stratagèmes</b> à utiliser pour la bataille à venir. Vous ne pouvez pas choisir le même <b>détachement</b> plus d'une fois. Notez les <b>détachements</b> choisis sur votre feuille d'armée.
+
+Notez que certaines <b>règles de détachement</b> listent des unités et d'autres <b>détachement</b> que votre armée doit soit inclure, soit ne pas inclure; vous devez suivre ces règles quand vous composez votre armée avec les <b>détachements</b> choisis. 
+
+<b>CHOISIR DES UNITÉS</b>
+
+Choisissez toutes les unités que vous voulez inclure à votre armée. Vous pouvez seulement choisir des unités ayant votre mot-clé de faction et des unités accessibles à votre <b>faction d'armée</b>. Chaque fois que vous incluez une unité à votre armée, elle peut prendre tous les équipements et options auxquels elle a accès. Notez sur votre feuille d'armée le nombre de figurines dans l'unité, ses équipements et ses améliorations, et sa valeur en points.
+
+Choisissez 1 unité de <k>PERSONNAGE</k> pour qu'elle soit votre unité de Seigneur de Guerre. Il doit s'agir d'une unité qui a le mot-clé de faction que vous avez choisi comme <b>faction d'armée</b>. Puis choisissez 1 figurine de <k>PERSONNAGE</k> dans cette unité pour qu'elle soit votre Seigneur de Guerre, le chef suprême de votre armée, et notez-le sur votre feuille d'armée. Cette figurine gagne le mot-clé <k>SEIGNEUR DE GUERRE</k>. Certaines unités ont une règle sur leur fiche technique stipulant qu'elles doivent être votre <k>SEIGNEUR DE GUERRE</k>. Si vous voulez inclure une ou plusieurs de ces unités dans votre armée, vous devez en choisir une pour qu'elle soit votre <k>SEIGNEUR DE GUERRE</k>. Les règles qui stipulent qu'une figurine ne peut pas être votre <k>Seigneur de Guerre</k> prennent le pas sur celles qui impose qu'elle soit votre <k>Seigneur de Guerre</k>.
+
+<b>ATTACHER LES UNITÉS DE MENEUR ET D'APPUI</b>
+
+Vous pouvez attacher chaque unité de <b>meneur</b> et d'<b>appui</b> sur votre feuille à une unité de <b>gardes du corps</b> qu'elle peut rejoindre, selon les règles pour Former des Unités Attachées (19.01). Chaque unité d'<b>appui</b> de votre feuille doit être attachée à une unité de <b>gardes du corps</b>.
+
+<b>CHOISIR DES OPTIMISATIONS</b>
+
+Choisissez toutes les <b>optimisations</b> que vous voulez inclure à partir des <b>détachements</b> que vous avez choisis, et donnez chacune d'elles à une unité différente de votre armée. Ce faisant, augmentez en conséquence les valeurs en points de ces unités. Les valeurs en points des <b>optimisations</b> se trouvent dans l'appli Warhammer 40,000. 
+
+Sauf mention contraire:<ul><li>Seules les unités de <k>PERSONNAGE</k> peuvent recevoir des <b>optimisations</b>. Si une telle unité contient plus d'une figurine, choisissez 1 figurine de <k>PERSONNAGE</k> de l'unité à laquelle donner cette <b>optimisation</b>.</li><li>Les figurines de <k>HÉROS ÉPIQUE</k> ne peuvent pas recevoir d'optimisations.</li><li>Votre armée ne peut pas inclure plus d'un exemplaire de la même <b>optimisation</b>.</li></ul><b>Améliorations:</b> Certaines <b>optimisations</b> ont l'étiquette "Amélioration". Contrairement aux autres <b>optimisations</b>:<ul><li>Vous pouvez les donner à des unités autres que <k>Personnage</k>.</li><li>Vous pouvez inclure jusqu'à trois exemplaires de la même Amélioration dans votre armée (la deuxième et la troisième occurrence de la même Amélioration ne comptent pas dans le nombre total d'<b>optimisations</b> de votre armée, mais vous devez ajouter à chaque fois leur coût en points).</li></ul>
+
+** Si vous livrez une bataille d'Incursion, vous pouvez choisir un 3DP <b>détachement</b> à 3PD comme seul <b>détachement</b>. 
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+(contrôle sur capture du 23/10/2026 : la répétition du bloc 25.03 venait du raccord, retirée ; rien ne manque)
+(rubrique FAQ, exposée par l'appli sous « Historique Replié : Bouton », ouverte au clic, 23/10/2026)
+FAQ
+Q : Une unité attachée peut-elle rececoir une Amélioration ?
+R : Oui.
+Q : Une unité de HÉROS ÉPIQUE peut-elle former une unité attachée avec une unité qui a une optimisation?
+R : Oui.
+Q : Les Améliorations sont-elles des optimisations ?
+R : Oui, les Améliorations sont un type d'optimisation (mais toutes les optimisations ne sont pas des Améliorations).
+Q : Une unité peut-elle avoir à la fois une Amélioration et une optimisation ?
+R : Non, une unité ne peut pas avoir plusieurs optimisations, or les Améliorations sont des optimisations.
+
+== Référence > Règles de Base > Mises À Jour Des Règles Universelles
+Types De Mouvement Pour Les Unités Qui Débarquent,  Déplié
+■ Si une règle permet à une unité d'être éligible pour déclarer une
+charge après avoir débarqué d’une figurine de TRANSPORT qui a fait
+un mouvement normal à ce tour, l’unité fait un mouvement de
+débarquement d’assaut (18.06) pour ce débarquement (au lieu d’un
+mouvement de débarquement).
+
+■ Si une règle permet à une unité de débarquer d’une figurine de
+TRANSPORT qui a fait un mouvement d’avance à ce tour, l’unité
+fait un mouvement de débarquement de choc (18.07) pour ce
+débarquement (au lieu d’un mouvement de débarquement). 
+
+== Référence > Règles de Base > Mises à Jour & Errata
+Dernière Mise à Jour : 14 octobre 2026
+CP Generated by a Warlord
+When a rule states that 'At the start of the battle round, if a model with this ability is your WARLORD, gain 1CP.' you do not gain the 1CP while your WARLORD is destroyed.
+Desperate Escape Test Updates
+Second example added, and the following section updated:
+
+If a stratagem or ability instructs a unit to make a Desperate Escape test, that unit:
+
+• Must use the desperate escape mode when it is selected to make a fall-back move.
+
+• Must make one hazard roll for each model in that unit.
+
+• Must make a battle-shock roll.
+Drawing a Line
+When a rule tells you to draw a line, unless otherwise stated:
+• That line has no thickness.
+• That line must be straight.
+Replacing One Model with Another
+When a rule tells you to place one model where another model was, or to replace one model with another:
+
+• Mark the point on the battlefield beneath the centre of the base of the model to be replaced (or its central axis, for a unit with FRAME).
+
+• Place the other model so that the centre of its base (or its central axis, for a unit with FRAME) is directly over that point.
+If you cannot do the above because you would need to place one model on top of another model, or because you would need to place a model overhanging the battlefield edge, instead place the new model as close as possible to that point.
+13.09 - Modification de la Première Puce
+Remplacez par : "Cette figurine a le mot-clé INFANTERIE/BÊTES/NUÉE et est dans une zone de terrain qui contient un ou plusieurs éléments de terrain léger/dense."
+17.03 - Modification de la Première Phrase
+Ajoutez ce qui suit à la première phrase : "(hormis les attaques effectuées avec des armes à [DÉFLAGRATION])".
+18.05 - Modification du Mouvement de Débarquement d'Urgence
+EN SE DÉPLAÇANT : Placez chaque figurine de votre unité :
+
+• Entièrement dans la distance de placement du TRANSPORT, et aussi proche que possible de lui.
+
+• Ou : Si ce qui précède n'est pas possible en restant non engagé, placez la figurine entièrement dans la distance de placement du TRANSPORT, aussi proche que possible de lui, et engagée.
+Chaque figurine qui ne peut pas être placée malgré tout est détruite.
+Stratagème Impact Écrasant
+Le Stratagème Attaque de Char est le même que le Stratagème Impact Écrasant.
+Stratagème Explosifs
+Lee Stratagème Grenade est le même que Stratagème Explosifs.
+01.02.06
+Ajoutez:
+▪ Une unité doit être scindé en deux unités, chacune contenant un nombre aussi égal que possible de figurines (quand on scinde une unité ainsi, notez quelles figurines forment chacune des deux nouvelles unités). Si une règle stipule un effectif initial spécifique pour les unités scindées, mais que ce n'est pas possible au regard du nombre de figurines de l'unité scindée (ex. en raison de figurines de Meneur/Appui attachées), scindez l'unité comme stipulé ci-dessus.
+12.08 - Mouvement de Consolidation, Section Après s'Être Déplacée, Consolidation Continue
+Remplacez par:
+Chaque figurine qui a commencé ce mouvement engagée avec une unité ennemie doit toujours être engagée avec celle-ci. Si une ou plusieurs unités ennemies engagées avec votre unité n'ont pas été choisies pour combattre à cette phase, votre adversaire doit choisir chacune de ces unités, une à la fois; chaque fois qu'il en choisit une, elle devient éligible pour combattre et est choisie pour combattre
+

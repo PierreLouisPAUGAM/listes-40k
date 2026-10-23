@@ -1,0 +1,594 @@
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Règles d’Armée
+Doctrines de Combat,  Déplié
+Au début de votre phase de Commandement, vous pouvez choisir une <b>doctrine de combat</b> détaillée ci-dessous. Dans ce cas, cette <b>doctrine de combat</b> est active pour les unités de l'<k>Adeptus Astartes</k> amies qui ont cette aptitude jusqu'au début de votre prochaine phase de Commandement.<b><b>Doctrine d'Assaut</b></b>Quand cette unité est choisie pour faire un <b>mouvement d'avance</b>, ce dernier ne l'empêche pas d'être <b>éligible pour déclarer une charge</b>.<b><b>Doctrine Devastator</b></b>Les armes de tir de cette unité ont <k>[Assaut]</k>.<b><b>Doctrine Tactique</b></b>Quand cette unité est choisie pour faire un <b>mouvement de retraite</b>, ce dernier ne l'empêche pas d'être <b>éligible pour tirer</b> et <b>éligible pour déclarer une charge</b>. Sauf mention contraire:<ul><li>Vous pouvez choisir chaque <b>doctrine de Combat</b> une seule fois par bataille.</li><li>Une seule <b>doctrine de combat</b> peut être active pour chaque unité. Si une règle rend une <b>doctrine de combat</b> active pour une unité, toute <b>doctrine de combat</b> précédemment active pour cette unité ne l'est plus pour elle.</li></ul> 
+Stratège Transhumain,  Déplié
+Au début du round de bataille, si une figurine avec cette aptitude est votre <k>Seigneur de Guerre</k>, gagnez 1PC. 
+La Ravenwing,  Déplié
+Les unités de l'<k>Adeptus Astartes</k> amies suivantes ont le mot-clé <k>Ravenwing</k>:<ul><li>Unités <k>Montées</k>.</li><li>Unités de <k>Véhicule</k> avec le mot-clé <k>Vol</k>.</li></ul> 
+La Deathwing,  Déplié
+Les unités de l'<k>Adeptus Astartes</k> amies suivantes ont le mot-clé <k>Deathwing</k>:<ul><li>Unités de <k>Terminators</k>.</li><li>Unités de <k>Doyen Gardelame/Escouade de Vétérans Gardelames/Escouade de Vétérans d'Appui/Escouade de Vétérans d'Avant-garde à Réacteurs Dorsaux</k>.</li><li>Unités de <k>Land Raider/Land Raider Crusader/Land Raider Redeemer/Repulsor/Repulsor Executioner</k>.</li><li>Unités de <k>Dreadnought</k>.</li></ul> 
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Colère du Roc
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Unique : TERMINATOR
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Ténacité Diligente,  Déplié
+Les attaques qui ciblent les unités d'<k>Infanterie/Montées</k> de l'<k>Adeptus Astartes</k> amies avec une <b>F</b> supérieure à leur <b>E</b> ont -1 aux <b>jets de blessure</b>.
+
+<b>Restrictions :</b> Votre armée peut inclure des unités <k>Dark Angels</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Colère du Roc > Optimisations
+Trempé dans les Combats (Aura), 10 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les unités de l'<k>Adeptus Astartes</k> amies à 6" ou moins de cette figurine peuvent relancer les <b>jets de commandement</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Assaut Deathwing, 15 Points, Déplié
+Figurine de la <k>Deathwing</k> avec l'aptitude <b>Frappe en Profondeur</b> seulement. À votre première phase de Mouvement, cette unité peut faire un <b>mouvement d'arrivée</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Armes Antiques, 20 Points, Déplié
+Figurine de l'<k>Adeptus Astartes</k> seulement. Les attaques de mêlée de cette figurine ont :<ul><li>+2 en <b>F</b>.</li><li>+1 en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Seigneur de la Ravenwing, 15 Points, Déplié
+Figurine de la <k>Ravenwing</k> seulement. Cette unité peut relancer les <b>jets de charge</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Colère du Roc > Stratagèmes
+Chevaliers de Fer, 1PC, Déplié
+Colère du Roc  
+À votre phase de Mouvement/Charge, quand une unité de la <k>Ravenwing</k> amie est <b>choisie pour être déplacée</b> ou <b>déclare une charge</b>. 
+Cette unité de la <k>Ravenwing</k>. 
+Votre unité a le mot-clé <k>Mobile</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Reliques du Moyen-Âge, 1PC, Déplié
+Colère du Roc  
+À votre phase de tir, quand une unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k> amie est <b>choisie pour tirer</b>. 
+Cette unité d'<k>Infanterie/Montée</k> de l'<k>Adeptus Astartes</k>. 
+Les attaques de tir de votre unité ont +2 en <b>F</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Justice Inéluctable, 1PC, Déplié
+Colère du Roc  
+À la phase de Combat, quand une unité de l'<k>Adeptus Astartes</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de l'<k>Adeptus Astartes</k>. 
+Les attaques de mêlée de votre unité ont <k>[Précision]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Volonté du Lion, 1PC, Déplié
+Colère du Roc  
+À la phase de Commandement. 
+Une unité de l'<k>Adeptus Astartes</k> amie qui est à portée d'un <b>objective</b>. 
+Votre unité a +1 en <b>CO</b> jusqu'à la fin du tour. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Maîtrise Tactique, 1PC, Déplié
+Colère du Roc  
+À votre phase de Commandement. 
+Une unité de la <k>Deathwing/Ravenwing</k> amie. 
+Choisissez une <b>doctrine de Combat</b>. La <b>doctrine de combat</b> est active pour votre unité jusqu'au début de votre prochaine phase de Commandement. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+La Victoire par le Sacrifice, 1PC, Déplié
+Colère du Roc  
+À n'importe quelle phase, quand une unité de la <k>Deathwing/Ravenwing</k> amie à portée d'un <b>objectif</b> est <b>détruite</b>. 
+Cette unité de la <k>Deathwing/Ravenwing</k>. Vous pouvez cibler cette unité avec ce <b>stratagème</b> même si elle a été <b>détruite</b>. 
+Choisissez un <b>objectif</b> : <ul><li>Dont aucune unité ennemie (unités d'<k>Aérodyne</k> exclues) sont à portée.</li><li>Que votre unité contrôlait à la fin de la phase précédente.</li></ul>Cet <b>objectif</b> est <b>sécurisé</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Force Opérationnelle du Cercle Intérieur
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Cible Vouée,  Déplié
+À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez un <b>objectif</b>. Cet <b>objectif</b> est votre <b>objectif voué</b> jusqu'à votre prochaine phase de Commandement.<ul><li>Les attaques des unités d'<k>Infanterie</k> de la <k>Deathwing</k> qui ciblent une unité ennemie à portée de votre <b>objectif voué</b> ont +1 aux <b>jets de blessure</b>.</li></ul>
+
+<b>Restrictions :</b> Votre armée peut inclure des unités <k>Dark Angels</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Force Opérationnelle du Cercle Intérieur > Optimisations
+Volonté Singulière, 20 Points, Déplié
+Figurine de la <k>Deathwing</k> seulement. Quand cette unité est choisie pour faire un <b>mouvement de consolidation</b>, elle peut se déplacer de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Champion de la Deathwing, 20 Points, Déplié
+Figurine de la <k>Deathwing</k> seulement. Les attaques de cette unité qui ciblent une unité ennemie à portée de votre <b>objectif voué</b> ont <k>[TOUCHES SOUTENUES 1]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Force Opérationnelle du Cercle Intérieur > Stratagèmes
+Le Devoir jusqu'à la Mort, 1PC, Déplié
+Force Opérationnelle du Cercle Intérieur  
+À la phase de Combat, quand une unité ennemie cible une unité de la <k>Deathwing</k> amie. 
+Cette unité de la <k>Deathwing</k>. 
+Quand une figurine de votre unité est <b>détruite</b>, si votre unité n'a pas été <b>choisie pour combattre</b> à cette phase, jetez un D6, avec +1 à ce jet si votre unité est <b>engagée</b> avec une unité ennemie à portée de votre <b>objectif voué</b> :<ul><li>Sur 4+, ne retirez pas la figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), la figurine est retirée du champ de bataille.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Teleportarium Relique, 1PC, Déplié
+Force Opérationnelle du Cercle Intérieur  
+À votre phase de Mouvement, quand une unité de la <k>Deathwing</k> amie avec l'aptitude <b>Frappe en Profondeur</b> est choisie pour faire un <b>mouvement d'arrivée</b>. 
+Cette unité de la <k>Deathwing</k>. 
+<ul><li>Votre unité peut être placée à plus de 6" à l'horizontale des unités ennemies (et non à plus de 8" d'elles).</li><li>Votre unité n'est <u>pas</u> <b>éligible pour déclarer une charge</b> jusqu'à la fin de ce tour.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Colère du Lion, 1PC, Déplié
+Force Opérationnelle du Cercle Intérieur  
+À votre phase de Charge, quand une unité de la <k>Deathwing</k> amie finit un <b>mouvement de charge</b>. 
+Cette unité de la <k>Deathwing</k>. 
+Choisissez une unité ennemie <b>engagée</b> avec votre unité. Dans ce cas, jetez un D6 pour chaque figurine de votre unité qui est <b>engagée</b> avec l'unité ennemie :<ul><li>Pour chaque jet de 3+, l'unité ennemie subit 1 <b>blessure mortelle</b> (jusqu'à un maximum de 6 <b>blessures mortelles</b>).</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Poursuite de Sombrevol
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Vengeance aux Ailes Noires,  Déplié
+Les attaques des unités de la <k>Ravenwing</k> amies avec le mot-clé <k>Vol</k> ont <k>[IGNORE LE COUVERT]</k>.
+
+<b>Restrictions :</b> Votre armée peut inclure des unités <k>Dark Angels</k>, mais elle ne peut inclure aucune unité de l'<k>Adeptus Astartes</k> issue d'un autre Chapitre.
+
+Les unités d'<k>Escouade Outrider</k> ont le mot-clé <k>Ligne</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Reconnaissance
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Poursuite de Sombrevol > Optimisations
+Batterie Noctiforgée (Amélioration), 10 Points, Déplié
+Unité de <k>Land Speeder Vengeance</k> seulement. Cette unité peut relancer :<ul><li>Les jets pour déterminer les <b>A</b> d'une arme.</li><li>Les <b>jets de Risque<b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Turbines Ténébreuses (Amélioration), 15 Points, Déplié
+Unités <k>Montée</k>/avec le mot-clé <k>Vol</k> de la <k>Ravenwing</k> seulement. À votre première phase de Mouvement, cette unité peut faire un <b>mouvement d'arrivée</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Dark Angels > Codex Supplement: Dark Angels > Poursuite de Sombrevol > Stratagèmes
+Ailes d'Ombre, 1PC, Déplié
+Poursuite de Sombrevol  
+À la phase de Tir adverse, quand une unité ennemie cible une unité de la <k>Ravenwing</k> qui a le mot-clé <k>Vol/Monté</k> amie. 
+Cette unité de la <k>Ravenwing</k> qui a le mot-clé <k>Vol/Monté</k>. 
+Votre unité a <b>Discrétion</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Surveillance Aérienne, 1PC, Déplié
+Poursuite de Sombrevol  
+À votre phase de Tir, une fois qu'une unité de la <k>Ravenwing</k> amie qui a le mot-clé <k>Vol</k> a tiré. 
+Cette unité de la <k>Ravenwing</k> qui a le mot-clé <k>Vol</k>. 
+Les unités ennemies <b>Visibles</b> à 6" ou moins de votre unité ont +3" en <b>portée de détection</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Nous Sommes la Vengeance, 1PC, Déplié
+Poursuite de Sombrevol  
+À la phase de Tir adverse, quand une unité ennemie qui a ciblé une unité de la <k>Ravenwing</k> amie ayant le mot-clé <k>Vol</k> <b>non engagée</b> a tiré. 
+Cette unité de la <k>Ravenwing</k> qui a le mot-clé <k>Vol</k>. 
+Votre unité peut faire un <b>mouvement normal</b> de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Chevaliers de la Deathwing » > Chevaliers de la Deathwing, Codex Supplement: Dark Angels
+Chevaliers de la Deathwing, Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : 4. Commandement : 6+. Contrôle d'Objectif : 1.
+Maître Chevalier
+Sauvegarde Invulnérable, 4+
+Armes de Mêlée -  Arme Lourde des Impardonnés.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. BLESSURES DÉVASTATRICES - Button. TOUCHES SOUTENUES 1 - Button.
+Armes de Mêlée -  Arme Relique.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. TOUCHES FATALES - Button.
+Armes de Mêlée -  Arme Énergétique.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Masse d'Absolution.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. ANTI-MONSTRE/VÉHICULE 4+ - Button.
+Base :
+FRAPPE EN PROFONDEUR
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+CERCLE INTÉRIEUR
+
+• Les attaques qui ciblent cette unité ont -1 en D.
+• Cette unité ne peut pas être ciblée par le stratagème Robustesse Tactique Dreadnought.
+BALISE DE TÉLÉPORTATION (UNE FOIS PAR BATAILLE, PAR UNITÉ)
+Au début de la bataille, vous pouvez placer un pion de Balise de Téléportation pour cette unité sur le champ de bataille. Dans ce cas :
+
+• Quand vous ciblez cette unité avec le stratagème Arrivée Précipitée, vous pouvez utiliser ce pion de Balise de Téléportation. Dans ce cas, cette utilisation coûte -1 PC, mais en résolvant ce stratagème, cette unité doit être placée à 3" ou moins de ce pion et à plus de 8" des unités ennemies. Ce pion de Balise de Téléportation est alors retiré du champ de bataille.
+
+• Si une unité ennemie finit un mouvement à 1" ou moins de ce pion de Balise de Téléportation, ce dernier est retiré du champ de bataille.
+Watcher in the Dark
+Once per battle, in any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES model in this unit, this unit can summon a Watcher in the Dark. When it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal wounds.
+
+Designer’s Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used.
+Cette unité peut être équipée de 1 Guetteur des Ténèbres
+Toutes les figurines de Chevalier de la Deathwing de cette unité peuvent chacune remplacer leur Masse d'Absolution par 1
+Arme Énergétique.
+Le Maître Chevalier peut remplacer son Arme Lourde des Impardonnés par 1 Arme Relique.
+• 1 figurine de Maître Chevalier
+• 4 figurines de Chevalier de la Deathwing
+
+Le Maître Chevalier est équipé de : 1 Arme Lourde des Impardonnés.
+Chaque figurine de Chevalier de la Deathwing est équipé de : 1 Masse d'Absolution.
+Nom de Figurine | Compte | Points
+Chevaliers de la Deathwing | 4
+255
+Maître Chevalier | 1
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +20 pts.
+Taille de Socle
+40mm
+Mots-clés: DEATHWING, IMPERIUM, INFANTERIE, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+
+== Référence > Recherche « Escouade Terminator de la Deathwing » > Escouade Terminator de la Deathwing, Codex Supplement: Dark Angels
+Sergent de la Deathwing
+Terminators de la Deathwing, Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : 3. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Bolter Tempête.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. TIR RAPIDE 2 - Button.
+Armes de Tir -  Canon d’Assaut.
+Portée : 24".
+Attaques : 6.
+Capacité de Tir : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. TOUCHES SOUTENUES 1 - Button.
+Armes de Tir -  Standard.
+Portée : 36".
+Attaques : 3.
+Capacité de Tir : 3+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. DÉFLAGRATION 1 - Button.
+Armes de Tir -  Surcharge.
+Portée : 36".
+Attaques : 3.
+Capacité de Tir : 3+.
+Force : 8.
+Pénétration d'Armure : -3.
+Dégats : 3.
+Aptitudes d'Arme. DÉFLAGRATION 1 - Button. À RISQUE - Button.
+Armes de Tir -  Lance-flammes Lourd.
+Portée : 12".
+Attaques : 3.
+Capacité de Tir : -.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. DÉFLAGRATION 2 - Button. TORRENT - Button.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Armes de Tir -  Antichar.
+Portée : 36".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -2.
+Dégats : D3+3.
+
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Arme Énergétique.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 1.
+
+Armes de Mêlée -  Gantelet Énergétique.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Poing Tronçonneur.
+Portée : Melee.
+Attaques : 2.
+Capacité de Combat : 4+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Armes de Mêlée -  Poing Tronçonneur.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 12.
+Pénétration d'Armure : -2.
+Dégats : 3.
+
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Base :
+FRAPPE EN PROFONDEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+DEATHWING
+Les attaques de cette unité peuvent ignorer les modificateurs à :
+• La CT et à la CC.
+• Aux jets de touche.
+Watcher in the Dark
+Once per battle, in any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES model in this unit, this unit can summon a Watcher in the Dark. When it does, until the end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal wounds.
+
+Designer’s Note: Place a Watcher in the Dark token next to the unit, removing it when this ability has been used.
+Chaque figurine de Terminator de la Deathwing (n'importe quel nombre) peut remplacer son Gantelet Énergétique par 1 Poing Tronçonneur.
+Par tranche de 5 figurines dans l'unité, 1 figurine de Terminator de la Deathwing peut remplacer son Bolter Tempête par un des choix suivants : 1 Canon d'Assaut, 1 Lance-flammes Lourd, 1 Canon à Plasma, 1 Bolter Tempête et 1 Lance-missiles Cyclone - Frag. (le Bolter Tempête de cette figurine ne peut pas être remplacé)
+Le Sergent de la Deathwing peut remplacer son Gantelet Énergétique par un des choix suivants : 1 Poing Tronçonneur, 1 Arme Énergétique
+• 1 figurine de Sergent de la Deathwing
+• 4-9 figurines de Terminator de la Deathwing
+
+Chaque figurine est équipée de : 1 Gantelet Énergétique ; 1 Bolter Tempête.
+Nom de Figurine | Compte | Points
+Sergent de la Deathwing | 1
+190
+Terminators de la Deathwing | 4
+Sergent de la Deathwing | 1
+380
+Terminators de la Deathwing | 9
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +40 pts.
+Taille de Socle
+40mm
+Mots-clés: DEATHWING, IMPERIUM, INFANTERIE, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Canon d’Assaut, Standard, Surcharge, Lance-flammes Lourd, Antichar, Arme Énergétique, Poing Tronçonneur, Poing Tronçonneur ; arme parente probable : non déduite ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752229-2-armes.png
+
+== Référence > Recherche « Compagnons du Cercle Intérieur » > Compagnons du Cercle Intérieur, Codex Supplement: Dark Angels
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752267-1-caracteristiques.png | Compagnons du Cercle Intérieur. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 2.
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Frappe.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. TOUCHES FATALES - Button.
+Armes de Mêlée -  Balayage.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. TOUCHES SOUTENUES 2 - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+BRASEROS DU JUGEMENT
+
+• Cette unité a Discrétion.
+• Les attaques de mêlée qui ciblent cette unité ont -1 aux jets de touche.
+AVERSION ENVERS LES INDIGNES
+Les attaques de cette unité qui ciblent une unité de PERSONNAGE ont +1 aux jets de touche.
+• 3-6 figurines de Compagnon du Cercle Intérieur
+
+Chaque figurine est équipée de : 1 Espadon de Caliban - Frappe ; 1 Pistolet Bolter Lourd.
+Nom de Figurine | Compte | Points
+Compagnons du Cercle Intérieur | 3 | 90
+Compagnons du Cercle Intérieur | 6 | 180
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +15 pts.
+Taille de Socle
+40mm
+Mots-clés: DEATHWING, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Frappe, Balayage ; arme parente probable : Espadon de Caliban - Frappe ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752267-2-armes.png
+
+== Référence > Recherche « Bélial » > Bélial, Codex Supplement: Dark Angels
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752304-1-caracteristiques.png | Bélial. Mouvement : 5". Endurance : 6. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Bolter Tempête de Maître.
+Portée : 24".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. PRÉCISION - Button.
+Armes de Mêlée -  Épée du Silence.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -3.
+Dégats : 2.
+
+Base :
+FRAPPE EN PROFONDEUR | MENEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT | STRATÈGE TRANSHUMAIN
+Aptitudes de Fiche Technique :
+GRAND MAÎTRE DE LA DEATHWING
+Les attaques de cette unité qui ciblent une unité de PERSONNAGE ennemi, ont +1 aux jets de blessure.
+RIPOSTES PUNITIVES
+À la phase de Combat, quand cette figurine est détruite, si cette unité n'a pas été choisie pour combattre à cette phase, jetez un D6 :
+
+• Sur 2+, ne retirez pas la figurine du champ de bataille. Une fois que cette unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), cette figurine est retirée du champ de bataille.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ DEATHWING COMMAND SQUAD
+■ DEATHWING KNIGHTS
+■ DEATHWING TERMINATOR SQUAD
+■ TERMINATOR ASSAULT SQUAD
+■ TERMINATOR SQUAD
+• 1 figurine de Bélial
+
+Cette figurine est équipée de : 1 Bolter Tempête de Maître ; 1 Épée du Silence.
+Nom de Figurine | Compte | Points
+Belial | 1 | 100
+Taille de Socle
+50mm
+Mots-clés: CAPITAINE, PERSONNAGE, DEATHWING, HÉROS ÉPIQUE, IMPERIUM, INFANTERIE, TERMINATOR
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+
+== Référence > Recherche « Lion » > Lion El'Jonson, Codex Supplement: Dark Angels
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752841-1-caracteristiques.png | Lion El'Jonson. Mouvement : 8". Endurance : 10. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 5+. Contrôle d'Objectif : 4.
+Sauvegarde Invulnérable, 3+
+Armes de Tir -  Bolt.
+Portée : 18".
+Attaques : 4.
+Capacité de Tir : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Plasma.
+Portée : 18".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 10.
+Pénétration d'Armure : -3.
+Dégats : 3.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Frappe.
+Portée : Melee.
+Attaques : 8.
+Capacité de Combat : 2+.
+Force : 12.
+Pénétration d'Armure : -4.
+Dégats : 4.
+Aptitudes d'Arme. TOUCHES FATALES - Button.
+Armes de Mêlée -  Balayage.
+Portée : Melee.
+Attaques : 12.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -3.
+Dégats : 2.
+Aptitudes d'Arme. ABATTAGE 2 - Button. TOUCHES SOUTENUES 1 - Button.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+(ligne manquante relevée sur capture de l'appli, 23/10/2026)
+Base :
+FRAPPE EN PROFONDEUR | COMBAT EN PREMIER
+Aptitudes de Faction :
+DOCTRINES DE COMBAT | STRATÈGE TRANSHUMAIN
+Aptitudes de Fiche Technique :
+LE BOUCLIER DE L'EMPEREUR
+Les Attaques qui ciblent cette unité avec une F supérieure à son E ont -1 aux jets de blessure.
+ESCORTE DE DARK ANGELS
+Tant que cette unité est à 3" ou moins d'une unité d'INFANTERIE de DARK ANGELS amie, cette unité a Agent Soitaire.
+MAÎTRE STRATÈGE
+À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une doctrine de combat afin qu'elle soit active pour cette unité jusqu'au début de votre prochaine phase de Commandement, en plus de toute autre doctrine de combat.
+PRIMARQUE DE LA PREMIÈRE LÉGION
+Au début de votre phase de Commandement, vous pouvez choisir une des deux aptitudes de la section Primarque de la Première Légion. Jusqu'au début de votre prochaine phase de Commandement, cette figurine a l'aptitude choisie.
+LES GUETTEURS
+Cette unité a Insensible à la Douleur 4+ contre les attaques psychiques et les blessures mortelles.
+ROYAUMES DE L'OMBRE EMBRUMÉS
+À votre phase de Commandement, si cette unité est non engagée, vous pouvez utiliser cette aptitude. Dans ce cas:
+▫ Placez cette unité en réserve stratégique.
+▫ Cette unité peut faire un mouvement d'arrivée à votre prochaine phase de Mouvement (y compris à votre premier tour).
+PARANGON MARTIAL
+Tant qu'une unité de DARK ANGELS amie est à 6" ou moins de cette unité, les attaques de mêlée de l'unité amie peuvent :
+• Relancer les jets de touche de 1.
+• Relancer les jets de blessure de 1.
+NUL N'ÉCHAPPE AUX GUETTEURS
+Tant qu'une unité de DARK ANGELS amie est à 6" ou moins de cette unité, l'unité amie a Insensible à la Douleur 5+ contre les attaques psychiques et les blessures mortelles.
+Si cette figurine est incluse dans votre armée, elle doit être votre Seigneur de Guerre.
+• 1 figurine de Lion El'Jonson
+
+Cette figurine est équipée de : 1 Arma Luminis - Bolt ; 1 Féale - Frappe.
+Nom de Figurine | Compte | Points
+Lion El'Jonson | 1 | 415
+Taille de Socle
+60mm
+Mots-clés: PERSONNAGE, HÉROS ÉPIQUE, IMPERIUM, MOBILE, MONSTRE, PRIMARQUE
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Bolt, Plasma, Frappe, Balayage ; arme parente probable : Arma Luminis - Bolt ou Féale - Frappe ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752841-2-armes.png
+
+== Référence > Recherche « Asmodaï » > Asmodaï, Codex Supplement: Dark Angels
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752905-1-caracteristiques.png | Asmodaï. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 5+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Frappe.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. PRÉCISION - Button.
+Armes de Mêlée -  Balayage.
+Portée : Melee.
+Attaques : 8.
+Capacité de Combat : 2+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. ABATTAGE 1 - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Base :
+MENEUR
+Aptitudes de Faction :
+DOCTRINES DE COMBAT | STRATÈGE TRANSHUMAIN
+Aptitudes de Fiche Technique :
+INVESTIGATEUR REDOUTÉ
+Au début de la phase de Combat, chaque unité de PERSONNAGE ennemie à  6" ou moins de cette figurine fait un jet d'ébranlement, avec -1 à ce jet.
+PARANGON DE HAINE
+Les attaques de mêlée de cette unité peuvent relancer les jets de touche.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ ASSAULT INTERCESSOR SQUAD
+■ BLADEGUARD VETERAN SQUAD
+■ HELLBLASTER SQUAD
+■ INFERNUS SQUAD
+■ INNER CIRCLE COMPANIONS
+■ INTERCESSOR SQUAD
+■ STERNGUARD VETERAN SQUAD
+• 1 figurine d'Asmodaï
+
+Cette figurine est équipée de : 1  Crozius Arcanum et Arme Énergétique - Frappe ; 1 Pistolet Bolter Lourd.
+Nom de Figurine | Compte | Points
+Asmodaï | 1 | 80
+Taille de Socle
+50mm
+Mots-clés: CHAPELAIN, PERSONNAGE, DEATHWING, HÉROS ÉPIQUE, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES, DARK ANGELS
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Frappe, Balayage ; arme parente probable : Crozius Arcanum et Arme Énergétique - Frappe ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/f4f14525-2a62-52a6-a0b5-911bab44dcd7/scratchpad/captures/1792752905-2-armes.png
+
+== Vérifications sur captures de l'appli (23/10/2026)
+Les 6 fiches ont été comparées à des captures de l'appli (non versionnées). Écarts avec la sortie texte ci-dessus :
+PV non exposés (%wounds@), lus sur capture : Compagnons du Cercle Intérieur 3 ; Bélial 6 ; Asmodaï 4 ; Lion El'Jonson 16.
+Noms complets des armes à profils : Canon à Plasma - Standard / - Surcharge, Lance-missiles Cyclone - Frag. / - Antichar, Poing Tronçonneur - Poing Tronçonneur (deux profils) (Escouade Terminator de la Deathwing) ; Espadon de Caliban - Frappe / - Balayage ; Crozius Arcanum et Arme Énergétique - Frappe / - Balayage (Asmodaï) ; Arma Luminis - Bolt / - Plasma, Féale - Frappe / - Balayage (Lion El'Jonson).
+Aptitude d'arme affichée en onglet, absente du texte : second profil du Poing Tronçonneur, CHASSEUR : MONSTRE/VÉHICULE (Escouade Terminator de la Deathwing).
+Lignes perdues au raccord : Lance-missiles Cyclone - Frag., 36", A 8, CT 3+, F 4, PA -1, D 1, DÉFLAGRATION 2 (Escouade Terminator de la Deathwing) ; « Aptitudes de Faction : DOCTRINES DE COMBAT » et « Aptitudes de Fiche Technique : » (Chevaliers de la Deathwing).
+Rubriques de fiche : « Aptitudes d'Équipement » (Watcher in the Dark) et « Options d'Équipement » sans puce (Chevaliers de la Deathwing, Escouade Terminator de la Deathwing) ; « Primarque de la Première Légion » (trois aptitudes) et « Commandant Suprême » (Lion El'Jonson).
