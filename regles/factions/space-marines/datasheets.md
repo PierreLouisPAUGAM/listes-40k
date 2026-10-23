@@ -1,86 +1,76 @@
 # Space Marines / Dark Angels — fiches techniques des unités possédées
 
-> **Source** : 40k.app, Space Marines (en) — communautaire, à recouper avec le codex Space Marines ou l'appli
-> **URL** : https://www.40k.app/factions/space-marines/units/lieutenant-in-phobos-armour, /lieutenant-with-combi-weapon, /captain-in-terminator-armour, /librarian-in-terminator-armour, /chaplain, /apothecary, /apothecary-biologis, /ballistus-dreadnought, /infernus-squad, /assault-intercessor-squad, /incursor-squad, /infiltrator-squad, /eliminator-squad, /terminator-squad, /sternguard-veteran-squad, /assault-intercessors-with-jump-packs
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+> **Source** : Appli Warhammer 40,000, Space Marines — officielle
+> **URL** : appli iPad « WH 40K » installée sur le Mac, recherche de Référence, fiches « <unité>, Codex: Space Marines » (16 fiches) ; page « Substituts Légendaires » (recherche « Suppressor ») ; Mises à Jour & Errata du Codex: Space Marines
+> **Version** : données v995 ; errata du codex : dernière mise à jour du 14/10/2026
+> **Consultée le** : 23/10/2026
+> **Brut** : sources/appli_space-marines_donnees-v995_fr_2026-10-23.txt
 
-> **Source** : 40k.app, Dark Angels (en) — communautaire, à recouper avec l'appli
-> **URL** : https://www.40k.app/factions/dark-angels/units/deathwing-knights, /deathwing-terminator-squad, /inner-circle-companions, /belial, /asmodai, /lion-eljonson
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+> **Source** : Appli Warhammer 40,000, Dark Angels — officielle
+> **URL** : appli iPad « WH 40K », recherche de Référence, fiches « <unité>, Codex Supplement: Dark Angels » (6 fiches)
+> **Version** : données v995 (supplément non daté)
+> **Consultée le** : 23/10/2026
+> **Brut** : sources/appli_dark-angels_donnees-v995_fr_2026-10-23.txt
 
 > **Source** : Inventaire du Munitorum, Space Marines et Dark Angels — officielle
 > **URL** : https://mfm.warhammer-community.com/fr/space-marines ; https://mfm.warhammer-community.com/fr/dark-angels
-> **Version** : v1.5
-> **Consultée le** : 08/10/2026 (empreinte inchangée au 09/10/2026)
+> **Version** : v1.6
+> **Consultée le** : 23/10/2026
 > **Brut** : regles/factions/space-marines/space-marines-points.tsv, space-marines-attachements.tsv, space-marines-options.tsv, et leurs équivalents dark-angels-*.tsv
 
-> **Source** : Règles de Base — officielle
-> **URL** : https://assets.warhammer-community.com/fre_01-06_warhammer40k_new40k_core_rules-ooyuallyp9-s4aczdfbm2.pdf
-> **Version** : MAJ 01/06/2026
-> **Consultée le** : 08/10/2026
-> **Brut** : sources/regles-de-base_general_maj2026-06-01_fr_2026-10-08.txt (noms français des aptitudes de base, des aptitudes d'armes et des mots-clés)
+Profils, armes, aptitudes, options, composition et mots-clés : appli, en français. Ils
+remplacent le texte anglais de 40k.app (communautaire) intégré le 09/10/2026. Points,
+surcoûts d'équipement, meneurs et appuis : Inventaire du Munitorum. Les points affichés
+par l'appli concordent avec le Munitorum pour les 22 fiches, surcoûts « à partir de la
+3e unité » compris (comparaison du 23/10/2026).
 
-Aucun Pack de Faction ne couvre ces unités : profils, armes et aptitudes viennent de
-40k.app, en anglais, et portent le renvoi **[C]**. Noms d'unités, points, meneurs, appuis
-et surcoûts d'équipement : Inventaire du Munitorum. Les points affichés par 40k.app
-concordent avec le Munitorum pour les 22 fiches, surcoûts « 3e unité et suivantes »
-compris. Noms des aptitudes de base, des aptitudes d'armes et des mots-clés : Règles de
-Base et panneau « Rassembler les Armées ». Noms d'armes et d'aptitudes d'unité : anglais,
-terme français non trouvé au 09/10/2026, sauf le Lance-missiles Cyclone (Munitorum).
+Lecture de l'appli et contrôles :
+
+- L'appli n'expose pas les PV de certaines fiches ni le nom complet des armes à profils
+  (« Frag » au lieu de « Lance-missiles Cyclone - Frag. »). Ils ont été lus sur des
+  captures de l'appli, comme les passages que l'outil signalait mal raccordés.
+- Certaines aptitudes d'arme ne s'affichent que dans un onglet au-dessus de l'arme
+  (« CHASSEUR : MONSTRE/VÉHICULE »), sans être exposées au texte. Les armes des 22 fiches
+  ont été contrôlées sur captures.
+- Les listes de meneurs (« Cette figurine peut être attachée aux unités suivantes ») sont
+  en anglais dans l'appli : les rattachements viennent du Munitorum.
+- Fautes de l'appli recopiées telles quelles : « Agent Soitaire » (Lion El'Jonson),
+  « Les Attaques », « d'elle unité » (Escouade Terminator), nom anglais « Master-crafted
+  bolt carbine » (Lieutenant en Armure Phobos).
 
 Unités couvertes : celles de `collection/space-marines.md`. Les unités communes ont la
-même fiche dans les deux Inventaires ; le texte a été lu sur les pages Space Marines de
-40k.app. Les unités marquées « Dark Angels uniquement » ne figurent que dans l'Inventaire
-Dark Angels.
+même fiche dans le Codex: Space Marines et dans l'Inventaire Dark Angels ; leur texte a
+été lu dans le codex. Les unités marquées « Dark Angels uniquement » viennent du
+supplément Dark Angels.
 
 Absents des données :
 
-- **Escouade Suppressor** : absente des deux Inventaires du Munitorum v1.5 et de la liste
-  des unités de 40k.app (Space Marines et Dark Angels) au 09/10/2026. Pas de fiche.
-- **Guetteurs dans les Ténèbres** : pas une unité. C'est un équipement (« Watcher in the
-  Dark ») des fiches Chevaliers de la Deathwing et Escouade Terminator de la Deathwing.
-  Le nom français employé par la collection n'a été trouvé dans aucune source officielle
-  du dépôt.
+- **Escouade Suppressor** : absente des deux Inventaires du Munitorum v1.6 et des fiches
+  de l'appli. La recherche « Suppressor » ne renvoie que la page « Substituts
+  Légendaires », qui indique « Escouade Suppressor : Escouade Inceptor ». La page
+  n'explique pas l'usage de ces substituts. Pas de fiche.
+- **Guetteurs des Ténèbres** : pas une unité. L'appli nomme
+  l'équipement « Guetteur des Ténèbres » (« Cette unité peut être équipée de 1 Guetteur
+  des Ténèbres », option des Chevaliers de la Deathwing). L'aptitude d'équipement
+  « Watcher in the Dark », en anglais dans l'appli, figure sur les fiches Chevaliers de la
+  Deathwing et Escouade Terminator de la Deathwing ; la seconde ne propose pas l'option.
 
-Profil : M, E, Sv, PV, Cd, CO. Armes : portée, A, CT/CC, F, PA, D. SvIn : sauvegarde
-invulnérable.
+Profil : M, E, Sv, PV, Cd, CO. Armes : portée, A, CT/CC, F, PA, D. Quand la colonne
+« Figurine » nomme plusieurs figurines, l'appli n'affiche qu'un profil pour elles (le
+bandeau du sergent ne se déplie pas). **[capture]** : profil absent de la sortie texte de
+l'appli, relevé sur capture.
 
-Mots-clés : chaque fiche porte trois lignes.
+Mots-clés : chaque fiche porte trois lignes, d'après la fiche de l'appli.
 
-- **Mots-clés de faction** : 40k.app n'en donne aucun et aucune source officielle
-  disponible ne couvre ces unités. Ils restent à fournir (voir `README.md`).
+- **Mots-clés de faction** : ligne « Mots-clés de Faction » de l'appli.
 - **Rôle** : LIGNE, TRANSPORT ASSIGNÉ, HÉROS ÉPIQUE, PERSONNAGE, ou « aucun ».
-- **Mots-clés** : les autres. Correspondances : BATTLELINE = LIGNE, CHARACTER =
-  PERSONNAGE, EPIC HERO = HÉROS ÉPIQUE (panneau « Rassembler les Armées ») ; INFANTRY =
-  INFANTERIE, VEHICLE = VÉHICULE, MONSTER = MONSTRE, WALKER = MARCHEUR, FLY = VOL, PSYKER
-  = PSYKER, SMOKE = FUMÉE, EXPLOSIVES = EXPLOSIFS, MOBILE = MOBILE (Règles de Base). Les
-  mots-clés entre guillemets n'ont pas de terme français dans les sources officielles du
-  dépôt.
+- **Mots-clés** : les autres.
 
-Aptitudes de base (Règles de Base) : Deep Strike = Frappe en Profondeur ; Leader =
-Meneur ; Support = Appui ; Infiltrators = Infiltrateurs ; Scouts = Éclaireurs ; Stealth =
-Discrétion ; Lone Operative = Agent Solitaire ; Feel No Pain = Insensible à la Douleur ;
-Deadly Demise = Destruction Néfaste ; Fights First = Combat en Premier. « Damaged » :
-terme français non trouvé.
-
-Aptitudes d'armes (Règles de Base) : ASSAULT = ASSAUT ; BLAST = DÉFLAGRATION ; CLEAVE =
-ABATTAGE ; CLOSE-QUARTERS = COMBAT RAPPROCHÉ ; DEVASTATING WOUNDS = BLESSURES
-DÉVASTATRICES ; HAZARDOUS = À RISQUE ; HEAVY = LOURD ; IGNORES COVER = IGNORE LE COUVERT ;
-LETHAL HITS = TOUCHES FATALES ; MELTA = FUSION ; PRECISION = PRÉCISION ; PSYCHIC =
-PSYCHIQUE ; RAPID FIRE = TIR RAPIDE ; SUSTAINED HITS = TOUCHES SOUTENUES ; TORRENT =
-TORRENT ; ANTI = ANTI. « HUNTER », « LANCE », « EXTRA ATTACKS » : terme français non
-trouvé.
-
-Aptitudes de faction : « Combat Doctrines », « Transhuman Strategist », « Librarius »,
-texte dans `detachements.md`.
+Règles d'armée (Doctrines de Combat, Stratège Transhumain, Librarius) : `detachements.md`.
 
 ---
 
-## Lieutenant en Armure Phobos [C]
+## Lieutenant en Armure Phobos
 
 40 pts (1 figurine). Socle 40 mm.
 
@@ -90,32 +80,28 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Master-crafted bolt carbine" | 24" | 2 | 2+ | 4 | 0 | 2 | — |
-| "Special-issue Bolt Pistol" | 12" | 1 | 2+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ, PRÉCISION |
+| Master-crafted bolt carbine | 24" | 2 | 2+ | 4 | 0 | 2 | — |
+| Pistolet Bolter Spécialisé | 12" | 1 | 2+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ, PRÉCISION |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Monomolecular Combat Blades" | 6 | 2+ | 5 | −1 | 1 | PRÉCISION, TOUCHES SOUTENUES 1 |
+| Lames de Combat Monomoléculaires | 6 | 2+ | 5 | −1 | 1 | PRÉCISION, TOUCHES SOUTENUES 1 |
 
 - Aptitudes de base : Infiltrateurs, Appui, Éclaireurs 6", Frappe en Profondeur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Tactical Precision" : this unit's attacks have [LETHAL HITS: non-MONSTER/VEHICLE].
-- "Demi-company Commander" (once per turn, per unit) : when a friendly CAPTAIN unit uses
-  its "Strategic Acumen" ability, you can use this ability. If you do, the selected
-  combat doctrine is active for this unit until the start of your next Command phase.
-- Composition : 1 Lieutenant en Armure Phobos, équipé de : "Monomolecular Combat Blades",
-  "Special-issue Bolt Pistol".
-- Options d'équipement : le "Special-issue Bolt Pistol" peut être remplacé par 1
-  "Master-crafted Bolt Carbine".
-- **Appui** de : Escouade Eliminator ; Escouade Incursor ; Escouade Infiltrator ;
-  Escouade Reiver ; Kill Team Spectrus ; Scouts Space Wolves.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Précision Tactique** : Les attaques de cette unité ont [TOUCHES FATALES : ≠ MONSTRE/VÉHICULE].
+- **Commandant de Demi-compagnie (une fois par tour, par unité)** : Quand une unité de CAPITAINE amie utilise son aptitude Sens Stratégique, vous pouvez utiliser cette aptitude. Dans ce cas, la doctrine de combat choisie est active pour cette unité jusqu’au début de votre prochaine phase de Commandement.
+- Composition : 1 figurine de Lieutenant en Armure Phobos. Cette figurine est équipée de : 1 Lames de Combat Monomoléculaires ; 1 Pistolet Bolter Spécialisé.
+- Options d'équipement :
+  - Cette figurine peut remplacer son Bolter Spécialisé par 1 Carabine Bolter de Maître.
+- **Appui** de : Escouade Eliminator ; Escouade Incursor ; Escouade Infiltrator ; Escouade Reiver ; Kill Team Spectrus ; Scouts Space Wolves.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "PHOBOS", FUMÉE.
+- Mots-clés : EXPLOSIFS, FUMÉE, IMPERIUM, INFANTERIE, PHOBOS.
 
-## Lieutenant avec Arme Combinée [C]
+## Lieutenant avec Arme Combinée
 
-85 pts (1 figurine). Socle 40 mm. Insensible à la Douleur 5+.
+85 pts (1 figurine). Socle 40 mm.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -123,35 +109,29 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Combi-weapon" (Bolter) | 24" | 2 | 2+ | 5 | −1 | 2 | ASSAUT, TIR RAPIDE 1 |
-| "Combi-weapon" (Flamer) | 12" | 3 | — | 5 | −1 | 1 | ASSAUT, DÉFLAGRATION 1, TORRENT |
+| Arme Combinée - Bolter | 24" | 2 | 2+ | 5 | −1 | 2 | ASSAUT, TIR RAPIDE 1 |
+| Arme Combinée - Lance-flammes | 12" | 3 | — | 5 | −1 | 1 | ASSAUT, DÉFLAGRATION 1, TORRENT |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Paired Combat Blades" | 6 | 2+ | 5 | −1 | 1 | TOUCHES SOUTENUES 1 |
+| Paire de Lames de Combat | 6 | 2+ | 5 | −1 | 1 | TOUCHES SOUTENUES 1 |
 
-- Aptitudes de base : Infiltrateurs, Insensible à la Douleur 5+, Agent Solitaire,
-  Discrétion.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Priority Target Identified" (once per battle, per unit) : in your Command phase, you
-  can use this ability. If you do, select one visible terrain feature. That terrain
-  feature is identified until the end of the turn. While an enemy unit is within an
-  identified terrain feature, that enemy unit has +3" detection range.
-- "Evade and Survive" (once per phase, per unit) : in your opponent's Movement phase,
-  when an enemy unit ends a move within 8" of this unit, if this unit is unengaged, this
-  unit can make a normal move of up to D3+3".
-- Composition : 1 Lieutenant avec Arme Combinée, équipé de : "Combi-weapon", "Paired
-  Combat Blades".
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de base : Infiltrateurs, Insensible à la Douleur 5+, Agent Solitaire, Discrétion.
+- Aptitudes de faction : Doctrines de Combat.
+- **Cible Prioritaire Identifiée (une fois par bataille, par unité)** : À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez 1 élément de terrain visible. Ce dernier est identifié jusqu’à la fin du tour.
+  - Tant qu’une unité ennemie est dans un élément de terrain identifié, elle a +3" en portée de détection.
+- **Se Dérober et Survivre (une fois par phase, par unité)** : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins de cette unité, si cette dernière est non engagée, elle peut faire un mouvement normal de D3+3" maximum.
+- Composition : 1 figurine de Lieutenant avec Arme Combinée. Cette figurine est équipée de : 1 Arme Combinée ; 1 Paire de Lames de Combat.
 - Options d'équipement : aucune.
-- Ni meneur ni appui (Munitorum et 40k.app).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "PHOBOS", FUMÉE. 40k.app ne donne pas de
-  mot-clé LIEUTENANT à cette fiche.
+- Mots-clés : EXPLOSIFS, FUMÉE, IMPERIUM, INFANTERIE, PHOBOS.
 
-## Capitaine en Armure Terminator [C]
+## Capitaine en Armure Terminator
 
-90 pts (1 figurine). Socle 40 mm. SvIn 4+.
+90 pts (1 figurine). Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -159,36 +139,34 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Combi-weapon" (Damnatus) | 12" | 1 | 2+ | 9 | −3 | D3+2 | FUSION 2 |
-| "Combi-weapon" (Infernus) | 12" | 3 | — | 4 | 0 | 1 | DÉFLAGRATION 1, TORRENT |
-| "Combi-weapon" (Purgatus) | 24" | 2 | 2+ | 7 | −2 | 2 | — |
-| "Storm Bolter" | 24" | 2 | 2+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Arme Combinée - Damnatus | 12" | 1 | 2+ | 9 | −3 | D3+2 | FUSION 2 |
+| Arme Combinée - Infernus | 12" | 3 | — | 4 | 0 | 1 | DÉFLAGRATION 1, TORRENT |
+| Arme Combinée - Purgatus | 24" | 2 | 2+ | 7 | −2 | 2 | — |
+| Bolter Tempête | 24" | 2 | 2+ | 5 | −1 | 1 | TIR RAPIDE 2 |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Relic Fist" | 5 | 2+ | 8 | −2 | 2 | — |
-| "Relic Weapon" | 6 | 2+ | 6 | −2 | 2 | — |
+| Arme Relique | 6 | 2+ | 6 | −2 | 2 | — |
+| Gantelet Relique | 5 | 2+ | 8 | −2 | 2 | — |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Frappe en Profondeur, Meneur.
-- Aptitudes de faction : « Transhuman Strategist », « Combat Doctrines ».
-- "Unstoppable Valour" : you can re-roll charge rolls for this unit.
-- "Strategic Acumen" : in your Command phase, you can use this ability. If you do, select
-  one combat doctrine to be active for this unit until the start of your next Command
-  phase.
-- Composition : 1 Capitaine en Armure Terminator, équipé de : "Relic Weapon", "Storm
-  Bolter".
-- Options d'équipement : la "Relic Weapon" peut être remplacée par 1 "Relic Fist" ; le
-  "Storm Bolter" peut être remplacé par 1 "Combi-weapon".
-- **Meneur** de : Chevaliers de la Deathwing ; Escouade d'Assaut Terminator ; Escouade
-  Terminator ; Escouade Terminator de la Deathwatch ; Escouade Terminator de la
-  Deathwing ; Terminators Gardes Loups.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Stratège Transhumain, Doctrines de Combat.
+- **Vertu Inexorable** : Vous pouvez relancer les jets de charge pour cette unité.
+- **Sens Stratégique** : À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une doctrine de combat afin qu’elle soit active pour cette unité jusqu’au début de votre prochaine phase de Commandement.
+- Composition : 1 figurine de Capitaine en Armure Terminator. Cette figurine est équipée de : 1 Arme Relique ; 1 Bolter Tempête.
+- Options d'équipement :
+  - Cette figurine peut remplacer son Arme Relique par 1 Gantelet Relique.
+  - Cette figurine peut remplacer son Bolter Tempête par 1 Arme Combinée.
+- **Meneur** de : Chevaliers de la Deathwing ; Escouade d'Assaut Terminator ; Escouade Terminator ; Escouade Terminator de la Deathwatch ; Escouade Terminator de la Deathwing ; Terminators Gardes Loups.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : "CAPTAIN", "IMPERIUM", INFANTERIE, "TERMINATOR".
+- Mots-clés : CAPITAINE, IMPERIUM, INFANTERIE, TERMINATOR.
 
-## Archiviste en Armure Terminator [C]
+## Archiviste en Armure Terminator
 
-80 pts (1 figurine). Socle 40 mm. SvIn 4+.
+80 pts (1 figurine). Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -196,35 +174,35 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Smite" (Focused Witchfire) | 24" | D3+3 | 3+ | 6 | −2 | 2 | BLESSURES DÉVASTATRICES, À RISQUE, PSYCHIQUE |
-| "Smite" (Witchfire) | 24" | D6 | 3+ | 6 | −1 | 2 | PSYCHIQUE |
-| "Storm Bolter" | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Bolter Tempête | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Châtiment - Feu Sorcier Focalisé | 24" | D3+3 | 3+ | 6 | −2 | 2 | BLESSURES DÉVASTATRICES, À RISQUE, PSYCHIQUE |
+| Châtiment - Feu Sorcier | 24" | D6 | 3+ | 6 | −1 | 2 | PSYCHIQUE |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Force Weapon" | 4 | 3+ | 6 | −2 | 2 | PSYCHIQUE |
+| Arme de Force | 4 | 3+ | 6 | −2 | 2 | PSYCHIQUE |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Frappe en Profondeur, Meneur.
-- Aptitudes de faction : « Librarius », « Combat Doctrines ».
-- "Psychic Hood" (Psychic) : this unit has Feel No Pain 4+ against psychic attacks.
-- "Librarian" (psyker level 1) : this model has the psychic abilities listed below.
-- "Might of Heroes" (psychic level 1) : in the Fight phase, if this unit is not
-  battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:
-  on a 1, this unit is battle-shocked; this unit's melee attacks have +2 S.
-- "Thunderous Force" (psychic level 1) : in your Shooting phase, if this unit is not
-  battle-shocked, you can make a psychic roll for this unit by rolling one D6. If you do:
-  on a 1, this unit is battle-shocked; this unit's ranged attacks have +6" R.
-- Composition : 1 Archiviste en Armure Terminator, équipé de : "Force Weapon", "Smite",
-  "Storm Bolter".
+- Aptitudes de faction : Librarius, Doctrines de Combat.
+- **Coiffe Psychique (psychique) (psychique)** : Cette unité a Insensible à la Douleur 4+ contre les attaques psychiques.
+- **Archiviste (niveau de psyker 1)** : Cette figurine a les aptitudes psychiques listées dans la section Aptitudes Psychiques.
+- Rubrique « Aptitudes Psychiques » :
+- **Puissance des Héros (niveau psychique 1)** : À la phase de Combat, si cette unité n’est pas ébranlée, vous pouvez faire un jet psychique pour elle en jetant un D6. Dans ce cas :
+  - Sur un résultat de 1, cette unité est ébranlée.
+  - Les attaques de mêlée de cette unité ont +2 en F.
+- **Force du Tonnerre (niveau psychique 1)** : À votre phase de Tir, si cette unité n’est pas ébranlée, vous pouvez faire un jet psychique pour elle en jetant un D6. Dans ce cas :
+  - Sur un résultat de 1, cette unité est ébranlée.
+  - Les attaques de tir de cette unité ont +6" en P.
+- Composition : 1 figurine d’Archiviste en Armure Terminator. Cette figurine est équipée de : 1 Arme de Force ; 1 Châtiment ; 1 Bolter Tempête.
 - Options d'équipement : aucune.
-- **Meneur** de : Chevaliers de la Deathwing ; Escouade d'Assaut Terminator ; Escouade
-  Terminator ; Escouade Terminator de la Deathwatch ; Escouade Terminator de la
-  Deathwing ; Terminators Gardes Loups.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Meneur** de : Chevaliers de la Deathwing ; Escouade d'Assaut Terminator ; Escouade Terminator ; Escouade Terminator de la Deathwatch ; Escouade Terminator de la Deathwing ; Terminators Gardes Loups.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : "IMPERIUM", INFANTERIE, PSYKER, "TERMINATOR".
+- Mots-clés : IMPERIUM, INFANTERIE, PSYKER, TERMINATOR.
 
-## Apothicaire Biologis [C]
+## Apothicaire Biologis
 
 60 pts (1 figurine). Socle 40 mm.
 
@@ -234,29 +212,25 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Absolvor Bolt Pistol" | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+| Pistolet Bolter Absolvor | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Servo-armature" | 4 | 3+ | 5 | 0 | 1 | — |
+| Servo-armature | 4 | 3+ | 5 | 0 | 1 | — |
 
 - Aptitudes de base : Appui.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Vivispectral Analysis Targeting" : this unit's attacks have [LETHAL HITS:
-  non-VEHICLE].
-- Composition : 1 Apothicaire Biologis, équipé de : "Absolvor Bolt Pistol",
-  "Servo-armature".
+- Aptitudes de faction : Doctrines de Combat.
+- **Analyse de Ciblage Vivispectrale** : Les attaques de cette unité ont [TOUCHES FATALES : ≠ VÉHICULE].
+- Composition : 1 figurine d’Apothicaire Biologis. Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Servo-armature.
 - Options d'équipement : aucune.
-- **Appui** de : Escouade Aggressor ; Escouade Eradicator avec Bolters Lourds ; Escouade
-  Eradicator avec Fusils Fuseurs ; Escouade Lourde Intercessor ; Kill Team Indomitor.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Appui** de : Escouade Aggressor ; Escouade Eradicator avec Bolters Lourds ; Escouade Eradicator avec Fusils Fuseurs ; Escouade Lourde Intercessor ; Kill Team Indomitor.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : "APOTHECARY", "GRAVIS", "IMPERIUM", INFANTERIE.
-- Optimisation dédiée : Gantelet Narthecis (Force de Siège Gravis).
+- Mots-clés : APOTHICAIRE, GRAVIS, IMPERIUM, INFANTERIE.
 
-## Chapelain [C]
+## Chapelain
 
-60 pts (1 figurine). Socle 40 mm. SvIn 4+.
+60 pts (1 figurine). Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -264,31 +238,24 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Absolvor Bolt Pistol" | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+| Pistolet Bolter Absolvor | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Crozius Arcanum" | 5 | 2+ | 6 | −1 | 2 | ABATTAGE 1 |
+| Crozius Arcanum | 5 | 2+ | 6 | −1 | 2 | ABATTAGE 1 |
 
 - Aptitudes de base : Meneur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Litany of Hate" : this unit's melee attacks have ["LANCE"].
-- "Spiritual Leader" (once per battle round, per unit) : at the start of any phase, you
-  can select one friendly battle-shocked ADEPTUS ASTARTES unit within 6" of this model.
-  That unit is no longer battle-shocked.
-- Composition : 1 Chapelain, équipé de : "Absolvor Bolt Pistol", "Crozius Arcanum".
+- Aptitudes de faction : Doctrines de Combat.
+- **Litanie de la Haine** : Les attaques de mêlée de cette unité ont [LANCE].
+- **Chef Spirituel (une fois par round de bataille, par unité)** : Au début de n’importe quelle phase, vous pouvez choisir une unité de l’ADEPTUS ASTARTES amie ébranlée et 6" ou moins de cette figurine. L’unité choisie n’est plus ébranlée.
+- Composition : 1 figurine de Chapelain. Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Crozius Arcanum.
 - Options d'équipement : aucune.
-- **Meneur** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade de Frères
-  d'Épée ; Escouade de Vétérans d'Avant-garde ; Escouade de Vétérans d'Appui ; Escouade
-  de Vétérans Gardelames ; Escouade d'Assaut Intercessor ; Escouade Hellblaster ;
-  Escouade Infernus ; Escouade Intercessor ; Kill Team Decimus ; Kill Team Fortis ;
-  Marine de la Compagnie de la Mort ; Vétérans de la Deathwatch.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Meneur** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade d'Assaut Intercessor ; Escouade de Frères d'Épée ; Escouade de Vétérans d'Appui ; Escouade de Vétérans d'Avant-garde ; Escouade de Vétérans Gardelames ; Escouade Hellblaster ; Escouade Infernus ; Escouade Intercessor ; Kill Team Decimus ; Kill Team Fortis ; Marine de la Compagnie de la Mort ; Vétérans de la Deathwatch.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS". 40k.app ne donne pas de
-  mot-clé CHAPLAIN à cette fiche.
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Apothicaire [C]
+## Apothicaire
 
 45 pts (1 figurine). Socle 40 mm.
 
@@ -298,32 +265,26 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Absolvor Bolt Pistol" | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+| Pistolet Bolter Absolvor | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Reductor Pistol" | 1 | 3+ | 5 | −4 | 2 | "EXTRA ATTACKS" |
-| "Servo-armature" | 4 | 3+ | 5 | 0 | 1 | — |
+| Pistolet Reductor | 1 | 3+ | 5 | −4 | 2 | ATTAQUES BONUS |
+| Servo-armature | 4 | 3+ | 5 | 0 | 1 | — |
 
 - Aptitudes de base : Appui.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Narthecium" : in your Command phase, this unit heals D3+1 wounds.
-- Composition : 1 Apothicaire, équipé de : "Absolvor Bolt Pistol", "Reductor Pistol",
-  "Servo-armature".
+- Aptitudes de faction : Doctrines de Combat.
+- **Narthecium** : À votre phase de Commandement, cette unité soigne D3+1 PV.
+- Composition : 1 figurine d’Apothicaire. Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Pistolet Reductor ; 1 Servo-armature.
 - Options d'équipement : aucune.
-- **Appui** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade de Frères
-  d'Épée ; Escouade de Vétérans d'Appui ; Escouade de Vétérans Gardelames ; Escouade
-  Desolator ; Escouade d'Assaut Intercessor ; Escouade Hellblaster ; Escouade Infernus ;
-  Escouade Intercessor ; Héros de Compagnie ; Kill Team Decimus ; Kill Team Fortis ;
-  Vétérans de la Deathwatch.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Appui** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade d'Assaut Intercessor ; Escouade de Frères d'Épée ; Escouade de Vétérans d'Appui ; Escouade de Vétérans Gardelames ; Escouade Desolator ; Escouade Hellblaster ; Escouade Infernus ; Escouade Intercessor ; Héros de Compagnie ; Kill Team Decimus ; Kill Team Fortis ; Vétérans de la Deathwatch.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
-- Mots-clés : "IMPERIUM", INFANTERIE, "TACTICUS". 40k.app ne donne pas de mot-clé
-  APOTHECARY à cette fiche, alors qu'il le donne à l'Apothicaire Biologis.
+- Mots-clés : IMPERIUM, INFANTERIE, TACTICUS.
 
-## Dreadnought Ballistus [C]
+## Dreadnought Ballistus
 
-150 pts (1 figurine) ; 170 pts à partir de la 3e unité. Socle 90 mm.
+150 pts (1 figurine) ; à partir de la 3e unité : 170 pts (1 figurine). Socle 90 mm.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -331,430 +292,429 @@ texte dans `detachements.md`.
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Ballistus Lascannon" | 48" | 2 | 3+ | 12 | −3 | D3+3 | — |
-| "Ballistus Missile Launcher" (Frag) | 48" | D6+6 | 3+ | 5 | −1 | 1 | DÉFLAGRATION 2 |
-| "Ballistus Missile Launcher" (Krak) | 48" | 2 | 3+ | 10 | −2 | D3+3 | — |
-| "Storm Bolters" | 24" | 4 | 3+ | 5 | −1 | 1 | TIR RAPIDE 4 |
+| Bolters Tempête | 24" | 4 | 3+ | 5 | −1 | 1 | TIR RAPIDE 4 |
+| Canon Laser Ballistus | 48" | 2 | 3+ | 12 | −3 | D3+3 | — |
+| Lance-missiles Ballistus - Frag. | 48" | D6+6 | 3+ | 5 | −1 | 1 | DÉFLAGRATION 2 |
+| Lance-missiles Ballistus - Antichar | 48" | 2 | 3+ | 10 | −2 | D3+3 | — |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Armoured Feet" | 5 | 3+ | 7 | 0 | 1 | — |
+| Pieds Blindés | 5 | 3+ | 7 | 0 | 1 | — |
 
-- Aptitudes de base : Destruction Néfaste D3, « Damaged 4 » (terme français non
-  trouvé). La page affiche un bloc « DAMAGED » vide : effet non donné par 40k.app.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Ballistus Strike" : this unit's ranged attacks that target an enemy unit within 24" of
-  this unit have [SUSTAINED HITS 1].
-- Composition : 1 Dreadnought Ballistus, équipé de : "Armoured Feet", "Ballistus
-  Lascannon", "Ballistus Missile Launcher", "Storm Bolters".
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de base : Destruction Néfaste D3, Endommagé 4.
+- Aptitudes de faction : Doctrines de Combat.
+- **Frappe Ballistus** : Les attaques de tir de cette unité qui ciblent une unité ennemie à 24" ou moins d’elle ont [TOUCHES SOUTENUES 1].
+- Composition : 1 figurine de Dreadnought Ballistus. Cette figurine est équipée de : 1 Pieds Blindés ; 1 Canon Laser Ballistus ; 1 Lance-missiles Ballistus ; 1 Bolters Tempête.
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : "DREADNOUGHT", "IMPERIUM", VÉHICULE, MARCHEUR.
+- Mots-clés : DREADNOUGHT, IMPERIUM, MARCHEUR, VÉHICULE.
 
-## Escouade Infernus [C]
+## Escouade Infernus
 
-95 pts (5 figurines), 190 pts (10) ; à partir de la 3e unité : 105 et 200 pts. Socle
-32 mm.
+95 pts (5 figurines), 190 pts (10 figurines) ; à partir de la 3e unité : 105 pts (5 figurines), 200 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Infernus Marine", "Infernus Sergeant" | 6" | 5 | 3+ | 2 | 6+ | 1 |
+| Sergent Infernus ; Marine Infernus | 6" | 5 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Bolt Pistol" | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Pyreblaster" | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 1, TORRENT |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pyroéclateur | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 1, TORRENT |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Ceramite Fists" | 3 | 3+ | 5 | 0 | 1 | — |
+| Poings de Céramite | 3 | 3+ | 5 | 0 | 1 | — |
 
-- Aptitudes de base : aucune.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Driven from Cover" : in your Shooting phase, when this unit has shot, select one enemy
-  unit hit by those attacks. Friendly ADEPTUS ASTARTES units' ranged attacks that target
-  that enemy unit have [IGNORES COVER].
-- Composition : 1 "Infernus Sergeant" et 4 à 9 "Infernus Marine", chacun équipé de :
-  "Bolt Pistol", "Ceramite Fists", "Pyreblaster".
+- Aptitudes de faction : Doctrines de Combat.
+- **Chassés du Couvert** : À votre phase de Tir, une fois que cette unité a tiré, choisissez une unité ennemie touchée par ces attaques. Les attaques de tir des unités de l’ADEPTUS ASTARTES amies qui ciblent l’unité ennemie choisie ont [IGNORE LE COUVERT].
+- Composition : 1 figurine de Sergent Infernus ; 4-9 figurines de Marine Infernus. Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Pyroéclateur.
 - Options d'équipement : aucune.
-- **Meneurs** : Archiviste, Capitaine, Chapelain (SM et DA) ; Adrax Agatone, Capitaine
-  Titus, Marneus Calgar, Maître Archiviste Tigurius, Vulkan He'stan (SM) ; Asmodaï,
-  Azraël, Ézékiel, Lazarus (DA).
-- **Appuis** : Apothicaire, Doyen, Judicateur, Lieutenant (SM et DA).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Meneurs** possibles : Adrax Agatone (SM) ; Archiviste ; Asmodaï (DA) ; Azraël (DA) ; Capitaine ; Capitaine Titus (SM) ; Chapelain ; Lazarus (DA) ; Marneus Calgar (SM) ; Maître Archiviste Tigurius (SM) ; Vulkan He'stan (SM) ; Ézékiel (DA).
+- **Appuis** possibles : Apothicaire ; Doyen ; Judicateur ; Lieutenant.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS".
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Escouade d'Assaut Intercessor [C]
+## Escouade d'Assaut Intercessor
 
-85 pts (5 figurines), 170 pts (10). Socle 32 mm.
+85 pts (5 figurines), 170 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Assault Intercessor", "Assault Intercessor Sergeant" | 6" | 5 | 3+ | 2 | 6+ | 2 |
+| Sergent Intercessor d’Assaut ; Intercessor d’Assaut | 6" | 5 | 3+ | 2 | 6+ | 2 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Heavy Bolt Pistol" | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Hand Flamer" | 9" | 3 | — | 4 | 0 | 1 | COMBAT RAPPROCHÉ, TORRENT |
-| "Plasma Pistol" (Standard) | 12" | 1 | 3+ | 7 | −2 | 1 | COMBAT RAPPROCHÉ |
-| "Plasma Pistol" (Supercharge) | 12" | 1 | 3+ | 8 | −3 | 2 | COMBAT RAPPROCHÉ, À RISQUE |
+| Lance-flammes Léger | 9" | 3 | — | 4 | 0 | 1 | COMBAT RAPPROCHÉ, TORRENT |
+| Pistolet Bolter Lourd | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Standard | 12" | 1 | 3+ | 7 | −2 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Surcharge | 12" | 1 | 3+ | 8 | −3 | 2 | COMBAT RAPPROCHÉ, À RISQUE |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Chainsword" | 4 | 3+ | 5 | −1 | 1 | — |
-| "Power Fist" | 3 | 3+ | 8 | −2 | 2 | — |
-| "Power Weapon" | 4 | 3+ | 5 | −2 | 1 | — |
-| "Thunder Hammer" | 3 | 4+ | 8 | −2 | 3 | BLESSURES DÉVASTATRICES |
+| Arme Énergétique [capture] | 4 | 3+ | 5 | −2 | 1 | — |
+| Gantelet Énergétique | 3 | 3+ | 8 | −2 | 2 | — |
+| Marteau Tonnerre | 3 | 4+ | 8 | −2 | 3 | BLESSURES DÉVASTATRICES |
+| Épée Tronçonneuse | 4 | 3+ | 5 | −1 | 1 | — |
 
-- Aptitudes de base : aucune.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Targeted Intercession" : if this unit made a charge move this turn, this unit's melee
-  attacks have +1 S and AP.
-- Composition : 1 "Assault Intercessor Sergeant" et 4 à 9 "Assault Intercessor", chacun
-  équipé de : "Chainsword", "Heavy Bolt Pistol".
-- Options d'équipement : le sergent peut remplacer son "Heavy Bolt Pistol" par 1 "Hand
-  Flamer" ou 1 "Plasma Pistol", et sa "Chainsword" par 1 "Power Fist", 1 "Power Weapon"
-  ou 1 "Thunder Hammer".
-- **Meneurs** : Archiviste, Capitaine, Chapelain, Techmarine (SM et DA) ; Adrax Agatone,
-  Capitaine Titus, Kor'sarro Khan, Marneus Calgar, Maître Archiviste Tigurius, Vulkan
-  He'stan (SM) ; Asmodaï, Azraël, Ézékiel, Lazarus (DA).
-- **Appuis** : Apothicaire, Doyen, Judicateur, Lieutenant (SM et DA) ; Gardiens
-  d'Ultramar, Kaius Konorius (SM).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de faction : Doctrines de Combat.
+- **Intercession Ciblée** : Si cette unité a fait un mouvement de charge à ce tour, ses attaques de mêlée ont +1 en F et en PA.
+- Composition : 1 figurine de Sergent Intercessor d’Assaut ; 4-9 figurines d’Intercessor d’Assaut. Chaque figurine est équipée de : 1 Épée Tronçonneuse ; 1 Pistolet Bolter Lourd.
+- Options d'équipement :
+  - Le Sergent Intercessor d’Assaut peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+    - 1 Lance-flammes Léger
+    - 1 Pistolet à Plasma
+  - Le Sergent Intercessor d’Assaut peut remplacer son Épée Tronçonneuse par un des choix suivants :
+    - 1 Gantelet Énergétique
+    - 1 Arme Énergétique
+    - 1 Marteau Tonnerre
+- **Meneurs** possibles : Adrax Agatone (SM) ; Archiviste ; Asmodaï (DA) ; Azraël (DA) ; Capitaine ; Capitaine Titus (SM) ; Chapelain ; Kor'sarro Khan (SM) ; Lazarus (DA) ; Marneus Calgar (SM) ; Maître Archiviste Tigurius (SM) ; Techmarine ; Vulkan He'stan (SM) ; Ézékiel (DA).
+- **Appuis** possibles : Apothicaire ; Doyen ; Gardiens d'Ultramar (SM) ; Judicateur ; Kaius Konorius (SM) ; Lieutenant.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : LIGNE.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS".
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Escouade Incursor [C]
+## Escouade Incursor
 
-90 pts (5 figurines), 170 pts (10) ; à partir de la 3e unité : 100 et 180 pts. Socle
-32 mm.
+90 pts (5 figurines), 170 pts (10 figurines) ; à partir de la 3e unité : 100 pts (5 figurines), 180 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Incursor", "Incursor Sergeant" | 8" | 4 | 3+ | 2 | 6+ | 1 |
+| Sergent Incursor ; Incursor | 8" | 4 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Bolt Pistol" | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Occulus Bolt Carbine" | 24" | 2 | 3+ | 5 | −1 | 1 | ASSAUT, IGNORE LE COUVERT |
+| Carabine Bolter Occulus | 24" | 2 | 3+ | 5 | −1 | 1 | ASSAUT, IGNORE LE COUVERT |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Paired Combat Blades" | 3 | 3+ | 5 | −1 | 1 | TOUCHES SOUTENUES 1 |
+| Paire de Lames de Combat | 3 | 3+ | 5 | −1 | 1 | TOUCHES SOUTENUES 1 |
 
 - Aptitudes de base : Éclaireurs 6".
-- Aptitudes de faction : « Combat Doctrines ».
-- "Haywire Mine" (once per battle, per unit) : in your Shooting phase, you can select one
-  visible enemy unit within 6" of this unit and roll one D6. On a 2+: that enemy unit
-  suffers D3 mortal wounds; or, if that enemy unit is a VEHICLE unit, it suffers 2D3
-  mortal wounds.
-- "Divinator-class Auspexes" (once per phase, per unit) : in your Shooting phase, when a
-  friendly ADEPTUS ASTARTES unit is selected to shoot, you can use this ability. If you
-  do, select one visible enemy unit within 18" of this unit. That unit is scanned: while
-  a unit is scanned, ranged attacks that target that unit can re-roll hit rolls of 1.
-- Composition : 1 "Incursor Sergeant" et 4 à 9 "Incursor", chacun équipé de : "Bolt
-  Pistol", "Occulus Bolt Carbine", "Paired Combat Blades".
+- Aptitudes de faction : Doctrines de Combat.
+- **Mine Disruptrice (une fois par bataille, par unité)** : À votre phase de Tir, vous pouvez choisir une unité ennemie visible à 6" ou moins de cette unité et jeter un D6. Sur 2+ :
+  - L’unité ennemie choisie subit D3 blessures mortelles.
+  - Ou : Si l’unité ennemie choisie est une unité de VÉHICULE, elle subit 2D3 blessures mortelles.
+- **Auspex de Classe Divinator (une fois par phase, par unité)** : À votre phase de Tir, quand une unité de l’ADEPTUS ASTARTES amie est choisie pour tirer, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une unité ennemie visible et à 18" ou moins de cette unité. L’unité choisie est scannée :
+  - Tant qu’une unité est scannée, les attaques de tir qui la ciblent peuvent relancer les jets de touche de 1.
+- Composition : 1 figurine de Sergent Incursor ; 4-9 figurines d’Incursor. Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Carabine Bolter Occulus ; 1 Paire de Lames de Combat.
 - Options d'équipement : aucune.
-- **Meneurs** : Archiviste en Armure Phobos, Capitaine en Armure Phobos. **Appui** :
-  Lieutenant en Armure Phobos.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Meneurs** possibles : Archiviste en Armure Phobos ; Capitaine en Armure Phobos.
+- **Appuis** possibles : Lieutenant en Armure Phobos.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "PHOBOS", FUMÉE.
+- Mots-clés : EXPLOSIFS, FUMÉE, IMPERIUM, INFANTERIE, PHOBOS.
 
-## Escouade Infiltrator [C]
+## Escouade Infiltrator
 
-85 pts (5 figurines), 150 pts (10). Socle 32 mm.
+85 pts (5 figurines), 150 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Infiltrator", "Infiltrator Sergeant" | 8" | 4 | 3+ | 2 | 6+ | 1 |
+| Sergent Infiltrator ; Infiltrator | 8" | 4 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Bolt Pistol" | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Marksman Bolt Carbine" | 24" | 2 | 3+ | 5 | −1 | 1 | PRÉCISION, TIR RAPIDE 1 |
+| Carabine Bolter d’Élite | 24" | 2 | 3+ | 5 | −1 | 1 | PRÉCISION, TIR RAPIDE 1 |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Ceramite Fists" | 3 | 3+ | 5 | 0 | 1 | — |
+| Poings de Céramite | 3 | 3+ | 5 | 0 | 1 | — |
 
 - Aptitudes de base : Infiltrateurs.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Omni-scramblers" : in your Shooting phase, you can select one visible enemy unit
-  within 18" of this unit. That unit is detected: while a unit is detected, that unit has
-  +3" detection range.
-- Équipement "Helix Gauntlet" : in your Command phase, this unit heals D3 wounds.
-- Composition : 1 "Infiltrator Sergeant" et 4 à 9 "Infiltrator", chacun équipé de : "Bolt
-  Pistol", "Ceramite Fists", "Marksman Bolt Carbine".
-- Options d'équipement : 1 figurine peut être équipée de 1 "Helix Gauntlet".
-- **Meneurs** : Archiviste en Armure Phobos, Capitaine en Armure Phobos. **Appui** :
-  Lieutenant en Armure Phobos.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Omnibrouilleurs** : À votre phase de Tir, vous pouvez choisir une unité ennemie visible et à 18" ou moins de cette unité. L’unité choisie est détectée :
+  - Tant qu’une unité est détectée, elle a +3" en portée de détection.
+- Aptitude d'équipement, **Gantelet Helix** : À votre phase de Commandement, cette unité
+  soigne D3 blessures.
+- Composition : 1 figurine de Sergent Infiltrator ; 4-9 figurines d’Infiltrator. Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Carabine Bolter d’Élite.
+- Options d'équipement :
+  - 1 figurine peut être équipée de 1 Gantelet Helix.
+- **Meneurs** possibles : Archiviste en Armure Phobos ; Capitaine en Armure Phobos.
+- **Appuis** possibles : Lieutenant en Armure Phobos.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "PHOBOS", FUMÉE.
+- Mots-clés : EXPLOSIFS, FUMÉE, IMPERIUM, INFANTERIE, PHOBOS.
 
-## Escouade Eliminator [C]
+## Escouade Eliminator
 
 85 pts (3 figurines). Socle 40 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Eliminator", "Eliminator Sergeant" | 8" | 4 | 3+ | 2 | 6+ | 1 |
+| Sergent Eliminator ; Eliminator | 8" | 4 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Bolt Pistol" | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Bolt Sniper Rifle" | 36" | 1 | 3+ | 6 | −2 | 3 | LOURD, PRÉCISION |
-| "Las Fusil" | 36" | 1 | 3+ | 10 | −3 | D3+3 | LOURD |
-| "Instigator Bolt Carbine" | 24" | 2 | 2+ | 5 | −2 | 2 | TOUCHES FATALES: non-MONSTRE/VÉHICULE, PRÉCISION, TIR RAPIDE 2 |
+| Arquebuse Laser | 36" | 1 | 3+ | 10 | −3 | D3+3 | LOURD |
+| Carabine Bolter Instigator | 24" | 2 | 2+ | 5 | −2 | 2 | TOUCHES FATALES: ≠ MONSTRE/VÉHICULE, PRÉCISION, TIR RAPIDE 2 |
+| Fusil Bolter de Sniper | 36" | 1 | 3+ | 6 | −2 | 3 | LOURD, PRÉCISION |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Ceramite Fists" | 3 | 3+ | 5 | 0 | 1 | — |
+| Poings de Céramite | 3 | 3+ | 5 | 0 | 1 | — |
 
 - Aptitudes de base : Infiltrateurs, Discrétion.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Chameleoline Cloaks" : this unit has −3" detection range.
-- "Special-issue Optics and Ammunition" : in your Shooting phase, when this unit is
-  selected to shoot, you can select one of the following: this unit's ranged attacks have
-  [IGNORES COVER]; or select one enemy unit within 24" of this unit, that enemy unit has
-  +6" detection range until this unit has shot.
-- Composition : 1 "Eliminator Sergeant" et 2 "Eliminator", chacun équipé de : "Bolt
-  Pistol", "Bolt Sniper Rifle", "Ceramite Fists".
-- Options d'équipement : le sergent peut remplacer son "Bolt Sniper Rifle" par 1
-  "Instigator Bolt Carbine" ou 1 "Las Fusil" ; tous les "Eliminator" peuvent chacun
-  remplacer leur "Bolt Sniper Rifle" par 1 "Las Fusil".
-- **Meneurs** : Archiviste en Armure Phobos, Capitaine en Armure Phobos. **Appui** :
-  Lieutenant en Armure Phobos.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Capes de Caméléolin** : Cette unité a -3" en portée de détection.
+- **Optiques et Munitions Spécialisées** : À votre phase de Tir, quand cette unité est choisie pour tirer, vous pouvez faire un des choix suivants :
+  - Les attaques de tir de cette unité ont [IGNORE LE COUVERT].
+  - Ou : choisissez une unité ennemie à 24" ou moins de cette unité. L’unité ennemie choisie a +6" en portée de détection jusqu’à ce que cette unité ait tiré.
+- Composition : 1 figurine de Sergent Eliminator ; 2 figurines d’Eliminator. Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Fusil Bolter de Sniper ; 1 Poings de Céramite.
+- Options d'équipement :
+  - Le Sergent Eliminator peut remplacer son Fusil Bolter de Sniper par un des choix suivants :
+    - 1 Carabine Bolter Instigator
+    - 1 Arquebuse Laser
+  - Toutes les figurines d’Eliminator de cette unité peuvent chacune remplacer leur Fusil Bolter de Sniper par 1 Arquebuse Laser.
+- **Meneurs** possibles : Archiviste en Armure Phobos ; Capitaine en Armure Phobos.
+- **Appuis** possibles : Lieutenant en Armure Phobos.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "PHOBOS", FUMÉE.
+- Mots-clés : EXPLOSIFS, FUMÉE, IMPERIUM, INFANTERIE, PHOBOS.
 
-## Escouade Terminator [C]
+## Escouade Terminator
 
-190 pts (5 figurines), 380 pts (10) ; à partir de la 3e unité : 230 et 420 pts. Lance-
-missiles Cyclone : +10 pts chacun. Socle 40 mm. SvIn 4+.
+190 pts (5 figurines), 380 pts (10 figurines) ; à partir de la 3e unité : 230 pts (5 figurines), 420 pts (10 figurines). Par Lance-missiles Cyclone : +10 pts. Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Terminator", "Terminator Sergeant" | 5" | 6 | 2+ | 3 | 6+ | 1 |
+| Sergent Terminator ; Terminator | 5" | 6 | 2+ | 3 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Assault Cannon" | 24" | 6 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 1 |
-| Lance-missiles Cyclone (Frag) | 36" | 8 | 3+ | 4 | −1 | 1 | DÉFLAGRATION 2 |
-| Lance-missiles Cyclone (Krak) | 36" | 2 | 3+ | 10 | −2 | D3+3 | — |
-| "Heavy Flamer" | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
-| "Storm Bolter" | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Bolter Tempête | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Canon d’Assaut | 24" | 6 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 1 |
+| Lance-flammes Lourd | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
+| Lance-missiles Cyclone - Frag. | 36" | 8 | 3+ | 4 | −1 | 1 | DÉFLAGRATION 2 |
+| Lance-missiles Cyclone - Antichar | 36" | 2 | 3+ | 10 | −2 | D3+3 | — |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Chainfist" (Hunter) | 3 | 3+ | 12 | −2 | 3 | « HUNTER: MONSTER/VEHICLE » |
-| "Chainfist" (Standard) | 2 | 4+ | 8 | −2 | 2 | — |
-| "Power Fist" | 3 | 3+ | 8 | −2 | 2 | — |
-| "Power Weapon" | 5 | 3+ | 5 | −2 | 1 | — |
+| Arme Énergétique | 5 | 3+ | 5 | −2 | 1 | — |
+| Gantelet Énergétique | 3 | 3+ | 8 | −2 | 2 | — |
+| Poing Tronçonneur - Chasseur | 3 | 3+ | 12 | −2 | 3 | CHASSEUR : MONSTRE/VÉHICULE |
+| Poing Tronçonneur - Standard | 2 | 4+ | 8 | −2 | 2 | — |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Frappe en Profondeur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Fury of the First" : this unit's attacks that target a unit within 9" of this unit
-  have +1 AP.
-- "Teleport Homer" (once per battle, per unit) : at the start of the battle, you can set
-  up one Teleport Homer token for this unit on the battlefield. If you do: when you target
-  this unit with the Rapid Ingress stratagem, you can use that token. If you do, that use
-  is −1 CP, but when resolving that stratagem, this unit must be set up within 3" of that
-  token and not within 8" of an enemy unit; the token is then removed. If an enemy unit
-  ends a move within 1" of that token, it is removed from the battlefield.
-- Composition : 1 "Terminator Sergeant" et 4 à 9 "Terminator", chacun équipé de : "Power
-  Fist", "Storm Bolter".
-- Options d'équipement : le sergent peut remplacer son "Power Fist" par 1 "Chainfist" ou 1
-  "Power Weapon" ; tout "Terminator" peut remplacer son "Power Fist" par 1 "Chainfist" ;
-  par tranche de 5 figurines, 1 "Terminator" peut remplacer son "Storm Bolter" par 1
-  "Assault Cannon", 1 "Heavy Flamer", ou 1 Lance-missiles Cyclone et 1 "Storm Bolter"
-  (ce "Storm Bolter" ne peut alors pas être remplacé).
-- **Meneurs** : Archiviste en Armure Terminator, Capitaine en Armure Terminator, Chapelain
-  en Armure Terminator (SM et DA) ; Caanok Var, Darnath Lysander, Marneus Calgar (SM) ;
-  Bélial (DA). **Appui** : Doyen en Armure Terminator.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Colère de l’Élite** : Les attaques de cette unité qui ciblent une unité à 9" ou moins d’elle unité ont +1 en PA.
+- **Balise de Téléportation (une fois par bataille, par unité)** : Au début de la bataille, vous pouvez placer un pion de Balise de Téléportation pour cette unité sur le champ de bataille. Dans ce cas :
+  - Quand vous ciblez cette unité avec le stratagème Arrivée Précipitée, vous pouvez utiliser ce pion de Balise de Téléportation. Dans ce cas, cette utilisation se fait à -1 PC, mais en résolvant ce stratagème, cette unité doit être placée à 3" ou moins de ce pion et à plus de 8" des unités ennemies. Ce pion de Balise de Téléportation est alors retiré du champ de bataille.
+  - Si une unité ennemie finit un mouvement à 1" ou moins de ce pion de Balise de Téléportation, ce dernier est retiré du champ de bataille.
+- Composition : 1 figurine de Sergent Terminator ; 4-9 figurines de Terminator. Chaque figurine est équipée de : 1 Gantelet Énergétique ; 1 Bolter Tempête.
+- Options d'équipement :
+  - Le Sergent Terminator peut remplacer son Gantelet Énergétique par un des choix suivants :
+    - 1 Poing Tronçonneur
+    - 1 Arme Énergétique
+  - Chaque figurine de Terminator (n’importe quel nombre) peut remplacer son Gantelet Énergétique par 1 Poing Tronçonneur.
+  - Par tranche de 5 figurines dans cette unité, 1 figurine de Terminator peut remplacer son Bolter Tempête par un des choix suivants :
+    - 1 Canon d’Assaut
+    - 1 Lance-flammes Lourd
+    - 1 Lance-missiles Cyclone et 1 Bolter Tempête (le Bolter Tempête de cette figurine ne peut pas être remplacé).
+- **Meneurs** possibles : Archiviste en Armure Terminator ; Bélial (DA) ; Caanok Var (SM) ; Capitaine en Armure Terminator ; Chapelain en Armure Terminator ; Darnath Lysander (SM) ; Marneus Calgar (SM).
+- **Appuis** possibles : Doyen en Armure Terminator.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : "IMPERIUM", INFANTERIE, "TERMINATOR".
+- Mots-clés : IMPERIUM, INFANTERIE, TERMINATOR.
 
-## Escouade de Vétérans d'Appui [C]
+## Escouade de Vétérans d'Appui
 
-105 pts (5 figurines), 210 pts (10) ; à partir de la 3e unité : 120 et 225 pts. Socle
-32 mm.
+105 pts (5 figurines), 210 pts (10 figurines) ; à partir de la 3e unité : 120 pts (5 figurines), 225 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Sternguard Veteran", "Sternguard Veteran Sergeant" | 6" | 5 | 3+ | 2 | 6+ | 1 |
+| Sergent Vétéran d’Appui ; Vétéran d’Appui | 6" | 5 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Artificer Firearm" (Damnatus) | 12" | 1 | 3+ | 9 | −3 | D3+2 | ASSAUT, FUSION 2 |
-| "Artificer Firearm" (Infernus) | 24" | 2 | 3+ | 5 | −1 | 1 | ASSAUT, TIR RAPIDE 2 |
-| "Artificer Firearm" (Purgatus) | 24" | 1 | 3+ | 7 | −2 | 2 | ASSAUT, TIR RAPIDE 1 |
-| "Bolt Pistol" | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Heavy Bolter" | 36" | 3 | 3+ | 5 | −1 | 2 | LOURD, TIR RAPIDE 2, TOUCHES SOUTENUES 1 |
-| "Pyrecannon" | 12" | 4 | — | 6 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
+| Arme à feu d'Artificier - Damnatus | 12" | 1 | 3+ | 9 | −3 | D3+2 | ASSAUT, FUSION 2 |
+| Arme à feu d'Artificier - Infernus | 24" | 2 | 3+ | 5 | −1 | 1 | ASSAUT, TIR RAPIDE 2 |
+| Arme à feu d'Artificier - Purgatus | 24" | 1 | 3+ | 7 | −2 | 2 | ASSAUT, TIR RAPIDE 1 |
+| Bolter Lourd | 36" | 3 | 3+ | 5 | −1 | 2 | LOURD, TIR RAPIDE 2, TOUCHES SOUTENUES 1 |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pyrocanon [capture] | 12" | 4 | — | 6 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Chainsword" | 6 | 3+ | 5 | −1 | 1 | — |
-| "Power Fist" | 4 | 3+ | 8 | −2 | 2 | — |
-| "Power Weapon" | 5 | 3+ | 5 | −2 | 1 | — |
-| "Ceramite Fists" | 4 | 3+ | 5 | 0 | 1 | — |
+| Arme Énergétique | 5 | 3+ | 5 | −2 | 1 | — |
+| Gantelet Énergétique | 4 | 3+ | 8 | −2 | 2 | — |
+| Poings de Céramite | 4 | 3+ | 5 | 0 | 1 | — |
+| Épée Tronçonneuse | 6 | 3+ | 5 | −1 | 1 | — |
 
-- Aptitudes de base : aucune.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Veteran Marksmen" : this unit's ranged attacks can re-roll hit rolls of 1.
-- Composition : 1 "Sternguard Veteran Sergeant" (équipé de : "Artificer Firearm", "Bolt
-  Pistol", "Chainsword") et 4 à 9 "Sternguard Veteran" (équipés de : "Artificer
-  Firearm", "Bolt Pistol", "Ceramite Fists").
-- Options d'équipement : le sergent peut remplacer sa "Chainsword" par 1 "Power Fist" ou 1
-  "Power Weapon" ; par tranche de 5 figurines, 1 "Sternguard Veteran" peut remplacer son
-  "Artificer Firearm" par 1 "Heavy Bolter" ou 1 "Pyrecannon".
-- **Meneurs** : Archiviste, Capitaine, Chapelain (SM et DA) ; Adrax Agatone, Capitaine
-  Titus, Kor'sarro Khan, Marneus Calgar, Maître Archiviste Tigurius (SM) ; Asmodaï,
-  Azraël, Ézékiel, Lazarus (DA).
-- **Appuis** : Apothicaire, Doyen, Judicateur, Lieutenant (SM et DA) ; Gardiens
-  d'Ultramar, Kaius Konorius (SM).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Tireurs de Précision Vétérans** : Les attaques de tir de cette unité peuvent relancer les jets de touche de 1.
+- Composition : 1 figurine de Sergent Vétéran d’Appui ; 4-9 figurines de Vétéran d’Appui. Le Sergent Vétéran d’Appui est équipé de : 1 Arme à feu d’artificier ; 1 Pistolet Bolter ; 1 Épée Tronçonneuse. Chaque Vétéran d’Appui est équipé de : 1 Arme à feu d’artificier ; 1 Pistolet Bolter ; 1 Poings de Céramite.
+- Options d'équipement :
+  - Le Sergent Vétéran d’Appui peut remplacer son Épée Tronçonneuse par un des choix suivants :
+    - 1 Gantelet Énergétique
+    - 1 Arme Énergétique
+  - Par tranche de 5 figurines dans cette unité, 1 figurine de Vétéran d’Appui peut remplacer son Arme à Feu d’Artificier par un des choix suivants :
+    - 1 Bolter Lourd
+    - 1 Pyrocanon
+- **Meneurs** possibles : Adrax Agatone (SM) ; Archiviste ; Asmodaï (DA) ; Azraël (DA) ; Capitaine ; Capitaine Titus (SM) ; Chapelain ; Kor'sarro Khan (SM) ; Lazarus (DA) ; Marneus Calgar (SM) ; Maître Archiviste Tigurius (SM) ; Ézékiel (DA).
+- **Appuis** possibles : Apothicaire ; Doyen ; Gardiens d'Ultramar (SM) ; Judicateur ; Kaius Konorius (SM) ; Lieutenant.
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS".
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Intercessors d'Assaut à Réacteurs Dorsaux [C]
+## Intercessors d'Assaut à Réacteurs Dorsaux
 
-95 pts (5 figurines), 190 pts (10) ; à partir de la 3e unité : 105 et 200 pts. Socle
-32 mm.
+95 pts (5 figurines), 190 pts (10 figurines) ; à partir de la 3e unité : 105 pts (5 figurines), 200 pts (10 figurines). Socle 32 mm.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Assault Intercessor with Jump Pack", sergent | 12" | 5 | 3+ | 2 | 6+ | 1 |
+| Sergent Intercessor d’Assaut à Réacteur Dorsal ; Intercessor d’Assaut à Réacteur Dorsal | 12" | 5 | 3+ | 2 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Hand Flamer" | 9" | 3 | — | 4 | 0 | 1 | COMBAT RAPPROCHÉ, TORRENT |
-| "Heavy Bolt Pistol" | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
-| "Plasma Pistol" (Standard) | 12" | 1 | 3+ | 7 | −2 | 1 | COMBAT RAPPROCHÉ |
-| "Plasma Pistol" (Supercharge) | 12" | 1 | 3+ | 8 | −3 | 2 | COMBAT RAPPROCHÉ, À RISQUE |
+| Lance-flammes Léger | 9" | 3 | — | 4 | 0 | 1 | COMBAT RAPPROCHÉ, TORRENT |
+| Pistolet Bolter Lourd | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Standard | 12" | 1 | 3+ | 7 | −2 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Surcharge | 12" | 1 | 3+ | 8 | −3 | 2 | COMBAT RAPPROCHÉ, À RISQUE |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Chainsword" | 4 | 3+ | 5 | −1 | 1 | — |
-| "Power Fist" | 3 | 3+ | 8 | −2 | 2 | — |
-| "Power Weapon" | 4 | 3+ | 5 | −2 | 1 | — |
+| Arme Énergétique [capture] | 4 | 3+ | 5 | −2 | 1 | — |
+| Gantelet Énergétique | 3 | 3+ | 8 | −2 | 2 | — |
+| Épée Tronçonneuse | 4 | 3+ | 5 | −1 | 1 | — |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Frappe en Profondeur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Hammer of Wrath" : when this unit ends a charge move, you can select one enemy unit
-  engaged with this unit. For each model in this unit engaged with that enemy unit, roll
-  one D6: on a 4+, that enemy unit suffers 1 mortal wound.
-- Composition : 1 "Assault Intercessor Sergeant with Jump Pack" et 4 à 9 "Assault
-  Intercessor with Jump Pack", chacun équipé de : "Chainsword", "Heavy Bolt Pistol".
-- Options d'équipement : le sergent peut remplacer son "Heavy Bolt Pistol" par 1 "Hand
-  Flamer" ou 1 "Plasma Pistol", et sa "Chainsword" par 1 "Power Fist" ou 1 "Power
-  Weapon" ; par tranche de 5 figurines, 1 autre figurine peut remplacer son "Heavy Bolt
-  Pistol" par 1 "Plasma Pistol".
-- **Meneurs** : Capitaine à Réacteur Dorsal, Chapelain à Réacteur Dorsal (SM et DA) ;
-  Kayvaan Shrike (SM). Aucun appui.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Marteau de Fureur** : Quand cette unité finit un mouvement de charge, vous pouvez choisir une unité ennemie engagée avec elle. Pour chaque figurine de cette unité engagée avec l’unité ennemie choisie, jetez un D6 :
+  - Sur 4+, l’unité ennemie choisie subit 1 blessure mortelle.
+- Composition : 1 figurine de Sergent Intercessor d’Assaut à Réacteur Dorsal ; 4-9 figurines d’Intercessor d’Assaut à Réacteur Dorsal. Chaque figurine est équipée de : 1 Épée Tronçonneuse ; 1 Pistolet Bolter Lourd.
+- Options d'équipement :
+  - Le Sergent Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+    - 1 Lance-flammes Léger
+    - 1 Pistolet à Plasma
+  - Le Sergent Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Épée Tronçonneuse par un des choix suivants :
+    - 1 Gantelet Énergétique
+    - 1 Arme Énergétique
+  - Par tranche de 5 figurines dans cette unité, 1 figurine d’Intercessor d’Assaut à Réacteur Dorsal peut remplacer son Pistolet Bolter Lourd par 1 Pistolet à Plasma.
+- **Meneurs** possibles : Capitaine à Réacteur Dorsal ; Chapelain à Réacteur Dorsal ; Kayvaan Shrike (SM).
+- Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
-- Mots-clés : EXPLOSIFS, VOL, "IMPERIUM", INFANTERIE, "JUMP PACK", "TACTICUS".
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, RÉACTEUR DORSAL, TACTICUS, VOL.
 
-## Chevaliers de la Deathwing [C] — Dark Angels uniquement
+## Chevaliers de la Deathwing — Dark Angels uniquement
 
-255 pts (5 figurines) ; 275 pts à partir de la 3e unité. Socle 40 mm. SvIn 4+.
+255 pts (5 figurines) ; à partir de la 3e unité : 275 pts (5 figurines). Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Deathwing Knights", "Knight Master" | 5" | 6 | 2+ | 4 | 6+ | 1 |
+| Maître Chevalier ; Chevaliers de la Deathwing | 5" | 6 | 2+ | 4 | 6+ | 1 |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Mace of Absolution" | 4 | 2+ | 6 | −2 | 2 | ANTI-MONSTRE/VÉHICULE 4+ |
-| "Power Weapon" | 5 | 2+ | 6 | −2 | 2 | — |
-| "Great Weapon of the Unforgiven" | 5 | 2+ | 6 | −2 | 2 | BLESSURES DÉVASTATRICES, TOUCHES SOUTENUES 1 |
-| "Relic Weapon" | 6 | 2+ | 7 | −2 | 2 | TOUCHES FATALES |
+| Arme Lourde des Impardonnés | 5 | 2+ | 6 | −2 | 2 | BLESSURES DÉVASTATRICES, TOUCHES SOUTENUES 1 |
+| Arme Relique | 6 | 2+ | 7 | −2 | 2 | TOUCHES FATALES |
+| Arme Énergétique | 5 | 2+ | 6 | −2 | 2 | — |
+| Masse d'Absolution | 4 | 2+ | 6 | −2 | 2 | ANTI-MONSTRE/VÉHICULE 4+ |
 
 - Aptitudes de base : Frappe en Profondeur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Inner Circle" : attacks that target this unit have −1 D. This unit cannot be targeted
-  with the "Tactical Dreadnought Fortitude" stratagem.
-- "Teleport Homer" : texte identique à celui de l'Escouade Terminator.
-- Équipement "Watcher in the Dark" : once per battle, in any phase, just after a mortal
-  wound is allocated to an ADEPTUS ASTARTES model in this unit, this unit can summon a
-  Watcher in the Dark. When it does, until the end of the phase, models in this unit have
-  Feel No Pain 4+ against mortal wounds. Designer's Note: place a Watcher in the Dark
-  token next to the unit, removing it when this ability has been used.
-- Composition : 1 "Knight Master" (équipé de : "Great Weapon of the Unforgiven") et 4
-  "Deathwing Knights" (équipés de : "Mace of Absolution").
-- Options d'équipement : l'unité peut être équipée de 1 "Watcher in the Dark" ; tous les
-  "Deathwing Knights" peuvent chacun remplacer leur "Mace of Absolution" par 1 "Power
-  Weapon" ; le "Knight Master" peut remplacer sa "Great Weapon of the Unforgiven" par 1
-  "Relic Weapon".
-- **Meneurs** : Archiviste en Armure Terminator, Bélial, Capitaine en Armure Terminator,
-  Chapelain en Armure Terminator. **Appui** : Doyen en Armure Terminator.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat. [capture : ligne perdue au raccord de la
+  sortie texte]
+- **Cercle Intérieur** :
+  - Les attaques qui ciblent cette unité ont -1 en D.
+  - Cette unité ne peut pas être ciblée par le stratagème Robustesse Tactique Dreadnought.
+- **Balise de Téléportation (une fois par bataille, par unité)** : Au début de la bataille,
+  vous pouvez placer un pion de Balise de Téléportation pour cette unité sur le champ de
+  bataille. Dans ce cas :
+  - Quand vous ciblez cette unité avec le stratagème Arrivée Précipitée, vous pouvez
+    utiliser ce pion de Balise de Téléportation. Dans ce cas, cette utilisation coûte
+    -1 PC, mais en résolvant ce stratagème, cette unité doit être placée à 3" ou moins de
+    ce pion et à plus de 8" des unités ennemies. Ce pion de Balise de Téléportation est
+    alors retiré du champ de bataille.
+  - Si une unité ennemie finit un mouvement à 1" ou moins de ce pion de Balise de
+    Téléportation, ce dernier est retiré du champ de bataille.
+- Aptitude d'équipement, « Watcher in the Dark » (en anglais dans l'appli) : Once per
+  battle, in any phase, just after a mortal wound is allocated to an ADEPTUS ASTARTES
+  model in this unit, this unit can summon a Watcher in the Dark. When it does, until the
+  end of the phase, models in this unit have the Feel No Pain 4+ ability against mortal
+  wounds. *Designer's Note: Place a Watcher in the Dark token next to the unit, removing
+  it when this ability has been used.*
+- Composition : 1 figurine de Maître Chevalier ; 4 figurines de Chevalier de la Deathwing.
+  Le Maître Chevalier est équipé de : 1 Arme Lourde des Impardonnés. Chaque figurine de
+  Chevalier de la Deathwing est équipé de : 1 Masse d'Absolution.
+- Options d'équipement :
+  - Cette unité peut être équipée de 1 Guetteur des Ténèbres.
+  - Toutes les figurines de Chevalier de la Deathwing de cette unité peuvent chacune
+    remplacer leur Masse d'Absolution par 1 Arme Énergétique.
+  - Le Maître Chevalier peut remplacer son Arme Lourde des Impardonnés par 1 Arme Relique.
+- **Meneurs** possibles : Archiviste en Armure Terminator ; Bélial (DA) ; Capitaine en Armure Terminator ; Chapelain en Armure Terminator.
+- **Appuis** possibles : Doyen en Armure Terminator.
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
 - Rôle : aucun.
-- Mots-clés : "DEATHWING", "IMPERIUM", INFANTERIE, "TERMINATOR".
+- Mots-clés : DEATHWING, IMPERIUM, INFANTERIE, TERMINATOR.
 
-## Escouade Terminator de la Deathwing [C] — Dark Angels uniquement
+## Escouade Terminator de la Deathwing — Dark Angels uniquement
 
-190 pts (5 figurines), 380 pts (10) ; à partir de la 3e unité : 230 et 420 pts. Lance-
-missiles Cyclone : +10 pts chacun. Socle 40 mm. SvIn 4+.
-
-Fiche couverte parce que les 10 Terminators « en grappes » de la collection peuvent être
-joués sous ce nom ou comme Escouade Terminator : le choix se fait dans la liste de palier.
+190 pts (5 figurines), 380 pts (10 figurines) ; à partir de la 3e unité : 230 pts (5 figurines), 420 pts (10 figurines). Par Lance-missiles Cyclone : +10 pts. Socle 40 mm. Sauvegarde invulnérable 4+.
 
 | Figurine | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|---|
-| "Deathwing Terminators", "Deathwing Sergeant" | 5" | 6 | 2+ | 3 | 6+ | 1 |
+| Sergent de la Deathwing ; Terminators de la Deathwing | 5" | 6 | 2+ | 3 | 6+ | 1 |
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Assault Cannon" | 24" | 6 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 1 |
-| Lance-missiles Cyclone (Frag) | 36" | 8 | 3+ | 4 | −1 | 1 | DÉFLAGRATION 2 |
-| Lance-missiles Cyclone (Krak) | 36" | 2 | 3+ | 10 | −2 | D3+3 | — |
-| "Heavy Flamer" | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
-| "Plasma Cannon" (Standard) | 36" | 3 | 3+ | 7 | −2 | 2 | DÉFLAGRATION 1 |
-| "Plasma Cannon" (Supercharge) | 36" | 3 | 3+ | 8 | −3 | 3 | DÉFLAGRATION 1, À RISQUE |
-| "Storm Bolter" | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Bolter Tempête | 24" | 2 | 3+ | 5 | −1 | 1 | TIR RAPIDE 2 |
+| Canon d’Assaut | 24" | 6 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 1 |
+| Canon à Plasma - Standard | 36" | 3 | 3+ | 7 | −2 | 2 | DÉFLAGRATION 1 |
+| Canon à Plasma - Surcharge | 36" | 3 | 3+ | 8 | −3 | 3 | DÉFLAGRATION 1, À RISQUE |
+| Lance-flammes Lourd | 12" | 3 | — | 5 | −1 | 1 | DÉFLAGRATION 2, TORRENT |
+| Lance-missiles Cyclone - Frag. [capture] | 36" | 8 | 3+ | 4 | −1 | 1 | DÉFLAGRATION 2 |
+| Lance-missiles Cyclone - Antichar | 36" | 2 | 3+ | 10 | −2 | D3+3 | — |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Chainfist" (1er profil) | 2 | 4+ | 8 | −2 | 2 | — |
-| "Chainfist" (2e profil) | 3 | 3+ | 12 | −2 | 3 | — |
-| "Power Fist" | 3 | 3+ | 8 | −2 | 2 | — |
-| "Power Weapon" | 5 | 3+ | 5 | −2 | 1 | — |
+| Arme Énergétique | 5 | 3+ | 5 | −2 | 1 | — |
+| Gantelet Énergétique | 3 | 3+ | 8 | −2 | 2 | — |
+| Poing Tronçonneur - Poing Tronçonneur | 2 | 4+ | 8 | −2 | 2 | — |
+| Poing Tronçonneur - Poing Tronçonneur | 3 | 3+ | 12 | −2 | 3 | CHASSEUR : MONSTRE/VÉHICULE |
 
-40k.app donne deux profils « Chainfist » sans nom de profil ni aptitude, alors que la
-fiche Escouade Terminator nomme les mêmes profils « Standard » et « Hunter » et porte
-« HUNTER: MONSTER/VEHICLE » sur le second. Lacune probable du site.
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Frappe en Profondeur.
-- Aptitudes de faction : « Combat Doctrines ».
-- "Deathwing" : this unit's attacks can ignore modifiers to BS and WS, and to hit rolls.
-- Équipement "Watcher in the Dark" : texte identique à celui des Chevaliers de la
-  Deathwing.
-- Composition : 1 "Deathwing Sergeant" et 4 à 9 "Deathwing Terminators", chacun équipé
-  de : "Power Fist", "Storm Bolter".
-- Options d'équipement : tout "Deathwing Terminator" peut remplacer son "Power Fist" par 1
-  "Chainfist" ; par tranche de 5 figurines, 1 "Deathwing Terminator" peut remplacer son
-  "Storm Bolter" par 1 "Assault Cannon", 1 "Heavy Flamer", 1 "Plasma Cannon", ou 1
-  "Storm Bolter" et 1 Lance-missiles Cyclone (ce "Storm Bolter" ne peut alors pas être
-  remplacé) ; le sergent peut remplacer son "Power Fist" par 1 "Chainfist" ou 1 "Power
-  Weapon". La page ne mentionne pas comment l'unité reçoit son "Watcher in the Dark".
-- **Meneurs** : Archiviste en Armure Terminator, Bélial, Capitaine en Armure Terminator,
-  Chapelain en Armure Terminator. **Appui** : Doyen en Armure Terminator.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Aptitudes de faction : Doctrines de Combat.
+- **Deathwing** : Les attaques de cette unité peuvent ignorer les modificateurs à :
+  - La CT et à la CC.
+  - Aux jets de touche.
+- Aptitude d'équipement, « Watcher in the Dark » (en anglais dans l'appli) : même texte
+  que sur la fiche Chevaliers de la Deathwing. La fiche ne propose pas l'option Guetteur
+  des Ténèbres.
+- Composition : 1 figurine de Sergent de la Deathwing ; 4-9 figurines de Terminator de la
+  Deathwing. Chaque figurine est équipée de : 1 Gantelet Énergétique ; 1 Bolter Tempête.
+- Options d'équipement :
+  - Chaque figurine de Terminator de la Deathwing (n'importe quel nombre) peut remplacer
+    son Gantelet Énergétique par 1 Poing Tronçonneur.
+  - Par tranche de 5 figurines dans l'unité, 1 figurine de Terminator de la Deathwing peut
+    remplacer son Bolter Tempête par un des choix suivants : 1 Canon d'Assaut, 1
+    Lance-flammes Lourd, 1 Canon à Plasma, 1 Bolter Tempête et 1 Lance-missiles Cyclone -
+    Frag. (le Bolter Tempête de cette figurine ne peut pas être remplacé)
+  - Le Sergent de la Deathwing peut remplacer son Gantelet Énergétique par un des choix
+    suivants : 1 Poing Tronçonneur, 1 Arme Énergétique
+- **Meneurs** possibles : Archiviste en Armure Terminator ; Bélial (DA) ; Capitaine en Armure Terminator ; Chapelain en Armure Terminator.
+- **Appuis** possibles : Doyen en Armure Terminator.
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
 - Rôle : aucun.
-- Mots-clés : "DEATHWING", "IMPERIUM", INFANTERIE, "TERMINATOR".
+- Mots-clés : DEATHWING, IMPERIUM, INFANTERIE, TERMINATOR.
 
-## Compagnons du Cercle Intérieur [C] — Dark Angels uniquement
+## Compagnons du Cercle Intérieur — Dark Angels uniquement
 
-90 pts (3 figurines), 180 pts (6) ; à partir de la 3e unité : 105 et 195 pts. Socle
-40 mm.
+90 pts (3 figurines), 180 pts (6 figurines) ; à partir de la 3e unité : 105 pts (3 figurines), 195 pts (6 figurines). Socle 40 mm.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -762,31 +722,31 @@ fiche Escouade Terminator nomme les mêmes profils « Standard » et « Hunter �
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Heavy Bolt Pistol" | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet Bolter Lourd | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Calibanite Greatsword" (Strike) | 4 | 3+ | 6 | −2 | 2 | TOUCHES FATALES |
-| "Calibanite Greatsword" (Sweep) | 5 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 2 |
+| Espadon de Caliban - Frappe | 4 | 3+ | 6 | −2 | 2 | TOUCHES FATALES |
+| Espadon de Caliban - Balayage | 5 | 3+ | 6 | −2 | 1 | TOUCHES SOUTENUES 2 |
 
-- Aptitudes de base : aucune (Discrétion par "Braziers of Judgement").
-- Aptitudes de faction : « Combat Doctrines ».
-- "Braziers of Judgement" : this unit has Stealth. Melee attacks that target this unit
-  have −1 to hit rolls.
-- "Emnity for the Unworthy" (sic) : this unit's attacks that target a CHARACTER unit have
-  +1 to hit rolls.
-- Composition : 3 à 6 Compagnons du Cercle Intérieur, chacun équipé de : "Calibanite
-  Greatsword", "Heavy Bolt Pistol".
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de faction : Doctrines de Combat.
+- **Braseros du Jugement** :
+  - Cette unité a Discrétion.
+  - Les attaques de mêlée qui ciblent cette unité ont -1 aux jets de touche.
+- **Aversion Envers les Indignes** : Les attaques de cette unité qui ciblent une unité de PERSONNAGE ont +1 aux jets de touche.
+- Composition : 3-6 figurines de Compagnon du Cercle Intérieur. Chaque figurine est équipée de : 1 Espadon de Caliban - Frappe ; 1 Pistolet Bolter Lourd.
 - Options d'équipement : aucune.
-- **Meneurs** : Archiviste, Asmodaï, Azraël, Capitaine, Chapelain, Ézékiel, Lazarus.
-  **Appuis** : Apothicaire, Doyen, Judicateur, Lieutenant.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- **Meneurs** possibles : Archiviste ; Asmodaï (DA) ; Azraël (DA) ; Capitaine ; Chapelain ; Lazarus (DA) ; Ézékiel (DA).
+- **Appuis** possibles : Apothicaire ; Doyen ; Judicateur ; Lieutenant.
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
 - Rôle : aucun.
-- Mots-clés : "DEATHWING", "IMPERIUM", INFANTERIE, "TACTICUS".
+- Mots-clés : DEATHWING, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Bélial [C] — Dark Angels uniquement
+## Bélial — Dark Angels uniquement
 
-100 pts (1 figurine). Socle 50 mm. SvIn 4+.
+100 pts (1 figurine). Socle 50 mm. Sauvegarde invulnérable 4+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -794,32 +754,27 @@ fiche Escouade Terminator nomme les mêmes profils « Standard » et « Hunter �
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Master-crafted Storm Bolter" | 24" | 2 | 2+ | 5 | −1 | 2 | PRÉCISION |
+| Bolter Tempête de Maître | 24" | 2 | 2+ | 5 | −1 | 2 | PRÉCISION |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "The Sword of Silence" | 6 | 2+ | 6 | −3 | 2 | — |
+| Épée du Silence | 6 | 2+ | 6 | −3 | 2 | — |
 
 - Aptitudes de base : Frappe en Profondeur, Meneur.
-- Aptitudes de faction : « Combat Doctrines », « Transhuman Strategist ».
-- "Grand Master of the Deathwing" : this unit's attacks that target an enemy CHARACTER
-  unit have +1 to wound rolls.
-- "Strikes of Retribution" : in the Fight phase, when this model is destroyed, if this
-  unit has not been selected to fight this phase, roll one D6: on a 2+, do not remove
-  this model from the battlefield. When your unit has fought, or at the end of the phase
-  (whichever comes first), this model is removed from the battlefield.
-- Composition : 1 Bélial, équipé de : "Master-crafted Storm Bolter", "The Sword of
-  Silence".
+- Aptitudes de faction : Doctrines de Combat, Stratège Transhumain.
+- **Grand Maître de la Deathwing** : Les attaques de cette unité qui ciblent une unité de PERSONNAGE ennemi, ont +1 aux jets de blessure.
+- **Ripostes Punitives** : À la phase de Combat, quand cette figurine est détruite, si cette unité n'a pas été choisie pour combattre à cette phase, jetez un D6 :
+  - Sur 2+, ne retirez pas la figurine du champ de bataille. Une fois que cette unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), cette figurine est retirée du champ de bataille.
+- Composition : 1 figurine de Bélial. Cette figurine est équipée de : 1 Bolter Tempête de Maître ; 1 Épée du Silence.
 - Options d'équipement : aucune.
-- **Meneur** de : Chevaliers de la Deathwing ; Escouade Terminator ; Escouade Terminator
-  de la Deathwing.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
-- Rôle : HÉROS ÉPIQUE, PERSONNAGE.
-- Mots-clés : "CAPTAIN", "DEATHWING", "IMPERIUM", INFANTERIE, "TERMINATOR".
+- **Meneur** de : Chevaliers de la Deathwing ; Escouade d'Assaut Terminator ; Escouade Terminator ; Escouade Terminator de la Deathwing.
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
+- Rôle : PERSONNAGE, HÉROS ÉPIQUE.
+- Mots-clés : CAPITAINE, DEATHWING, IMPERIUM, INFANTERIE, TERMINATOR.
 
-## Asmodaï [C] — Dark Angels uniquement
+## Asmodaï — Dark Angels uniquement
 
-80 pts (1 figurine). Socle 50 mm. SvIn 4+.
+80 pts (1 figurine). Socle 50 mm. Sauvegarde invulnérable 4+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -827,31 +782,29 @@ fiche Escouade Terminator nomme les mêmes profils « Standard » et « Hunter �
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Heavy Bolt Pistol" | 18" | 1 | 2+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet Bolter Lourd | 18" | 1 | 2+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Crozius Arcanum and Power Weapon" (Strike) | 5 | 2+ | 6 | −2 | 2 | PRÉCISION |
-| "Crozius Arcanum and Power Weapon" (Sweep) | 8 | 2+ | 5 | −2 | 1 | ABATTAGE 1 |
+| Crozius Arcanum et Arme Énergétique - Frappe | 5 | 2+ | 6 | −2 | 2 | PRÉCISION |
+| Crozius Arcanum et Arme Énergétique - Balayage | 8 | 2+ | 5 | −2 | 1 | ABATTAGE 1 |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
 
 - Aptitudes de base : Meneur.
-- Aptitudes de faction : « Combat Doctrines », « Transhuman Strategist ».
-- "Feared Interrogator" : at the start of the Fight phase, each enemy CHARACTER unit
-  within 6" of this model makes a battle-shock roll, with −1 to that battle-shock roll.
-- "Exemplar of Hate" : this unit's melee attacks can re-roll hit rolls.
-- Composition : 1 Asmodaï, équipé de : "Crozius Arcanum and Power Weapon", "Heavy Bolt
-  Pistol".
+- Aptitudes de faction : Doctrines de Combat, Stratège Transhumain.
+- **Investigateur Redouté** : Au début de la phase de Combat, chaque unité de PERSONNAGE ennemie à 6" ou moins de cette figurine fait un jet d'ébranlement, avec -1 à ce jet.
+- **Parangon de Haine** : Les attaques de mêlée de cette unité peuvent relancer les jets de touche.
+- Composition : 1 figurine d'Asmodaï. Cette figurine est équipée de : 1  Crozius Arcanum et Arme Énergétique - Frappe ; 1 Pistolet Bolter Lourd.
 - Options d'équipement : aucune.
-- **Meneur** de : Compagnons du Cercle Intérieur ; Escouade de Vétérans d'Appui ;
-  Escouade de Vétérans Gardelames ; Escouade d'Assaut Intercessor ; Escouade
-  Hellblaster ; Escouade Infernus ; Escouade Intercessor.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
-- Rôle : HÉROS ÉPIQUE, PERSONNAGE.
-- Mots-clés : "CHAPLAIN", "DEATHWING", EXPLOSIFS, "IMPERIUM", INFANTERIE, "TACTICUS".
+- **Meneur** de : Compagnons du Cercle Intérieur ; Escouade d'Assaut Intercessor ; Escouade de Vétérans d'Appui ; Escouade de Vétérans Gardelames ; Escouade Hellblaster ; Escouade Infernus ; Escouade Intercessor.
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
+- Rôle : PERSONNAGE, HÉROS ÉPIQUE.
+- Mots-clés : CHAPELAIN, DEATHWING, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
-## Lion El'Jonson [C] — Dark Angels uniquement
+## Lion El'Jonson — Dark Angels uniquement
 
-415 pts (1 figurine). Socle 60 mm. SvIn 3+.
+415 pts (1 figurine). Socle 60 mm. Sauvegarde invulnérable 3+.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
@@ -859,40 +812,43 @@ fiche Escouade Terminator nomme les mêmes profils « Standard » et « Hunter �
 
 | Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|---|
-| "Arma Luminis" (Bolt) | 18" | 4 | 2+ | 6 | −2 | 2 | COMBAT RAPPROCHÉ |
-| "Arma Luminis" (Plasma) | 18" | 2 | 2+ | 10 | −3 | 3 | COMBAT RAPPROCHÉ |
+| Arma Luminis - Bolt | 18" | 4 | 2+ | 6 | −2 | 2 | COMBAT RAPPROCHÉ |
+| Arma Luminis - Plasma | 18" | 2 | 2+ | 10 | −3 | 3 | COMBAT RAPPROCHÉ |
 
 | Arme de mêlée | A | CC | F | PA | D | Aptitudes |
 |---|---|---|---|---|---|---|
-| "Fealty" (Strike) | 8 | 2+ | 12 | −4 | 4 | TOUCHES FATALES |
-| "Fealty" (Sweep) | 12 | 2+ | 6 | −3 | 2 | ABATTAGE 2, TOUCHES SOUTENUES 1 |
+| Féale - Frappe | 8 | 2+ | 12 | −4 | 4 | TOUCHES FATALES |
+| Féale - Balayage | 12 | 2+ | 6 | −3 | 2 | ABATTAGE 2, TOUCHES SOUTENUES 1 |
 
-- Aptitudes de base : Frappe en Profondeur, Combat en Premier.
-- Aptitudes de faction : « Combat Doctrines », « Transhuman Strategist ».
-- "The Emperor's Shield" : attacks that target this unit with a S greater than this
-  unit's T have −1 to wound rolls.
-- "Dark Angels Bodyguard" : while this unit is within 3" of a friendly DARK ANGELS
-  INFANTRY unit, this unit has Lone Operative.
-- "Master Strategist" : in your Command phase, you can use this ability. If you do,
-  select one combat doctrine to be active for this unit until the start of your next
-  Command phase, in addition to any other combat doctrine.
-- "Primarch of the First Legion" : at the start of your Command phase, you can select up
-  to two of the abilities in the Primarch of the First Legion section. Until the start of
-  your next Command phase, this model has those abilities. La page ne délimite pas cette
-  section ; les trois aptitudes suivantes en font vraisemblablement partie :
-  - "Mist-wreathed Shadow Realms" : in your Command phase, if this unit is unengaged, you
-    can use this ability. If you do: place this unit in strategic reserves; this unit can
-    make an ingress move in your next Movement phase (including in your first turn).
-  - "Martial Exemplar" : while a friendly DARK ANGELS unit is within 6" of this unit,
-    that unit's melee attacks can re-roll hit rolls of 1 and re-roll wound rolls of 1.
-  - "No Hiding from the Watchers" : while a friendly DARK ANGELS unit is within 6" of
-    this unit, that unit has Feel No Pain 5+ against psychic attacks and mortal wounds.
-- "The Watchers" : this unit has Feel No Pain 4+ against psychic attacks and mortal
-  wounds.
-- "Supreme Commander" : if this model is in your army, it must be your WARLORD.
-- Composition : 1 Lion El'Jonson, équipé de : "Arma Luminis", "Fealty".
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de base : Frappe en Profondeur, Combat en Premier. [capture : ligne perdue au
+  raccord de la sortie texte]
+- Aptitudes de faction : Doctrines de Combat, Stratège Transhumain.
+- **Le Bouclier de l'Empereur** : Les Attaques qui ciblent cette unité avec une F supérieure à son E ont -1 aux jets de blessure.
+- **Escorte de Dark Angels** : Tant que cette unité est à 3" ou moins d'une unité d'INFANTERIE de DARK ANGELS amie, cette unité a Agent Soitaire.
+- **Maître Stratège** : À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez une doctrine de combat afin qu'elle soit active pour cette unité jusqu'au début de votre prochaine phase de Commandement, en plus de toute autre doctrine de combat.
+- **Primarque de la Première Légion** : Au début de votre phase de Commandement, vous pouvez choisir une des deux aptitudes de la section Primarque de la Première Légion. Jusqu'au début de votre prochaine phase de Commandement, cette figurine a l'aptitude choisie.
+- **Les Guetteurs** : Cette unité a Insensible à la Douleur 4+ contre les attaques psychiques et les blessures mortelles.
+- Rubrique « Primarque de la Première Légion » (l'aptitude du même nom parle de « deux
+  aptitudes » ; la rubrique de l'appli en liste trois, vérifié sur capture) :
+  - **Royaumes de l'Ombre Embrumés** : À votre phase de Commandement, si cette unité est
+    non engagée, vous pouvez utiliser cette aptitude. Dans ce cas :
+    - Placez cette unité en réserve stratégique.
+    - Cette unité peut faire un mouvement d'arrivée à votre prochaine phase de Mouvement
+      (y compris à votre premier tour).
+  - **Parangon Martial** : Tant qu'une unité de DARK ANGELS amie est à 6" ou moins de
+    cette unité, les attaques de mêlée de l'unité amie peuvent :
+    - Relancer les jets de touche de 1.
+    - Relancer les jets de blessure de 1.
+  - **Nul n'Échappe aux Guetteurs** : Tant qu'une unité de DARK ANGELS amie est à 6" ou
+    moins de cette unité, l'unité amie a Insensible à la Douleur 5+ contre les attaques
+    psychiques et les blessures mortelles.
+- Rubrique « Commandant Suprême » : Si cette figurine est incluse dans votre armée, elle
+  doit être votre Seigneur de Guerre.
+- Composition : 1 figurine de Lion El'Jonson. Cette figurine est équipée de : 1 Arma
+  Luminis - Bolt ; 1 Féale - Frappe.
 - Options d'équipement : aucune.
-- Ni meneur ni appui (Munitorum et 40k.app).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
-- Rôle : HÉROS ÉPIQUE, PERSONNAGE.
-- Mots-clés : "IMPERIUM", MOBILE, MONSTRE, "PRIMARCH".
+- Mots-clés de faction : ADEPTUS ASTARTES, DARK ANGELS.
+- Rôle : PERSONNAGE, HÉROS ÉPIQUE.
+- Mots-clés : IMPERIUM, MOBILE, MONSTRE, PRIMARQUE.

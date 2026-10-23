@@ -1,1435 +1,1571 @@
 # Space Marines / Dark Angels — règles d'armée et détachements
 
-> **Source** : 40k.app, Space Marines (en) — communautaire, à recouper avec le codex Space Marines ou l'appli
-> **URL** : https://www.40k.app/factions/space-marines/army-rules ; https://www.40k.app/factions/space-marines/detachments/assault-brethren, /deathwatch-support, /devastator-brethren, /gauntlet-task-force, /gladius-task-force, /gravis-linebreaker-force, /gravis-siege-force, /ironclad-champions, /ironstorm-spearhead, /phobos-shadow-force, /phobos-shock-force, /stormlance-task-force, /tactical-brethren, /tacticus-attack-force, /tacticus-firestorm-force, /terminator-storm-force ; pages complémentaires : https://www.40k.app/factions/imperial-fists/detachments/ceramite-sentinels, https://www.40k.app/factions/iron-hands/detachments/medusas-wrath, https://www.40k.app/factions/raven-guard/detachments/shadowmark-talon, https://www.40k.app/factions/salamanders/detachments/forgefathers-seekers, https://www.40k.app/factions/ultramarines/detachments/blade-of-ultramar, https://www.40k.app/factions/white-scars/detachments/spearpoint-task-force
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+> **Source** : Appli Warhammer 40,000, Space Marines — officielle
+> **URL** : appli iPad « WH 40K » installée sur le Mac, Référence > Space Marines > Codex: Space Marines (Règles d'Armée, Mises à Jour & Errata, 16 détachements) ; pages complémentaires : Référence > Imperial Fists, Iron Hands, Raven Guard, Salamanders, Ultramarines, White Scars > Supplément de Codex: <Chapitre> (un détachement chacun) ; Référence > Deathwatch > Supplément de Codex: Deathwatch > Appui de la Deathwatch
+> **Version** : données v995 ; Mises à Jour & Errata du codex : dernière mise à jour du 14/10/2026 (les suppléments ne sont pas datés)
+> **Consultée le** : 23/10/2026
+> **Brut** : sources/appli_space-marines_donnees-v995_fr_2026-10-23.txt
 
-> **Source** : 40k.app, Dark Angels (en) — communautaire, à recouper avec l'appli
-> **URL** : https://www.40k.app/factions/dark-angels/army-rules ; https://www.40k.app/factions/dark-angels/detachments/darkflight-pursuit, /inner-circle-task-force, /wrath-of-the-rock
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+> **Source** : Appli Warhammer 40,000, Dark Angels — officielle
+> **URL** : appli iPad « WH 40K », Référence > Dark Angels > Codex Supplement: Dark Angels (Règles d'Armée, 3 détachements)
+> **Version** : données v995 (supplément non daté)
+> **Consultée le** : 23/10/2026
+> **Brut** : sources/appli_dark-angels_donnees-v995_fr_2026-10-23.txt
 
 > **Source** : Inventaire du Munitorum, Space Marines — officielle
 > **URL** : https://mfm.warhammer-community.com/fr/space-marines
-> **Version** : v1.5
-> **Consultée le** : 08/10/2026 (empreinte inchangée au 09/10/2026)
+> **Version** : v1.6
+> **Consultée le** : 23/10/2026
 > **Brut** : regles/factions/space-marines/space-marines-detachements.tsv (PdD, dispositions, noms et coûts des optimisations)
 
 > **Source** : Inventaire du Munitorum, Dark Angels — officielle
 > **URL** : https://mfm.warhammer-community.com/fr/dark-angels
-> **Version** : v1.5
-> **Consultée le** : 08/10/2026 (empreinte inchangée au 09/10/2026)
+> **Version** : v1.6
+> **Consultée le** : 23/10/2026
 > **Brut** : regles/factions/space-marines/dark-angels-detachements.tsv
 
-> **Source** : Mises à jour des règles universelles — officielle
-> **URL** : PDF de l'API des téléchargements de Warhammer Community (voir `sources/etat.json`)
-> **Version** : 1.1, MAJ 26/08/2026
-> **Consultée le** : 08/10/2026
-> **Brut** : sources/regles-universelles_general_maj2026-08-26_fr_2026-10-08.txt (noms français des deux types de débarquement)
+Tout le texte vient de l'appli, en français. Il remplace le texte anglais de 40k.app
+(communautaire) intégré le 09/10/2026. Aucun Pack de Faction ne couvre ces factions : le
+Pack Space Marines n'existe pas et le Pack Dark Angels ne contient plus que les unités
+Legends.
 
-Aucun Pack de Faction ne couvre ces deux factions : le Pack Space Marines n'existe pas
-(codex sorti le 03/10/2026) et le Pack Dark Angels anglais v1.3 du 30/09/2026 ne contient
-plus que les unités Legends. Tout le texte des règles vient donc de 40k.app, en anglais,
-avec le renvoi **[C]**. Le texte français n'existe que dans le codex Space Marines et
-l'appli ; il remplacera ces passages quand il sera fourni (renvoi **[O]**).
+Conventions de transcription :
 
-Noms des détachements et des optimisations : Inventaire du Munitorum. Noms d'unités cités
-dans le texte anglais : remplacés par leur nom du Munitorum. Noms des règles de
-détachement, des stratagèmes et des aptitudes : anglais entre guillemets, terme français
-non trouvé au 09/10/2026. Mots-clés cités dans le texte : laissés en anglais, comme sur
-40k.app.
-
-Termes français officiels des stratagèmes et mouvements de base cités en anglais par
-40k.app (Règles de Base, Mises à jour des règles universelles) : Rapid Ingress = Arrivée
-Précipitée ; Fire Overwatch = Tir en État d'Alerte ; Heroic Intervention = Intervention
-Héroïque ; Shock Disembark Move = mouvement de débarquement de choc (18.07) ; Assault
-Disembark Move = mouvement de débarquement d'assaut (18.06) ; strategic reserves =
-réserves stratégiques ; Set Up (03.02) = Placement (03.02).
-
-Présentation : PdD et dispositions de force du Munitorum ; 40k.app donne les mêmes
-chiffres et ajoute une étiquette (Doctrines, Gravis, Phobos, Tacticus, Terminator,
-Ironstorm) qui ne figure pas dans le Munitorum et dont le rôle n'est pas expliqué. Les
-stratagèmes portent la phase et le coût en PC affichés par 40k.app ; le site n'affiche
-pas leur type (Battle Tactic, Strategic Ploy…).
-
-Les 16 détachements communs ont les mêmes PdD, dispositions, optimisations et coûts dans
-les deux Inventaires (comparaison des fichiers TSV le 09/10/2026), et figurent sur les
-pages 40k.app des deux factions ; leur texte a été lu sur les pages Space Marines.
+- Les mots-clés, que l'appli balise, sont écrits en capitales (ADEPTUS ASTARTES,
+  INFANTERIE/MONTÉE). Les termes de règle en gras de l'appli restent en gras, le texte
+  souligné est en italique souligné (`_Ou :_`).
+- Les fautes de l'appli sont recopiées telles quelles : « Cannok Var » (Caanok Var dans
+  le Munitorum), « séplacer », « ce ce », « doctine », « objective », « PIlotes
+  infaillibles », « Les Attaques », « unité de MONSTRE/VÉHICULE exclues ».
+- Stratagèmes : l'appli n'expose pas les libellés ni le type (Tactique de Combat, Ruse
+  Stratégique…). Les trois champs suivent l'ordre fixe de l'appli : moment (Quand), cible
+  (Cible), effet (Effet).
+- PdD, dispositions de force, noms et coûts des optimisations : identiques dans l'appli et
+  le Munitorum v1.6 pour les 25 détachements (comparaison du 23/10/2026). Seul l'ordre
+  des dispositions de la Force Opérationnelle Gladius et de la Lame d'Ultramar diffère.
+- Étiquette « Unique : … » : affichée par l'appli sur certains détachements (DOCTRINES,
+  GRAVIS, IRONSTORM, PHOBOS, TACTICUS, TERMINATOR). Les pages lues ne l'expliquent pas.
+  Voir `regles/construction-armee.md`.
 
 Les Mises à jour des règles universelles (`regles/construction-armee.md`) s'appliquent
 en plus.
 
-## Écarts relevés le 09/10/2026
+## Écarts et points à suivre (23/10/2026)
 
-- **Coûts des optimisations** : les 65 coûts affichés par 40k.app concordent avec le
-  Munitorum.
-- **Noms anglais du Munitorum** différents de 40k.app : « Nightforged Battery (Upgarde) »
-  (faute du Munitorum anglais, « Upgrade » sur 40k.app) ; « Stormseers' Wisdom » contre
-  « Stormseer's Wisdom » ; « War-tempered Artifice » contre « War Tempered Artifice ».
-  Même optimisation, même coût.
-- **Restriction au Chapitre** : 40k.app l'affiche pour les Sentinelles de Céramite, les
-  Chercheurs du Père de la Forge, la Force Opérationnelle de Pointe de Lance et les trois
-  détachements Dark Angels, mais pas pour la Colère de Medusa, la Serre des Ombres ni la
-  Lame d'Ultramar. Absence réelle ou lacune du site : à vérifier dans le codex avant de
-  proposer ces trois détachements à une armée Dark Angels.
-- **« Assault Disembark Move »** : la page s'arrête après « While moving », sans clause
-  « After moving », contrairement au « Shock Disembark Move ». Lacune de 40k.app ou
-  absence réelle : à vérifier dans le codex.
-- **Sections 18.06 et 18.07** : les Mises à jour des règles universelles renvoient aux
-  mouvements de débarquement d'assaut (18.06) et de choc (18.07), absents des Règles de
-  Base du 01/06/2026 (qui s'arrêtent à 18.05). 40k.app les place dans la règle d'armée
-  Space Marines.
-- **Optimisation « Defensive Mastery »** (Sentinelles de Céramite) : 40k.app lui donne le
-  texte du redéploiement de trois unités (identique au Cyberfamilier), alors que la règle
-  du détachement donne à Darnath Lysander et Tor Garadon une aptitude du même nom, de
-  sens différent. Erreur probable du site, à vérifier.
-- **Fautes de 40k.app** recopiées telles quelles : « Upstoppable Advance » (Champions
-  Cuirassés), « Cannok Var » pour Caanok Var (Colère de Medusa), « Adeptus Astartes
-  infantry> model only » (Serre des Ombres), « +1**S » (Chercheurs du Père de la Forge).
+- **Restriction au Chapitre** : l'appli porte un paragraphe « Restrictions » (armée
+  limitée au Chapitre) pour les Sentinelles de Céramite, les Chercheurs du Père de la
+  Forge, la Force Opérationnelle de Pointe de Lance et les trois détachements Dark
+  Angels. La Colère de Medusa, la Serre des Ombres et la Lame d'Ultramar n'en ont pas,
+  dans l'appli comme sur 40k.app, bien qu'elles soient rangées dans les suppléments de
+  Chapitre. Leur accès à une armée Dark Angels n'est ni autorisé ni interdit
+  explicitement par les pages lues.
+- **Règles d'Armée des Chapitres Space Marines (p. 156)** : l'Appui de la Deathwatch y
+  fait exception (« même si elles n'ont pas le même mot-clé de faction de Chapitre »). La
+  page Règles d'Armée de l'appli ne contient pas cette règle. Non trouvée au 23/10/2026.
+- **Maîtrise Défensive** (Sentinelles de Céramite) : l'optimisation porte dans l'appli
+  le même texte que Cyberfamilier (redéploiement de trois unités). L'aptitude du même nom
+  donnée à Darnath Lysander et Tor Garadon par la règle du détachement a un autre texte.
+  Le texte de l'optimisation, désormais officiel, reste suspect.
+- **Mouvement de débarquement d'assaut** : l'appli donne une distance de 3" et, comme
+  40k.app, aucune clause « Après le mouvement », contrairement au mouvement de
+  débarquement de choc.
+- **Serre des Ombres, Feinte et Enfoncement** : un écran de l'appli a mêlé le titre de
+  « Dans les Ténèbres » à ce stratagème. Le texte retenu (moment, cible, effet) est
+  cohérent ; la ligne parasite est écartée.
+- **Types de Mouvement Spécial** : la phrase d'introduction est en anglais dans l'appli.
 
-## Règle d'armée [C]
+## Règles d'armée
 
-Pages `space-marines/army-rules` et `dark-angels/army-rules`. Les deux factions partagent
-« Combat Doctrines », « Transhuman Strategist », « Librarius » et « Special Move Types » ;
-les Dark Angels ajoutent la Ravenwing et la Deathwing. La page Dark Angels répète
-ensuite « Combat Doctrines » et « Transhuman Strategist » à l'identique.
+Page « Règles d'Armée » du Codex: Space Marines. Celle du supplément Dark Angels reprend à
+l'identique Doctrines de Combat et Stratège Transhumain, ajoute La Ravenwing et La
+Deathwing, et ne contient ni Librarius ni Types de Mouvement Spécial.
 
-### "Combat Doctrines"
+### Stratège Transhumain
 
-At the start of your Command phase, you can select one combat doctrine listed below. If
-you do, that combat doctrine is active for friendly ADEPTUS ASTARTES units with this
-ability until the start of your next Command phase.
+Au début du round de bataille, si une figurine avec cette aptitude est votre SEIGNEUR DE
+GUERRE, gagnez 1PC.
 
-- **"Assault Doctrine"** : when this unit is selected to make an advance move, that
-  advance move does not prevent this unit from being eligible to declare a charge.
-- **"Devastator Doctrine"** : this unit's ranged attacks have [ASSAULT].
-- **"Tactical Doctrine"** : when this unit is selected to make a fall-back move, that
-  fall-back move does not prevent this unit from being eligible to shoot and eligible to
-  declare a charge.
+### Doctrines de Combat
 
-Unless otherwise stated: you can only select each combat doctrine once per battle; only
-one combat doctrine can be active for each unit. If a rule makes a combat doctrine active
-for a unit, any combat doctrine previously active for that unit is no longer active for
-that unit.
+Au début de votre phase de Commandement, vous pouvez choisir une **doctrine de combat**
+détaillée ci-dessous. Dans ce cas, cette **doctrine de combat** est active pour les
+unités de l'ADEPTUS ASTARTES amies qui ont cette aptitude jusqu'au début de votre
+prochaine phase de Commandement.
 
-### "Transhuman Strategist"
+- **Doctrine d'Assaut** : Quand cette unité est choisie pour faire un **mouvement
+  d'avance**, ce dernier ne l'empêche pas d'être **éligible pour déclarer une charge**.
+- **Doctrine Devastator** : Les armes de tir de cette unité ont [ASSAUT].
+- **Doctrine Tactique** : Quand cette unité est choisie pour faire un **mouvement de
+  retraite**, ce dernier ne l'empêche pas d'être **éligible pour tirer** et **éligible
+  pour déclarer une charge**.
 
-At the start of the battle round, if a model with this ability is your WARLORD, gain 1CP.
+Sauf mention contraire :
 
-### "Librarius"
+- Vous pouvez choisir chaque **doctrine de Combat** une seule fois par bataille.
+- Une seule **doctrine de combat** peut être active pour chaque unité. Si une règle rend
+  une **doctrine de combat** active pour une unité, toute **doctrine de combat**
+  précédemment active pour cette unité ne l'est plus pour elle.
 
-ADEPTUS ASTARTES PSYKER units with this ability have a psyker level of 1 or higher,
-specified in that unit's abilities. Each psychic ability has a psychic level of 1 or
-higher, specified in that ability's name.
+### Librarius
 
-In a battle round, a friendly ADEPTUS ASTARTES PSYKER unit can use a number of psychic
-abilities whose total psychic level does not exceed that PSYKER unit's psyker level.
+Les unités de PSYKER de l'ADEPTUS ASTARTES avec cette aptitude ont un **niveau de
+psyker** de 1 ou plus, spécifié sur les aptitudes de l'unité. Chaque **aptitude
+psychique** a un **niveau psychique** de 1 ou plus, spécifié dans le nom de l'aptitude.
 
-Example: in a battle round, a psyker level 3 PSYKER unit could use three psychic level 1
-abilities, or one psychic level 1 ability and one psychic level 2 ability, or one psychic
-level 3 ability.
+Au cours d'un round de bataille, une unité de PSYKER de l'ADEPTUS ASTARTES amie peut
+utiliser un nombre d'aptitudes **psychiques** dont le niveau cumulé ne dépasse pas le
+**niveau de Psyker** de l'unité. Par exemple, à un round de bataille donné, une unité de
+PSYKER de **niveau de psyker 3** pourrait utiliser trois aptitudes de **niveau psychique
+1**, ou une aptitude de **niveau psychique 1** et une de **niveau psychique 2**, ou une
+aptitude de **niveau psychique 3**.
 
-### "Special Move Types"
+### Types de Mouvement Spécial
 
-The following are special move types that certain or all of your units are eligible to
-make.
+« The following are special **move types** that certain or all of your units are
+eligible to make. » (en anglais dans l'appli)
 
-**Mouvement de débarquement de choc** (« Shock Disembark Move »)
+**Mouvement de débarquement de choc**
 
-- When eligible : as stated in the rule allowing this move type, if all of the following
-  apply to your unit: embarked within a TRANSPORT model that is on the battlefield; did
-  not embark within that TRANSPORT this phase.
-- Effect : your unit is set up as described in Set Up (Core Rules, 03.02).
-- While moving : set up each model in your unit wholly within the set-up distance of
-  that TRANSPORT.
-- After moving : your unit is not eligible to declare a charge until the end of the turn.
+- Comme précisé dans la règle permettant ce **type de mouvement**, si tous les points
+  suivants s'appliquent à votre unité : elle est embarquée dans une figurine de
+  TRANSPORT qui est sur le champ de bataille ; elle n'a pas embarqué dans le TRANSPORT à
+  cette phase.
+- Votre unité est placée comme décrit dans Placement (Règles de Base, 03.02).
+- Placez chaque figurine de votre unité entièrement dans la **distance de placement** du
+  TRANSPORT.
+- Jusqu'à la fin du tour, votre unité n'est pas **éligible pour déclarer une charge**.
 
-**Mouvement de débarquement d'assaut** (« Assault Disembark Move »)
+**Mouvement de Débarquement d'Assaut** — 3"
 
-- When eligible : as stated in the rule allowing this move type, if all of the following
-  apply to your unit: embarked within a TRANSPORT model that is on the battlefield; did
-  not embark within that TRANSPORT this phase; that TRANSPORT has not made an
-  advance/fall-back move this phase.
-- Set-up distance : 3".
-- Effect : your unit is set up as described in Set Up (Core Rules, 03.02).
-- While moving : set up each model in your unit wholly within the set-up distance of
-  that TRANSPORT.
+- Comme précisé dans les règles permettant ce **type de mouvement**, si tout ce qui suit
+  s'applique à votre unité :
+  - Elle est embarquée dans une figurine de TRANSPORT qui est sur le champ de bataille.
+  - Elle n'a pas embarqué dans ce TRANSPORT à cette phase.
+  - Ce TRANSPORT n'a pas fait de **mouvement d'avance/de retraite** à cette phase.
+- Placez votre unité comme décrit dans Placement (Règles de Base, 03.02).
+- Placez chaque figurine de votre unité entièrement dans la **distance de placement** du
+  TRANSPORT.
 
-### "The Ravenwing" — Dark Angels uniquement
+### La Ravenwing — Dark Angels uniquement
 
-The following friendly ADEPTUS ASTARTES units have RAVENWING: MOUNTED units; VEHICLE FLY
-units.
+Les unités de l'ADEPTUS ASTARTES amies suivantes ont le mot-clé RAVENWING :
 
-### "The Deathwing" — Dark Angels uniquement
+- Unités MONTÉES.
+- Unités de VÉHICULE avec le mot-clé VOL.
 
-The following friendly ADEPTUS ASTARTES units have DEATHWING:
+### La Deathwing — Dark Angels uniquement
 
-- TERMINATOR units.
-- Doyen Gardelame, Escouade de Vétérans Gardelames, Escouade de Vétérans d'Appui et
-  Escouade de Vétérans d'Avant-garde à Réacteurs Dorsaux units.
-- Land Raider, Land Raider Crusader, Land Raider Redeemer, Repulsor et Repulsor
-  Executioner units.
-- DREADNOUGHT units.
+Les unités de l'ADEPTUS ASTARTES amies suivantes ont le mot-clé DEATHWING :
+
+- Unités de TERMINATORS.
+- Unités de DOYEN GARDELAME/ESCOUADE DE VÉTÉRANS GARDELAMES/ESCOUADE DE VÉTÉRANS D'APPUI/ESCOUADE DE VÉTÉRANS D'AVANT-GARDE À RÉACTEURS DORSAUX.
+- Unités de LAND RAIDER/LAND RAIDER CRUSADER/LAND RAIDER REDEEMER/REPULSOR/REPULSOR EXECUTIONER.
+- Unités de DREADNOUGHT.
 
 ## Récapitulatif
 
-| Détachement | PdD | Dispositions de force | Accessible à |
-|---|---|---|---|
-| Appui de la Deathwatch | 1 | Perturbation | SM et DA |
-| Champions Cuirassés | 1 | Atouts Prioritaires | SM et DA |
-| Confrérie d'Assaut | 1 | Prendre et Tenir | SM et DA |
-| Confrérie Devastator | 1 | Éliminez l'Adversaire | SM et DA |
-| Confrérie Tactique | 1 | Atouts Prioritaires | SM et DA |
-| Fer de Lance Déluge d'Acier | 1 | Éliminez l'Adversaire | SM et DA |
-| Force Briseuse de Ligne Gravis | 1 | Prendre et Tenir | SM et DA |
-| Force d'Assaut Terminator | 1 | Atouts Prioritaires | SM et DA |
-| Force d'Attaque Tacticus | 1 | Prendre et Tenir | SM et DA |
-| Force de Choc Phobos | 1 | Perturbation | SM et DA |
-| Force de Siège Gravis | 1 | Prendre et Tenir | SM et DA |
-| Force Furtive Phobos | 1 | Perturbation | SM et DA |
-| Force Opérationnelle Ceste | 1 | Reconnaissance | SM et DA |
-| Force Opérationnelle Lance de l'Orage | 1 | Reconnaissance | SM et DA |
-| Force Tacticus Tempête de Feu | 1 | Atouts Prioritaires | SM et DA |
-| Force Opérationnelle Gladius | 3 | Prendre et Tenir, Atouts Prioritaires | SM et DA |
-| Poursuite de Sombrevol | 1 | Reconnaissance | DA uniquement |
-| Force Opérationnelle du Cercle Intérieur | 1 | Atouts Prioritaires | DA uniquement |
-| Colère du Roc | 2 | Prendre et Tenir | DA uniquement |
-| Sentinelles de Céramite | 2 | Prendre et Tenir | SM, Imperial Fists uniquement |
-| Colère de Medusa | 2 | Éliminez l'Adversaire | SM, Iron Hands (restriction non affichée) |
-| Serre des Ombres | 2 | Perturbation | SM, Raven Guard (restriction non affichée) |
-| Chercheurs du Père de la Forge | 2 | Atouts Prioritaires | SM, Salamanders uniquement |
-| Force Opérationnelle de Pointe de Lance | 2 | Reconnaissance | SM, White Scars uniquement |
-| Lame d'Ultramar | 3 | Prendre et Tenir, Atouts Prioritaires | SM, Ultramarines (restriction non affichée) |
+| Détachement | PdD | Dispositions de force | Unique | Accessible à | Restriction de Chapitre |
+|---|---|---|---|---|---|
+| Appui de la Deathwatch | 1 | Perturbation | — | SM et DA | — |
+| Champions Cuirassés | 1 | Atouts Prioritaires | — | SM et DA | — |
+| Confrérie d'Assaut | 1 | Prendre et Tenir | DOCTRINES | SM et DA | — |
+| Confrérie Devastator | 1 | Éliminez l'Adversaire | DOCTRINES | SM et DA | — |
+| Confrérie Tactique | 1 | Atouts Prioritaires | DOCTRINES | SM et DA | — |
+| Fer de Lance Déluge d'Acier | 1 | Éliminez l'Adversaire | IRONSTORM | SM et DA | — |
+| Force Briseuse de Ligne Gravis | 1 | Prendre et Tenir | GRAVIS | SM et DA | — |
+| Force d'Assaut Terminator | 1 | Atouts Prioritaires | TERMINATOR | SM et DA | — |
+| Force d'Attaque Tacticus | 1 | Prendre et Tenir | TACTICUS | SM et DA | — |
+| Force de Choc Phobos | 1 | Perturbation | PHOBOS | SM et DA | — |
+| Force de Siège Gravis | 1 | Prendre et Tenir | GRAVIS | SM et DA | — |
+| Force Furtive Phobos | 1 | Perturbation | PHOBOS | SM et DA | — |
+| Force Opérationnelle Ceste | 1 | Reconnaissance | — | SM et DA | — |
+| Force Opérationnelle Lance de l'Orage | 1 | Reconnaissance | — | SM et DA | — |
+| Force Tacticus Tempête de Feu | 1 | Atouts Prioritaires | TACTICUS | SM et DA | — |
+| Force Opérationnelle Gladius | 3 | Atouts Prioritaires, Prendre et Tenir | — | SM et DA | — |
+| Poursuite de Sombrevol | 1 | Reconnaissance | — | DA | Dark Angels |
+| Force Opérationnelle du Cercle Intérieur | 1 | Atouts Prioritaires | — | DA | Dark Angels |
+| Colère du Roc | 2 | Prendre et Tenir | TERMINATOR | DA | Dark Angels |
+| Sentinelles de Céramite | 2 | Prendre et Tenir | — | SM | Imperial Fists |
+| Colère de Medusa | 2 | Éliminez l'Adversaire | IRONSTORM | SM | aucune affichée (supplément Iron Hands) |
+| Serre des Ombres | 2 | Perturbation | PHOBOS | SM | aucune affichée (supplément Raven Guard) |
+| Chercheurs du Père de la Forge | 2 | Atouts Prioritaires | — | SM | Salamanders |
+| Force Opérationnelle de Pointe de Lance | 2 | Reconnaissance | — | SM | White Scars |
+| Lame d'Ultramar | 3 | Atouts Prioritaires, Prendre et Tenir | — | SM | aucune affichée (supplément Ultramarines) |
 
-« Accessible à » : présence dans l'Inventaire Space Marines (SM) et/ou Dark Angels (DA) ;
-Chapitre : page 40k.app qui porte le détachement. Les détachements à 3 PdD sont
+« Accessible à » : présence dans l'Inventaire Space Marines (SM) et/ou Dark Angels (DA).
+« Unique » et « Restriction de Chapitre » : appli. Les détachements à 3 PdD sont
 inaccessibles en Incursion (voir `regles/construction-armee.md`).
 
 ---
 
-## Confrérie d'Assaut [C]
+## Champions Cuirassés
 
-1 PdD · Prendre et Tenir (40k.app : étiquette Doctrines)
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Champions Cuirassés.
 
-### Règle : "Assault Mastery"
+PdD : 1. Dispositions de force : Atouts Prioritaires.
 
-You can select the assault doctrine one additional time per battle.
+### Règle : Vengeance Durable
 
-### Optimisations
-
-**Assaut Furieux (Amélioration)** (10 pts) : ADEPTUS ASTARTES INFANTRY unit only. This
-unit's melee attacks have [SUSTAINED HITS 1: non-MONSTER/VEHICLE].
-
-**Glaive de l'Imperium** (20 pts) : ADEPTUS ASTARTES model only. This model has the
-following weapon:
-
-| Arme de mêlée | A | CC | F | PA | D |
-|---|---|---|---|---|---|
-| "Imperium's Sword" | 6 | 2+ | 7 | −3 | 3 |
-
-### Stratagèmes
-
-**"Gene-wrought Might"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.
-- Effect : your unit's melee attacks have [LANCE]. Or: if the assault doctrine is active
-  for your unit, [LANCE] and +1 AP.
-
-**"Armour of Contempt"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your opponent's Shooting phase or the Fight phase, when an enemy unit targets a
-  friendly ADEPTUS ASTARTES unit.
-- Effect : attacks that target your unit have −1 AP until that enemy unit has attacked.
-
-**"Duty in Death"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit.
-- Effect : when a model in your unit is destroyed, if your unit has not been selected to
-  fight this phase, roll one D6, with +1 to that roll if the assault doctrine is active
-  for your unit: on a 4+, do not remove that model from the battlefield. When your unit
-  has fought, or at the end of the phase (whichever comes first), that model is removed
-  from the battlefield.
-
-## Appui de la Deathwatch [C]
-
-1 PdD · Perturbation
-
-### Règle : "Mission Tactics"
-
-Friendly KILL TEAM units with this ability have the following abilities:
-
-- **"Furor Tactics"** : if the devastator doctrine is active for your unit, your unit's
-  attacks have [SUSTAINED HITS 1].
-- **"Malleus Tactics"** : if the tactical doctrine is active for your unit, your unit's
-  attacks have [LETHAL HITS].
-- **"Purgatus Tactics"** : if the assault doctrine is active for your unit, your unit's
-  attacks that target an enemy unit within 9" of this unit have [PRECISION].
-
-**"Deathwatch Allies"** : you can include DEATHWATCH units in your army, even though they
-do not have the same Chapter faction keyword as other units in your army. The combined
-points value of such units cannot exceed 500 points. When mustering your army, unless
-otherwise stated, you cannot select a DEATHWATCH model to be your WARLORD. In addition,
-KILL TEAM units can only contain enhancements taken from this detachment. This is an
-exception to the Space Marine Chapters Army Rules (pg156).
+Les unités de DREADNOUGHT de l’ADEPTUS ASTARTES amies peuvent relancer les **jets de touche** de 1.
 
 ### Optimisations
 
-**Balise Angelis** (25 pts) : ADEPTUS ASTARTES model only. If this unit is a KILL TEAM
-unit, this unit has: Deep Strike; when you target this unit with the Rapid Ingress
-Stratagem, that use is −1CP.
+- **Champion Vénérable (Aura) (Amélioration)** — 30 pts. Unité de DREADNOUGHT seulement. Tant qu’une unité d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES amie est à 6" ou moins de cette unité, les attaques de l’unité amie peuvent relancer les **jets de touche** de 1.
+
+- **Sarcophage d’Artificier (Amélioration)** — 40 pts. Unité de DREADNOUGHT seulement. Les attaques qui ciblent cette unité ont -1 en **D**.
 
 ### Stratagèmes
 
-**"Blackstar Extraction"** (1 PC) — Fight Phase
-- Target : one friendly unengaged KILL TEAM unit.
-- When : end of your opponent's Fight phase.
-- Effect : place your unit in strategic reserves.
+#### Terreur Adamantine — 1 PC
 
-**"Kraken Rounds"** (1 PC) — Shooting Phase
-- Target : that KILL TEAM unit.
-- When : your Shooting phase, when a KILL TEAM unit is selected to shoot.
-- Effect : your unit's ranged attacks have +6" R and +1 S.
+- Quand : Au début de la phase de Combat.
+- Cible : Une unité de DREADNOUGHT amie.
+- Effet : Chaque unité ennemie **engagée** avec votre unité fait un **jet d’ébranlement**, avec -1 à ce dernier.
 
-**"Dragonfire Rounds"** (1 PC) — Shooting Phase
-- Target : that KILL TEAM unit.
-- When : your Shooting phase, when a KILL TEAM unit is selected to shoot.
-- Effect : your unit's ranged attacks can re-roll wound rolls of 1 and have [IGNORES
-  COVER].
+#### La Pitié Est une Faiblesse — 1 PC
 
-**"Hellfire Rounds"** (1 PC) — Shooting Phase
-- Target : that KILL TEAM unit.
-- When : your Shooting phase, when a KILL TEAM unit is selected to shoot.
-- Effect : your unit's ranged attacks (excluding [DEVASTATING WOUNDS] attacks) have
-  [ANTI-non-VEHICLE 4+].
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité de DREADNOUGHT amie est **choisie pour attaquer**.
+- Cible : Cette unité de DREADNOUGHT.
+- Effet : Les attaques de votre unité ont :
 
-## Confrérie Devastator [C]
+  - [TOUCHES FATALES] .
+  - _Ou :_ [TOUCHES SOUTENUES 1].
 
-1 PdD · Éliminez l'Adversaire (40k.app : étiquette Doctrines)
+#### Progression Inarrêtable — 1 PC
 
-### Règle : "Devastator Mastery"
+- Quand : À votre phase de Mouvement/Charge, quand une unité de DREADNOUGHT amie est **choisie pour se déplacer** ou **déclare une charge**.
+- Cible : Cette unité de DREADNOUGHT.
+- Effet : Votre unité a le mot-clé MOBILE.
 
-You can select the devastator doctrine one additional time per battle.
+---
+
+## Confrérie Devastator
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Confrérie Devastator.
+
+PdD : 1. Dispositions de force : Éliminez l’Adversaire. Étiquette « Unique : DOCTRINES ».
+
+### Règle : Maîtrise Devastator
+
+Vous pouvez choisir la **doctrine devastator** une fois supplémentaire par bataille.
 
 ### Optimisations
 
-**Honneur Vigilant** (20 pts) : ADEPTUS ASTARTES model only. This unit's ranged attacks
-have [LETHAL HITS]. If the devastator doctrine is active for this unit, this unit can
-re-roll advance rolls.
+- **Armes à Feu de Facture Magistrale** — 15 pts. Figurine d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES seulement. Les attaques de tir de cette figurine (attaques [PSYCHIQUES] exclues) ont +1 en **A**, en **F**, en **PA** et en **D**.
 
-**Armes à Feu de Facture Magistrale** (15 pts) : ADEPTUS ASTARTES INFANTRY/MOUNTED model
-only. This model's ranged attacks (excluding [PSYCHIC] attacks) have +1 A, S, AP and D.
+- **Honneur Vigilant** — 20 pts. Figurine de l’ADEPTUS ASTARTES seulement.
+
+  - Les attaques de tir de cette unité ont [TOUCHES FATALES].
+  - Si la **doctrine devastator** est active pour cette unité, cette dernière peut relancer les **jets d’avance**.
 
 ### Stratagèmes
 
-**"Armour of Contempt"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Confrérie d'Assaut.
+#### Armure de Mépris — 1 PC
 
-**"Storm of Fire"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.
-- Effect : your unit's ranged attacks have [IGNORES COVER]. Or: if the devastator
-  doctrine is active for your unit, [IGNORES COVER] and +1 AP.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **PA** jusqu’à ce que cette unité ennemie ait attaqué.
 
-**"Hail of Vengeance"** (2 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your opponent's Shooting phase, when an enemy unit has shot, if those attacks
-  destroyed a model in a friendly ADEPTUS ASTARTES unit.
-- Effect : your unit shoots using normal shooting, but while doing so your unit can only
-  target that enemy unit.
+#### Tempête de Feu — 1 PC
 
-## Force Opérationnelle Ceste [C]
+- Quand : À votre phase de Tir, quand une unité de l’ADEPTUS ASTARTES amie est **choisie pour tirer**.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont :
 
-1 PdD · Reconnaissance
+  - [IGNORE LE COUVERT].
+  - _Ou :_ Si la **doctrine devastator** est active pour votre unité, elles ont [IGNORE LE COUVERT] et +1 en **PA**.
 
-### Règle : "Combined Deployment"
+#### Grêle Vengeresse — 2 PC
 
-In your Shooting phase, when a friendly ADEPTUS ASTARTES TRANSPORT unit has shot, you can
-select one enemy unit hit by those attacks. That enemy unit is assailed until the end of
-the turn. While a unit is assailed, when an ADEPTUS ASTARTES unit that disembarked this
-turn targets that unit, those attacks have [SUSTAINED HITS 1].
+- Quand : À la phase de Tir adverse, une fois qu’une unité ennemie a tiré, si ces attaques ont **détruit** une figurine d’une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Votre unité tire en utilisant un **tir normal**, mais ce faisant, votre unité peut seulement cibler cette unité ennemie.
+
+---
+
+## Confrérie Tactique
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Confrérie Tactique.
+
+PdD : 1. Dispositions de force : Atouts Prioritaires. Étiquette « Unique : DOCTRINES ».
+
+### Règle : Maîtrise Tactique
+
+Vous pouvez choisir la **doctrine tactique** une fois supplémentaire par bataille.
 
 ### Optimisations
 
-**Liaison de Classe Damoclès** (15 pts) : CAPTAIN model only. In your Movement phase, if
-this unit is embarked within a TRANSPORT unit, you can select one friendly ADEPTUS
-ASTARTES INFANTRY unit within 6" of that TRANSPORT unit and select one combat doctrine.
-That combat doctrine is active for that INFANTRY unit.
+- **Sagacité Tactique** — 15 pts. Figurine de CAPITAINE seulement. La **doctrine tactique** est active pour cette unité _en plus_ de toute autre **doctrine de combat**.
 
-**Offensive Briseuse de Ligne** (20 pts) : ADEPTUS ASTARTES INFANTRY model only. If this
-unit disembarked this turn: this unit can re-roll charge rolls; enemy units cannot target
-this unit with snap shooting attacks.
+- **Lauriers de la Vigilance** — 10 pts. Figurine de l’ADEPTUS ASTARTES seulement.
+  (Une fois par round de bataille, par armée) Quand vous utilisez le **stratagème Tir en État d’Alerte/Intervention Héroïque**, si vous ciblez une unité de LIGNE de l’ADEPTUS ASTARTES amie à 12" ou moins de cette figurine avec lui, cette utilisation se fait à -1 PC.
 
 ### Stratagèmes
 
-**"Storm and Secure"** (1 PC) — Movement Phase
-- Target : one friendly ADEPTUS ASTARTES TRANSPORT unit that has an ADEPTUS ASTARTES
-  BATTLELINE unit embarked within it.
-- When : end of your Movement phase.
-- Effect : select one objective your unit is controlling. That objective is secured.
+#### Armure de Mépris — 1 PC
 
-**"Aggressive Disembarkation"** (1 PC) — Any Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : any phase, when a friendly ADEPTUS ASTARTES unit embarked within a TRANSPORT is
-  selected to move.
-- Effect : while making that move, each model in your unit can be set up within the
-  set-up distance of that TRANSPORT. This allows you to set up your unit within the
-  set-up distance of your TRANSPORT, instead of wholly within that distance.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **PA** jusqu’à ce que cette unité ennemie ait attaqué.
 
-**"Duty is Never Done"** (1 PC) — Fight Phase
-- Target : one friendly unengaged ADEPTUS ASTARTES INFANTRY unit that was eligible to
-  fight this phase, is wholly within 6" of a friendly TRANSPORT unit, and is eligible to
-  embark within that TRANSPORT unit.
-- When : end of the Fight phase.
-- Effect : your unit embarks within that TRANSPORT unit.
+#### Tactiques Magistrales — 1 PC
 
-## Force Opérationnelle Gladius [C]
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES amie **non engagée**.
+- Cible : Cette unité d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES.
+- Effet : Votre unité peut faire un **mouvement normal** de :
 
-3 PdD · Prendre et Tenir, Atouts Prioritaires
+  - D6" maximum.
+  - _Ou :_ Si la **doctrine tactique** est active pour votre unité, de 6" maximum.
 
-### Règle : "Codex Discipline"
+#### Salve de Domination — 1 PC
 
-You can select one combat doctrine one additional time per battle.
+- Quand : À votre phase de Tir, quand une unité de l’ADEPTUS ASTARTES amie a tiré.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Choisissez une unité ennemie touchée par ces attaques. L’unité ennemie est **neutralisée** jusqu’au début de votre prochain tour :
+
+  - Tant qu’une unité est **neutralisée**, ses attaques ont -1 aux **jets de touche**.
+
+---
+
+## Confrérie d’Assaut
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Confrérie d’Assaut.
+
+PdD : 1. Dispositions de force : Prendre et Tenir. Étiquette « Unique : DOCTRINES ».
+
+### Règle : Maîtrise de l’Assaut
+
+Vous pouvez choisir la **doctrine d’assaut** une fois supplémentaire par bataille.
 
 ### Optimisations
 
-**Adepte du Codex** (20 pts) : CAPTAIN model only. The tactical doctrine is active for
-this unit in addition to any other combat doctrine.
+- **Glaive de l’Imperium** — 20 pts. Figurine de l’ADEPTUS ASTARTES seulement. Cette figurine a l’arme suivante :
 
-**Armure d'Artificier** (15 pts) : ADEPTUS ASTARTES model only. This model has 2+ Sv and
-Feel No Pain 5+.
+  | Arme | Portée | A | CC | F | PA | D |
+  |---|---|---|---|---|---|---|
+  | Glaive de l’Imperium | Mêlée | 6 | 2+ | 7 | −3 | 3 |
 
-**Lauriers du Triomphe** (20 pts) : ADEPTUS ASTARTES model only. This model's melee
-attacks have +1 S and AP. Or: if the assault doctrine is active for this unit, +2 S and
-AP.
-
-**Étendard de l'Empereur Ascendant** (25 pts) : ANCIENT model only. This model has +1 OC
-and Ld, Feel No Pain 5+, and the following ability: "Ancient Exhortation" (once per
-battle, per army): when this unit is selected to fight, you can use this ability. If you
-do, this unit's melee attacks have +1 A until the end of the phase.
+- **Assaut Furieux (Amélioration)** — 10 pts. Unité d’INFANTERIE de l’ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette unité ont [TOUCHES SOUTENUES 1 : ≠ MONSTRE/VÉHICULE].
 
 ### Stratagèmes
 
-**"Armour of Contempt"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Confrérie d'Assaut.
+#### Puissance Génoforgée — 1 PC
 
-**"Adaptive Strategy"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES unit.
-- When : your Command phase.
-- Effect : select one combat doctrine. That combat doctrine is active for your unit until
-  the start of your next Command phase.
+- Quand : À la phase de Combat, quand une unité de l’ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont :
 
-**"A Worthy Death"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when an enemy unit targets a friendly ADEPTUS ASTARTES unit.
-- Effect : when a model in your unit is destroyed, if your unit has not been selected to
-  fight this phase, roll one D6: on a 4+, do not remove that model from the battlefield.
-  When your unit has fought, or at the end of the phase (whichever comes first), that
-  model is removed from the battlefield.
+  - [LANCE].
+  - _Ou :_ Si la **doctrine d’assaut** est active pour votre unité, elles ont [LANCE] et +1 en **PA**.
 
-**"Responsive Tactics"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- Effect : your unit can make a normal move of up to D6".
+#### Armure de Mépris — 1 PC
 
-**"Storm of Devastation"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.
-- Effect : your unit's ranged attacks have [IGNORES COVER].
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **PA** jusqu’à ce que cette unité ennemie ait attaqué.
 
-**"Might of Angels"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.
-- Effect : your unit's melee attacks have [LANCE].
+#### Le Devoir Dans la Mort — 1 PC
 
-## Force Briseuse de Ligne Gravis [C]
+- Quand : À la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Quand une figurine de votre unité est **détruite**, si votre unité n’a pas été **choisie pour combattre** à cette phase, jetez un D6, avec +1 à ce jet si la **doctrine d’assaut** est active pour votre unité :
 
-1 PdD · Prendre et Tenir (40k.app : étiquette Gravis)
+  - Sur 4+, ne retirez pas votre figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), votre figurine est retirée du champ de bataille.
 
-### Règle : "Walking Fortress"
+---
 
-In a turn a friendly GRAVIS unit made a normal move, that unit's ranged attacks do not
-have [HEAVY] and have +1 to hit rolls.
+## Fer de Lance Déluge d’Acier
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Fer de Lance Déluge d’Acier.
+
+PdD : 1. Dispositions de force : Éliminez l’Adversaire. Étiquette « Unique : IRONSTORM ».
+
+### Règle : Autocibleurs Déluge d’Acier
+
+Les attaques de tir des unités de VÉHICULE de l’ADEPTUS ASTARTES amies (unités de MARCHEUR exclues) peuvent :
+
+- Relancer _un_ **jet de touche**.
+- Relancer _un_ **jet de blessure**.
 
 ### Optimisations
 
-**Robustesse Inaltérable** (20 pts) : GRAVIS model only. Attacks that target this unit
-with a S greater than this unit's T have −1 to wound rolls.
+- **Esprit de la Machine Redoutable (Amélioration)** — 25 pts. Unité de VÉHICULE de l’ADEPTUS ASTARTES seulement (unités de TRANSPORT ASSIGNÉ/VOL/MARCHEUR exclues). Cette unité :
 
-**Avance Implacable** (20 pts) : GRAVIS model only. This unit has Scouts 5".
+  - A une **InSv** de 5+.
+  - À la fin de votre phase de Commandement, elle **soigne** 1 PV.
+
+- **Honneurs d’Artilleur (Amélioration)** — 15 pts. Unité de VÉHICULE de l’ADEPTUS ASTARTES seulement (unités de TRANSPORT ASSIGNÉ/VOL/MARCHEUR exclues). Les attaques de tir de cette unité ont [LOURD].
 
 ### Stratagèmes
 
-**"Purgation Push"** (1 PC) — Shooting Phase
-- Target : that GRAVIS unit.
-- When : your Shooting phase, when a friendly GRAVIS unit has shot.
-- Effect : if your unit is unengaged, your unit can make a normal move of up to 5", and
-  must end that move within range of an objective. Your unit is not eligible to declare a
-  charge or embark within a TRANSPORT until the end of the turn.
+#### Opiniâtreté de l’Esprit de la Machine — 1 PC
 
-**"Armoured Impact"** (1 PC) — Charge Phase
-- Target : that GRAVIS unit.
-- When : your Charge phase, when a friendly GRAVIS unit ends a charge move.
-- Effect : you can select one enemy unit engaged with your unit. If you do, roll one D6
-  for each model in your unit engaged with that enemy unit: for each 3+, that enemy unit
-  suffers 1 mortal wound.
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de VÉHICULE de l’ADEPTUS ASTARTES amie (unités de TRANSPORT ASSIGNÉ/VOL/MARCHEUR exclues).
+- Effet : Jusqu’au début de votre prochaine phase de Commandement, votre unité peut ignorer les modificateurs à :
 
-**"Annihilating Force"** (1 PC) — Shooting & Fight Phase
-- Target : that GRAVIS unit.
-- When : your Shooting phase or the Fight phase, when a friendly GRAVIS unit is selected
-  to attack.
-- Effect : your unit's attacks have [LETHAL HITS].
+  - Son **M**.
+  - Sa **CT**.
+  - Ses **jets de Touche** et à ses **jets de blessure**.
 
-## Force de Siège Gravis [C]
+#### Céramite Stratifiée — 1 PC
 
-1 PdD · Prendre et Tenir (40k.app : étiquette Gravis)
+- Quand : À n’importe quelle phase, quand une unité de VÉHICULE de l’ADEPTUS ASTARTES amie subit une **blessure mortelle**.
+- Cible : Cette unité de VÉHICULE de l’ADEPTUS ASTARTES.
+- Effet : Votre unité a **Insensible à la Douleur 5+** contre les **blessures mortelles**.
 
-### Règle : "Indomitable Defence"
+#### Doctrine du Chasseur de Têtes — 1 PC
 
-While a friendly GRAVIS unit is within range of an objective, attacks that target that
-unit with a S greater than that unit's T have −1 to wound rolls.
+- Quand : À votre phase de Tir, quand une unité de VÉHICULE de l’ADEPTUS ASTARTES amie (unités de TRANSPORT ASSIGNÉ/VOL/MARCHEUR exclues) est **choisie pour tirer**.
+- Cible : Cette unité de VÉHICULE de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont [TOUCHES FATALES : MONSTRE/VÉHICULE].
+
+---
+
+## Force Briseuse de Ligne Gravis
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Briseuse de Ligne Gravis.
+
+PdD : 1. Dispositions de force : Prendre et Tenir. Étiquette « Unique : GRAVIS ».
+
+### Règle : Forteresse Ambulante
+
+À un tour où une unité GRAVIS amie a fait un **mouvement normal**, ses attaques de tir :
+
+- N’ont pas [LOURD].
+- Ont +1 aux **jets de touche**.
 
 ### Optimisations
 
-**Conquérants Inamovibles (Amélioration)** (15 pts) : GRAVIS unit only. This unit has
-+1 OC.
+- **Avance Implacable** — 20 pts. Figurine GRAVIS seulement. Cette unité a **Éclaireurs 5"**.
 
-**Gantelet Narthecis** (20 pts) : Apothicaire Biologis model only. In your Command phase,
-this unit heals D3+1 wounds.
+- **Robustesse Inaltérable** — 20 pts. Figurine GRAVIS seulement. Les attaques qui ciblent cette unité avec une **F** supérieure à son **E** ont -1 aux **jets de blessure**.
 
 ### Stratagèmes
 
-**"Annihilating Force"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Force Briseuse de Ligne Gravis.
+#### Poussée Purgatoire — 1 PC
 
-**"Suppression Volleys"** (1 PC) — Shooting Phase
-- Target : that GRAVIS unit.
-- When : your Shooting phase, when a friendly GRAVIS unit has shot.
-- Effect : select one enemy unit hit by those attacks. That enemy unit makes a
-  battle-shock roll, with −1 to that battle-shock roll.
+- Quand : À votre phase de Tir, quand une unité GRAVIS amie a tiré.
+- Cible : Cette unité GRAVIS.
+- Effet :
+  - Si votre unité est **non engagée**, elle peut faire un **mouvement normal** de 5" maximum, et doit le finir à portée d’un **objectif**.
+  - Votre unité n’est _pas_ **éligible pour déclarer une charge** ou embarquer dans un TRANSPORT jusqu’à la fin du tour.
 
-**"Stand Unyielding"** (1 PC) — Movement Phase
-- Target : one friendly GRAVIS unit.
-- When : end of your Movement phase.
-- Effect : select one objective your unit is controlling. That objective is secured.
+#### Impact Blindé — 1 PC
 
-## Champions Cuirassés [C]
+- Quand : À votre phase de Charge, quand une unité GRAVIS amie finit un **mouvement de charge**.
+- Cible : Cette unité GRAVIS.
+- Effet : Quand votre unité finit un **mouvement de charge**, vous pouvez choisir une unité ennemie **engagée** avec elle. Dans ce cas, jetez un D6 pour chaque figurine de votre unité **engagée** avec l’unité ennemie choisie :
 
-1 PdD · Atouts Prioritaires
+  - Pour chaque jet de 3+, l’unité ennemie choisie subit 1 **blessure mortelle**.
 
-### Règle : "Enduring Vengeance"
+#### Force d’Annihilation — 1 PC
 
-Friendly ADEPTUS ASTARTES DREADNOUGHT units can re-roll hit rolls of 1.
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité GRAVIS amie est **choisie pour attaquer**.
+- Cible : Cette unité GRAVIS.
+- Effet : Les attaques de votre unité ont [TOUCHES FATALES].
+
+---
+
+## Force Furtive Phobos
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Furtive Phobos.
+
+PdD : 1. Dispositions de force : Perturbation. Étiquette « Unique : PHOBOS ».
+
+### Règle : Maîtres des Ombres
+
+Quand une unité PHOBOS ou d’ESCOUADE SCOUT amie a tiré :
+
+- Ces attaques ne l’empêchent pas d’être **cachée**.
+- _Ou :_ L’unité peut faire un **mouvement normal** de D6" maximum. Jusqu’à la fin du tour, l’unité n’est _pas_ **éligible pour déclarer une charge**.
 
 ### Optimisations
 
-**Sarcophage d'Artificier (Amélioration)** (40 pts) : DREADNOUGHT unit only. Attacks that
-target this unit have −1 D.
+- **Omni-auspex Venator** — 15 pts. Figurine PHOBOS seulement. Les attaques de cette unité qui ciblent une unité **cachée** peuvent :
 
-**Champion Vénérable (Aura) (Amélioration)** (30 pts) : DREADNOUGHT unit only. While a
-friendly ADEPTUS ASTARTES INFANTRY/MOUNTED unit is within 6" of this unit, that unit's
-attacks can re-roll hit rolls of 1.
+  - Relancer les **jets de blessure** de 1.
+  - _Ou :_ Si la **doctrine d’assaut** est active pour cette unité, elles peuvent relancer les **jets de blessure** de 1-2.
+
+- **Exécution et Redéploiement** — 25 pts. Figurine PHOBOS seulement. À votre phase de Tir, une fois que cette unité a tiré, si elle est **non engagée**, elle peut faire un **mouvement normal** de 6" maximum. Dans ce cas, jusqu’à la fin du tour, cette unité n’est _pas_ **éligible pour déclarer une charge**.
 
 ### Stratagèmes
 
-**"Adamantine Terror"** (1 PC) — Fight Phase
-- Target : one friendly DREADNOUGHT unit.
-- When : start of the Fight phase.
-- Effect : each enemy unit engaged with your unit makes a battle-shock roll, with −1 to
-  that battle-shock roll.
+#### Rets Mortis — 1 PC
 
-**"Mercy is Weakness"** (1 PC) — Shooting & Fight Phase
-- Target : that DREADNOUGHT unit.
-- When : your Shooting phase or the Fight phase, when a friendly DREADNOUGHT unit is
-  selected to attack.
-- Effect : your unit's attacks have [LETHAL HITS]. Or: [SUSTAINED HITS 1].
+- Quand : À la fin de votre phase de Mouvement.
+- Cible : Une unité PHOBOS**/**ESCOUADE SCOUT amie **non engagée**.
+- Effet : Si votre unité contrôle un **objectif**, ce dernier est **rétiaire**. Tant qu’un **objectif** est **rétiaire**, quand une unité ennemie finit un mouvement à portée de lui, jetez un D6 :
 
-**"Upstoppable Advance"** (1 PC) — Movement & Charge Phase
-- Target : that DREADNOUGHT unit.
-- When : your Movement/Charge phase, when a friendly DREADNOUGHT unit is selected to move
-  or declares a charge.
-- Effect : your unit has MOBILE.
+  - Sur 2+, l’unité ennemie subit D6 **blessures mortelles**.
+  - Cet **objectif** n’est plus **rétiaire**.
 
-## Fer de Lance Déluge d'Acier [C]
+#### Repli Tactique — 1 PC
 
-1 PdD · Éliminez l'Adversaire (40k.app : étiquette Ironstorm)
+- Quand : À la fin de la phase de Combat adverse.
+- Cible : Une unité PHOBOS**/**ESCOUADE SCOUT amie **non engagée**.
+- Effet : Placez votre unité en **réserve stratégique**.
 
-### Règle : "Ironstorm Auto-targeters"
+#### Frapper depuis les Ombres — 1 PC
 
-Friendly ADEPTUS ASTARTES VEHICLE units' (excluding WALKER units) ranged attacks can
-re-roll one hit roll and re-roll one wound roll.
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité PHOBOS amie **cachée** est **choisie pour attaquer**.
+- Cible : Cette unité PHOBOS.
+- Effet : Les attaques de votre unité ont :
+
+  - +1 en **F**.
+  - [TOUCHES FATALES].
+
+---
+
+## Force Opérationnelle Ceste
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Opérationnelle Ceste.
+
+PdD : 1. Dispositions de force : Reconnaissance.
+
+### Règle : Déploiement Combiné
+
+À votre phase de Tir, quand une unité de TRANSPORT de l’ADEPTUS ASTARTES amie a tiré, vous pouvez choisir une unité ennemie touchée par ces attaques. Ladite unité ennemie est **assaillie** jusqu’à la fin du tour :
+
+- Tant qu’une unité est **assaillie**, quand une unité de l’ADEPTUS ASTARTES qui a débarqué à ce tour la cible, ces attaques ont [TOUCHES SOUTENUES 1].
 
 ### Optimisations
 
-**Honneurs d'Artilleur (Amélioration)** (15 pts) : ADEPTUS ASTARTES VEHICLE unit only
-(excluding DEDICATED TRANSPORT/FLY/WALKER units). This unit's ranged attacks have
-[HEAVY].
+- **Offensive Briseuse de Ligne** — 20 pts. Figurine d’INFANTERIE de l’ADEPTUS ASTARTES seulement. Si cette unité a débarqué à ce tour :
 
-**Esprit de la Machine Redoutable (Amélioration)** (25 pts) : ADEPTUS ASTARTES VEHICLE
-unit only (excluding DEDICATED TRANSPORT/FLY/WALKER units). This unit has 5+ InSv and, at
-the end of your Command phase, heals 1 wound.
+  - Elle peut relancer les **jets de charge**.
+  - Les unités ennemies ne peuvent pas la cibler avec des attaques de **tir au jugé**.
+
+- **Liaison de Classe Damoclès** — 15 pts. Figurine de CAPITAINE seulement. À votre phase de Mouvement, si cette unité est embarquée dans une unité de TRANSPORT, vous pouvez choisir une unité d’INFANTERIE de l’ADEPTUS ASTARTES amie à 6" ou moins de cette unité de TRANSPORT et choisir une **doctrine de combat**. Cette **doctrine de combat** est active pour cette unité d’INFANTERIE.
 
 ### Stratagèmes
 
-**"Might of the Machine Spirit"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES VEHICLE unit (excluding DEDICATED
-  TRANSPORT/FLY/WALKER units).
-- When : your Command phase.
-- Effect : until the start of your next Command phase, your unit can ignore modifiers to
-  your unit's M, BS, hit rolls and wound rolls.
+#### Assaillir et Sécuriser — 1 PC
 
-**"Layered Ceramite"** (1 PC) — Any Phase
-- Target : that ADEPTUS ASTARTES VEHICLE unit.
-- When : any phase, when a friendly ADEPTUS ASTARTES VEHICLE unit suffers a mortal wound.
-- Effect : your unit has Feel No Pain 5+ against mortal wounds.
+- Quand : À la fin de votre phase de Mouvement.
+- Cible : Une unité de TRANSPORT de l’ADEPTUS ASTARTES amie qui a une unité de LIGNE de l’ADEPTUS ASTARTES embarquée à son bord.
+- Effet : Choisissez un **objectif** que votre unité contrôle. Cet **objectif** est **sécurisé**.
 
-**"Headhunter Doctrine"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES VEHICLE unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES VEHICLE unit (excluding
-  DEDICATED TRANSPORT/FLY/WALKER units) is selected to shoot.
-- Effect : your unit's ranged attacks have [LETHAL HITS: MONSTER/VEHICLE].
+#### Débarquement Agressif — 1 PC
 
-## Force Furtive Phobos [C]
+- Quand : À n’importe quelle phase, quand une unité de l’ADEPTUS ASTARTES amie embarquée dans un TRANSPORT est **choisie pour être déplacée**.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : En faisant ce mouvement, chaque figurine de votre unité peut être placée à **distance de placement** de ce TRANSPORT.
+  *Cela vous permet de placer votre unité *à ***distance de placement** de votre *TRANSPORT*, au lieu de la placer *entièrement à* cette distance.*
 
-1 PdD · Perturbation (40k.app : étiquette Phobos)
+#### Le Devoir ne Connaît pas de Fin — 1 PC
 
-### Règle : "Shadow Masters"
+- Quand : À la fin de la phase de Combat.
+- Cible : Une unité d’INFANTERIE de l’ADEPTUS ASTARTES amie **non engagée** qui était **éligible pour combattre** à cette phase, qui est entièrement à 6" ou moins d’une unité de TRANSPORT amie, et qui est éligible pour embarquer dans cette dernière.
+- Effet : Votre unité embarque dans cette unité de TRANSPORT.
 
-When a friendly PHOBOS or SCOUT SQUAD unit has shot: those attacks do not prevent that
-unit from being hidden. Or: that unit can make a normal move of up to D6"; that unit is
-not eligible to declare a charge until the end of the turn.
+---
+
+## Force Opérationnelle Gladius
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Opérationnelle Gladius.
+
+PdD : 3. Dispositions de force : Atouts Prioritaires, Prendre et Tenir.
+
+### Règle : Discipline Codex
+
+Vous pouvez choisir une seule **doctrine de combat** une fois supplémentaire par bataille.
 
 ### Optimisations
 
-**Exécution et Redéploiement** (25 pts) : PHOBOS model only. In your Shooting phase,
-after this unit has shot, if this unit is unengaged, this unit can make a normal move of
-up to 6". If it does, this unit is not eligible to declare a charge until the end of the
-turn.
+- **Lauriers du Triomphe** — 20 pts. Figurine de l’ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette figurine ont :
 
-**Omni-auspex Venator** (15 pts) : PHOBOS model only. This unit's attacks that target a
-hidden unit can re-roll wound rolls of 1. Or: if the assault doctrine is active for this
-unit, re-roll wound rolls of 1 and 2.
+  - +1 en **F** et en **PA**.
+  - _Ou :_ Si la **doctrine d’assaut** est active pour cette unité, elles ont +2 en **F** et en **PA**.
+
+- **Adepte du Codex** — 20 pts. Figurine de CAPITAINE seulement. La **doctrine tactique** est active pour cette unité _en plus_ de toute autre **doctrine de combat**.
+
+- **Armure d’Artificier** — 15 pts. Figurine de l’ADEPTUS ASTARTES seulement. Cette figurine a :
+
+  - Une **Sv** de 2+.
+  - **Insensible à la Douleur 5+**.
+
+- **Étendard de l’Empereur Ascendant** — 25 pts. Figurine de DOYEN seulement. Cette figurine a :
+
+  - +1 en **CO** et en **Cd**.
+  - **Insensible à la Douleur 5+**.
+  - L’aptitude suivante :
+    - Exhortation du Doyen (Une fois par bataille, par armée) : Quand cette unité est **choisie pour combattre**, vous pouvez utiliser cette aptitude. Dans ce cas, les attaques de mêlée de cette unité ont +1 en **A** jusqu’à la fin de la phase.
 
 ### Stratagèmes
 
-**"Mortis Snares"** (1 PC) — Movement Phase
-- Target : one friendly unengaged PHOBOS/SCOUT SQUAD unit.
-- When : end of your Movement phase.
-- Effect : if your unit is controlling an objective, that objective is snared. While an
-  objective is snared, when an enemy unit ends a move within range of that objective,
-  roll one D6: on a 2+, that enemy unit suffers D6 mortal wounds; that objective is no
-  longer snared.
+#### Armure de Mépris — 1 PC
 
-**"Tactical Withdrawal"** (1 PC) — Fight Phase
-- Target : one friendly unengaged PHOBOS/SCOUT SQUAD unit.
-- When : end of your opponent's Fight phase.
-- Effect : place your unit in strategic reserves.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **PA** jusqu’à ce que cette unité ennemie ait attaqué.
 
-**"Strike from the Shadows"** (1 PC) — Shooting & Fight Phase
-- Target : that PHOBOS unit.
-- When : your Shooting phase or the Fight phase, when a friendly hidden PHOBOS unit is
-  selected to attack.
-- Effect : your unit's attacks have +1 S and [LETHAL HITS].
+#### Adaptation Stratégique — 1 PC
 
-## Force de Choc Phobos [C]
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de l’ADEPTUS ASTARTES amie.
+- Effet : Choisissez 1 **doctrine de combat**. Cette dernière est active pour votre unité jusqu’au début de votre prochaine phase de Commandement.
 
-1 PdD · Perturbation (40k.app : étiquette Phobos)
+#### Une Mort Digne — 1 PC
 
-### Règle : "Vanguard Ambushers"
+- Quand : À la phase de Combat, quand une unité ennemie cible une unité de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Quand une figurine de votre unité est **détruite**, si votre unité n’a pas été **choisie pour combattre** à cette phase, jetez un D6 :
 
-At the end of your Movement phase, if a friendly PHOBOS unit is hidden, that unit's
-attacks can re-roll wound rolls of 1 until the end of the turn.
+  - Sur 4+, ne retirez pas votre figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), votre figurine est retirée du champ de bataille.
+
+#### Tactiques Réactives — 1 PC
+
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES amie **non engagée**.
+- Cible : Cette unité d’INFANTERIE/MONTÉE de l’ADEPTUS ASTARTES.
+- Effet : Votre unité peut faire un **mouvement normal** de D6" maximum.
+
+#### Orage Dévastateur — 1 PC
+
+- Quand : À votre phase de Tir, quand une unité de l’ADEPTUS ASTARTES amie est **choisie pour tirer**.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont [IGNORE LE COUVERT].
+
+#### Puissance des Anges — 1 PC
+
+- Quand : À la phase de Combat, quand une unité de l’ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont [LANCE].
+
+---
+
+## Force Opérationnelle Lance de l’Orage
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Opérationnelle Lance de l’Orage.
+
+PdD : 1. Dispositions de force : Reconnaissance.
+
+### Règle : Frappe Fulgurante
+
+Les unités MONTÉES/SPEEDER de l’ADEPTUS ASTARTES amies ont +2" en **M**.
 
 ### Optimisations
 
-**Sceau de Dissimulation** (15 pts) : PHOBOS model only. Enemy units cannot target this
-unit with snap shooting attacks.
+- **Autels-auspex de Triangulation (Amélioration)** — 10 pts. Unité de SPEEDER de l’ADEPTUS ASTARTES seulement. Au début de votre phase de Tir, choisissez une unité ennemie **visible** et à 12" ou moins de cette unité. L’unité ennemie choisie est **pointée** :
 
-**Omni-auspex Venator** (15 pts) : PHOBOS model only. This unit's attacks that target a
-hidden unit can re-roll wound rolls of 1. Or: if the assault doctrine is active for this
-unit, re-roll wound rolls of 1-2.
+  - Tant qu’une unité est **pointée**, elle a +3" en **portée de détection**.
+
+- **Moteurs Surgonflés (Amélioration)** — 10 pts. Unité MONTÉE de l’ADEPTUS ASTARTES seulement. Cette unité peut relancer les **jets d’avance**.
 
 ### Stratagèmes
 
-**"Umbral Evasion"** (1 PC) — Shooting Phase
-- Target : that PHOBOS unit.
-- When : your opponent's Shooting phase, when an enemy unit targets a friendly PHOBOS
-  unit.
-- Effect : ranged attacks that target your unit have −1 to hit rolls.
+#### Cibles Véloces — 1 PC
 
-**"Strike from the Shadows"** (1 PC) — Shooting & Fight Phase : texte identique à celui de
-la Force Furtive Phobos.
+- Quand : À la phase de Tir adverse, quand une unité ennemie cible une unité MONTÉE/SPEEDER de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité MONTÉE/SPEEDER de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de tir qui ciblent votre unité ont -1 aux **jets de touche**.
 
-**"Transhuman Reactions"** (1 PC) — Movement Phase
-- Target : that PHOBOS unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged PHOBOS unit.
-- Effect : your unit can make a normal move of up to D6". Or: if the tactical doctrine is
-  active for your unit, up to 6".
+#### Insaisissable Comme le Vent — 1 PC
 
-## Force Opérationnelle Lance de l'Orage [C]
+- Quand : À la fin de la phase de Combat.
+- Cible : Une unité MONTÉE de l’ADEPTUS ASTARTES amie qui était **éligible pour combattre** à cette phase.
+- Effet :
+  - Si votre unité est **non engagée**, elle peut faire un **mouvement normal**.
+  - _Ou :_ Si votre unité est **engagée**, elle peut faire un **mouvement de retraite**.
 
-1 PdD · Reconnaissance
+#### Attaque Subite — 1 PC
 
-### Règle : "Lightning-fast Strike"
+- Quand : À votre phase de Mouvement, quand une unité MONTÉE/SPEEDER de l’ADEPTUS ASTARTES amie est choisie pour faire un **mouvement d’avance**.
+- Cible : Cette unité MONTÉE/SPEEDER de l’ADEPTUS ASTARTES.
+- Effet : Votre unité peut remplacer ses **jets d’avance** par 6.
 
-Friendly ADEPTUS ASTARTES MOUNTED/SPEEDER units have +2" M.
+---
+
+## Force Tacticus Tempête de Feu
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force Tacticus Tempête de Feu.
+
+PdD : 1. Dispositions de force : Atouts Prioritaires. Étiquette « Unique : TACTICUS ».
+
+### Règle : Schémas de Tir Codex
+
+Les attaques à [TIR RAPIDE] des unités TACTICUS amies bénéficient du [TIR RAPIDE] lorsqu’elles ciblent des unités jusqu’à la portée maximale de l’attaque.
 
 ### Optimisations
 
-**Autels-auspex de Triangulation (Amélioration)** (10 pts) : ADEPTUS ASTARTES SPEEDER
-unit only. At the start of your Shooting phase, select one visible enemy unit within 12"
-of this unit. That enemy unit is spotted: while a unit is spotted, that unit has +3"
-detection range.
+- **Cyberfamilier** — 15 pts. Figurine TACTICUS seulement. Une fois que les deux joueurs ont déployé leur armée, vous pouvez redéployer trois unités d’INFANTERIE de l’ADEPTUS ASTARTES amies maximum. Ce faisant, vous pouvez placer ces unités en **réserve stratégique**, quel que soit le nombre d’unités s’y trouvant déjà.
 
-**Moteurs Surgonflés (Amélioration)** (10 pts) : ADEPTUS ASTARTES MOUNTED unit only. This
-unit can re-roll advance rolls.
+- **Trempé dans les Combats (Aura)** — 10 pts. Figurine TACTICUS seulement. Les unités de l’ADEPTUS ASTARTES amies à 6" ou moins de cette figurine peuvent relancer les **jets de commandement**.
 
 ### Stratagèmes
 
-**"Hurtling Targets"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES MOUNTED/SPEEDER unit.
-- When : your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS
-  ASTARTES MOUNTED/SPEEDER unit.
-- Effect : ranged attacks that target your unit have −1 to hit rolls.
+#### Brutalité à Bout Portant — 1 PC
 
-**"Wind-Swift Evasion"** (1 PC) — Fight Phase
-- Target : one friendly ADEPTUS ASTARTES MOUNTED unit that was eligible to fight this
-  phase.
-- When : end of the Fight phase.
-- Effect : if your unit is unengaged, your unit can make a normal move. Or: if your unit
-  is engaged, your unit can make a fall-back move.
+- Quand : À votre phase de Tir, quand une unité TACTICUS amie **engagée** est **choisie pour tirer**.
+- Cible : Cette unité TACTICUS.
+- Effet : Les attaques de tir de votre unité (attaques à [DÉFLAGRATION] exclues) ont :
 
-**"Sudden Onslaught"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES MOUNTED/SPEEDER unit.
-- When : your Movement phase, when a friendly ADEPTUS ASTARTES MOUNTED/SPEEDER unit is
-  selected to make an advance move.
-- Effect : your unit can change its advance rolls to a 6.
+  - [COMBAT RAPPROCHÉ].
+  - [IGNORE LE COUVERT].
 
-## Confrérie Tactique [C]
+#### Pour l’Empereur ! — 1 PC
 
-1 PdD · Atouts Prioritaires (40k.app : étiquette Doctrines)
+- Quand : À la phase de Commandement.
+- Cible : Une unité TACTICUS amie qui est à portée d’un **objectif**.
+- Effet : Votre unité a +1 en **CO** jusqu’à la fin du tour.
 
-### Règle : "Tactical Mastery"
+#### Assaut Implacable — 1 PC
 
-You can select the tactical doctrine one additional time per battle.
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité TACTICUS amie est **choisie pour attaquer**.
+- Cible : Cette unité TACTICUS.
+- Effet : Les attaques de votre unité ont :
+
+  - [TOUCHES SOUTENUES 1 : ≠ MONSTRE/VÉHICULE].
+  - _Ou :_ [TOUCHES FATALES : MONSTRE/VÉHICULE].
+
+---
+
+## Force de Choc Phobos
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force de Choc Phobos.
+
+PdD : 1. Dispositions de force : Perturbation. Étiquette « Unique : PHOBOS ».
+
+### Règle : Avant-garde Embusquée
+
+À la fin de votre phase de Mouvement, si une unité PHOBOS amie est **cachée**, ses attaques peuvent relancer les **jets de blessure** de 1 jusqu’à la fin du tour.
 
 ### Optimisations
 
-**Lauriers de la Vigilance** (10 pts) : ADEPTUS ASTARTES model only. (Once per battle
-round, per army) When you use the Fire Overwatch/Heroic Intervention stratagem, if you
-target a friendly ADEPTUS ASTARTES BATTLELINE unit within 12" of this model with that
-stratagem, that use is −1 CP.
+- **Sceau de Dissimulation** — 15 pts. Figurine PHOBOS seulement. Les unités ennemies ne peuvent pas cibler cette unité avec des attaques de **tir au jugé**.
 
-**Sagacité Tactique** (15 pts) : CAPTAIN model only. The tactical doctrine is active for
-this unit in addition to any other combat doctrine.
+- **Omni-auspex Venator** — 15 pts. Figurine PHOBOS seulement. Les attaques de cette unité qui ciblent une unité **cachée** peuvent :
+
+  - Relancer les **jets de blessure** de 1.
+  - _Ou :_ Si la **doctrine d’assaut** est active pour cette unité, elles peuvent relancer les **jets de blessure** de 1-2.
 
 ### Stratagèmes
 
-**"Armour of Contempt"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Confrérie d'Assaut.
+#### Insaisissable Comme les Ombres — 1 PC
 
-**"Masterful Tactics"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- Effect : your unit can make a normal move of up to D6". Or: if the tactical doctrine is
-  active for your unit, up to 6".
+- Quand : À la phase de Tir adverse, quand une unité ennemie cible une unité PHOBOS amie.
+- Cible : Cette unité PHOBOS.
+- Effet : Les attaques de tir qui ciblent votre unité ont -1 aux **jets de touche**.
 
-**"Domination Fire"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES unit has shot.
-- Effect : select one enemy unit hit by those attacks. That enemy unit is suppressed
-  until the start of your next turn: while a unit is suppressed, that unit's attacks have
-  −1 to hit rolls.
+#### Frapper depuis les Ombres — 1 PC
 
-## Force d'Attaque Tacticus [C]
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité PHOBOS amie **cachée** est **choisie pour attaquer**.
+- Cible : Cette unité PHOBOS.
+- Effet : Les attaques de votre unité ont :
 
-1 PdD · Prendre et Tenir (40k.app : étiquette Tacticus)
+  - +1 en **F**.
+  - [TOUCHES FATALES].
 
-### Règle : "Wrath of the Chapter"
+#### Réactions Transhumaines — 1 PC
 
-Friendly TACTICUS units can re-roll advance rolls.
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d’une unité PHOBOS amie **non engagée**.
+- Cible : Cette unité PHOBOS.
+- Effet : Votre unité peut faire un **mouvement normal** de :
+
+  - D6" maximum.
+  - _Ou :_ Si la **doctrine tactique** est active pour votre unité, de 6" maximum.
+
+---
+
+## Force de Siège Gravis
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force de Siège Gravis.
+
+PdD : 1. Dispositions de force : Prendre et Tenir. Étiquette « Unique : GRAVIS ».
+
+### Règle : Défense Indomptable
+
+Tant qu’une unité GRAVIS amie est à portée d’un **objectif**, les attaques qui la ciblent avec une **F** supérieure à son **E** ont -1 aux **jets de blessure**.
 
 ### Optimisations
 
-**Parangon Martial** (10 pts) : TACTICUS model only. This unit's attacks can re-roll one
-hit roll and re-roll one wound roll.
+- **Conquérants Inamovibles (Amélioration)** — 15 pts. Unité GRAVIS seulement. Cette unité a +1 en **CO**.
 
-**Champion d'Avant-garde** (15 pts) : TACTICUS model only. This unit has Scouts 6".
+- **Gantelet Narthecis** — 20 pts. Figurine d’APOTHICAIRE BIOLOGIS seulement. À votre phase de Commandement, cette unité **soigne** D3+1 PV.
 
 ### Stratagèmes
 
-**"Transhuman Swiftness"** (1 PC) — Fight Phase
-- Target : one friendly TACTICUS unit that is within range of an objective and is
-  eligible to fight.
-- When : Fight phase, when an enemy unit has fought.
-- Effect : your unit has Fights First and must be the next unit you select to fight.
+#### Force d’Annihilation — 1 PC
 
-**"Tactical Focus"** (1 PC) — Fight Phase
-- Target : that TACTICUS unit.
-- When : Fight phase, when a friendly TACTICUS unit is selected to make a consolidation
-  move.
-- Effect : when making that consolidation move, your unit can move up to D3+3".
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité GRAVIS amie est **choisie pour attaquer**.
+- Cible : Cette unité GRAVIS.
+- Effet : Les attaques de votre unité ont [TOUCHES FATALES].
 
-**"Relentless Assault"** (1 PC) — Shooting & Fight Phase
-- Target : that TACTICUS unit.
-- When : your Shooting phase or the Fight phase, when a friendly TACTICUS unit is
-  selected to attack.
-- Effect : your unit's attacks have [SUSTAINED HITS 1: non-MONSTER/VEHICLE]. Or:
-  [LETHAL HITS: MONSTER/VEHICLE].
+#### Salves de Neutralisation — 1 PC
 
-## Force Tacticus Tempête de Feu [C]
+- Quand : À votre phase de Tir, quand une unité GRAVIS amie a tiré.
+- Cible : Cette unité GRAVIS.
+- Effet : Choisissez une unité ennemie touchée par ces attaques. Celle-ci fait un **jet d’ébranlement**, avec -1 à ce dernier.
 
-1 PdD · Atouts Prioritaires (40k.app : étiquette Tacticus)
+#### Posture Inflexible — 1 PC
 
-### Règle : "Codex Fire-patterns"
+- Quand : À la fin de votre phase de Mouvement.
+- Cible : Une unité GRAVIS amie.
+- Effet : Choisissez un **objectif** que votre unité contrôle. Cet **objectif** est **sécurisé**.
 
-Friendly TACTICUS units' [RAPID FIRE] attacks benefit from [RAPID FIRE] when targeting
-units up to that attack's maximum range.
+---
+
+## Force d’Assaut Terminator
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force d’Assaut Terminator.
+
+PdD : 1. Dispositions de force : Atouts Prioritaires. Étiquette « Unique : TERMINATOR ».
+
+### Règle : Frappe Terminale
+
+Les unités de TERMINATOR de l’ADEPTUS ASTARTES amies ont +1 aux **jets de charge**.
 
 ### Optimisations
 
-**Cyberfamilier** (15 pts) : TACTICUS model only. When both players have deployed their
-armies, you can redeploy up to three friendly ADEPTUS ASTARTES INFANTRY units. When doing
-so, you can set those units up in strategic reserves, regardless of how many units are
-already in strategic reserves.
+- **Reliquaire Corporeum** — 25 pts. Figurine de TERMINATOR de l’ADEPTUS ASTARTES seulement. À votre première phase de Mouvement, cette unité peut faire un **mouvement d’arrivée**.
 
-**Trempé dans les Combats (Aura)** (10 pts) : TACTICUS model only. Friendly ADEPTUS
-ASTARTES units within 6" of this model can re-roll leadership rolls.
+- **Champion de la Première Compagnie** — 20 pts. Figurine de TERMINATOR de l’ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette unité ont [TOUCHES FATALES].
 
 ### Stratagèmes
 
-**"Point-blank Brutality"** (1 PC) — Shooting Phase
-- Target : that TACTICUS unit.
-- When : your Shooting phase, when a friendly engaged TACTICUS unit is selected to shoot.
-- Effect : your unit's ranged attacks (excluding [BLAST] attacks) have [CLOSE-QUARTERS]
-  and [IGNORES COVER].
+#### Robustesse Tactique Dreadnought — 2 PC
 
-**"For the Emperor!"** (1 PC) — Command Phase
-- Target : one friendly TACTICUS unit that is within range of an objective.
-- When : Command phase.
-- Effect : your unit has +1 OC until the end of the turn.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de TERMINATOR de l’ADEPTUS ASTARTES amie.
+- Cible : Cette unité de TERMINATOR de l’ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **D** jusqu’à ce que cette unité ennemie ait attaqué.
 
-**"Relentless Assault"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Force d'Attaque Tacticus.
+#### Extraction par Escorteur — 1 PC
 
-## Force d'Assaut Terminator [C]
+- Quand : À la fin de la phase de Combat adverse.
+- Cible : Une unité de TERMINATOR de l’ADEPTUS ASTARTES amie **non engagée**.
+- Effet : Placez votre unité en **réserve stratégique**.
 
-1 PdD · Atouts Prioritaires (40k.app : étiquette Terminator)
+#### Vétérans Impitoyables — 1 PC
 
-### Règle : "Death Blow"
+- Quand : À votre phase de Tir, quand une unité de TERMINATOR de l’ADEPTUS ASTARTES amie est **choisie pour tirer**.
+- Cible : Cette unité de TERMINATOR de l’ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont :
 
-Friendly ADEPTUS ASTARTES TERMINATOR units have +1 to charge rolls.
+  - [TOUCHES FATALES].
+  - [TOUCHES SOUTENUES 1].
+
+---
+
+## Force d’Attaque Tacticus
+
+Chemin dans l'appli : Space Marines > Codex: Space Marines > Force d’Attaque Tacticus.
+
+PdD : 1. Dispositions de force : Prendre et Tenir. Étiquette « Unique : TACTICUS ».
+
+### Règle : Courroux du Chapitre
+
+Les unités TACTICUS amies peuvent relancer les **jets d’avance**.
 
 ### Optimisations
 
-**Champion de la Première Compagnie** (20 pts) : ADEPTUS ASTARTES TERMINATOR model only.
-This unit's melee attacks have [LETHAL HITS].
+- **Parangon Martial** — 10 pts. Figurine TACTICUS seulement. Les attaques de cette unité peuvent :
 
-**Reliquaire Corporeum** (25 pts) : ADEPTUS ASTARTES TERMINATOR model only. In your first
-Movement phase, this unit can make an ingress move.
+  - Relancer _un_ **jet de touche**.
+  - Relancer _un_ **jet de blessure**.
+
+- **Champion d’Avant-garde** — 15 pts. Figurine TACTICUS seulement. Cette unité a **Éclaireurs 6"**.
 
 ### Stratagèmes
 
-**"Tactical Dreadnought Fortitude"** (2 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES TERMINATOR unit.
-- When : your opponent's Shooting phase or the Fight phase, when an enemy unit targets a
-  friendly ADEPTUS ASTARTES TERMINATOR unit.
-- Effect : attacks that target your unit have −1 D until that enemy unit has attacked.
+#### Vivacité Transhumaine — 1 PC
 
-**"Gunship Extraction"** (1 PC) — Fight Phase
-- Target : one friendly unengaged ADEPTUS ASTARTES TERMINATOR unit.
-- When : end of your opponent's Fight phase.
-- Effect : place your unit in strategic reserves.
+- Quand : À la phase de Combat, quand une unité ennemie a combattu.
+- Cible : Une unité TACTICUS amie qui est à portée d’un **objectif** et qui est **éligible pour combattre**.
+- Effet : Votre unité a **Combat en Premier** et _doit_ être la prochaine unité que vous **choisissez pour combattre**.
 
-**"Merciless Veterans"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES TERMINATOR unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES TERMINATOR unit is
-  selected to shoot.
-- Effect : your unit's ranged attacks have [LETHAL HITS] and [SUSTAINED HITS 1].
+#### Concentration Tactique — 1 PC
 
-## Poursuite de Sombrevol [C] — Dark Angels uniquement
+- Quand : À la phase de Combat, quand une unité TACTICUS amie est choisie pour faire un **mouvement de consolidation**.
+- Cible : Cette unité TACTICUS.
+- Effet : En faisant ce **mouvement de consolidation**, votre unité peut se déplacer de D3+3" maximum.
 
-1 PdD · Reconnaissance
+#### Assaut Implacable — 1 PC
 
-### Règle : "Black-winged Vigilance"
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité TACTICUS amie est **choisie pour attaquer**.
+- Cible : Cette unité TACTICUS.
+- Effet : Les attaques de votre unité ont :
 
-Friendly RAVENWING FLY units' ranged attacks have [IGNORES COVER].
+  - [TOUCHES SOUTENUES 1 : ≠ MONSTRE/VÉHICULE].
+  - _Ou :_ [TOUCHES FATALES : MONSTRE/VÉHICULE].
 
-Friendly Escouade Outrider units have BATTLELINE.
+---
 
-Restrictions : your army can include DARK ANGELS units, but it cannot include any ADEPTUS
-ASTARTES units drawn from any other Chapter.
+## Sentinelles de Céramite — Imperial Fists
+
+Chemin dans l'appli : Imperial Fists > Supplément de Codex: Imperial Fists > Sentinelles de Céramite.
+
+PdD : 2. Dispositions de force : Prendre et Tenir.
+
+### Règle : Défense Adaptative
+
+- Tant qu'une unité de l'ADEPTUS ASTARTES amie est dans une **zone de terrain**, ses attaques peuvent relancer les **jets de blessure** de 1.
+- Les unités de l'ADEPTUS ASTARTES amies sont **retranchées** tant que tout ce qui suit s'applique:
+  - L'unité est dans une **zone de terrain**.
+  - L'unité n'a pas été placée à ce tour.
+  - Aucune figurine de l'unité ne s'est déplacée de plus de 3" à ce tour.
+- Les unités de DARNATH LYSANDER/TOR GARADON amies ont l'aptitude suivante:
+
+**Maîtrise Défensive**: Au début de chaque phase, cette unité est **retranchée**.
+
+*L'unité de Darnath Lysander/Tor Garadon est toujours **retranchée**, sans tenir compte des conditions ci-dessus.*
+
+**Restrictions:** Votre armée peut inclure des unités IMPERIAL FISTS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
 
 ### Optimisations
 
-**Batterie Noctiforgée (Amélioration)** (10 pts) : Land Speeder Vengeance unit only. This
-unit can re-roll rolls to determine the A of a weapon, and Hazard rolls.
+- **Omnivox Castellum** — 10 pts. Unité de l'ADEPTUS ASTARTES seulement. Quand cette unité fait un **mouvement d'avance/de retraite**, ce dernier ne l'empêche pas d'être **éligible pour entreprendre une action**.
 
-**Turbines Ténébreuses (Amélioration)** (15 pts) : RAVENWING FLY/MOUNTED unit only. In
-your first Movement phase, this unit can make an ingress move.
+- **Liaison par Crâne-espion** — 10 pts. Unité de l'ADEPTUS ASTARTES seulement. Les armes de tir de cette unité ont [IGNORE LE COUVERT].
+
+- **Honneur Inoxydable** — 10 pts. Figurine GRAVIS seulement. (Une fois par bataille, par armée) À la fin de la phase où cette figurine a été **détruite**, jetez un D6:
+  - Sur 2+, replacez cette figurine sur le champ de bataille, aussi près que possible de l'endroit où elle a été **détruite**, **non engagée**, avec 3 points de vie restants.
+
+- **Maîtrise Défensive** — 10 pts. Figurine de l'ADEPTUS ASTARTES seulement. Une fois que les deux joueurs ont déployé leurs armées, vous pouvez redéployer jusqu'à trois unités d'INFANTERIE de l'ADEPTUS ASTARTES amies. Ce faisant, vous pouvez placer ces unités en **réserve stratégique**, quel que
+  soit le nombre d’unités s’y trouvant déjà.
 
 ### Stratagèmes
 
-**"Skyborne Surveillance"** (1 PC) — Shooting Phase
-- Target : that RAVENWING FLY unit.
-- When : your Shooting phase, when a friendly RAVENWING FLY unit has shot.
-- Effect : visible enemy units within 6" of your unit have +3" detection range.
+#### Ciblage Amélioré — 1 PC
 
-**"We Are Vengeance"** (1 PC) — Shooting Phase
-- Target : that RAVENWING FLY unit.
-- When : your opponent's Shooting phase, when an enemy unit that targeted a friendly
-  unengaged RAVENWING FLY unit has shot.
-- Effect : your unit can make a normal move of up to D3+3".
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité de l'ADEPTUS ASTARTES amie est **choisie pour attaquer**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de votre unité ont:
+  - [TOUCHES FATALES].
+  - _Ou:_ [TOUCHES SOUTENUES 1].
+  - _Ou:_ Si votre unité est **retranchée**, elles ont [TOUCHES FATALES] et [TOUCHES SOUTENUES 1].
 
-**"Wings of Shadow"** (1 PC) — Shooting Phase
-- Target : that RAVENWING FLY/MOUNTED unit.
-- When : your opponent's Shooting phase, when an enemy unit targets a friendly RAVENWING
-  FLY/MOUNTED unit.
-- Effect : your unit has Stealth.
+#### Repositionnement Insaisissable — 1 PC
 
-## Force Opérationnelle du Cercle Intérieur [C] — Dark Angels uniquement
+- Quand : À la phase de Tir adverse, quand une unité ennemie a tiré.
+- Cible : Une unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES amie **non engagée** qui a perdu un ou plusieurs points de vie à cause de ces attaques.
+- Effet :
+  - Votre unité peut faire un **mouvement normal** de D6" maximum.
+  - _Ou:_ Si votre unité est **retranchée**, elle peut faire un  **mouvement normal** de D3+3" maximum.
 
-1 PdD · Atouts Prioritaires
+  Votre unité n'est _pas_ capable d'embarquer dans un TRANSPORT jusqu'à la fin du tour.
 
-### Règle : "Vowed Target"
+#### Puissance Inflexible — 1 PC
 
-In your Command phase, you can use this ability. If you do, select one objective. That
-objective is your vowed objective until your next Command phase. Friendly DEATHWING
-INFANTRY units' attacks that target an enemy unit within range of your vowed objective
-have +1 to wound rolls.
+- Quand : À la phase de Commandement.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie qui est à portée d'un **objectif**.
+- Effet : Votre unité a +1 en **CO** jusqu'à la fin du tour.
 
-Restrictions : your army can include DARK ANGELS units, but it cannot include any ADEPTUS
-ASTARTES units drawn from any other Chapter.
+#### Tenez jusqu'au Bout — 1 PC
+
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'ADEPTUS ASTARTES amie (unités de MONSTRE/VÉHICULE exclues).
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet :
+  - Les attaques qui ciblent cette unité avec une **F** supérieure à son **E** ont -1 aux **jets de blessure**.
+  - _Ou:_ Si votre unité est **retranchée**, les attaques qui la ciblent ont -1 aux **jets de blessure**.
+
+#### Instaurer la Suprématie — 1 PC
+
+- Quand : À la phase de Combat, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie **retranchée** est choisie pour faire un **mouvement de consolidation**.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Vous pouvez choisir le **mode de consolidation sur objectif** pour ce **mouvement de consolidation**, quelles que soient les restrictions "Avant de se Déplacer" de ce ce **mouvement de consolidation**.
+  **Note de conception:*** Cela signifie que votre unité peut se séplacer hors de **portée d'engagement** d'unités ennemies, tant qu'elle remplit les conditions du **mode de consolidation sur objectif**.*
+
+#### Frappe Prioritaire — 1 PC
+
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES amie est **choisie pour attaquer**.
+- Cible : Cette unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de votre unité qui ciblent une unité de MONSTRE/VÉHICULE ont +1 aux **jets de blessure**.
+
+---
+
+## Colère de Medusa — supplément Iron Hands
+
+Chemin dans l'appli : Iron Hands > Supplément de Codex: Iron Hands > Colère de Medusa.
+
+PdD : 2. Dispositions de force : Éliminez l’Adversaire. Étiquette « Unique : IRONSTORM ».
+
+### Règle : Colère Blindée
+
+Chaque fois qu'une unité de l'ADEPTUS ASTARTES amie est **choisie pour tirer** ou **choisie pour combattre** appliquez un des éléments suivants en résolvant ces attaques :
+- Si l'unité est à 6" ou moins d'une unité de CANNOK VAR/RÉVÉREND DE FER FEIRROS amie, vous pouvez :
+  - Relancer _un_ **jet de touche**.
+  - Relancer _un_ **jet de blessure**.
+  - Relancer _un_ **jet de dégâts**.
+- Sinon vous pouvez :
+  - Relancer _un_ **jet de touche**.
+  - _Ou :_ Relancer _un_ **jet de blessure**.
+  - _Ou :_ Relancer _un_ **jet de dégât**.
 
 ### Optimisations
 
-**Champion de la Deathwing** (20 pts) : DEATHWING model only. This unit's attacks that
-target an enemy unit within range of your vowed objective have [SUSTAINED HITS 1].
+- **La Chair est Faible** — 15 pts. Figurine de l'ADEPTUS ASTARTES seulement. Cette figurine a :
+  - +1 en **E**.
+  - **Insensible à la Douleur 5+**.
 
-**Volonté Singulière** (20 pts) : DEATHWING model only. When this unit is selected to make
-a consolidation move, this unit can move up to D3+3".
+- **Toile Augure de Ciblage** — 30 pts. Figurine de TECHMARINE seulement.
+  À votre phase de Mouvement, au début ou à la fin du mouvement de cette unité, vous pouvez choisir une unité de VÉHICULE de l'ADEPTUS ASTARTES amie à 3" ou moins de cette unité. Les attaques de la figurine de VÉHICULE ont [TOUCHES FATALES] jusqu'au début de votre prochaine phase de Commandement.
+
+- **Maître de la Guerre Mécanisée** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement.À votre phase de Mouvement, vous pouvez choisir une unité de VÉHICULE de l'ADEPTUS ASTARTESamie **visible** à 6" ou moins de cette figurine et choisir la **doctrine devastator** ou la **doctrine tactique**. Cette doctrine est active pour l'unité de VÉHICULE jusqu'au début de votre prochaine phase de Commandement.
+
+- **Adepte de l'Omnimessie** — 25 pts. Figurine de TECHMARINE seulement.
+  (Une fois par round de bataille, par armée) Quand une unité ennemie cible une unité de VÉHICULE de l'ADEPTUS ASTARTES amie à 6" ou moins de cette unité, vous pouvez utiliser cette aptitude. Dans ce cas, l'unité de VÉHICULE a **Insensible à la Douleur 5+** jusqu'à ce que l'unité ennemie ait attaqué.
 
 ### Stratagèmes
 
-**"Relic Teleportarium"** (1 PC) — Movement Phase
-- Target : that DEATHWING unit.
-- When : your Movement phase, when a friendly DEATHWING unit with the Deep Strike ability
-  is selected to make an ingress move.
-- Effect : your unit can be set up more than 6" horizontally from all enemy units
-  (instead of more than 8"). Your unit is not eligible to declare a charge until the end
-  of this turn.
+#### Brutalité Méthodique — 1 PC
 
-**"Duty Unto Death"** (1 PC) — Fight Phase
-- Target : that DEATHWING unit.
-- When : Fight phase, when an enemy unit targets a friendly DEATHWING unit.
-- Effect : when a model in your unit is destroyed, if your unit has not been selected to
-  fight this phase, roll one D6, with +1 to that roll if your unit is engaged with an
-  enemy unit within range of your vowed objective: on a 4+, do not remove that model from
-  the battlefield. When your unit has fought, or at the end of the phase (whichever comes
-  first), that model is removed from the battlefield.
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité de l'ADEPTUS ASTARTES amie est choisie pour attaquer.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de votre unité ont [TOUCHES SOUTENUES 1].
+  • Si votre unité est un VÉHICULE, elles ont +1 aux jets de blessure.
 
-**"Wrath of the Lion"** (1 PC) — Charge Phase
-- Target : that DEATHWING unit.
-- When : your Charge phase, when a friendly DEATHWING unit ends a charge move.
-- Effect : select one enemy unit engaged with your unit. If you do, roll one D6 for each
-  model in your unit engaged with that enemy unit: for each 3+, that enemy unit suffers 1
-  mortal wound (to a maximum of 6 mortal wounds).
+#### Esprits de Fer — 1 PC
 
-## Colère du Roc [C] — Dark Angels uniquement
+- Quand : À n'importe quelle phase, quand une unité de l'ADEPTUS ASTARTES amie subit une **blessure mortelle**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Votre unité a **Insensible à la Douleur 5+** contre les **blessures mortelles**.
 
-2 PdD · Prendre et Tenir (40k.app : étiquette Terminator)
+#### Conviction Inflexible — 1 PC
 
-### Règle : "Dutiful Tenacity"
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie qui est **en dessous de son effectif initial**.
+- Effet : Jusqu'au début de votre prochaine phase de Commandement, votre unité peut ignorer les modificateurs à :
+  - Sa **CT** et sa **CC**.
+  - À ses **jets de touche** et ses **jets de blessure**.
 
-Attacks that target friendly ADEPTUS ASTARTES INFANTRY/MOUNTED units with a S greater
-than that unit's T have −1 to wound rolls.
+#### Animus Vengeur — 1 PC
 
-Restrictions : your army can include DARK ANGELS units, but it cannot include any ADEPTUS
-ASTARTES units drawn from any other Chapter.
+- Quand : À n'importe quelle phase, quand une unité de VÉHICULE de l'ADEPTUS ASTARTES amie est **détruite**, avant le jet de **destruction néfaste**.
+- Cible : Cette unité de VÉHICULE de l'ADEPTUS ASTARTES amie.
+- Effet : Remplacez les jets de **Destruction Néfaste** pour cette unité en 6 non modifié.
+
+#### Fureur de l'Ancien — 1 PC
+
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de DREADNOUGHT de l'ADEPTUS ASTARTES amie.
+- Effet : Jusqu'au début de votre prochaine phase de Commandement, votre unité a :
+
+  - +1" en **M**.
+  - +1 en **E**.
+  - +1 en **Cd**.
+  - +1 en **CO**.
+  - +1 aux **jets de touche**.
+
+#### Pouvoir de l’Esprit de la Machine — 1 PC
+
+- Quand : À la phase de Tir adverse, une fois une unité ennemie qui a ciblé une unité de VÉHICULE de l'ADEPTUS ASTARTES amie **non engagée** a tiré.
+- Cible : Cette unité de VÉHICULE de l'ADEPTUS ASTARTES.
+- Effet : Votre unité tire en utilisant :
+  - Le **tir au jugé**.
+  - _Ou :_ Si votre unité est **à demi-effectif**/**en dessous de son demi-effectif**, elle utilise le **tir normal**.
+
+  Ce faisant, votre unité peut seulement cibler cette unité ennemie.
+
+---
+
+## Serre des Ombres — supplément Raven Guard
+
+Chemin dans l'appli : Raven Guard > Supplément de Codex: Raven Guard > Serre des Ombres.
+
+PdD : 2. Dispositions de force : Perturbation. Étiquette « Unique : PHOBOS ».
+
+### Règle : Tactiques de l'Ombre
+
+Les unités de l'ADEPTUS ASTARTES amies ont **Discrétion**.
+
+Les unités de PHOBOS/ESCOUADE SCOUT amies ont -3" en **portée de détection**.
+
+Les unités d'AETHON SHAAN amies ont l'aptitude suivante :
+
+**Tacticien Incomparable** : (Une fois par round de bataille, par armée) Quand vous utilisez le **stratagème Dans les Ténèbres**, cette utilisation coûte -1PC.
 
 ### Optimisations
 
-**Armes Antiques** (20 pts) : ADEPTUS ASTARTES model only. This model's melee attacks
-have +2 S and +1 AP.
+- **Couronne des Murmures** — 30 pts. Figurine de PHOBOS seulement. Chaque unité ennemie (unité de MONSTRE/VÉHICULE exclues) **engagée** avec cette unité ne peut pas être ciblée par les **stratagèmes** du joueur en contrôle.
 
-**Assaut Deathwing** (15 pts) : DEATHWING model with the Deep Strike ability only. In your
-first Movement phase, this unit can make an ingress move.
+- **Suaire de l'Aile Noire** — 25 pts. Figurine d'INFANTERIE de l'ADEPTUS ASTARTES seulement. Cette unité a **Infiltrateurs**.
 
-**Seigneur de la Ravenwing** (15 pts) : RAVENWING model only. This unit can re-roll charge
-rolls.
+- **Rapace de l'Ombre** — 15 pts. Figurine d'INFANTERIE de l'ADEPTUS ASTARTES seulement. Cette figurine a :
+  - **Combat en Premier**.
+  - **Agent Solitaire**.
 
-**Trempé dans les Combats (Aura)** (10 pts) : ADEPTUS ASTARTES model only. Friendly
-ADEPTUS ASTARTES units within 6" of this model can re-roll leadership rolls.
+- **Instincts du Chasseur** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. À votre première phase de Mouvement, cette unité peut faire un **mouvement d'arrivée**.
 
 ### Stratagèmes
 
-**"In Sacrifice, Victory"** (1 PC) — Any Phase
-- Target : that DEATHWING/RAVENWING unit. You can target that unit with this stratagem
-  even though it is destroyed.
-- When : any phase, when a friendly DEATHWING/RAVENWING unit within range of an objective
-  is destroyed.
-- Effect : select one objective that no enemy units (excluding AIRCRAFT units) are within
-  range of, or that your unit was controlling at the end of the previous phase. That
-  objective is secured.
+#### Dans les Ténèbres — 1 PC
 
-**"Lion's Will"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES unit that is within range of an objective.
-- When : Command phase.
-- Effect : your unit has +1 OC until the end of the turn.
+- Quand : À la fin de la phase de Combat adverse.
+- Cible : Une unité d'INFANTERIE de l'ADEPTUS ASTARTES **non engagée**.
+- Effet : Placez votre unité en **réserve stratégique**.
 
-**"Inescapable Justice"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : the Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.
-- Effect : your unit's melee attacks have [PRECISION].
+#### Fusillade Meurtrière — 1 PC
 
-**"Tactical Mastery"** (1 PC) — Command Phase
-- Target : one friendly DEATHWING/RAVENWING unit.
-- When : your Command phase.
-- Effect : select one combat doctrine. That combat doctrine is active for your unit until
-  the start of your next Command phase.
+- Quand : À votre phase de Tir, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie qui a fait un **mouvement d'arrivée** à ce tour est **choisie pour tirer**.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont :
+  - +1 en **CT**.
+  - +1 en **PA**.
 
-**"Knights of Iron"** (1 PC) — Movement & Charge Phase
-- Target : that RAVENWING unit.
-- When : your Movement/Charge phase, when a friendly RAVENWING unit is selected to move or
-  declares a charge.
-- Effect : your unit has MOBILE.
+#### Abattre les Tyrans — 1 PC
 
-**"Relics of the Dark Age"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY/MOUNTED unit is
-  selected to shoot.
-- Effect : your unit's ranged attacks have +2 S.
+- Quand : À la phase de Combat, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont [PRÉCISION].
 
-## Sentinelles de Céramite [C] — Imperial Fists uniquement
+#### Armes Silencieuses — 1 PC
 
-2 PdD · Prendre et Tenir
+- Quand : À votre phase de Tir, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie a tiré.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Ces attaques n'empêchent pas votre unité d'être **cachée**.
 
-### Règle : "Adaptive Defence"
+#### Vigilance du Rapace — 1 PC
 
-- While a friendly ADEPTUS ASTARTES unit is within a terrain area, that unit's attacks can
-  re-roll wound rolls of 1.
-- Friendly ADEPTUS ASTARTES units are entrenched while all of the following apply: that
-  unit is within a terrain area; that unit was not set up this turn; no model in that
-  unit moved more than 3" this turn.
-- Friendly Darnath Lysander/Tor Garadon units have the following ability:
-  **"Defensive Mastery"** : at the start of each phase, this unit is entrenched. Darnath
-  Lysander's/Tor Garadon's unit is always entrenched, regardless of the conditions listed
-  above.
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie **non engagée**.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Votre unité peut faire un **mouvement normal** de :
+  - D6" maximum.
+  - _Ou :_ Si votre unité est de PHOBOS/ESCOUADE SCOUT, de 6" maximum.
 
-Restrictions : your army can include IMPERIAL FISTS units, but it cannot include any
-ADEPTUS ASTARTES units drawn from any other Chapter.
+#### Feinte et Enfoncement — 1 PC
+
+- Quand : À votre phase de Commandement.
+- Cible : Une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie.
+- Effet : La **doctrine tactique** est active pour votre unité _en plus_ de toute autre **doctrine de combat**, jusqu'au début de votre prochaine phase de Commandement.
+
+---
+
+## Chercheurs du Père de la Forge — Salamanders
+
+Chemin dans l'appli : Salamanders > Supplément de Codex: Salamanders > Chercheurs du Père de la Forge.
+
+PdD : 2. Dispositions de force : Atouts Prioritaires.
+
+### Règle : La Quête de Vulkan
+
+- Vous pouvez choisir la **doctrine devastator** une fois supplémentaire par bataille.
+- Les attaques de tir des unités de l'ADEPTUS ASTARTES amies qui ciblent une unité à 12” ou moins ont +1 en **F**.
+
+Si votre armée inclut une unité de VULKAN HE’STAN, les unités d'ESCOUADE INFERNUS amies ont ce qui suit :
+- Quand cette unité est choisie pour faire un **mouvement d'avance/de retraite**, ce dernier ne l'empêche pas d'être **éligible pour entreprendre une action**.
+- Quand cette unité **entreprend une action**, cette dernière ne l'empêche pas d'être **éligible pour tirer**.
+
+**Restrictions :** Votre armée peut inclure des unités de SALAMANDERS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
 
 ### Optimisations
 
-**Omnivox Castellum** (10 pts) : ADEPTUS ASTARTES unit only. When this unit makes an
-advance/fall-back move, that move does not prevent this unit from being eligible to start
-an action.
+- **Artisan Aguerri** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette figurine ont :
+  - +1 en **F**.
+  - +1 en **D**.
 
-**Maîtrise Défensive** (10 pts) : ADEPTUS ASTARTES model only. When both players have
-deployed their armies, you can redeploy up to three friendly ADEPTUS ASTARTES INFANTRY
-units. When doing so, you can set those units up in strategic reserves, regardless of how
-many units are already in strategic reserves. (Texte douteux, voir « Écarts relevés ».)
+- **Cape Adamantine** — 20 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques allouées à cette figurine ont -1 en **D**.
 
-**Honneur Inoxydable** (10 pts) : GRAVIS model only. (Once per battle, per army) At the
-end of a phase in which this model is destroyed, roll one D6: on a 2+, set this model
-back up on the battlefield as close as possible to where it was destroyed, unengaged,
-with 3 wounds remaining.
+- **Forgés par la Bataille** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. Cette unité peut ignorer les modificateurs :
+  - À la **CT**.
+  - À la **CC**.
+  - Aux **jets de touche**.
 
-**Liaison par Crâne-espion** (10 pts) : ADEPTUS ASTARTES unit only. This unit's ranged
-weapons have [IGNORES COVER].
+- **Immolator** — 20 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les armes à [TORRENT] de cette unité ont +1 en **A**.
 
 ### Stratagèmes
 
-**"Unyielding Might"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES unit that is within range of an objective.
-- When : Command phase.
-- Effect : your unit has +1 OC until the end of the turn.
+#### Creuset du Combat — 1 PC
 
-**"Stand to the End"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your opponent's Shooting phase or the Fight phase, when an enemy unit targets a
-  friendly ADEPTUS ASTARTES unit (excluding MONSTER/VEHICLE units).
-- Effect : attacks that target your unit with a S greater than your unit's T have −1 to
-  wound rolls. Or: if your unit is entrenched, attacks that target your unit have −1 to
-  wound rolls.
+- Quand : À votre phase de Tir ou à la phase de Combat, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie est **choisie pour attaquer** une unité ennemie à 6" ou moins.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de votre unité peuvent :
 
-**"Augmented Targeting"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES unit is
-  selected to attack.
-- Effect : your unit's attacks have [LETHAL HITS]. Or: [SUSTAINED HITS 1]. Or: if your
-  unit is entrenched, [LETHAL HITS] and [SUSTAINED HITS 1].
+  - Relancer les **jets de touche** de 1.
+  - Relancer les **jets de blessure** de 1.
 
-**"Establish Supremacy"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES INFANTRY unit.
-- When : Fight phase, when a friendly entrenched ADEPTUS ASTARTES INFANTRY unit is
-  selected to make a consolidation move.
-- Effect : you can select the objective consolidation mode for that consolidation move,
-  regardless of that consolidation move's Before Moving restrictions. Designer's Note:
-  this means your unit can move out of engagement range with enemy units, provided it
-  meets the conditions of the objective consolidation mode.
+#### Protocoles d'Immolation — 1 PC
 
-**"Priority Strike"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- When : your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES
-  INFANTRY/MOUNTED unit is selected to attack.
-- Effect : your unit's attacks that target a MONSTER/VEHICLE unit have +1 to wound rolls.
+- Quand : À votre phase de tir, quand une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie est **choisie pour attaquer**.
+- Cible : Cette unité d'INFANTERIE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de tir à [TORRENT] de votre unité ont +1 en **PA**.
 
-**"Evasive Repositioning"** (1 PC) — Shooting Phase
-- Target : one friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit that lost a
-  wound as a result of those attacks.
-- When : your opponent's Shooting phase, when an enemy unit has shot.
-- Effect : your unit can make a normal move of up to D6". Or: if your unit is entrenched,
-  your unit can make a normal move of up to D3+3". Your unit is not able to embark within
-  a TRANSPORT until the end of the turn.
+#### Vengeance Brûlante — 1 PC
 
-## Colère de Medusa [C] — Iron Hands
+- Quand : À la phase de Tir adverse, quand une unité ennemie cible unité de TRANSPORT de l'ADEPTUS ASTARTES amie.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie embarquée dans ce TRANSPORT de l'ADEPTUS ASTARTES.
+- Effet : Votre unité de l'ADEPTUS ASTARTES peut :
+  - Faire un **mouvement de débarquement**.
+  - Tirer en utilisant le **tir normal**, mais ce faisant, elle peut seulement cibler cette unité ennemie.
 
-2 PdD · Éliminez l'Adversaire (40k.app : étiquette Ironstorm). Restriction au Chapitre
-non affichée par 40k.app.
+#### Terre Embrasée — 1 PC
 
-### Règle : "Armoured Wrath"
+- Quand : Au début de la phase de Charge adverse.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie **non engagée** équipée d'une ou plusieurs armes à TORRENT/FUSION.
+- Effet : Choisissez une unité ennemie **visible** et à 12" ou moins de votre unité. L'unité ennemie choisie a ‑1 aux **jets de charge**.
 
-Each time a friendly ADEPTUS ASTARTES unit is selected to shoot or selected to fight,
-apply one of the following when resolving those attacks:
+#### Forgés dans le Feu — 1 PC
 
-- If that unit is within 6" of a friendly Caanok Var/Révérend de Fer Feirros unit
-  (40k.app : « Cannok Var ») you can: re-roll one hit roll; re-roll one wound roll;
-  re-roll one damage roll.
-- Otherwise you can: re-roll one hit roll. Or: re-roll one wound roll. Or: re-roll one
-  damage roll.
+- Quand : À votre phase de Tir, quand une unité de l'ADEPTUS ASTARTES amie **engagée** est **choisie pour tirer**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les armes à TORRENT de votre unité :
+  - N'ont pas [DÉFLAGRATION].
+  - Ont [COMBAT RAPPROCHÉ].
+  - Ont +1 en **A**.
+
+#### Colère et Ruine — 1 PC
+
+- Quand : À votre phase de Commandement.
+- Cible : Une unité d'INFANTERIE de l'ADEPTUS ASTARTES amie.
+- Effet : La **doctrine d'assaut** _ou_ la **doctine tactique** est active pour votre unité, jusqu'au début de votre prochaine phase de Commandement.
+
+---
+
+## Lame d'Ultramar — supplément Ultramarines
+
+Chemin dans l'appli : Ultramarines > Supplément de Codex: Ultramarines > Lame d'Ultramar.
+
+PdD : 3. Dispositions de force : Atouts Prioritaires, Prendre et Tenir.
+
+### Règle : Doctrines Maîtrisées
+
+Si votre armée inclut une unité de MARNEUS CALGAR, vous pouvez choisir la **doctrine d'assaut/doctrine devastator/ doctrine tactique** une fois supplémentaire chacune par bataille.
 
 ### Optimisations
 
-**Adepte de l'Omnimessie** (25 pts) : TECHMARINE model only. (Once per battle round, per
-army) When an enemy unit targets a friendly ADEPTUS ASTARTES VEHICLE unit within 6" of
-this unit, you can use this ability. If you do, that VEHICLE unit has Feel No Pain 5+
-until that enemy unit has attacked.
+- **Armure d'Antoninus** — 15 pts. Figurine de l'ADEPTUS ASTARTES seulement. Cette figurine a :
 
-**Maître de la Guerre Mécanisée** (25 pts) : ADEPTUS ASTARTES model only. In your Movement
-phase, you can select one visible friendly ADEPTUS ASTARTES VEHICLE unit within 6" of
-this model and then select the devastator doctrine or tactical doctrine. That doctrine is
-active for that VEHICLE unit until the start of your next Command phase.
+  - Une **Sv** de 2+.
+  - **insensible à la Douleur 5+**.
 
-**Toile Augure de Ciblage** (30 pts) : TECHMARINE model only. In your Movement phase, at
-the start or end of this unit's move, you can select one friendly ADEPTUS ASTARTES
-VEHICLE model within 3" of this unit. That VEHICLE model's attacks have [LETHAL HITS]
-until the start of your next Command phase.
+- **Érudit du Codex** — 20 pts. Figurine de CAPITAINE seulement. La **doctrine tactique** est active pour cette unité _en plus_ de toute autre **doctrine de combat**.
 
-**La Chair est Faible** (15 pts) : ADEPTUS ASTARTES model only. This model has +1 T and
-Feel No Pain 5+.
+- **Serment de Macragge** — 20 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette figurine ont :
+
+  - +1 en **F** et en **PA**.
+  - _Ou :_ Si la **doctrine d'assaut** est active pour cette unité, elles ont +2 en **F** et en **PA**.
+
+- **Vétéran de Béhémoth** — 20 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de tir de cette unité ont [TOUCHES SOUTENUES 1].
 
 ### Stratagèmes
 
-**"Unbowed Conviction"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES unit that is below starting strength.
-- When : your Command phase.
-- Effect : until the start of your next Command phase, your unit can ignore modifiers to
-  your unit's BS and WS, hit rolls and wound rolls.
+#### Adaptabilité Ultramarienne — 1 PC
 
-**"Spirits of Iron"** (1 PC) — Any Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : any phase, when a friendly ADEPTUS ASTARTES unit suffers a mortal wound.
-- Effect : your unit has Feel No Pain 5+ against mortal wounds.
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie.
+- Effet : Choisissez une **doctrine de Combat**. La **doctrine de combat** est active pour votre unité jusqu'au début de votre prochaine phase de Commandement.
 
-**"Vengeful Animus"** (1 PC) — Any Phase
-- Target : that friendly ADEPTUS ASTARTES VEHICLE unit.
-- When : any phase, when a friendly ADEPTUS ASTARTES VEHICLE unit is destroyed, before
-  rolling for deadly demise.
-- Effect : change any deadly demise rolls made for this unit to an unmodified 6.
+#### Vigilance Exemplaire — 1 PC
 
-**"Methodical Brutality"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES unit is
-  selected to attack.
-- Effect : your unit's attacks have [SUSTAINED HITS 1]. If your unit is a VEHICLE unit,
-  they have +1 to wound rolls.
+- Quand : À votre phase de Tir, quand une unité de l'ADEPTUS ASTARTES amie est **choisie pour tirer**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont [IGNORE LE COUVERT].
 
-**"Ancient Fury"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES DREADNOUGHT unit.
-- When : your Command phase.
-- Effect : until the start of your next Command phase, your unit has +1" M, +1 T, +1 Ld,
-  +1 OC and +1 to hit rolls.
+#### Courage et Honneur ! — 1 PC
 
-**"Power of the Machine Spirit"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES VEHICLE unit.
-- When : your opponent's Shooting phase, when an enemy unit that targeted a friendly
-  unengaged ADEPTUS ASTARTES VEHICLE unit has shot.
-- Effect : your unit shoots using snap shooting. Or: if your unit is at
-  half-strength/below half-strength, normal shooting. While doing so your unit can only
-  target that enemy unit.
+- Quand : À la phase de Combat, quand une unité de l'ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont [LANCE].
 
-## Serre des Ombres [C] — Raven Guard
+#### Prévoyance Tactique — 1 PC
 
-2 PdD · Perturbation (40k.app : étiquette Phobos). Restriction au Chapitre non affichée
-par 40k.app.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les Attaques qui ciblent votre unité avec une **F** supérieure à son **E** ont -1 aux **jets de blessure**.
 
-### Règle : "Shadow Tactics"
+#### Tactiques Pragmatiques — 1 PC
 
-Friendly ADEPTUS ASTARTES units have Stealth.
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES amie **non engagée**.
+- Cible : Cette unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES.
+- Effet : Votre unité peut faire un **mouvement normal** de D3+3" maximum.
 
-Friendly PHOBOS/SCOUT SQUAD units have −3" detection range.
+#### Armure de Mépris — 1 PC
 
-Friendly Aethon Shaan units have the following ability: **"Unparalleled Tactician"**
-(once per battle round, per army): when you use the "Into Darkness" stratagem, that use
-is −1CP.
+- Quand : À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de l'ADEPTUS ASTARTES amie.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques qui ciblent votre unité ont -1 en **PA** jusqu'à ce que cette unité ennemie ait attaqué.
+
+---
+
+## Force Opérationnelle de Pointe de Lance — White Scars
+
+Chemin dans l'appli : White Scars > Supplément de Codex: White Scars > Force Opérationnelle de Pointe de Lance.
+
+PdD : 2. Dispositions de force : Reconnaissance.
+
+### Règle : Offensive Telle la Tempête
+
+- Vous pouvez choisir la **doctrine d'assaut** _ou_ la **doctrine tactique** une fois supplémentaire par bataille.
+- Les unités MONTÉES/SPEEDER de l'ADEPTUS ASTARTES amies ont +1 aux **jets d'avance**.
+
+Les unités de SUBODEN KHAN amies ont l'aptitude suivante:
+
+**Colère du Premier Khan:** À la fin de la phase de Combat, si cette unité était **éligible pour combattre** à cette phase, vous pouvez utiliser cette aptitude. Dans ce cas :
+- Si cette unité est **non engagée**, elle peut faire un **mouvement normal**.
+- _Ou :_ Si cette unité est **non engagée**, elle peut faire un **mouvement de retraite**.
+
+**Restrictions :** Votre armée peut inclure des unités de WHITE SCARS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
 
 ### Optimisations
 
-**Suaire de l'Aile Noire** (25 pts) : ADEPTUS ASTARTES INFANTRY model only. This unit has
-Infiltrators.
+- **Parangon de Pointe de Lance** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette figurine ont :
+  - +1 en **F** et en **PA**.
+  - _Ou :_ Si cette unité a fait un **mouvement de charge** à ce tour, elles ont +2 en **F** et en **PA**.
 
-**Couronne des Murmures** (30 pts) : PHOBOS model only. Each enemy unit (excluding
-MONSTER/VEHICLE units) engaged with this unit cannot be targeted by controlling player
-stratagems.
+- **Sagesse des Devins d'Orage** — 15 pts. Figurine de l'ADEPTUS ASTARTES seulement. Cette unité peut relancer les **jets d'avance**.
 
-**Instincts du Chasseur** (25 pts) : ADEPTUS ASTARTES model only. In your first Movement
-phase, this unit can make an ingress move.
+- **Maître de Chasse Chogorien** — 20 pts. Unité MONTÉE/SPEEDER de l'ADEPTUS ASTARTES seulement. Quand cette unité est choisie pour faire un **mouvement d'arrivée**, considérez que le numéro du round de bataille en cours est supérieur de 1 à ce qu’il est.
 
-**Rapace de l'Ombre** (15 pts) : ADEPTUS ASTARTES infantry> model only (sic). This model
-has Fights First and Lone Operative.
+- **Œil du Chasseur** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de tir ce cette unité ont :
+  - [IGNORE LE COUVERT].
+  -  [TOUCHES SOUTENUES 1].
 
 ### Stratagèmes
 
-**"Into Darkness"** (1 PC) — Fight Phase
-- Target : one unengaged ADEPTUS ASTARTES INFANTRY unit.
-- When : end of your opponent's Fight phase.
-- Effect : place your unit in strategic reserves.
+#### Repli et Regroupement — 1 PC
 
-**"Raptorial Vigilance"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES INFANTRY unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged ADEPTUS ASTARTES INFANTRY unit.
-- Effect : your unit can make a normal move of up to D6". Or: if your unit is a
-  PHOBOS/SCOUT SQUAD unit, up to 6".
+- Quand : À la fin de la phase de Combat adverse.
+- Cible : Une unité de SPEEDER/MONTÉE de l'ADEPTUS ASTARTESamie **non engagée**.
+- Effet : Placez votre unité en **réserve stratégique**.
 
-**"Murderous Fusillade"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES INFANTRY unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY unit that made an
-  ingress move this turn is selected to shoot.
-- Effect : your unit's ranged attacks have +1 BS and +1 AP.
+#### Instincts du Chasseur — 1 PC
 
-**"Suppressed Weapons"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES INFANTRY unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY unit has shot.
-- Effect : those attacks do not prevent your unit from being hidden.
+- Quand : À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins d'une unité d'INFANTERIE/MONTÉE/SPEEDER de l'ADEPTUS ASTARTES amie **non engagée**.
+- Cible : Cette unité d'INFANTERIE/MONTÉE/SPEEDER de l'ADEPTUS ASTARTES.
+- Effet : Votre unité peut faire un **mouvement normal** de D3+3" maximum.
 
-**"Feint and Thrust"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES INFANTRY unit.
-- When : your Command phase.
-- Effect : the tactical doctrine is active for your unit in addition to any other combat
-  doctrine, until the start of your next Command phase.
+#### Coups de Lance et de Sabre — 1 PC
 
-**"Lay Low the Tyrants"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES INFANTRY (unit).
-- When : Fight phase, when a friendly ADEPTUS ASTARTES INFANTRY unit is selected to fight.
-- Effect : your unit's melee attacks have [PRECISION].
+- Quand : À la phase de Combat, quand une unité de l'ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont:
+  - [TOUCHES FATALES].
+  - _Ou :_ [LANCE].
+  - _Ou :_ Si votre unité a le mot-clé MONTÉ, elles ont [TOUCHES FATALES] et [LANCE].
 
-## Chercheurs du Père de la Forge [C] — Salamanders uniquement
+#### PIlotes infaillibles — 1 PC
 
-2 PdD · Atouts Prioritaires
+- Quand : À votre phase de Mouvement/Charge, quand une unité de MONTÉE de l'ADEPTUS ASTARTES amie est **choisie pour être déplacée** ou **déclare une charge**.
+- Cible : Cette unité MONTÉE de l'ADEPTUS ASTARTES.
+- Effet : Votre unité a le mot-clé MOBILE.
 
-### Règle : "Vulkan's Quest"
+#### Manœuvres d'Évasion — 1 PC
 
-- You can select the devastator doctrine one additional time per battle.
-- Friendly ADEPTUS ASTARTES units' ranged attacks that target a unit within 12" have +1 S.
+- Quand : À la phase de Tir adverse, quand une unité ennemie cible une unité de SPEEDER/MONTÉE de l'ADEPTUS ASTARTES amie.
+- Cible : Cette unité de SPEEDER/MONTÉE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de tir qui ciblent votre unité ont -1 aux **jets de blessure**.
 
-If your army includes a Vulkan He'stan unit, friendly Escouade Infernus units have the
-following: when this unit is selected to make an advance/fall-back move, that
-advance/fall-back move does not prevent this unit from being eligible to start an action;
-when this unit starts an action, that action does not prevent this unit from being
-eligible to shoot.
+#### Létalité Véloce — 1 PC
 
-Restrictions : your army can include SALAMANDERS units, but it cannot include any ADEPTUS
-ASTARTES units drawn from any other Chapter.
+- Quand : À votre phase de Mouvement, quand une unité de l'ADEPTUS ASTARTES amie est choisie pour faire un **mouvement d'avance/de retraite**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet :
+  - Ce **mouvement de retraite** n'empêche pas votre unité d'être **éligible pour tirer**.
+  - Les attaques de tir de votre unité ont [ASSAUT].
+
+---
+
+## Appui de la Deathwatch — supplément Deathwatch
+
+Chemin dans l'appli : Deathwatch > Supplément de Codex: Deathwatch > Appui de la Deathwatch.
+
+PdD : 1. Dispositions de force : Perturbation.
+
+### Règle : Tactiques de Mission
+
+Les unités de KILL TEAM amies avec cette aptitude ont les aptitudes suivantes :
+
+**Tactiques Furor**: Si la **doctrine devastator** est active pour votre unité, ses attaques ont [TOUCHES SOUTENUES 1].
+**Tactiques Malleus** : Si la **doctrine tactique** est active pour votre unité, ses attaques ont [TOUCHES FATALES].
+**Tactiques Purgatus** : Si la **doctrine d'assaut** est active pour votre unité, ses attaques qui ciblent une unité ennemie à 9" ou moins d'elle ont [PRÉCISION]<K>.
+
+ALLIÉS DE LA DEATHWATCH
+
+VOUS POUVEZ INCLURE DES UNITÉS DE LA <K>DEATHWATCH dans votre armée, même si elles n'ont pas le même mot-clé de faction de Chapitre que les autres unités de votre armée. La valeur en points combinée de ces unités ne peut pas dépasser 500 points.
+
+Quand vous rassemblez votre armée, sauf mention contraire, vous ne pouvez pas choisir une figurine de la DEATHWATCH pour être votre SEIGNEUR DE GUERRE. De plus, les unités de KILL TEAM peuvent seulement recevoir des optimisations issues de ce détachement.
+
+*Il s'agit d'une exception aux Règles d'Armée des Chapitres Space Marines (p. 156).*
 
 ### Optimisations
 
-**Cape Adamantine** (20 pts) : ADEPTUS ASTARTES model only. Attacks allocated to this
-model have −1 D.
-
-**Forgés par la Bataille** (25 pts) : ADEPTUS ASTARTES model only. This unit can ignore
-modifiers to BS, WS and hit rolls.
-
-**Immolator** (20 pts) : ADEPTUS ASTARTES model only. This unit's [TORRENT] weapons have
-+1 A.
-
-**Artisan Aguerri** (25 pts) : ADEPTUS ASTARTES model only. This model's melee attacks
-have +1 S and +1 D (40k.app : « +1**S »).
+- **Balise Angelis** — 25 pts. Figurine de l'ADEPTUS ASTARTES seulement. Si cette unité est de KILL TEAM, elle a :
+  - **Frappe en Profondeur**.
+  - Quand vous ciblez cette unité avec le **stratagème Arrivée Précipitée**, cette utilisation coûte -1PC.
 
 ### Stratagèmes
 
-**"Blazing Earth"** (1 PC) — Charge Phase
-- Target : one friendly unengaged ADEPTUS ASTARTES unit equipped with one or more
-  TORRENT/MELTA weapons.
-- When : start of your opponent's Charge phase.
-- Effect : select one visible enemy unit within 12" of your unit. That enemy unit has −1
-  to charge rolls.
+#### Munitions Dragonfire — 1 PC
 
-**"Wrath and Ruin"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES INFANTRY unit.
-- When : your Command phase.
-- Effect : the assault doctrine or tactical doctrine is active for your unit, until the
-  start of your next Command phase.
+- Quand : À votre phase de Tir, quand une unité de KILL TEAM est **choisie pour tirer**.
+- Cible : Cette unité de KILL TEAM.
+- Effet : Les attaques de tir de votre unité :
+  - Peuvent relancer les **jets de blessure** de 1.
+  - Ont [IGNORE LE COUVERT].
 
-**"Forged in Fire"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase, when a friendly engaged ADEPTUS ASTARTES unit is selected to
-  shoot.
-- Effect : your unit's TORRENT weapons do not have [BLAST], have [CLOSE-QUARTERS] and have
-  +1 A.
+#### Munitions Hellfire — 1 PC
 
-**"Immolation Protocols"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES INFANTRY (unit).
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES INFANTRY unit is selected
-  to attack.
-- Effect : your unit's ranged [TORRENT] attacks have +1 AP.
+- Quand : À votre phase de Tir, quand une unité de KILL TEAM est **choisie pour tirer**.
+- Cible : Cette unité de KILL TEAM.
+- Effet : Les attaques de tir de votre unité (attaques à [BLESSURES DÉVASTATRICES] exclues) ont [ANTI ≠ VÉHICULE 4+].
 
-**"Crucible of Battle"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES INFANTRY unit.
-- When : your Shooting phase or the Fight phase, when a friendly ADEPTUS ASTARTES
-  INFANTRY unit is selected to attack an enemy unit within 6".
-- Effect : your unit's attacks can re-roll hit rolls of 1 and re-roll wound rolls of 1.
+#### Munitions Kraken — 1 PC
 
-**"Burning Vengeance"** (1 PC) — Shooting Phase
-- Target : one friendly ADEPTUS ASTARTES unit embarked within that ADEPTUS ASTARTES
-  TRANSPORT unit.
-- When : your opponent's Shooting phase, when an enemy unit has shot a friendly ADEPTUS
-  ASTARTES TRANSPORT unit.
-- Effect : your ADEPTUS ASTARTES unit can make a disembark move and shoot using normal
-  shooting, but when doing so your unit can only target that enemy unit.
+- Quand : À votre phase de Tir, quand une unité de KILL TEAM est **choisie pour tirer**.
+- Cible : Cette unité de KILL TEAM.
+- Effet : Les attaques de tir de votre unité ont :
+  - +6" en **P**.
+  - +1 en **F**.
 
-## Lame d'Ultramar [C] — Ultramarines
+#### Extraction par Corvus Blackstar — 1 PC
 
-3 PdD · Prendre et Tenir, Atouts Prioritaires. Restriction au Chapitre non affichée par
-40k.app.
+- Quand : À la fin de la phase de Combat adverse.
+- Cible : Une unité de KILL TEAM amie **non engagée**.
+- Effet : Placez votre unité en **réserve stratégique**.
 
-### Règle : "Mastered Doctrines"
+---
 
-If your army includes a Marneus Calgar unit, you can select the assault
-doctrine/devastator doctrine/tactical doctrine each one additional time per battle.
+## Colère du Roc — Dark Angels
+
+Chemin dans l'appli : Dark Angels > Codex Supplement: Dark Angels > Colère du Roc.
+
+PdD : 2. Dispositions de force : Prendre et Tenir. Étiquette « Unique : TERMINATOR ».
+
+### Règle : Ténacité Diligente
+
+Les attaques qui ciblent les unités d'INFANTERIE/MONTÉES de l'ADEPTUS ASTARTES amies avec une **F** supérieure à leur **E** ont -1 aux **jets de blessure**.
+
+**Restrictions :** Votre armée peut inclure des unités DARK ANGELS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
 
 ### Optimisations
 
-**Armure d'Antoninus** (15 pts) : ADEPTUS ASTARTES model only. This model has 2+ Sv and
-Feel No Pain 5+.
+- **Trempé dans les Combats (Aura)** — 10 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les unités de l'ADEPTUS ASTARTES amies à 6" ou moins de cette figurine peuvent relancer les **jets de commandement**.
 
-**Serment de Macragge** (20 pts) : ADEPTUS ASTARTES model only. This model's melee attacks
-have +1 S and AP. Or: if the assault doctrine is active for this unit, +2 S and AP.
+- **Assaut Deathwing** — 15 pts. Figurine de la DEATHWING avec l'aptitude **Frappe en Profondeur** seulement. À votre première phase de Mouvement, cette unité peut faire un **mouvement d'arrivée**.
 
-**Érudit du Codex** (20 pts) : CAPTAIN model only. The tactical doctrine is active for
-this unit in addition to any other combat doctrine.
+- **Armes Antiques** — 20 pts. Figurine de l'ADEPTUS ASTARTES seulement. Les attaques de mêlée de cette figurine ont :
+  - +2 en **F**.
+  - +1 en **PA**.
 
-**Vétéran de Béhémoth** (20 pts) : ADEPTUS ASTARTES model only. This unit's ranged attacks
-have [SUSTAINED HITS 1].
+- **Seigneur de la Ravenwing** — 15 pts. Figurine de la RAVENWING seulement. Cette unité peut relancer les **jets de charge**.
 
 ### Stratagèmes
 
-**"Armour of Contempt"** (1 PC) — Shooting & Fight Phase : texte identique à celui de la
-Confrérie d'Assaut.
+#### Chevaliers de Fer — 1 PC
 
-**"Exemplary Vigilance"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Shooting phase, when a friendly ADEPTUS ASTARTES unit is selected to shoot.
-- Effect : your unit's ranged attacks have [IGNORES COVER].
+- Quand : À votre phase de Mouvement/Charge, quand une unité de la RAVENWING amie est **choisie pour être déplacée** ou **déclare une charge**.
+- Cible : Cette unité de la RAVENWING.
+- Effet : Votre unité a le mot-clé MOBILE.
 
-**"Ultramarian Adaptivity"** (1 PC) — Command Phase
-- Target : one friendly ADEPTUS ASTARTES unit.
-- When : your Command phase.
-- Effect : select one combat doctrine. That combat doctrine is active for your unit until
-  the start of your next Command phase.
+#### Reliques du Moyen-Âge — 1 PC
 
-**"Courage and Honour!"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.
-- Effect : your unit's melee attacks have [LANCE].
+- Quand : À votre phase de tir, quand une unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES amie est **choisie pour tirer**.
+- Cible : Cette unité d'INFANTERIE/MONTÉE de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de tir de votre unité ont +2 en **F**.
 
-**"Practical Tactics"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED unit.
-- Effect : your unit can make a normal move of up to D3+3".
+#### Justice Inéluctable — 1 PC
 
-**"Tactical Foresight"** (1 PC) — Shooting & Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your opponent's Shooting phase or the Fight phase, when an enemy unit targets a
-  friendly ADEPTUS ASTARTES unit.
-- Effect : attacks that target your unit with a S greater than this unit's T have −1 to
-  wound rolls.
+- Quand : À la phase de Combat, quand une unité de l'ADEPTUS ASTARTES amie est **choisie pour combattre**.
+- Cible : Cette unité de l'ADEPTUS ASTARTES.
+- Effet : Les attaques de mêlée de votre unité ont [PRÉCISION].
 
-## Force Opérationnelle de Pointe de Lance [C] — White Scars uniquement
+#### Volonté du Lion — 1 PC
 
-2 PdD · Reconnaissance
+- Quand : À la phase de Commandement.
+- Cible : Une unité de l'ADEPTUS ASTARTES amie qui est à portée d'un **objective**.
+- Effet : Votre unité a +1 en **CO** jusqu'à la fin du tour.
 
-### Règle : "Storm-swift Onslaught"
+#### Maîtrise Tactique — 1 PC
 
-- You can select the assault doctrine or tactical doctrine one additional time per
-  battle.
-- Friendly ADEPTUS ASTARTES MOUNTED/SPEEDER units have +1 to advance rolls.
+- Quand : À votre phase de Commandement.
+- Cible : Une unité de la DEATHWING/RAVENWING amie.
+- Effet : Choisissez une **doctrine de Combat**. La **doctrine de combat** est active pour votre unité jusqu'au début de votre prochaine phase de Commandement.
 
-Friendly Suboden Khan units have the following ability: **"Wrath of the First Khan"** :
-at the end of the Fight phase, if this unit was eligible to fight this phase, you can use
-this ability. If you do: if this unit is unengaged, this unit can make a normal move. Or:
-if this unit is engaged, this unit can make a fall-back move.
+#### La Victoire par le Sacrifice — 1 PC
 
-Restrictions : your army can include WHITE SCARS units, but it cannot include any
-ADEPTUS ASTARTES units drawn from any other Chapter.
+- Quand : À n'importe quelle phase, quand une unité de la DEATHWING/RAVENWING amie à portée d'un **objectif** est **détruite**.
+- Cible : Cette unité de la DEATHWING/RAVENWING. Vous pouvez cibler cette unité avec ce **stratagème** même si elle a été **détruite**.
+- Effet : Choisissez un **objectif** :
+  - Dont aucune unité ennemie (unités d'AÉRODYNE exclues) sont à portée.
+  - Que votre unité contrôlait à la fin de la phase précédente.
+
+  Cet **objectif** est **sécurisé**.
+
+---
+
+## Force Opérationnelle du Cercle Intérieur — Dark Angels
+
+Chemin dans l'appli : Dark Angels > Codex Supplement: Dark Angels > Force Opérationnelle du Cercle Intérieur.
+
+PdD : 1. Dispositions de force : Atouts Prioritaires.
+
+### Règle : Cible Vouée
+
+À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, choisissez un **objectif**. Cet **objectif** est votre **objectif voué** jusqu'à votre prochaine phase de Commandement.
+- Les attaques des unités d'INFANTERIE de la DEATHWING qui ciblent une unité ennemie à portée de votre **objectif voué** ont +1 aux **jets de blessure**.
+
+**Restrictions :** Votre armée peut inclure des unités DARK ANGELS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
 
 ### Optimisations
 
-**Maître de Chasse Chogorien** (20 pts) : ADEPTUS ASTARTES MOUNTED/SPEEDER unit only.
-When this unit is selected to make an ingress move, treat the current battle round number
-as being one higher than it actually is. Le Munitorum anglais l'appelle « Chogorian
-Huntmaster (Upgrade) », le Munitorum français sans « (Amélioration) ».
+- **Volonté Singulière** — 20 pts. Figurine de la DEATHWING seulement. Quand cette unité est choisie pour faire un **mouvement de consolidation**, elle peut se déplacer de D3+3" maximum.
 
-**Œil du Chasseur** (25 pts) : ADEPTUS ASTARTES model only. This unit's ranged attacks
-have [IGNORES COVER] and [SUSTAINED HITS 1].
-
-**Parangon de Pointe de Lance** (25 pts) : ADEPTUS ASTARTES model only. This model's melee
-attacks have +1 S and AP. Or: if this unit made a charge move this turn, +2 S and AP.
-
-**Sagesse des Devins d'Orage** (15 pts) : ADEPTUS ASTARTES model only. This unit can
-re-roll advance rolls.
+- **Champion de la Deathwing** — 20 pts. Figurine de la DEATHWING seulement. Les attaques de cette unité qui ciblent une unité ennemie à portée de votre **objectif voué** ont [TOUCHES SOUTENUES 1].
 
 ### Stratagèmes
 
-**"Evasive Manoeuvers"** (1 PC) — Shooting Phase
-- Target : that ADEPTUS ASTARTES MOUNTED/SPEEDER unit.
-- When : your opponent's Shooting phase, when an enemy unit targets a friendly ADEPTUS
-  ASTARTES MOUNTED/SPEEDER unit.
-- Effect : ranged attacks that target your unit have −1 to wound rolls.
+#### Le Devoir jusqu'à la Mort — 1 PC
 
-**"Mobile Lethality"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : your Movement phase, when a friendly ADEPTUS ASTARTES unit is selected to make
-  an advance/fall-back move.
-- Effect : that fall-back move does not prevent your unit from being eligible to shoot.
-  Your unit's ranged attacks have [ASSAULT].
+- Quand : À la phase de Combat, quand une unité ennemie cible une unité de la DEATHWING amie.
+- Cible : Cette unité de la DEATHWING.
+- Effet : Quand une figurine de votre unité est **détruite**, si votre unité n'a pas été **choisie pour combattre** à cette phase, jetez un D6, avec +1 à ce jet si votre unité est **engagée** avec une unité ennemie à portée de votre **objectif voué** :
+  - Sur 4+, ne retirez pas la figurine du champ de bataille. Une fois que votre unité a combattu, ou à la fin de la phase (selon ce qui advient en premier), la figurine est retirée du champ de bataille.
 
-**"Flawless Riders"** (1 PC) — Movement & Charge Phase
-- Target : that ADEPTUS ASTARTES MOUNTED unit.
-- When : your Movement/Charge phase, when a friendly ADEPTUS ASTARTES MOUNTED unit is
-  selected to move or declares a charge.
-- Effect : your unit has MOBILE.
+#### Teleportarium Relique — 1 PC
 
-**"Spear Thrust and Sabre Swing"** (1 PC) — Fight Phase
-- Target : that ADEPTUS ASTARTES unit.
-- When : Fight phase, when a friendly ADEPTUS ASTARTES unit is selected to fight.
-- Effect : your unit's melee attacks have [LETHAL HITS]. Or: [LANCE]. Or: if your unit
-  has MOUNTED, [LETHAL HITS] and [LANCE].
+- Quand : À votre phase de Mouvement, quand une unité de la DEATHWING amie avec l'aptitude **Frappe en Profondeur** est choisie pour faire un **mouvement d'arrivée**.
+- Cible : Cette unité de la DEATHWING.
+- Effet :
+  - Votre unité peut être placée à plus de 6" à l'horizontale des unités ennemies (et non à plus de 8" d'elles).
+  - Votre unité n'est _pas_ **éligible pour déclarer une charge** jusqu'à la fin de ce tour.
 
-**"Withdraw and Regroup"** (1 PC) — Fight Phase
-- Target : one friendly unengaged ADEPTUS ASTARTES MOUNTED/SPEEDER unit.
-- When : end of your opponent's Fight phase.
-- Effect : place your unit in strategic reserves.
+#### Colère du Lion — 1 PC
 
-**"Hunter's Instincts"** (1 PC) — Movement Phase
-- Target : that ADEPTUS ASTARTES INFANTRY/MOUNTED/SPEEDER unit.
-- When : your opponent's Movement phase, when an enemy unit ends a move within 8" of a
-  friendly unengaged ADEPTUS ASTARTES INFANTRY/MOUNTED/SPEEDER unit.
-- Effect : your unit can make a normal move of up to D3+3".
+- Quand : À votre phase de Charge, quand une unité de la DEATHWING amie finit un **mouvement de charge**.
+- Cible : Cette unité de la DEATHWING.
+- Effet : Choisissez une unité ennemie **engagée** avec votre unité. Dans ce cas, jetez un D6 pour chaque figurine de votre unité qui est **engagée** avec l'unité ennemie :
+  - Pour chaque jet de 3+, l'unité ennemie subit 1 **blessure mortelle** (jusqu'à un maximum de 6 **blessures mortelles**).
+
+---
+
+## Poursuite de Sombrevol — Dark Angels
+
+Chemin dans l'appli : Dark Angels > Codex Supplement: Dark Angels > Poursuite de Sombrevol.
+
+PdD : 1. Dispositions de force : Reconnaissance.
+
+### Règle : Vengeance aux Ailes Noires
+
+Les attaques des unités de la RAVENWING amies avec le mot-clé VOL ont [IGNORE LE COUVERT].
+
+**Restrictions :** Votre armée peut inclure des unités DARK ANGELS, mais elle ne peut inclure aucune unité de l'ADEPTUS ASTARTES issue d'un autre Chapitre.
+
+Les unités d'ESCOUADE OUTRIDER ont le mot-clé LIGNE.
+
+### Optimisations
+
+- **Batterie Noctiforgée (Amélioration)** — 10 pts. Unité de LAND SPEEDER VENGEANCE seulement. Cette unité peut relancer :
+  - Les jets pour déterminer les **A** d'une arme.
+  - Les **jets de Risque**.
+
+- **Turbines Ténébreuses (Amélioration)** — 15 pts. Unités MONTÉE/avec le mot-clé VOL de la RAVENWING seulement. À votre première phase de Mouvement, cette unité peut faire un **mouvement d'arrivée**.
+
+### Stratagèmes
+
+#### Ailes d'Ombre — 1 PC
+
+- Quand : À la phase de Tir adverse, quand une unité ennemie cible une unité de la RAVENWING qui a le mot-clé VOL/MONTÉ amie.
+- Cible : Cette unité de la RAVENWING qui a le mot-clé VOL/MONTÉ.
+- Effet : Votre unité a **Discrétion**.
+
+#### Surveillance Aérienne — 1 PC
+
+- Quand : À votre phase de Tir, une fois qu'une unité de la RAVENWING amie qui a le mot-clé VOL a tiré.
+- Cible : Cette unité de la RAVENWING qui a le mot-clé VOL.
+- Effet : Les unités ennemies **Visibles** à 6" ou moins de votre unité ont +3" en **portée de détection**.
+
+#### Nous Sommes la Vengeance — 1 PC
+
+- Quand : À la phase de Tir adverse, quand une unité ennemie qui a ciblé une unité de la RAVENWING amie ayant le mot-clé VOL **non engagée** a tiré.
+- Cible : Cette unité de la RAVENWING qui a le mot-clé VOL.
+- Effet : Votre unité peut faire un **mouvement normal** de D3+3" maximum.
+
