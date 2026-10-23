@@ -11,6 +11,9 @@ l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
   --js            affiche le JavaScript à exécuter dans Chrome pour 40k.app
                   (site bloqué en accès direct), pour toutes les factions actives
   --navigateur F  ajoute au rapport le résultat de ce JavaScript, enregistré dans F
+                  (40k.app ne sert plus qu'en secours de l'appli)
+  --appli         interroge l'appli Warhammer 40,000 du Mac (outils/appli/appli) : dates
+                  de mise à jour des codex de chaque faction et des Règles de Base
   --readme        régénère le tableau de fraîcheur de README.md depuis etat.json
                   (sans accès réseau)
   --json          rapport au format JSON
@@ -18,9 +21,9 @@ l'état enregistré dans sources/etat.json et affiche un rapport. N'écrit rien.
   --url ID=URL    remplace l'adresse du Munitorum d'une faction (tests, archives)
   --etat CHEMIN   utilise un autre fichier d'état (tests)
 
-Codes de retour : 0 tout est à jour, 1 au moins un changement ou 40k.app non vérifié,
+Codes de retour : 0 tout est à jour, 1 au moins un changement ou appli non vérifiée,
 2 erreur d'accès.
-Python standard uniquement, aucun navigateur.
+Python standard uniquement ; l'appli est lue par l'outil Swift outils/appli/appli.
 """
 
 import argparse
@@ -31,6 +34,7 @@ import html
 import json
 import re
 import shutil
+import subprocess
 import sys
 import urllib.error
 import urllib.request
@@ -44,6 +48,12 @@ RASSEMBLER = RACINE / "regles" / "rassembler-les-armees.txt"
 README = RACINE / "README.md"
 MARQUES = ("<!-- fraicheur:debut -->", "<!-- fraicheur:fin -->")
 CONSTRUCTION = "regles/construction-armee.md"
+APPLI = RACINE / "outils" / "appli" / "appli"
+APPLI_SOURCE = RACINE / "outils" / "appli" / "appli.swift"
+# Pages de l'appli communes à toutes les factions (chemins depuis la racine de Référence).
+APPLI_GENERAL = ["Règles de Base"]
+MOIS = {m: i for i, m in enumerate(("janvier", "février", "mars", "avril", "mai", "juin", "juillet",
+                                     "août", "septembre", "octobre", "novembre", "décembre"), 1)}
 
 MFM = "https://mfm.warhammer-community.com/{langue}/{faction}"
 API_TELECHARGEMENTS = "https://www.warhammer-community.com/api/search/downloads/"
@@ -622,6 +632,57 @@ JS_40KAPP = """await (async () => {
 
 # ------------------------------------------------------------------- BSData
 
+# ------------------------------------------------------------------------ appli
+
+def date_appli(texte):
+    """« 14 octobre 2026 » → « 14/10/2026 » ; texte inchangé s'il n'a pas cette forme."""
+    m = re.fullmatch(r"(\d{1,2}) (\w+) (\d{4})", texte or "")
+    if not m or m.group(2).lower() not in MOIS:
+        return texte
+    return f"{int(m.group(1)):02d}/{MOIS[m.group(2).lower()]:02d}/{m.group(3)}"
+
+
+def verifier_appli(factions):
+    """Une source par faction (codex et suppléments listés dans le champ « appli » de
+    factions.json) et une pour les Règles de Base. Empreinte : date « Dernière Mise à
+    Jour » de chaque page, ou version des données pour une page qui n'en a pas.
+    Renvoie (entrées, avertissements) ; aucune entrée si l'appli n'est pas joignable."""
+    if not APPLI.exists() or APPLI.stat().st_mtime < APPLI_SOURCE.stat().st_mtime:
+        r = subprocess.run(["swiftc", "-O", str(APPLI_SOURCE), "-o", str(APPLI)],
+                           capture_output=True, text=True)
+        if r.returncode != 0:
+            return [], [f"appli non vérifiée : compilation de l'outil impossible ({r.stderr.strip()[:200]})"]
+    r = subprocess.run([str(APPLI), "verifier"], capture_output=True, text=True)
+    if r.returncode != 0:
+        stop = next((l for l in r.stdout.splitlines() if l.startswith("STOP")), r.stderr.strip())
+        return [], [f"appli non vérifiée : {stop}"]
+    groupes = [(f"appli:{f['id']}:fr", f"Appli Warhammer 40,000, {f['nom']} (fr)", f.get("appli", []))
+               for f in factions]
+    groupes.append(("appli:general:fr", "Appli Warhammer 40,000, Règles de Base (fr)", APPLI_GENERAL))
+    chemins = [c for _, _, liste in groupes for c in liste]
+    r = subprocess.run([str(APPLI), "dates", *chemins], capture_output=True, text=True)
+    if r.returncode != 0:
+        return [], [f"appli non vérifiée : {r.stderr.strip() or 'commande dates en échec'}"]
+    releve = json.loads(r.stdout)
+    donnees, dates = releve.get("donnees") or "inconnue", releve["dates"]
+    entrees, avertissements = [], []
+    for ident, libelle, liste in groupes:
+        if not liste:
+            avertissements.append(f"{libelle} : aucun chemin dans le champ « appli » de factions.json")
+            continue
+        erreurs = [c for c in liste if isinstance(dates.get(c), dict)]
+        if erreurs:
+            entrees.append({"id": ident, "libelle": libelle,
+                            "erreur": f"page introuvable dans l'appli : {', '.join(erreurs)}"})
+            continue
+        empreinte = "|".join(f"{c}={dates[c] or 'données ' + donnees}" for c in liste)
+        datees = sorted({date_appli(dates[c]) for c in liste if dates[c]})
+        version = f"données {donnees}" + (f", MAJ {', '.join(datees)}" if datees else "")
+        entrees.append({"id": ident, "libelle": libelle, "type": "officielle", "url": None,
+                        "version": version, "empreinte": empreinte})
+    return entrees, avertissements
+
+
 def pr_bsdata():
     """PR ouvertes de mise à jour des points (information, non enregistrée)."""
     prs = json.loads(telecharger(BSDATA_PR, entetes={"Accept": "application/vnd.github+json"}))
@@ -652,13 +713,13 @@ def derives_par_defaut(e, factions):
     """Fichiers du dépôt alimentés par une source, quand l'intégration ne les précise pas."""
     if e["id"].startswith("mfm:rassembler"):
         return [str(RASSEMBLER.relative_to(RACINE)), CONSTRUCTION]
-    if e["id"].startswith(("pdf:regles-de-base", "pdf:maj-universelles")):
+    if e["id"].startswith(("pdf:regles-de-base", "pdf:maj-universelles", "appli:general")):
         return [CONSTRUCTION]
     for f in factions:
         if e["id"] == f"mfm:{f['mfm']}:fr":
             return [f"{f['dossier']}/{f['mfm']}-{n}.tsv"
                     for n in ("points", "detachements", "attachements", "options")]
-        if e["id"].startswith((f"pdf:pack:{f['id']}:", f"c:40kapp:{f['app40k']}")):
+        if e["id"].startswith((f"pdf:pack:{f['id']}:", f"c:40kapp:{f['app40k']}", f"appli:{f['id']}:")):
             return [f"{f['dossier']}/datasheets.md", f"{f['dossier']}/detachements.md"]
     return []
 
@@ -731,6 +792,7 @@ def main():
     p.add_argument("--js", action="store_true")
     p.add_argument("--extraire", nargs="*", metavar="ID")
     p.add_argument("--navigateur", type=Path, metavar="FICHIER")
+    p.add_argument("--appli", action="store_true")
     p.add_argument("--readme", action="store_true")
     p.add_argument("--json", action="store_true")
     p.add_argument("--langue", default="fr")
@@ -781,8 +843,15 @@ def main():
                 avertissements.append(
                     f"40k.app {f['nom']} : {nav['detachements']} détachements, contre "
                     f"{mfm['detachements']} au Munitorum (compléter app40k_complements)")
+    appli_verifiee = False
+    if args.appli:
+        e, a = verifier_appli(factions)
+        entrees += e
+        avertissements += a
+        appli_verifiee = bool(e)
     else:
-        avertissements.append("40k.app non vérifié : lancer --js dans Chrome puis --navigateur")
+        avertissements.append("appli non vérifiée : relancer avec --appli (Mac déverrouillé, "
+                              "appli connectée)")
     try:
         infos += pr_bsdata()
     except ErreurAcces as e:
@@ -835,8 +904,8 @@ def main():
 
     if any(e["statut"] == "erreur" for e in entrees):
         return 2
-    # Sans le relevé de Chrome, rien ne permet d'affirmer que 40k.app est à jour.
-    complet = args.navigateur is not None
+    # Sans le relevé de l'appli, rien ne permet d'affirmer que le texte des règles est à jour.
+    complet = appli_verifiee
     return 0 if complet and all(e["statut"] == "à jour" for e in entrees) else 1
 
 

@@ -14,6 +14,15 @@
         "ultramarines",
         "white-scars"
       ],
+      "appli": [
+        "Space Marines > Codex: Space Marines",
+        "Imperial Fists > Supplément de Codex: Imperial Fists",
+        "Iron Hands > Supplément de Codex: Iron Hands",
+        "Raven Guard > Supplément de Codex: Raven Guard",
+        "Salamanders > Supplément de Codex: Salamanders",
+        "Ultramarines > Supplément de Codex: Ultramarines",
+        "White Scars > Supplément de Codex: White Scars"
+      ],
       "dossier": "regles/factions/space-marines",
       "collection": "collection/space-marines.md"
     },
@@ -23,6 +32,9 @@
       "mfm": "dark-angels",
       "pack": "dark_angels",
       "app40k": "dark-angels",
+      "appli": [
+        "Dark Angels > Codex Supplement: Dark Angels"
+      ],
       "dossier": "regles/factions/space-marines",
       "collection": "collection/space-marines.md"
     }
@@ -34,6 +46,9 @@
       "mfm": "tyranids",
       "pack": "tyranids",
       "app40k": "tyranids",
+      "appli": [
+        "Tyranides > Codex: Tyranids"
+      ],
       "dossier": "regles/factions/tyranides",
       "collection": "collection/tyranides.md"
     }

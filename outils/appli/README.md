@@ -16,6 +16,16 @@ Les points, PdD et coûts restent ceux de l'Inventaire du Munitorum (`outils/vei
 
 Outil mis au point le 22 et le 23/10/2026, sur l'appli v2.8.1, données v995.
 
+## Utilisation par le projet
+
+- `/veille` : `python3 -I outils/veille.py --appli` compile l'outil si besoin, lance
+  `verifier`, puis `dates` sur les chemins du champ `appli` de `sources/factions.json`
+  (codex et suppléments de chaque faction) et sur les Règles de Base. Sources
+  `appli:<id>:fr` et `appli:general:fr`.
+- `/maj-regles` : lit fiches, règles d'armée, détachements et errata (recettes
+  ci-dessous) et garde la sortie de `lire` dans un brut par faction
+  (`sources/procedures.md`, partie 6).
+
 ## Préparation
 
 Compiler (le binaire n'est pas versionné) :
@@ -56,7 +66,7 @@ la session.
 | `verifier` | préparation et contrôle, à lancer en premier |
 | `accueil` | retour à la racine de Référence, depuis n'importe quel état |
 | `appuyer LIBELLÉ [N]` | ouvre une entrée (N-ième occurrence du libellé, 1 par défaut) |
-| `atteindre LIBELLÉ` | descend jusqu'à une entrée pas encore chargée et l'amène à l'écran |
+| `atteindre LIBELLÉ` | cherche une entrée dans toute la page (pas encore chargée, plus haut ou plus bas) et l'amène à l'écran |
 | `retour` | bouton retour (son nom change selon la page) |
 | `remplir TEXTE` | saisit une recherche (après `appuyer "Recherche de Référence : Bouton"`) |
 | `fermer` | ferme un menu « Ajouter aux Favoris » ou la recherche |
@@ -65,6 +75,7 @@ la session.
 | `lire` | toute la page, de haut en bas, une ligne par rangée affichée |
 | `ecran` | ce qui est à l'écran |
 | `capture FICHIER` | image de la fenêtre seule |
+| `dates CHEMIN…` | date « Dernière Mise à Jour » de chaque page et version des données, en JSON (utilisé par `outils/veille.py --appli`) |
 | `etat` | fenêtre, premier plan, et si l'appli répond |
 | `relancer` | arrête et relance l'appli, passe l'écran d'accueil |
 | `arbre`, `action`, `cliquer`, `reveiller`, `placer` | diagnostic et secours |

@@ -5,13 +5,14 @@
 //   verifier                     contrôle et prépare le Mac et l'appli ; « PRÊT » ou « STOP » + action à faire
 // Navigation
 //   etat                         fenêtre, premier plan, et si l'appli répond
+//   dates CHEMIN…                dates de mise à jour des pages et version des données (JSON, pour /veille)
 //   placer X Y L H               déplace et redimensionne la fenêtre
 //   remplir TEXTE                remplit le champ de recherche (ouvert par la loupe)
 //   appuyer LIBELLÉ [N]          appui d'accessibilité sur la N-ième occurrence (1 par défaut)
 //   retour                       bouton retour de la barre (son nom varie)
 //   fermer                       ferme le menu « Ajouter aux Favoris » ou la recherche
 //   accueil                      ramène à la racine de Référence depuis n'importe quel état
-//   atteindre LIBELLÉ            descend jusqu'à l'entrée et l'amène à l'écran (listes longues)
+//   atteindre LIBELLÉ            cherche l'entrée dans toute la page et l'amène à l'écran
 //   descendre / monter           défilement d'environ une fenêtre (code 3 au bout de la page)
 // Lecture
 //   deplier                      déplie toutes les rubriques de la page
@@ -325,9 +326,49 @@ func allerAccueil() -> Bool {
         if let onglet = tous.first(where: { $0.role == "AXRadioButton" && $0.texte == "RÉFÉRENCE" }) {
             AXUIElementPerformAction(onglet.element, kAXPressAction as CFString); usleep(800_000)
         }
+        // La liste garde sa position : on la remonte pour que ses premières entrées soient chargées.
+        for _ in 0..<20 { if !amener(versLeHaut: true) { break } }
         return true
     }
     return false
+}
+
+// Version des données de l'appli, lue dans l'onglet Profil ; revient à la racine de Référence.
+func versionDonnees() -> String? {
+    guard allerAccueil(), let profil = noeuds().first(where: { $0.role == "AXRadioButton" && $0.texte == "PROFIL" })
+    else { return nil }
+    AXUIElementPerformAction(profil.element, kAXPressAction as CFString); sleep(2)
+    let texte = noeuds().first { $0.texte.hasPrefix("Version des Données") }?.texte
+    _ = allerAccueil()
+    return texte.map { $0.replacingOccurrences(of: "Version des Données :", with: "").trimmingCharacters(in: .whitespaces) }
+}
+
+// Cherche un élément par son libellé dans toute la page : l'écran, puis du haut en bas (les
+// listes ne chargent que ce qui est autour de la fenêtre). L'amène à l'écran s'il est trouvé.
+func chercherDansPage(_ libelle: String) -> Noeud? {
+    var trouve = noeuds().first { $0.texte == libelle }
+    if trouve == nil {
+        for _ in 0..<40 { if !amener(versLeHaut: true) { break } }
+        var immobile = 0
+        for _ in 0..<60 {
+            trouve = noeuds().first { $0.texte == libelle }
+            if trouve != nil { break }
+            immobile = amener(versLeHaut: false) ? 0 : immobile + 1
+            if immobile >= 2 { break }
+        }
+    }
+    if let n = trouve { AXUIElementPerformAction(n.element, "AXScrollToVisible" as CFString); usleep(300_000) }
+    return trouve
+}
+
+// Ouvre une page par son chemin depuis la racine de Référence (« Space Marines > Codex: Space Marines »).
+func ouvrir(_ chemin: String) -> Bool {
+    guard allerAccueil() else { return false }
+    for etape in chemin.components(separatedBy: " > ") {
+        guard let n = chercherDansPage(etape) else { return false }
+        AXUIElementPerformAction(n.element, kAXPressAction as CFString); sleep(2)
+    }
+    return true
 }
 
 // Rangées affichées dans la fenêtre : éléments triés par position, regroupés par ligne (4 px).
@@ -444,20 +485,26 @@ case "fermer":
 case "accueil":
     if allerAccueil() { print("accueil : racine de Référence") } else { sortir("accueil : racine non atteinte après 15 étapes") }
 
-case "atteindre":
-    // Descend jusqu'à ce que l'élément soit chargé, puis l'amène à l'écran. Les listes ne
-    // chargent que ce qui est autour de la fenêtre : un libellé introuvable peut être plus bas.
-    guard args.count == 2 else { sortir("usage : atteindre LIBELLÉ") }
-    var immobile = 0
-    for _ in 0..<60 {
-        if let n = noeuds().first(where: { $0.texte == args[1] }) {
-            AXUIElementPerformAction(n.element, "AXScrollToVisible" as CFString)
-            print("atteint : \(args[1])"); exit(0)
-        }
-        immobile = amener(versLeHaut: false) ? 0 : immobile + 1
-        if immobile >= 2 { break }
+case "dates":
+    // Date « Dernière Mise à Jour » de chaque page donnée par son chemin (null si la page n'a pas
+    // de « Mises à Jour & Errata »), et version des données de l'appli. Sortie JSON pour veille.py.
+    guard args.count >= 2 else { sortir("usage : dates CHEMIN… (ex. « Space Marines > Codex: Space Marines »)") }
+    var dates: [String: Any] = [:]
+    for chemin in args.dropFirst() {
+        guard ouvrir(chemin) else { dates[chemin] = ["erreur": "chemin introuvable"]; continue }
+        guard let maj = chercherDansPage("Mises à Jour & Errata") else { dates[chemin] = NSNull(); continue }
+        AXUIElementPerformAction(maj.element, kAXPressAction as CFString); sleep(2)
+        let ligne = noeuds().first { $0.texte.hasPrefix("Dernière Mise à Jour") }?.texte
+        dates[chemin] = ligne.map { $0.replacingOccurrences(of: "Dernière Mise à Jour :", with: "").trimmingCharacters(in: .whitespaces) } ?? NSNull()
     }
-    sortir("introuvable jusqu'en bas de la page : \(args[1])")
+    let sortie: [String: Any] = ["donnees": versionDonnees() ?? NSNull(), "dates": dates]
+    let json = try! JSONSerialization.data(withJSONObject: sortie, options: [.prettyPrinted, .sortedKeys])
+    print(String(data: json, encoding: .utf8)!)
+
+case "atteindre":
+    guard args.count == 2 else { sortir("usage : atteindre LIBELLÉ") }
+    if chercherDansPage(args[1]) != nil { print("atteint : \(args[1])") }
+    else { sortir("introuvable dans toute la page : \(args[1])") }
 
 case "descendre", "monter":
     if amener(versLeHaut: commande == "monter") { print("\(commande) : ok") } else { print("\(commande) : bout de page"); exit(3) }
