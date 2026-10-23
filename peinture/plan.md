@@ -35,5 +35,5 @@ montage peut se faire à réception.
 
 - **Escouade Suppressor** : hors plan tant qu'elle est absente du Munitorum. Si elle y
   apparaît, elle reprend sa place normale.
-- **Guetteurs dans les Ténèbres** : en dernier, priorité très basse, peints pour le plaisir.
+- **Guetteurs des Ténèbres** : en dernier, priorité très basse, peints pour le plaisir.
 - **Apothicaire Biologis** : priorité basse.

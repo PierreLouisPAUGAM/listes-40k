@@ -25,7 +25,7 @@ monté (10 %). Barème d'avancement : `peinture/etapes-space-marines.md`.
 | Archiviste en Armure Terminator | 1 | Personnage | Monté | 10 % | Non faits | Non fait |
 | Apothicaire Biologis | 1 | Personnage | Monté | 10 % | Non faits | Non fait |
 | Dreadnought Ballistus | 1 | Grosse figurine | Monté | 10 % | Non faits | Non fait |
-| Guetteurs dans les Ténèbres (équipement, pas une unité ; terme français non trouvé) | 9 | Fantassin | Monté | 10 % | Non faits | Non fait |
+| Guetteurs des Ténèbres (équipement « Guetteur des Ténèbres » des Chevaliers de la Deathwing, pas une unité) | 9 | Fantassin | Monté | 10 % | Non faits | Non fait |
 | Escouade Terminator | 10 | Fantassin | En grappes | 0 % | Non faits | Non fait |
 | Chevaliers de la Deathwing | 5 | Fantassin | En grappes | 0 % | Non faits | Non fait |
 | Compagnons du Cercle Intérieur | 6 | Fantassin | En grappes | 0 % | Non faits | Non fait |
