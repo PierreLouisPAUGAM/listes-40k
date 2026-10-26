@@ -6,6 +6,12 @@
 > **Consultée le** : 23/10/2026
 > **Brut** : sources/appli_space-marines_donnees-v995_fr_2026-10-23.txt
 
+> **Source** : Appli Warhammer 40,000, Space Marines — officielle
+> **URL** : appli iPad « WH 40K », recherche de Référence, fiches « <unité>, Codex: Space Marines » : Judicateur, Doyen Gardelame, Escouade de Vétérans Gardelames, Escouade Eradicator avec Fusils Fuseurs (4 fiches, boîte Honneur du Chapitre)
+> **Version** : données v995 ; errata du codex : dernière mise à jour du 14/10/2026
+> **Consultée le** : 26/10/2026
+> **Brut** : sources/appli_space-marines_donnees-v995_fr_2026-10-26.txt
+
 > **Source** : Appli Warhammer 40,000, Dark Angels — officielle
 > **URL** : appli iPad « WH 40K », recherche de Référence, fiches « <unité>, Codex Supplement: Dark Angels » (6 fiches)
 > **Version** : données v995 (supplément non daté)
@@ -21,8 +27,8 @@
 Profils, armes, aptitudes, options, composition et mots-clés : appli, en français. Ils
 remplacent le texte anglais de 40k.app (communautaire) intégré le 09/10/2026. Points,
 surcoûts d'équipement, meneurs et appuis : Inventaire du Munitorum. Les points affichés
-par l'appli concordent avec le Munitorum pour les 22 fiches, surcoûts « à partir de la
-3e unité » compris (comparaison du 23/10/2026).
+par l'appli concordent avec le Munitorum pour les 26 fiches, surcoûts « à partir de la
+3e unité » compris (comparaisons du 23 et du 26/10/2026).
 
 Lecture de l'appli et contrôles :
 
@@ -30,7 +36,7 @@ Lecture de l'appli et contrôles :
   (« Frag » au lieu de « Lance-missiles Cyclone - Frag. »). Ils ont été lus sur des
   captures de l'appli, comme les passages que l'outil signalait mal raccordés.
 - Certaines aptitudes d'arme ne s'affichent que dans un onglet au-dessus de l'arme
-  (« CHASSEUR : MONSTRE/VÉHICULE »), sans être exposées au texte. Les armes des 22 fiches
+  (« CHASSEUR : MONSTRE/VÉHICULE »), sans être exposées au texte. Les armes des 26 fiches
   ont été contrôlées sur captures.
 - Les listes de meneurs (« Cette figurine peut être attachée aux unités suivantes ») sont
   en anglais dans l'appli : les rattachements viennent du Munitorum.
@@ -281,6 +287,59 @@ Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 
 - Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : PERSONNAGE.
 - Mots-clés : IMPERIUM, INFANTERIE, TACTICUS.
+
+## Judicateur
+
+50 pts (1 figurine). Socle 40 mm. Sauvegarde invulnérable 4+.
+
+| M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|
+| 6" | 5 | 3+ | 4 | 6+ | 1 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| Pistolet Bolter Absolvor | 18" | 1 | 3+ | 5 | −2 | 2 | COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| Lame Relique d’Exécuteur | 5 | 2+ | 7 | −2 | 2 | BLESSURES DÉVASTATRICES, PRÉCISION |
+
+- Aptitudes de base : Appui, Combat en Premier.
+- Aptitudes de faction : Doctrines de Combat.
+- **Tempormortis** : Cette unité a Combat en Premier.
+- Composition : 1 figurine de Judicateur. Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Lame Relique d’Exécuteur.
+- Options d'équipement : aucune.
+- **Appui** de : Compagnons du Cercle Intérieur ; Escouade Crusader ; Escouade d'Assaut Intercessor ; Escouade de Frères d'Épée ; Escouade de Vétérans d'Appui ; Escouade de Vétérans d'Avant-garde ; Escouade de Vétérans Gardelames ; Escouade Infernus ; Escouade Intercessor ; Kill Team Decimus ; Kill Team Fortis ; Vétérans de la Deathwatch.
+- Mots-clés de faction : ADEPTUS ASTARTES.
+- Rôle : PERSONNAGE.
+- Mots-clés : IMPERIUM, INFANTERIE, TACTICUS.
+
+## Doyen Gardelame
+
+70 pts (1 figurine). Socle 40 mm. Sauvegarde invulnérable 4+.
+
+| M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|
+| 6" | 5 | 3+ | 4 | 6+ | 3 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| Pistolet Bolter Lourd | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| Reliques de Bataille | 4 | 3+ | 5 | −2 | 2 | — |
+
+- Aptitudes de base : Appui.
+- Aptitudes de faction : Doctrines de Combat.
+- **Faits de Légende** : Tant que cette unité est à portée d’un objectif, ses attaques de mêlée ont +1 en A.
+- **Levez la Bannière** : À la fin de votre phase de Mouvement, si cette unité contrôle un objectif, ce dernier est sécurisé.
+- Composition : 1 figurine de Doyen Gardelame. Cette figurine est équipée de : 1 Pistolet Bolter Lourd ; 1 Reliques de Bataille.
+- Options d'équipement : aucune.
+- **Appui** de : Escouade de Vétérans Gardelames.
+- Mots-clés de faction : ADEPTUS ASTARTES.
+- Rôle : PERSONNAGE.
+- Mots-clés : DOYEN, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
 
 ## Dreadnought Ballistus
 
@@ -608,6 +667,75 @@ Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 
 - Mots-clés de faction : ADEPTUS ASTARTES.
 - Rôle : aucun.
 - Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, RÉACTEUR DORSAL, TACTICUS, VOL.
+
+## Escouade de Vétérans Gardelames
+
+90 pts (3 figurines), 180 pts (6 figurines) ; à partir de la 3e unité : 110 pts (3 figurines), 200 pts (6 figurines). Socle 40 mm. Sauvegarde invulnérable 4+.
+
+| Figurine | M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|---|
+| Sergent Vétéran Gardelame ; Vétéran Gardelame | 6" | 5 | 3+ | 3 | 6+ | 1 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| Pistolet Bolter Lourd | 18" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet Néo-volkite | 12" | 1 | 3+ | 5 | 0 | 2 | BLESSURES DÉVASTATRICES, COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Standard | 12" | 1 | 3+ | 7 | −2 | 1 | COMBAT RAPPROCHÉ |
+| Pistolet à Plasma - Surcharge | 12" | 1 | 3+ | 8 | −3 | 2 | À RISQUE, COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| Épée Énergétique de Maître | 4 | 3+ | 5 | −2 | 2 | — |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. »
+
+- Aptitudes de faction : Doctrines de Combat.
+- **Gardelames (une fois par tour, par unité)** : À la phase de Combat, quand cette unité est choisie pour combattre ou quand une unité ennemie cible cette unité, vous pouvez faire un des choix suivants :
+  - Les attaques de mêlée de cette unité ont +1 aux jets de touche.
+  - Ou : Les attaques qui ciblent cette unité ont -1 aux jets de touche.
+- Composition : 1 figurine de Sergent Vétéran Gardelame ; 2-5 figurines de Vétéran Gardelame. Chaque figurine est équipée de : 1 Pistolet Bolter Lourd ; 1 Épée Énergétique de Maître.
+- Options d'équipement :
+  - Le Sergent Vétéran Gardelame peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+    - 1 Pistolet Néo-volkite
+    - 1 Pistolet à Plasma
+- **Meneurs** possibles : Adrax Agatone (SM) ; Asmodaï (DA) ; Azraël (DA) ; Capitaine ; Capitaine Titus (SM) ; Chapelain ; Kor'sarro Khan (SM) ; Lazarus (DA) ; Marneus Calgar (SM) ; Maître Archiviste Tigurius (SM) ; Vulkan He'stan (SM) ; Ézékiel (DA).
+- **Appuis** possibles : Apothicaire ; Doyen Gardelame ; Gardiens d'Ultramar (SM) ; Judicateur ; Kaius Konorius (SM) ; Lieutenant.
+- Mots-clés de faction : ADEPTUS ASTARTES.
+- Rôle : aucun.
+- Mots-clés : EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS.
+
+## Escouade Eradicator avec Fusils Fuseurs
+
+100 pts (3 figurines), 200 pts (6 figurines) ; à partir de la 3e unité : 120 pts (3 figurines), 220 pts (6 figurines). Socle 40 mm.
+
+| Figurine | M | E | Sv | PV | Cd | CO |
+|---|---|---|---|---|---|---|
+| Sergent Eradicator ; Eradicator | 5" | 6 | 3+ | 3 | 6+ | 1 |
+
+| Arme de tir | Portée | A | CT | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|---|
+| Fusil Fuseur - Fusil Fuseur | 18" | 1 | 3+ | 10 | −3 | D3+2 | FUSION 2 |
+| Fusil Fuseur - Chasseur | 18" | 1 | 2+ | 12 | −3 | D3+2 | CHASSEUR : MONSTRE/VÉHICULE, FUSION 2 |
+| Multi-fuseur - Multi-fuseur | 18" | 2 | 3+ | 10 | −3 | D3+2 | FUSION 3 |
+| Multi-fuseur - Chasseur | 18" | 2 | 2+ | 12 | −3 | D3+2 | CHASSEUR : MONSTRE/VÉHICULE, FUSION 3 |
+| Pistolet Bolter | 12" | 1 | 3+ | 5 | −1 | 1 | COMBAT RAPPROCHÉ |
+
+| Arme de mêlée | A | CC | F | PA | D | Aptitudes |
+|---|---|---|---|---|---|---|
+| Poings de Céramite | 3 | 3+ | 5 | 0 | 1 | — |
+
+Armes à profils : « Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques. » Le profil Chasseur porte le bandeau « CHASSEUR : MONSTRE/VÉHICULE », lu sur capture.
+
+- Aptitudes de faction : Doctrines de Combat.
+- **Oblitération Totale** : Les attaques de tir de cette unité peuvent relancer les jets de dégâts.
+- Composition : 1 figurine de Sergent Eradicator ; 2-5 figurines d’Eradicator. Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Fusil Fuseur.
+- Options d'équipement :
+  - Par tranche de 3 figurines dans cette unité, 1 figurine d’Eradicator peut remplacer son Fusil Fuseur par 1 Multi-fuseur.
+- **Meneurs** possibles : Capitaine en Armure Gravis ; Marneus Calgar (SM) ; Révérend de Fer Feirros (SM) ; Tor Garadon (SM) ; Vulkan He'stan (SM).
+- **Appuis** possibles : Apothicaire Biologis.
+- Mots-clés de faction : ADEPTUS ASTARTES.
+- Rôle : aucun.
+- Mots-clés : EXPLOSIFS, GRAVIS, IMPERIUM, INFANTERIE.
 
 ## Chevaliers de la Deathwing — Dark Angels uniquement
 
