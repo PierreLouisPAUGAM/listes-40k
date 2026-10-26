@@ -1,6 +1,6 @@
 # Collection — Space Marines / Dark Angels
 
-**Dernier recensement : 06/10/2026. Mis à jour le 18/10/2026 (session de peinture).**
+**Dernier recensement : 06/10/2026. Mis à jour le 26/10/2026 (achat de la boîte Honneur du Chapitre).**
 
 Les figurines sont montées avec des pièces Dark Angels et un panachage personnalisé.
 
@@ -34,8 +34,13 @@ monté (10 %). Barème d'avancement : `peinture/etapes-space-marines.md`.
 | Lion El'Jonson | 1 | Grosse figurine | En grappes | 0 % | Non faits | Non fait |
 | Chapelain | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
 | Apothicaire | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Chapelain (deuxième exemplaire, pose différente, boîte Honneur du Chapitre) | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Judicateur | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Doyen Gardelame | 1 | Personnage | En grappes | 0 % | Non faits | Non fait |
+| Escouade de Vétérans Gardelames | 3 | Fantassin | En grappes | 0 % | Non faits | Non fait |
+| Escouade Eradicator avec fusils fuseurs | 3 | Fantassin | En grappes | 0 % | Non faits | Non fait |
 
-**Total : 102 figurines.**
+**Total : 111 figurines.**
 
 Meneurs, appuis, unités jouables en Space Marines ou en Dark Angels, points et options :
 fichiers de `regles/factions/space-marines/`.
@@ -47,6 +52,12 @@ fichiers de `regles/factions/space-marines/`.
   d'Instigator Bolt Carbine : ces pièces viennent du kit Primaris Eliminators vendu seul
   (recherche du 09/10/2026 : Lexicanum « Vanguard Eliminator », Bleeding Cool, Element
   Games). Grappes restantes non vérifiées.
+- **Boîte Honneur du Chapitre** (Chapelain, Judicateur, Doyen Gardelame, Vétérans
+  Gardelames, Eradicators) : grappes monoposes de la boîte Indomitus (V9), non
+  aimantées. Les trois Eradicators portent des fusils fuseurs, sans fuseur lourd ni
+  multi-fuseur (aperçu d'Indomitus par Frontline Gaming, 13/06/2020 : « armed with
+  long-range melta rifles » ; contenu du set « Honoured of the Chapter » d'après les
+  revendeurs, consultés le 26/10/2026).
 
 ## Achats envisagés
 
