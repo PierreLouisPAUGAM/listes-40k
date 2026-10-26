@@ -56,7 +56,9 @@ précisément ce qu'il te faut.
 Présente, puis arrête-toi et attends la réponse :
 
 - **État de la faction** : unités peintes, en peinture, montées, en grappes ; ce que le
-  palier précédent impose de garder.
+  palier précédent impose de garder. Seules ses figurines sont imposées : donne leur coût
+  hors optimisations et la marge qui en découle. Optimisations et détachements se
+  rechoisissent à chaque palier.
 - **Rappel des règles** : règle d'armée ; détachements accessibles au format, avec leur
   coût en PdD, leurs dispositions de force et leur idée générale ; limites du format.
 - **Règles utiles dans ce cas précis** : associations meneur / gardes du corps possibles
@@ -66,7 +68,8 @@ Présente, puis arrête-toi et attends la réponse :
 - **Trois axes de construction**, davantage si d'autres s'imposent clairement. Pour
   chacun : idée de jeu, ce qu'il apprend de l'armée, détachement(s), unités clés, points
   forts et faiblesses, effort de peinture (figurines à finir, à monter, à acheter),
-  cohérence avec le palier précédent et les suivants. Chaque axe respecte les objectifs
+  points des figurines et des optimisations séparés, en disant si l'axe garde, change
+  ou abandonne les optimisations du palier précédent, cohérence avec le palier précédent et les suivants. Chaque axe respecte les objectifs
   de `profil.md` (apprendre l'armée ; progression : peu de mécaniques nouvelles, pas de
   personnage d'élite trop tôt). Un axe qui s'en écarte le dit et explique pourquoi.
 
