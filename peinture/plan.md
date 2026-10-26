@@ -27,7 +27,7 @@ l'impose. C'est une **cible**, pas un engagement.
 ## Contrainte de capacité
 
 L'abonnement Hachette apportera environ 160 à 180 figurines entre fin 2026 et mars 2028,
-qui s'ajoutent aux 147 déjà possédées. Tout ne pourra pas être peint au fil de l'eau :
+qui s'ajoutent aux 158 déjà possédées. Tout ne pourra pas être peint au fil de l'eau :
 les factions Hachette sont **stockées** jusqu'à ce que la séquence les atteigne. Seul le
 montage peut se faire à réception.
 
