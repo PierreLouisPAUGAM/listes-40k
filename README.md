@@ -24,7 +24,7 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
 |---|---|---|---|---|
 | Appli Warhammer 40,000, Dark Angels (fr) | officielle | données v995 | `datasheets.md`, `detachements.md` | 23/10/2026 |
 | Appli Warhammer 40,000, Règles de Base (fr) | officielle | données v995, MAJ 14/10/2026 | `construction-armee.md` | 23/10/2026 |
-| Appli Warhammer 40,000, Space Marines (fr) | officielle | données v995, MAJ 14/10/2026 | `datasheets.md`, `detachements.md` | 23/10/2026 |
+| Appli Warhammer 40,000, Space Marines (fr) | officielle | données v995, MAJ 14/10/2026 | `datasheets.md`, `detachements.md` | 26/10/2026 |
 | Mises à jour des règles universelles (fr) | officielle | MAJ 26/08/2026 | `construction-armee.md` | 08/10/2026 |
 | Munitorum Dark Angels (fr) | officielle | v1.6 | `dark-angels-points.tsv`, `dark-angels-detachements.tsv`, `dark-angels-attachements.tsv`, `dark-angels-options.tsv` | 23/10/2026 |
 | Munitorum Space Marines (fr) | officielle | v1.6 | `space-marines-points.tsv`, `space-marines-detachements.tsv`, `space-marines-attachements.tsv`, `space-marines-options.tsv` | 23/10/2026 |

@@ -1,0 +1,238 @@
+== Référence > Recherche « Judicateur » > Judicateur, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/c2e2eb21-2c21-4794-bff4-d6c4151406cd/scratchpad/captures/1793028275-1-caracteristiques.png | Judicateur. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Pistolet Bolter Absolvor.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Lame Relique d’Exécuteur.
+Portée : Melee.
+Attaques : 5.
+Capacité de Combat : 2+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. BLESSURES DÉVASTATRICES - Button. PRÉCISION - Button.
+Base :
+APPUI | COMBAT EN PREMIER
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+TEMPORMORTIS
+Cette unité a Combat en Premier.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ ASSAULT INTERCESSOR SQUAD
+■ BLADEGUARD VETERAN SQUAD
+■ CRUSADER SQUAD
+■ DEATHWATCH VETERANS
+■ DECIMUS KILL TEAM
+■ FORTIS KILL TEAM
+■ INFERNUS SQUAD
+■ INNER CIRCLE COMPANIONS
+■ INTERCESSOR SQUAD
+■ STERNGUARD VETERAN SQUAD
+■ SWORD BRETHREN SQUAD
+■ VANGUARD VETERAN SQUAD
+
+• 1 figurine de Judicateur
+Cette figurine est équipée de : 1 Pistolet Bolter Absolvor ; 1 Lame Relique d’Exécuteur.
+Nom de Figurine | Compte | Points
+Judicateur | 1 | 50
+Taille de Socle
+40mm
+Mots-clés: PERSONNAGE, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+== Référence > Recherche « Doyen Gardelame » > Doyen Gardelame, Codex: Space Marines
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/c2e2eb21-2c21-4794-bff4-d6c4151406cd/scratchpad/captures/1793028393-1-caracteristiques.png | Doyen Gardelame. Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 6+. Contrôle d'Objectif : 3.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Mêlée -  Reliques de Bataille.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Base :
+APPUI
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+FAITS DE LÉGENDE
+Tant que cette unité est à portée d’un objectif, ses attaques de mêlée ont +1 en A.
+LEVEZ LA BANNIÈRE
+À la fin de votre phase de Mouvement, si cette unité contrôle un objectif, ce dernier est sécurisé.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ BLADEGUARD VETERAN SQUAD
+
+• 1 figurine de Doyen Gardelame
+Cette figurine est équipée de : 1 Pistolet Bolter Lourd ; 1 Reliques de Bataille.
+Nom de Figurine | Compte | Points
+Doyen Gardelame | 1 | 70
+Taille de Socle
+40mm
+Mots-clés: DOYEN, PERSONNAGE, EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+== Référence > Recherche « Vétérans Gardelames » > Escouade de Vétérans Gardelames, Codex: Space Marines
+Sergent Vétéran Gardelame
+Vétéran Gardelame, Mouvement : 6". Endurance : 5. Sauvegarde : 3+. Points de Vie : 3. Commandement : 6+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Pistolet Bolter Lourd.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Pistolet Néo-volkite.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. BLESSURES DÉVASTATRICES - Button.
+Armes de Tir -  Standard.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 7.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Armes de Tir -  Surcharge.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 8.
+Pénétration d'Armure : -3.
+Dégats : 2.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button. À RISQUE - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Épée Énergétique de Maître.
+Portée : Melee.
+Attaques : 4.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -2.
+Dégats : 2.
+
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+GARDELAMES (UNE FOIS PAR TOUR, PAR UNITÉ)
+À la phase de Combat, quand cette unité est choisie pour combattre ou quand une unité ennemie cible cette unité, vous pouvez faire un des choix suivants :
+
+• Les attaques de mêlée de cette unité ont +1 aux jets de touche.
+
+• Ou : Les attaques qui ciblent cette unité ont -1 aux jets de touche.
+■ Le Sergent Vétéran Gardelame peut remplacer son Pistolet Bolter Lourd par un des choix suivants :
+▫ 1 Pistolet Néo-volkite
+▫ 1 Pistolet à Plasma
+
+• 1 figurine de Sergent Vétéran Gardelame
+• 2-5 figurines de Vétéran Gardelame
+Chaque figurine est équipée de : 1 Pistolet Bolter Lourd ; 1 Épée Énergétique de Maître.
+Nom de Figurine | Compte | Points
+Sergent Vétéran Gardelame | 1
+90
+Vétéran Gardelame | 2
+Sergent Vétéran Gardelame | 1
+180
+Vétéran Gardelame | 5
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +20 pts.
+Taille de Socle
+40mm
+Mots-clés: EXPLOSIFS, IMPERIUM, INFANTERIE, TACTICUS
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Standard, Surcharge ; arme parente probable : Pistolet à Plasma ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/c2e2eb21-2c21-4794-bff4-d6c4151406cd/scratchpad/captures/1793028439-2-armes.png
+== Référence > Recherche « Eradicator » > Escouade Eradicator avec Fusils Fuseurs, Codex: Space Marines
+Sergent Eradicator
+Eradicator, Mouvement : 5". Endurance : 6. Sauvegarde : 3+. Points de Vie : 3. Commandement : 6+. Contrôle d'Objectif : 1.
+Armes de Tir -  Fusil Fuseur.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. FUSION 2 - Button.
+Armes de Tir -  Chasseur.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 2+.
+Force : 12.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. FUSION 2 - Button.
+Armes de Tir -  Multi-fuseur.
+Portée : 18".
+Attaques : 2.
+Capacité de Tir : 3+.
+Force : 10.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. FUSION 3 - Button.
+Armes de Tir -  Chasseur.
+Portée : 18".
+Attaques : 2.
+Capacité de Tir : 2+.
+Force : 12.
+Pénétration d'Armure : -3.
+Dégats : D3+2.
+Aptitudes d'Arme. FUSION 3 - Button.
+Armes de Tir -  Pistolet Bolter.
+Portée : 12".
+Attaques : 1.
+Capacité de Tir : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. COMBAT RAPPROCHÉ - Button.
+Avant de choisir des cibles pour cette arme, choisissez 1 de ses profils avec lequel faire des attaques.
+Armes de Mêlée -  Poings de Céramite.
+Portée : Melee.
+Attaques : 3.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Aptitudes de Faction :
+DOCTRINES DE COMBAT
+Aptitudes de Fiche Technique :
+OBLITÉRATION TOTALE
+Les attaques de tir de cette unité peuvent relancer les jets de dégâts.
+■ Par tranche de 3 figurines dans cette unité, 1 figurine d’Eradicator peut remplacer son Fusil Fuseur par 1 Multi-fuseur.
+
+• 1 figurine de Sergent Eradicator
+• 2-5 figurines d’Eradicator
+Chaque figurine est équipée de : 1 Pistolet Bolter ; 1 Poings de Céramite ; 1 Fusil Fuseur.
+Nom de Figurine | Compte | Points
+Sergent Eradicator | 1
+100
+Eradicator | 2
+Sergent Eradicator | 1
+200
+Eradicator | 5
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +20 pts.
+Taille de Socle
+40mm
+Mots-clés: EXPLOSIFS, GRAVIS, IMPERIUM, INFANTERIE
+Mots-clés de Faction: ADEPTUS ASTARTES
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Chasseur, Multi-fuseur, Chasseur ; arme parente probable : figurine d’Eradicator peut remplacer son Fusil Fuseur 1 Multi-fuseur ; captures : /private/tmp/claude-501/-Users-paugam-repos-listes-40k/c2e2eb21-2c21-4794-bff4-d6c4151406cd/scratchpad/captures/1793028480-2-armes.png
