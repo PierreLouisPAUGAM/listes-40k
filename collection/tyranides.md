@@ -1,11 +1,11 @@
 # Collection — Tyranides
 
-**Dernier recensement : 06/10/2026.**
+**Dernier recensement : 27/10/2026.**
 
 Source : moitié tyranide de la boîte Leviathan (47 figurines), plus le Parasite de
 Mortrex livré par Hachette (n°19).
 
-Noms des unités : Inventaire du Munitorum Tyranides v1.5, vérifiés le 08/10/2026.
+Noms des unités : Inventaire du Munitorum Tyranides v1.6, vérifiés le 26/10/2026.
 
 | Unité | Nb | Type | Statut |
 |---|---|---|---|
@@ -19,6 +19,6 @@ Noms des unités : Inventaire du Munitorum Tyranides v1.5, vérifiés le 08/10/2
 | Neurogaunts | 11 | Fantassin | En grappes |
 | Termagants (perce-chair) | 20 | Fantassin | En grappes |
 | Nuées de Voraces | 2 | Fantassin | En grappes |
-| Parasite de Mortrex | 1 | Personnage | Non reçu (fin oct. 2026) |
+| Parasite de Mortrex | 1 | Personnage | En grappes |
 
-**Total : 48 figurines, dont 47 en possession.**
+**Total : 48 figurines, toutes en possession.**

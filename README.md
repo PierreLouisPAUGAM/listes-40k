@@ -10,7 +10,7 @@ Pour savoir quoi lancer selon ce que tu veux faire : `MODE-EMPLOI.md`.
 - **Factions actives** : Space Marines / Dark Angels, Tyranides.
 - **Factions à venir** : 7 factions livrées par abonnement Hachette entre fin 2026 et
   mars 2028 (voir `collection/calendrier-hachette.md`).
-- **Figurines possédées** : 158 (111 Space Marines / Dark Angels, 47 Tyranides).
+- **Figurines possédées** : 159 (111 Space Marines / Dark Angels, 48 Tyranides).
 - **Peint** : 0 unité terminée.
 - **Vitesse de peinture** : inconnue, à calculer dès que `peinture/historique.csv`
   contiendra quelques semaines de données.

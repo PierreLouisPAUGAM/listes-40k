@@ -363,7 +363,7 @@ Sauvegarde invulnérable 6+.
 
 ## Parasite de Mortrex [O, en anglais dans l'appli]
 
-65 pts (1 figurine). Socle 40 mm. Non reçu (livraison Hachette prévue fin octobre 2026).
+65 pts (1 figurine). Socle 40 mm.
 
 | M | E | Sv | PV | Cd | CO |
 |---|---|---|---|---|---|
