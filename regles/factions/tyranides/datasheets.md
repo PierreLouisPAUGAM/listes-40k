@@ -1,21 +1,21 @@
 # Tyranides — fiches techniques des unités possédées
 
-> **Source** : 40k.app, Tyranids (en) — communautaire, à recouper avec le codex Tyranides ou l'appli
-> **URL** : https://www.40k.app/factions/tyranids/units/winged-tyranid-prime, /neurotyrant, /screamer-killer, /psychophage, /von-ryans-leapers, /barbgaunts, /neurogaunts, /termagants, /ripper-swarms, /parasite-of-mortrex
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+> **Source** : Appli Warhammer 40,000, Tyranides — officielle
+> **URL** : appli iPad « WH 40K » installée sur le Mac, Référence > recherche, fiches Winged Tyranid Prime, Neurotyrant, Screamer-Killer, Psychophage, Von Ryan’s Leapers, Barbgaunts, Neurogaunts, Termagants, Ripper Swarms, Parasite of Mortrex (Codex: Tyranids) ; Référence > Tyranides > Codex: Tyranids > Mises à Jour & Errata, FAQ
+> **Version** : données v995 ; Mises à Jour & Errata et FAQ : dernière mise à jour du 14/10/2026
+> **Consultée le** : 26/10/2026
+> **Brut** : sources/appli_tyranides_donnees-v995_fr_2026-10-26.txt (PV lus sur les captures de l'outil, non versionnées)
 
-> **Source** : Pack de Faction Tyranides, version 1.2 — officielle
-> **URL** : https://assets.warhammer-community.com/fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf
-> **Version** : 1.2, valide à partir du 26/08/2026
-> **Consultée le** : 09/10/2026
-> **Brut** : sources/faction-pack_tyranides_maj2026-08-26_fr_2026-10-08.txt
+> **Source** : Pack de Faction Tyranides, version 1.3 — officielle
+> **URL** : https://assets.warhammer-community.com/fre_14-10_wh40k_faction_pack_tyranids-gt0vl8gg9x-xgsxs8oxlq.pdf
+> **Version** : 1.3, valide à partir du 14/10/2026
+> **Consultée le** : 26/10/2026
+> **Brut** : sources/faction-pack_tyranides_maj2026-10-14_fr_2026-10-26.txt
 
 > **Source** : Inventaire du Munitorum, Tyranides — officielle
 > **URL** : https://mfm.warhammer-community.com/fr/tyranids
-> **Version** : v1.5
-> **Consultée le** : 08/10/2026 (empreinte inchangée au 09/10/2026)
+> **Version** : v1.6
+> **Consultée le** : 26/10/2026
 > **Brut** : regles/factions/tyranides/tyranids-points.tsv, tyranids-attachements.tsv, tyranids-detachements.tsv
 
 > **Source** : Règles de Base — officielle
@@ -24,14 +24,15 @@
 > **Consultée le** : 08/10/2026
 > **Brut** : sources/regles-de-base_general_maj2026-06-01_fr_2026-10-08.txt (noms français des aptitudes de base, des aptitudes d'armes et des mots-clés)
 
-Aucune des unités possédées n'a sa fiche dans le Pack : profils, armes et aptitudes
-viennent de 40k.app, en anglais, et portent le renvoi **[C]** par défaut. Les errata du
-Pack et les noms français qu'il donne portent le renvoi **[O]** ; 40k.app reprend tous
-les errata qui touchent ces unités, sans contradiction relevée le 09/10/2026. Noms
-d'unités, points et meneurs : Inventaire du Munitorum. Noms des aptitudes de base, des
-aptitudes d'armes et des mots-clés : Règles de Base, panneau « Rassembler les Armées » et
-Pack. Noms d'armes et d'aptitudes d'unité : anglais, sauf quand le Pack donne le terme
-français.
+Tout le contenu est officiel (**[O]**). Il remplace le texte anglais de 40k.app
+(communautaire) intégré le 09/10/2026, sans différence de profil, d'arme ni d'aptitude.
+Les fiches du codex Tyranides sont en anglais dans l'appli, errata intégrés : profils,
+armes et aptitudes d'unité sont repris tels quels (« en anglais dans l'appli »). Aucune
+des unités possédées n'a sa fiche dans le Pack ; ses errata et les noms français qu'il
+donne sont repris en français. Noms d'unités, points et meneurs : Inventaire du Munitorum
+(l'appli donne les mêmes). Noms des aptitudes de base, des aptitudes d'armes et des
+mots-clés : Règles de Base, panneau « Rassembler les Armées », Pack et appli. Noms
+d'armes et d'aptitudes d'unité : anglais, sauf quand le Pack donne le terme français.
 
 Unités couvertes : celles de `collection/tyranides.md`. Les « Neuroloïdes » de la
 collection ne sont pas une unité : ce sont des pions de l'aptitude Neuroloïdes du
@@ -41,23 +42,19 @@ Profil : M, E, Sv, PV, Cd, CO. Armes : portée, A, CT/CC, F, PA, D.
 
 Mots-clés : chaque fiche porte trois lignes.
 
-- **Mots-clés de faction** : 40k.app n'en donne aucun et aucune source officielle
-  disponible ne couvre ces unités. Ils restent à fournir (voir `README.md`).
+- **Mots-clés de faction** : ligne « Mots-clés de Faction » de la fiche de l'appli.
 - **Rôle** : LIGNE, TRANSPORT ASSIGNÉ, HÉROS ÉPIQUE, PERSONNAGE, ou « aucun ».
-- **Mots-clés** : les autres. Correspondances : CHARACTER = PERSONNAGE et BATTLELINE =
-  LIGNE (panneau « Rassembler les Armées ») ; FLY = VOL, INFANTRY = INFANTERIE, MONSTER =
-  MONSTRE, PSYKER = PSYKER, SWARM = NUÉE (Règles de Base) ; GREAT DEVOURER = GRAND
-  DÉVOREUR, VANGUARD INVADER = ENVAHISSEUR D'AVANT-GARDE, SYNAPSE = SYNAPSE, HARVESTER =
-  RÉCOLTEUR, ENDLESS MULTITUDE = MULTITUDE INFINIE, SMOKE = FUMÉE (Pack) ; mot-clé
-  portant le nom de l'unité = nom de l'unité dans le Munitorum, comme sur les fiches du
-  Pack.
+- **Mots-clés** : les autres, tels que l'appli les donne en français (ligne « Mots-clés »
+  de la fiche). L'appli garde en anglais le mot-clé qui porte le nom de l'unité
+  (SCREAMER-KILLER, VON RYAN’S LEAPERS, RIPPER SWARMS, PARASITE OF MORTREX) : il est
+  remplacé par le nom de l'unité dans le Munitorum, comme sur les fiches du Pack.
 
 Aptitudes de faction [O] : Synapse et L'Ombre dans le Warp, texte dans
 `detachements.md`.
 
 ---
 
-## Primat Tyranide Ailé [C]
+## Primat Tyranide Ailé [O, en anglais dans l'appli]
 
 65 pts (1 figurine). Socle 50 mm.
 
@@ -81,14 +78,14 @@ Aptitudes de faction [O] : Synapse et L'Ombre dans le Warp, texte dans
 - Options d'équipement : aucune.
 - **Meneur** de : Gargouilles ; Guerriers Tyranides avec Bio-armes de Mêlée ; Guerriers
   Tyranides avec Bio-armes de Tir.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : PERSONNAGE.
 - Mots-clés : VOL, GRAND DÉVOREUR, INFANTERIE, SYNAPSE, ENVAHISSEUR D'AVANT-GARDE,
   PRIMAT TYRANIDE AILÉ.
 - Optimisations dédiées : Puissance Élevée, Adaptation Oculaire (Assaut de Bioformes de
   Type Guerrier, qui lui donne aussi une SvIn de 5+).
 
-## Neurotyran [C]
+## Neurotyran [O, en anglais dans l'appli]
 
 120 pts (1 figurine). Socle 50 mm.
 
@@ -108,12 +105,12 @@ Sauvegarde invulnérable 4+.
 
 - Aptitudes de base : Meneur.
 - Aptitudes de faction : Synapse, L'Ombre dans le Warp.
-- "Node Lash" : while this model is leading a unit, each time a model in that unit makes
-  an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound
-  roll as well.
-- "Psychic Terror" : if one or more Neurotyrants from your army are on the battlefield
-  when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each
-  enemy unit on the battlefield must take as a result.
+- "Node Lash" (Psychique) : while this model is leading a unit, each time a model in
+  that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add
+  1 to the Wound roll as well.
+- "Psychic Terror" (Psychique) : if one or more Neurotyrants from your army are on the
+  battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock
+  test each enemy unit on the battlefield must take as a result.
 - Neuroloïdes (nom français : FAQ du Pack [O]) : in your Command phase, you can select up
   to two friendly TYRANIDS units within 18" of this model's unit. Until the start of your
   next Command phase, the selected units are always considered to be within Synapse
@@ -125,11 +122,11 @@ Sauvegarde invulnérable 4+.
   lashes".
 - Options d'équipement : aucune.
 - **Meneur** de : Gardes Tyranides ; Neurogaunts ; Zoanthropes.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : PERSONNAGE.
 - Mots-clés : VOL, GRAND DÉVOREUR, MONSTRE, NEUROTYRAN, PSYKER, SYNAPSE.
 
-## Tueur-Hurleur [C]
+## Tueur-Hurleur [O, en anglais dans l'appli]
 
 125 pts (1 figurine) ; 135 pts pour le 3e exemplaire et au-delà. Socle 90 mm.
 
@@ -145,8 +142,8 @@ Sauvegarde invulnérable 4+.
 |---|---|---|---|---|---|---|
 | "Screamer-Killer talons" | 10 | 3+ | 10 | −2 | 3 | — |
 
-40k.app affiche l'arme de mêlée sous deux noms : « Screamer-Killer talons
-(Scream-Killer talons) ».
+L'appli nomme l'arme de mêlée « Scream-Killer talons » dans le profil et
+« Screamer-Killer talons » dans la composition.
 
 - Aptitudes de base : Destruction Néfaste 1.
 - Aptitudes de faction : Synapse.
@@ -156,11 +153,11 @@ Sauvegarde invulnérable 4+.
 - Composition : 1 Tueur-Hurleur, équipé de : "Bio-plasmic scream" ; "Screamer-Killer
   talons".
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : GRAND DÉVOREUR, MONSTRE, TUEUR-HURLEUR.
 
-## Psychophage [C]
+## Psychophage [O, en anglais dans l'appli]
 
 110 pts (1 figurine). Socle ovale 120 × 92 mm.
 
@@ -178,8 +175,9 @@ Sauvegarde invulnérable 4+.
 
 - Aptitudes de base : Destruction Néfaste 1, Insensible à la Douleur 5+.
 - Aptitudes de faction : Synapse.
-- Biostimulus [O] (erratum du Pack) : à votre phase de Tir, après que cette figurine a
-  tiré, choisissez 1 unité ennemie touchée par une ou plusieurs de ces attaques.
+- Biostimulus (Aura) (erratum du Pack ; mention « (Aura) » : appli) : à votre phase de
+  Tir, après que cette figurine a tiré, choisissez 1 unité ennemie touchée par une ou
+  plusieurs de ces attaques.
   Jusqu'à la fin du tour, à chaque attaque de mêlée d'une unité TYRANIDE amie qui cible
   ladite unité ennemie, améliorez de 1 la caractéristique de Pénétration d'Armure de
   l'attaque. La même unité ennemie peut être affectée par cette aptitude une seule fois
@@ -190,15 +188,15 @@ Sauvegarde invulnérable 4+.
 - Composition : 1 Psychophage, équipé de : "Psychoclastic torrent" ; griffes et gueule
   tentaculaire.
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : GRAND DÉVOREUR, RÉCOLTEUR, MONSTRE, PSYCHOPHAGE, FUMÉE [O, ajouté par
   erratum].
 
-Errata du Pack (M 12", Biostimulus, FUMÉE, griffes A 6 et PA −2) : tous repris par
-40k.app.
+Errata du Pack (M 12", Biostimulus, FUMÉE, griffes A 6 et PA −2) : tous intégrés par
+l'appli.
 
-## Bondisseurs de Von Ryan [C]
+## Bondisseurs de Von Ryan [O, en anglais dans l'appli]
 
 55 pts (3 figurines) ; 105 pts (6 figurines). Socle 40 mm.
 
@@ -222,7 +220,7 @@ Sauvegarde invulnérable 6+.
     unités à cette phase.
 - Composition : 3 à 6 Bondisseurs de Von Ryan, chacun équipé de : "Leaper's talons".
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : GRAND DÉVOREUR, INFANTERIE, ENVAHISSEUR D'AVANT-GARDE, BONDISSEURS DE VON
   RYAN.
@@ -230,7 +228,7 @@ Sauvegarde invulnérable 6+.
   et Camouflage Cryptophotaïque, deux Améliorations ; Contre-Prédation et Adaptations
   Hypersensorielles.
 
-## Barbgaunts [C]
+## Barbgaunts [O, en anglais dans l'appli]
 
 50 pts (5 figurines) ; 100 pts (10 figurines). Socle 40 mm.
 
@@ -256,11 +254,11 @@ Sauvegarde invulnérable 6+.
 - Composition : 5 à 10 Barbgaunts, chacun équipé de : "Barblauncher" ; "Chitinous claws
   and teeth".
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : BARBGAUNTS, GRAND DÉVOREUR, INFANTERIE.
 
-## Neurogaunts [C]
+## Neurogaunts [O, en anglais dans l'appli]
 
 45 pts (11 figurines) ; 90 pts (22 figurines). Socles : Neurogaunts 25 mm,
 "Neurogaunt Nodebeast" 28,5 mm.
@@ -285,11 +283,11 @@ Sauvegarde invulnérable 6+.
   20 Neurogaunts.
 - Options d'équipement : aucune.
 - Menée par : Neurotyran.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : MULTITUDE INFINIE, GRAND DÉVOREUR, INFANTERIE, NEUROGAUNTS.
 
-## Termagants [C]
+## Termagants [O, en anglais dans l'appli]
 
 55 pts (10 figurines) ; 110 pts (20 figurines). Socle 28,5 mm.
 
@@ -330,11 +328,11 @@ Sauvegarde invulnérable 6+.
   - pour chaque tranche de 10 figurines, l'arme de tir d'1 figurine peut être remplacée
     par 1 "Strangleweb".
 - Menée par : Primat Tyranide avec Bioknout (non possédé).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : LIGNE.
 - Mots-clés : MULTITUDE INFINIE, GRAND DÉVOREUR, INFANTERIE, TERMAGANTS.
 
-## Nuées de Voraces [C]
+## Nuées de Voraces [O, en anglais dans l'appli]
 
 30 pts (1 figurine) ; 40 pts (2 figurines) ; 50 pts (3 figurines). Socle 40 mm.
 
@@ -359,11 +357,11 @@ Sauvegarde invulnérable 6+.
 - Options d'équipement : toutes les figurines peuvent chacune recevoir 1 "Spinemaws".
 - Unité liée : Parasite de Mortrex (son aptitude "Parasitic Infection" ajoute des Nuées
   de Voraces à l'armée).
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : aucun.
 - Mots-clés : GRAND DÉVOREUR, RÉCOLTEUR, NUÉES DE VORACES, NUÉE.
 
-## Parasite de Mortrex [C]
+## Parasite de Mortrex [O, en anglais dans l'appli]
 
 65 pts (1 figurine). Socle 40 mm. Non reçu (livraison Hachette prévue fin octobre 2026).
 
@@ -388,9 +386,9 @@ Sauvegarde invulnérable 6+.
   Range of this model. That enemy unit must take a Battle-shock test.
 - Composition : 1 Parasite de Mortrex, équipé de : "Barbed ovipositor" ; "Clawed limbs".
 - Options d'équipement : aucune.
-- Mots-clés de faction : non donnés par 40k.app, à fournir.
+- Mots-clés de faction : TYRANIDES.
 - Rôle : PERSONNAGE.
 - Mots-clés : VOL, GRAND DÉVOREUR, INFANTERIE, PARASITE DE MORTREX, SYNAPSE [O, ajouté
   par erratum], ENVAHISSEUR D'AVANT-GARDE.
 
-Errata du Pack (L'Ombre dans le Warp, SYNAPSE) : repris par 40k.app.
+Errata du Pack (L'Ombre dans le Warp, SYNAPSE) : intégrés par l'appli.

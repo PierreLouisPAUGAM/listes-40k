@@ -1,7 +1,8 @@
 # Tyranides — règles et points
 
-**Alimenté le 08/10/2026** à partir de l'Inventaire du Munitorum v1.5, du Pack de Faction
-Tyranides v1.2 (26/08/2026) et de 40k.app (communautaire). Sources et dates détaillées en
+**Alimenté le 26/10/2026** à partir de l'Inventaire du Munitorum v1.6, de l'appli
+Warhammer 40,000 (données v995, codex en anglais) et du Pack de Faction Tyranides v1.3
+(14/10/2026). Sources et dates détaillées en
 tête de chaque fichier ; état des sources dans `sources/etat.json`.
 
 - `tyranids-points.tsv` — coûts des unités (Munitorum), avec noms français et anglais.

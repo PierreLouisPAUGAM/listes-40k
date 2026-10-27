@@ -1,62 +1,84 @@
 # Tyranides — règle d'armée et détachements
 
-> **Source** : Pack de Faction Tyranides, version 1.2 — officielle
-> **URL** : https://assets.warhammer-community.com/fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf
-> **Version** : 1.2, valide à partir du 26/08/2026
-> **Consultée le** : 09/10/2026
-> **Brut** : sources/faction-pack_tyranides_maj2026-08-26_fr_2026-10-08.txt
+> **Source** : Appli Warhammer 40,000, Tyranides — officielle
+> **URL** : appli iPad « WH 40K » installée sur le Mac, Référence > Tyranides > Codex: Tyranids (Règles d'Armée, Mises à Jour & Errata, FAQ, 10 détachements : règles, Optimisations, Stratagèmes)
+> **Version** : données v995 ; Mises à Jour & Errata et FAQ : dernière mise à jour du 14/10/2026
+> **Consultée le** : 26/10/2026
+> **Brut** : sources/appli_tyranides_donnees-v995_fr_2026-10-26.txt
+
+> **Source** : Pack de Faction Tyranides, version 1.3 — officielle
+> **URL** : https://assets.warhammer-community.com/fre_14-10_wh40k_faction_pack_tyranids-gt0vl8gg9x-xgsxs8oxlq.pdf
+> **Version** : 1.3, valide à partir du 14/10/2026
+> **Consultée le** : 26/10/2026
+> **Brut** : sources/faction-pack_tyranides_maj2026-10-14_fr_2026-10-26.txt
 
 > **Source** : Inventaire du Munitorum, Tyranides — officielle
 > **URL** : https://mfm.warhammer-community.com/fr/tyranids
-> **Version** : v1.5
-> **Consultée le** : 08/10/2026 (empreinte inchangée au 09/10/2026)
+> **Version** : v1.6
+> **Consultée le** : 26/10/2026
 > **Brut** : regles/factions/tyranides/tyranids-detachements.tsv (PdD, dispositions, noms et coûts des optimisations)
 
-> **Source** : 40k.app, Tyranids (en) — communautaire, à recouper avec le codex Tyranides ou l'appli
-> **URL** : https://www.40k.app/factions/tyranids/army-rules ; https://www.40k.app/factions/tyranids/detachments/assimilation-swarm, /unending-swarm, /invasion-fleet, /synaptic-nexus, /vanguard-onslaught, /crusher-stampede ; pour comparaison avec le Pack : /ambush-predators, /talons-of-the-norn-queen, /warrior-bioform-onslaught, /subterranean-assault
-> **Version** : sans version
-> **Consultée le** : 09/10/2026
-> **Brut** : aucun (pages lues dans Chrome)
+Tout le texte est officiel (**[O]**). Il remplace le texte anglais de 40k.app
+(communautaire) intégré le 09/10/2026. Le codex Tyranides n'est pas traduit dans l'appli :
+la règle d'armée et 6 détachements y sont en anglais, avec les errata déjà intégrés, et
+sont repris tels quels (« en anglais dans l'appli »). Assaut de Bioformes de Type
+Guerrier, Prédateurs Embusqués et Serres de la Reine Norne sont en français dans l'appli,
+avec le même texte que le Pack. Attaque Souterraine est en anglais dans l'appli et en
+français dans le Pack, avec le même contenu : le texte français du Pack est retenu. Les
+passages remplacés par un erratum du Pack sont donnés en français.
 
-Le Pack complète le codex sans le remplacer : il contient 4 des 10 détachements, dont le
-texte français porte le renvoi **[O]**. Les 6 autres viennent de 40k.app, en anglais,
-avec le renvoi **[C]** ; les passages remplacés par un erratum du Pack y sont repris en
-français, marqués **[O]**. Noms de détachements et d'optimisations : Inventaire du
-Munitorum. Noms de règles et de stratagèmes : français quand le Pack les donne, sinon
-anglais. Coûts en PC des stratagèmes 40k.app : chiffre affiché par le site.
+Noms de détachements et d'optimisations : Inventaire du Munitorum. Noms de règles et de
+stratagèmes : français quand l'appli ou le Pack les donnent, sinon anglais entre
+guillemets (terme français non trouvé). Catégories de stratagèmes (Fait Épique,
+Subterfuge Stratégique, Tactique de Bataille, Équipement) : appli. Coûts en PC : appli.
 
 Les Mises à jour des règles universelles (`regles/construction-armee.md`) s'appliquent
 en plus.
 
-Mots-clés anglais employés par 40k.app, avec le terme français officiel (Pack, Règles de
-Base) : BURROWER = FOUISSEUR ; CHARACTER = PERSONNAGE ; ENDLESS MULTITUDE = MULTITUDE
-INFINIE ; HARVESTER = RÉCOLTEUR ; INFANTRY = INFANTERIE ; MONSTER = MONSTRE ; PSYKER =
-PSYKER ; SWARM = NUÉE ; SYNAPSE = SYNAPSE ; TITANIC = TITANESQUE ; VANGUARD INVADER =
-ENVAHISSEUR D'AVANT-GARDE ; VEHICLE = VÉHICULE ; AIRCRAFT = AÉRODYNE ; WARLORD = Seigneur
-de Guerre. Noms d'unités : Inventaire du Munitorum (DEATHLEAPER = LA MORT SUBITE, NORN
-EMISSARY = ÉMISSAIRE NORNE, NORN ASSIMILATOR = ASSIMILATRICE NORNE, MAWLOC, TRYGON).
+Mots-clés anglais employés par l'appli, avec le terme français officiel (fiches de
+l'appli, Pack, Règles de Base) : BURROWER = FOUISSEUR ; CHARACTER = PERSONNAGE ; ENDLESS
+MULTITUDE = MULTITUDE INFINIE ; HARVESTER = RÉCOLTEUR ; INFANTRY = INFANTERIE ; MONSTER =
+MONSTRE ; PSYKER = PSYKER ; SWARM = NUÉE ; SYNAPSE = SYNAPSE ; TITANIC = TITANESQUE ;
+VANGUARD INVADER = ENVAHISSEUR D'AVANT-GARDE ; VEHICLE = VÉHICULE ; AIRCRAFT = AÉRODYNE ;
+WARLORD = Seigneur de Guerre. Noms d'unités : Inventaire du Munitorum (DEATHLEAPER = LA
+MORT SUBITE, NORN EMISSARY = ÉMISSAIRE NORNE, NORN ASSIMILATOR = ASSIMILATRICE NORNE,
+MAWLOC, TRYGON).
 
-## Écarts relevés le 09/10/2026
+## Écarts relevés le 26/10/2026
 
 - **Situation Insurmontable** (Essaim Inépuisable) : l'erratum du Pack vise les unités
-  « d'ESSAIM INÉPUISABLE », 40k.app les unités ENDLESS MULTITUDE (MULTITUDE INFINIE).
-  ESSAIM INÉPUISABLE est le nom du détachement, pas un mot-clé d'unité : erreur probable
-  de la traduction française. Le texte du Pack est reproduit tel quel, la règle reste
-  inapplicable à la lettre tant que l'appli ou le codex ne l'ont pas tranchée.
+  « d'ESSAIM INÉPUISABLE », l'appli (codex et Mises à Jour & Errata) les unités ENDLESS
+  MULTITUDE (MULTITUDE INFINIE). L'appli tranche : la version française du Pack est une
+  erreur de traduction. Écart signalé le 09/10/2026, toujours présent dans le Pack 1.3.
+- **Noms d'optimisations** : l'appli en français nomme « Chasseurs Dissimulés » ce que le
+  Munitorum et le Pack nomment Camouflage Cryptophotaïque (Prédateurs Embusqués), et
+  « Ciblage Fatal » et « Interférence Synaptique » ce qu'ils nomment Prédation
+  Déstabilisante et Synaptoprescience (Serres de la Reine Norne). Effets et coûts
+  identiques. Noms retenus : Munitorum.
+- **Catégories de stratagèmes** (Attaque Souterraine) : « Stratagème de Ruse
+  Stratégique » dans le Pack, « Subterfuge Stratégique » dans l'appli. Terme retenu :
+  appli.
 - **Chameleonic** (Offensive d'Avant-garde) : nom anglais conservé par le Munitorum
   français, « Caméléonisme » dans l'erratum du Pack.
 - **Power of the Hive Mind** (Nexus Synaptique) : non traduit par le Munitorum français ;
   terme français non trouvé.
-- Mention « (Aura) » : le Munitorum la porte sur Perturbation Psychoparasite, 40k.app sur
-  The Dirgeheart of Kharis (Le Mornecœur de Kharis), et pas l'inverse.
+- Mention « (Aura) » : le Munitorum la porte sur Perturbation Psychoparasite, l'appli sur
+  The Dirgeheart of Kharis (Le Mornecœur de Kharis) et sur Biophagic Flow (Flux
+  Biophagique), et pas sur Perturbation Psychoparasite.
+- **FAQ** : la question sur Recyclage de Biomasse (« Reclaim Biomass ») figure dans le
+  Pack et pas dans la FAQ de l'appli (contrôlé sur capture le 26/10/2026). Elle est
+  conservée, marquée « FAQ du Pack ». La FAQ de l'appli contient quatre questions
+  absentes du Pack : Unseen Lurkers, Situation Insurmontable, distance d'un mouvement
+  d'élan (reprises plus bas, marquées « FAQ de l'appli ») et un mouvement de
+  Carnifexes (non possédés).
 - Les autres errata du Pack (Nourrir l'Essaim, Défense Instinctive, Guidage Synaptique,
   Point Nodal Renforcé, Caméléonisme, Neuronodule, Vibrisses Hypersensibles, Béhémoths
-  Enragés, Férocité Débridée) sont repris à l'identique par 40k.app.
+  Enragés, Férocité Débridée) sont intégrés à l'identique dans le texte de l'appli.
 
 ## Règle d'armée [O]
 
-Texte des errata du Pack (« Remplacez par »), qui remplace celui du codex. 40k.app donne
-le même texte en anglais.
+Texte des errata du Pack (« Remplacez par »), qui remplace celui du codex. L'appli donne
+le même texte, en anglais.
 
 **Synapse** : si votre Faction d'Armée est TYRANIDES, tant qu'une unité TYRANIDE de votre
 armée est à 6" ou moins d'une ou plusieurs figurines SYNAPSE amies, cette unité TYRANIDE
@@ -82,18 +104,18 @@ stratagème Courage Insensé, utilisable uniquement à votre phase de Commandeme
 
 | Détachement | PdD | Dispositions de force | Source du texte |
 |---|---|---|---|
-| Assaut de Bioformes de Type Guerrier | 1 | Prendre et Tenir | Pack [O] |
-| Prédateurs Embusqués | 1 | Perturbation | Pack [O] |
-| Serres de la Reine Norne | 1 | Prendre et Tenir | Pack [O] |
-| Essaim d'Assimilation | 2 | Atouts Prioritaires | 40k.app [C] |
-| Essaim Inépuisable | 2 | Prendre et Tenir | 40k.app [C] |
-| Nexus Synaptique | 2 | Perturbation | 40k.app [C] |
-| Offensive d'Avant-garde | 2 | Reconnaissance | 40k.app [C] |
-| Ruée Broyeuse | 2 | Éliminez l'Adversaire | 40k.app [C] |
-| Attaque Souterraine | 3 | Perturbation, Reconnaissance | Pack [O] |
-| Flotte d'Invasion | 3 | Prendre et Tenir, Atouts Prioritaires | 40k.app [C] |
+| Assaut de Bioformes de Type Guerrier | 1 | Prendre et Tenir | appli et Pack, en français [O] |
+| Prédateurs Embusqués | 1 | Perturbation | appli et Pack, en français [O] |
+| Serres de la Reine Norne | 1 | Prendre et Tenir | appli et Pack, en français [O] |
+| Essaim d'Assimilation | 2 | Atouts Prioritaires | appli, en anglais [O] |
+| Essaim Inépuisable | 2 | Prendre et Tenir | appli, en anglais [O] |
+| Nexus Synaptique | 2 | Perturbation | appli, en anglais [O] |
+| Offensive d'Avant-garde | 2 | Reconnaissance | appli, en anglais [O] |
+| Ruée Broyeuse | 2 | Éliminez l'Adversaire | appli, en anglais [O] |
+| Attaque Souterraine | 3 | Perturbation, Reconnaissance | Pack, en français [O] ; appli, en anglais |
+| Flotte d'Invasion | 3 | Prendre et Tenir, Atouts Prioritaires | appli, en anglais [O] |
 
-PdD et dispositions : Munitorum ; 40k.app donne les mêmes. Les détachements à 3 PdD sont
+PdD et dispositions : Munitorum ; l'appli donne les mêmes. Les détachements à 3 PdD sont
 inaccessibles en Incursion (voir `regles/construction-armee.md`).
 
 ---
@@ -101,6 +123,8 @@ inaccessibles en Incursion (voir `regles/construction-armee.md`).
 ## Assaut de Bioformes de Type Guerrier [O]
 
 1 PdD · Prendre et Tenir
+
+Texte identique dans l'appli et le Pack.
 
 ### Règle : Bêtes Meneuses
 
@@ -146,6 +170,8 @@ BIOKNOUT seulement. Les attaques de mêlée de cette unité ont +1 aux jets de t
 
 1 PdD · Perturbation
 
+Texte identique dans l'appli et le Pack.
+
 ### Règle : Faim de Cerveau
 
 - Les unités de LA MORT SUBITE/LICTOR/NEUROLICTOR amies ont Frappe en Profondeur.
@@ -162,7 +188,8 @@ ennemie finit un mouvement à 8" ou moins de cette unité, cette dernière peut 
 mouvement normal de D3+3" maximum.
 
 **Camouflage Cryptophotaïque (Amélioration)** (15 pts) : unité de BONDISSEURS DE VON
-RYAN seulement. Cette unité a −3" en portée de détection.
+RYAN seulement. Cette unité a −3" en portée de détection. Nommée « Chasseurs
+Dissimulés » dans l'appli.
 
 ### Stratagèmes
 
@@ -187,6 +214,8 @@ RYAN seulement. Cette unité a −3" en portée de détection.
 
 1 PdD · Prendre et Tenir
 
+Texte identique dans l'appli et le Pack.
+
 ### Règle : Impératifs Supérieurs
 
 Les unités d'ÉMISSAIRE NORNE/ASSIMILATRICE NORNE amies ont l'aptitude suivante :
@@ -200,10 +229,11 @@ Les unités d'ÉMISSAIRE NORNE/ASSIMILATRICE NORNE amies ont l'aptitude suivante
 Ces deux optimisations sont des Améliorations (voir `regles/construction-armee.md`).
 
 **Prédation Déstabilisante (Amélioration)** (20 pts) : unité d'ÉMISSAIRE NORNE
-seulement. Les attaques de tir de cette unité ont [ANTI-PERSONNAGE 2+].
+seulement. Les attaques de tir de cette unité ont [ANTI-PERSONNAGE 2+]. Nommée « Ciblage
+Fatal » dans l'appli.
 
 **Synaptoprescience (Amélioration)** (30 pts) : unité d'ASSIMILATRICE NORNE seulement.
-Cette unité a une SvIn de 4+.
+Cette unité a une SvIn de 4+. Nommée « Interférence Synaptique » dans l'appli.
 
 ### Stratagèmes
 
@@ -226,7 +256,7 @@ Cette unité a une SvIn de 4+.
   est enchevêtrée jusqu'au début de votre prochaine phase de Commandement. Tant qu'une
   unité est enchevêtrée, elle a −2" en M.
 
-## Essaim d'Assimilation [C]
+## Essaim d'Assimilation [O, en anglais dans l'appli]
 
 2 PdD · Atouts Prioritaires
 
@@ -244,7 +274,7 @@ choses suivantes :
 
 ### Optimisations
 
-**Flux Biophagique** (10 pts) — 40k.app : « Biophagic Flow (Aura) ». TYRANIDS model only.
+**Flux Biophagique** (10 pts) — appli : « Biophagic Flow (Aura) ». TYRANIDS model only.
 While a friendly HARVESTER model is within 12" of the bearer, when using the Feed the
 Swarm ability, that HARVESTER model can Regenerate one friendly TYRANIDS unit that is
 within 9" of it, instead of one within 6".
@@ -267,70 +297,78 @@ models). The bearer's unit can be regenerated up to twice per phase, instead of 
 
 ### Stratagèmes
 
-**"Broodguard Impulse"** (1 PC) — Any Phase, Epic Deed
-- When : any phase.
-- Target : one HARVESTER unit from your army that was just destroyed. You can use this
+**"Broodguard Impulse"** (1 PC) — Fait Épique
+- Quand : any phase.
+- Cible : one HARVESTER unit from your army that was just destroyed. You can use this
   Stratagem on that unit even though it was just destroyed.
-- Effect : until the end of the battle, each time a friendly TYRANIDS model makes an
+- Effet : until the end of the battle, each time a friendly TYRANIDS model makes an
   attack that targets the enemy unit that just destroyed your HARVESTER unit, add 1 to
   the Wound roll.
 
 **Recyclage de Biomasse** (« Reclaim Biomass », nom français donné par la FAQ du Pack)
-(1 PC) — Any Phase, Strategic Ploy
-- When : any phase, when a TYRANIDS unit from your army is destroyed, before the last
+(1 PC) — Subterfuge Stratégique
+- Quand : any phase, when a TYRANIDS unit from your army is destroyed, before the last
   model in it is removed from play.
-- Target : one HARVESTER unit from your army that is within 6" of that destroyed unit.
-- Effect : Regenerate one friendly TYRANIDS unit within 6" of your HARVESTER unit (see
+- Cible : one HARVESTER unit from your army that is within 6" of that destroyed unit.
+- Effet : Regenerate one friendly TYRANIDS unit within 6" of your HARVESTER unit (see
   Feed the Swarm).
 - FAQ du Pack [O] : l'effet ne peut pas s'appliquer à l'unité qui vient d'être détruite.
 
-**"Tyrannoformed"** (1 PC) — Command Phase, Strategic Ploy
-- When : Command phase.
-- Target : one HARVESTER unit from your army that is within range of an objective marker
+**"Tyrannoformed"** (1 PC) — Subterfuge Stratégique
+- Quand : Command phase.
+- Cible : one HARVESTER unit from your army that is within range of an objective marker
   you control.
-- Effect : that objective marker remains under your control until your opponent's Level
+- Effet : that objective marker remains under your control until your opponent's Level
   of Control over that objective marker is greater than yours at the end of a phase.
 
-**"Ablative Carapace"** (2 PC) — Shooting & Fight Phase, Epic Deed
-- When : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
+**"Ablative Carapace"** (2 PC) — Fait Épique
+- Quand : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
   selected its targets.
-- Target : one HARVESTER unit from your army that was selected as the target of one or
+- Cible : one HARVESTER unit from your army that was selected as the target of one or
   more of the attacking unit's attacks.
-- Effect : until the end of the phase, models in your unit have the Feel No Pain 5+
+- Effet : until the end of the phase, models in your unit have the Feel No Pain 5+
   ability. If your unit is within range of an objective marker you control, until the
   end of the phase models in your unit have the Feel No Pain 4+ ability instead.
 
-**"Secure Biomass"** (1 PC) — Fight Phase, Strategic Ploy
-- When : Fight phase.
-- Target : one TYRANIDS unit from your army that has not been selected to fight this
+**"Secure Biomass"** (1 PC) — Subterfuge Stratégique
+- Quand : Fight phase.
+- Cible : one TYRANIDS unit from your army that has not been selected to fight this
   phase.
-- Effect : until the end of the phase, melee weapons equipped by models in your unit
+- Effet : until the end of the phase, melee weapons equipped by models in your unit
   have the [LETHAL HITS] ability. If your unit is a HARVESTER unit, each time a model in
   that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a
   Critical Hit as well.
 
-**"Rapacious Hunger"** (1 PC) — Fight Phase, Battle Tactic
-- When : your Fight phase.
-- Target : one TYRANIDS unit from your army that just destroyed an enemy unit.
-- Effect : your unit immediately Regenerates (see Feed the Swarm). When doing so, if
+**"Rapacious Hunger"** (1 PC) — Tactique de Bataille
+- Quand : your Fight phase.
+- Cible : one TYRANIDS unit from your army that just destroyed an enemy unit.
+- Effet : your unit immediately Regenerates (see Feed the Swarm). When doing so, if
   your unit is a HARVESTER unit and you choose for one model to regain up to D3 lost
   wounds, that model regains up to 3 lost wounds instead.
-- Le texte de 40k.app parle de « D3 » alors que Nourrir l'Essaim, après erratum, donne
-  D3+1 : le stratagème n'a pas été ajusté, ou 40k.app ne l'a pas repris.
+- L'appli parle de « D3 » alors que Nourrir l'Essaim, après erratum, donne D3+1 : le
+  stratagème n'a pas été ajusté par les errata.
 
-## Essaim Inépuisable [C]
+## Essaim Inépuisable [O, en anglais dans l'appli]
 
 2 PdD · Prendre et Tenir
 
 ### Règle : Situation Insurmontable [O]
 
-Erratum du Pack, reproduit tel quel (voir « Écarts relevés ») : à la phase de Tir
-adverse, quand une unité ennemie a tiré, si une ou plusieurs figurines d'une unité
-d'ESSAIM INÉPUISABLE de votre armée ont été détruites à cause de ces attaques, cette
-unité peut faire un mouvement d'élan de D6" maximum.
+Erratum du Pack, corrigé d'après l'appli (voir « Écarts relevés ») : à la phase de Tir
+adverse, quand une unité ennemie a tiré, si une ou plusieurs figurines d'une unité de
+MULTITUDE INFINIE de votre armée ont été détruites à cause de ces attaques, cette unité
+peut faire un mouvement d'élan de D6" maximum.
 
-40k.app [C] : « if a model from a friendly ENDLESS MULTITUDE unit was destroyed as a
-result of those attacks, that friendly unit can make a surge move of up to D6" ».
+Le Pack écrit « d'ESSAIM INÉPUISABLE » ; l'appli : « if a model from a friendly ENDLESS
+MULTITUDE unit was destroyed as a result of those attacks, that friendly unit can make a
+surge move of up to D6" ».
+
+FAQ de l'appli :
+- avec Situation Insurmontable, vous pouvez choisir entre ne pas déplacer l'unité ou la
+  déplacer aussi loin que possible en respectant les conditions ;
+- une figurine de MULTITUDE INFINIE qui fait un mouvement d'élan n'est pas tenue de
+  parcourir toute la distance obtenue au dé : elle peut se déplacer de n'importe quelle
+  distance jusqu'à ce maximum.
 
 ### Optimisations
 
@@ -351,10 +389,10 @@ models in the bearer's unit.
 
 ### Stratagèmes
 
-**Guidage Synaptique** (1 PC) [O] — erratum du Pack (sections Quand et Effet)
+**Guidage Synaptique** (1 PC) — Subterfuge Stratégique ; Quand et Effet : erratum du Pack
 - Quand : à n'importe quelle phase, juste avant qu'une unité MULTITUDE INFINIE de votre
   armée à Portée de Synapse de votre armée fasse un mouvement d'élan.
-- Cible [C] : that ENDLESS MULTITUDE unit.
+- Cible : that ENDLESS MULTITUDE unit.
 - Effet : en faisant ce mouvement d'élan, vous pouvez relancer le D6 pour déterminer la
   distance à laquelle se déplace votre unité, et cette dernière peut finir ce mouvement
   aussi près que possible du pion d'objectif le plus proche (au lieu d'aussi près que
@@ -363,47 +401,47 @@ models in the bearer's unit.
 - FAQ du Pack : ce stratagème permet à une unité de quitter la Portée d'Engagement et de
   se déplacer vers le pion d'objectif le plus proche.
 
-**"Unending Waves"** (2 PC) — Any Phase, Strategic Ploy
-- When : any phase.
-- Target : one ENDLESS MULTITUDE unit from your army that was just destroyed. You can use
+**"Unending Waves"** (2 PC) — Subterfuge Stratégique
+- Quand : any phase.
+- Cible : one ENDLESS MULTITUDE unit from your army that was just destroyed. You can use
   this Stratagem on that unit even though it was just destroyed.
-- Effect : add a new unit to your army identical to your destroyed unit, in Strategic
+- Effet : add a new unit to your army identical to your destroyed unit, in Strategic
   Reserves, at its Starting Strength.
 - Restriction : any destroyed CHARACTER units that were attached to your unit are not
   returned. You can only use this Stratagem once per battle.
 
-**"Teeming Masses"** (1 PC) — Shooting & Fight Phase, Battle Tactic
-- When : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
+**"Teeming Masses"** (1 PC) — Tactique de Bataille
+- Quand : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
   selected its targets.
-- Target : one ENDLESS MULTITUDE unit from your army that was selected as the target of
+- Cible : one ENDLESS MULTITUDE unit from your army that was selected as the target of
   one or more of the attacking unit's attacks.
-- Effect : until the end of the phase, each time an attack targets your unit, subtract 1
+- Effet : until the end of the phase, each time an attack targets your unit, subtract 1
   from the Hit roll.
 
-**"Swarming Masses"** (1 PC) — Shooting & Fight Phase, Battle Tactic
-- When : your Shooting phase or the Fight phase.
-- Target : one ENDLESS MULTITUDE unit from your army that has not been selected to shoot
+**"Swarming Masses"** (1 PC) — Tactique de Bataille
+- Quand : your Shooting phase or the Fight phase.
+- Cible : one ENDLESS MULTITUDE unit from your army that has not been selected to shoot
   or fight this phase.
-- Effect : until the end of the phase, weapons equipped by models in your unit have the
+- Effet : until the end of the phase, weapons equipped by models in your unit have the
   [SUSTAINED HITS 1] ability, and if your unit contains 15 or more models, each time a
   model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit.
 
-**"Bounding Advance"** (1 PC) — Movement Phase, Battle Tactic
-- When : your Movement phase.
-- Target : one ENDLESS MULTITUDE unit from your army.
-- Effect : until the end of the phase, each time your unit Advances, do not make an
+**"Bounding Advance"** (1 PC) — Tactique de Bataille
+- Quand : your Movement phase.
+- Cible : one ENDLESS MULTITUDE unit from your army.
+- Effet : until the end of the phase, each time your unit Advances, do not make an
   Advance roll. Instead, until the end of the phase, add 6" to the Move characteristic
   of models in your unit.
 
-**"Preservation Imperative"** (1 PC) — Shooting Phase, Strategic Ploy
-- When : your opponent's Shooting phase, just after an enemy unit has selected its
+**"Preservation Imperative"** (1 PC) — Subterfuge Stratégique
+- Quand : your opponent's Shooting phase, just after an enemy unit has selected its
   targets.
-- Target : one ENDLESS MULTITUDE unit from your army that was selected as the target of
+- Cible : one ENDLESS MULTITUDE unit from your army that was selected as the target of
   one or more of the attacking unit's attacks.
-- Effect : until the end of the phase, your unit is treated as containing fewer than
+- Effet : until the end of the phase, your unit is treated as containing fewer than
   five models for the purpose of the [BLAST] ability.
 
-## Nexus Synaptique [C]
+## Nexus Synaptique [O, en anglais dans l'appli]
 
 2 PdD · Perturbation
 
@@ -441,55 +479,55 @@ enemy unit cannot arrive on the battlefield this turn.
 **Contrôle Synaptique** (20 pts) : TYRANIDS SYNAPSE model only. Each time an attack is
 allocated to the bearer, subtract 1 from the Damage characteristic of that attack.
 
-**Le Mornecœur de Kharis** (15 pts) — 40k.app : « The Dirgeheart of Kharis (Aura) ».
+**Le Mornecœur de Kharis** (15 pts) — appli : « The Dirgeheart of Kharis (Aura) ».
 TYRANIDS SYNAPSE model only. While an enemy unit is within 9" of the bearer, worsen that
 unit's Leadership characteristic by 1.
 
 ### Stratagèmes
 
-**"The Smothering Shadow"** (1 PC) — Any Phase, Strategic Ploy
-- When : any phase, just after an enemy unit fails a Battle-shock test.
-- Target : one SYNAPSE unit from your army within 12" of that enemy unit.
-- Effect : roll six D6: for each 3+, that enemy unit suffers 1 mortal wound.
+**"The Smothering Shadow"** (1 PC) — Subterfuge Stratégique
+- Quand : any phase, just after an enemy unit fails a Battle-shock test.
+- Cible : one SYNAPSE unit from your army within 12" of that enemy unit.
+- Effet : roll six D6: for each 3+, that enemy unit suffers 1 mortal wound.
 
-**"Synaptic Channelling"** (1 PC) — Command Phase, Battle Tactic
-- When : Command phase.
-- Target : one SYNAPSE unit from your army.
-- Effect : until the end of the turn, while a friendly TYRANIDS unit is within 9" of the
+**"Synaptic Channelling"** (1 PC) — Tactique de Bataille
+- Quand : Command phase.
+- Cible : one SYNAPSE unit from your army.
+- Effet : until the end of the turn, while a friendly TYRANIDS unit is within 9" of the
   selected unit, that unit is within Synapse Range of your army.
 
-**"Irresistible Will"** (1 PC) — Shooting & Fight Phase, Battle Tactic
-- When : your Shooting phase or the Fight phase.
-- Target : one SYNAPSE unit from your army that has not been selected to shoot or fight
+**"Irresistible Will"** (1 PC) — Tactique de Bataille
+- Quand : your Shooting phase or the Fight phase.
+- Cible : one SYNAPSE unit from your army that has not been selected to shoot or fight
   this phase, and one enemy unit within 24" of and visible to the SYNAPSE unit.
-- Effect : until the end of the phase, each time a friendly TYRANIDS model makes an
+- Effet : until the end of the phase, each time a friendly TYRANIDS model makes an
   attack that targets that enemy unit, if the attacking model's unit is within 6" of
   your SYNAPSE unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1.
 
-**Point Nodal Renforcé** (1 PC) — Shooting & Fight Phase, Battle Tactic
-- When [C] : your opponent's Shooting phase or the Fight phase, just after an enemy unit
+**Point Nodal Renforcé** (1 PC) — Tactique de Bataille
+- Quand : your opponent's Shooting phase or the Fight phase, just after an enemy unit
   has selected its targets.
-- Target [C] : one SYNAPSE unit from your army that was selected as the target of one or
+- Cible : one SYNAPSE unit from your army that was selected as the target of one or
   more of the attacking unit's attacks.
 - Effet [O] (erratum du Pack) : jusqu'à ce que l'unité attaquante ait fini de faire ses
   attaques, chaque fois qu'une attaque cible votre unité, dégradez de 1 la
   caractéristique de Pénétration d'Armure de cette attaque.
 
-**"Imperative Dominance"** (1 PC) — Command Phase, Strategic Ploy
-- When : your Command phase.
-- Target : one TYRANIDS unit from your army that is within Synapse Range of your army.
-- Effect : select one Synaptic Imperative, even if you have already selected that
+**"Imperative Dominance"** (1 PC) — Subterfuge Stratégique
+- Quand : your Command phase.
+- Cible : one TYRANIDS unit from your army that is within Synapse Range of your army.
+- Effet : select one Synaptic Imperative, even if you have already selected that
   imperative this battle. Until the start of your next Command phase, that Synaptic
   Imperative is active for your unit instead of any other Synaptic Imperative that is
   active for your army.
 
-**"Override Instincts"** (1 PC) — Movement Phase, Strategic Ploy
-- When : your Movement phase.
-- Target : one TYRANIDS unit from your army that is within Synapse Range of your army
+**"Override Instincts"** (1 PC) — Subterfuge Stratégique
+- Quand : your Movement phase.
+- Cible : one TYRANIDS unit from your army that is within Synapse Range of your army
   and made a Fall Back move this phase.
-- Effect : your unit is eligible to shoot and declare a charge this turn.
+- Effet : your unit is eligible to shoot and declare a charge this turn.
 
-## Offensive d'Avant-garde [C]
+## Offensive d'Avant-garde [O, en anglais dans l'appli]
 
 2 PdD · Reconnaissance
 
@@ -526,61 +564,63 @@ to the Hit roll and add 1 to the Wound roll.
 
 ### Stratagèmes
 
-**"Surprise Assault"** (1 PC) — Shooting & Fight Phase, Battle Tactic
-- When : your Shooting phase or the Fight phase, just after a VANGUARD INVADER unit from
+**"Surprise Assault"** (1 PC) — Tactique de Bataille
+- Quand : your Shooting phase or the Fight phase, just after a VANGUARD INVADER unit from
   your army has selected its targets.
-- Target : that VANGUARD INVADER unit.
-- Effect : select one enemy unit that was selected as the target of one or more of your
+- Cible : that VANGUARD INVADER unit.
+- Effet : select one enemy unit that was selected as the target of one or more of your
   unit's attacks. That enemy unit must take a Battle-shock test. Until the end of the
   phase, each time a model in your unit makes an attack that targets that enemy unit, add
   1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as
   well.
 
-**"Assassin Beasts"** (1 PC) — Fight Phase, Battle Tactic
-- When : Fight phase.
-- Target : one VANGUARD INVADER INFANTRY unit from your army that has not been selected
+**"Assassin Beasts"** (1 PC) — Tactique de Bataille
+- Quand : Fight phase.
+- Cible : one VANGUARD INVADER INFANTRY unit from your army that has not been selected
   to fight this phase.
-- Effect : until the end of the phase, melee weapons equipped by models in your unit have
+- Effet : until the end of the phase, melee weapons equipped by models in your unit have
   the [PRECISION] ability.
 
-**"Seeded Broods"** (1 PC) — Movement Phase, Strategic Ploy
-- When : your Movement phase.
-- Target : one TYRANIDS unit from your army that is in Reserves, or up to two VANGUARD
+**"Seeded Broods"** (1 PC) — Subterfuge Stratégique
+- Quand : your Movement phase.
+- Cible : one TYRANIDS unit from your army that is in Reserves, or up to two VANGUARD
   INVADER units from your army that are in Reserves.
-- Effect : until the end of the phase, for the purposes of setting up those selected
+- Effet : until the end of the phase, for the purposes of setting up those selected
   units on the battlefield, treat the current battle round number as being one higher
   than it actually is.
 
-**Vibrisses Hypersensibles** (« Hypersensory Scillia ») (2 PC) — Movement Phase,
-Strategic Ploy
-- When : your opponent's Movement phase, just after an enemy unit ends a Normal, Advance
+**Vibrisses Hypersensibles** (« Hypersensory Scillia ») (2 PC) — Subterfuge Stratégique
+- Quand : your opponent's Movement phase, just after an enemy unit ends a Normal, Advance
   or Fall Back move.
-- Target : up to two VANGUARD INVADER units from your army that are within 8" of that
+- Cible : up to two VANGUARD INVADER units from your army that are within 8" of that
   enemy unit, or one other TYRANIDS INFANTRY unit from your army that is within 8" of
-  that enemy unit. Erratum du Pack [O] : 9" remplacé par 8", déjà repris par 40k.app.
-- Effect : those selected units can each make a Normal move of up to 6".
+  that enemy unit. Erratum du Pack : 9" remplacé par 8", intégré par l'appli.
+- Effet : those selected units can each make a Normal move of up to 6".
 - Restriction : you cannot target units that are within Engagement Range of one or more
   enemy units.
 
-**"Unseen Lurkers"** (1 PC) — Shooting Phase, Strategic Ploy
-- When : your opponent's Shooting phase, just after an enemy unit has selected its
+**"Unseen Lurkers"** (1 PC) — Subterfuge Stratégique
+- Quand : your opponent's Shooting phase, just after an enemy unit has selected its
   targets.
-- Target : one VANGUARD INVADER unit from your army that was selected as the target of
+- Cible : one VANGUARD INVADER unit from your army that was selected as the target of
   one or more of the attacking unit's attacks.
-- Effect : until the end of the phase, your unit can only be selected as the target of a
+- Effet : until the end of the phase, your unit can only be selected as the target of a
   ranged attack if the attacking model is within 18" or, if your unit has the Lone
   Operative ability, if the attacking model is within 6". Your opponent can select new
   targets for the attacking unit's attacks.
+- FAQ de l'appli : au regard de la règle du Balance Dataslate sur les stratagèmes qui
+  empêchent de cibler une unité, l'effet devient le texte ci-dessus (déjà rédigé ainsi
+  dans l'appli).
 
-**"Invisible Hunter"** (1 PC) — Fight Phase, Strategic Ploy
-- When : end of your opponent's Fight phase.
-- Target : up to two VANGUARD INVADER units from your army, or one TYRANIDS INFANTRY unit
+**"Invisible Hunter"** (1 PC) — Subterfuge Stratégique
+- Quand : end of your opponent's Fight phase.
+- Cible : up to two VANGUARD INVADER units from your army, or one TYRANIDS INFANTRY unit
   from your army.
-- Effect : remove the targeted units from the battlefield and place them into Strategic
+- Effet : remove the targeted units from the battlefield and place them into Strategic
   Reserves.
 - Restriction : the targeted units must be more than 3" away from all enemy units.
 
-## Ruée Broyeuse [C]
+## Ruée Broyeuse [O, en anglais dans l'appli]
 
 2 PdD · Éliminez l'Adversaire
 
@@ -613,34 +653,34 @@ Objective Control characteristic.
 
 ### Stratagèmes
 
-**"Corrosive Viscera"** (1 PC) — Shooting & Fight Phase, Strategic Ploy
-- When : your opponent's Shooting phase or the Fight phase, just after a TYRANIDS
+**"Corrosive Viscera"** (1 PC) — Subterfuge Stratégique
+- Quand : your opponent's Shooting phase or the Fight phase, just after a TYRANIDS
   MONSTER model from your army with the Deadly Demise ability that cannot Fly is
   destroyed.
-- Target : that TYRANIDS MONSTER model. You can use this Stratagem on that model even
+- Cible : that TYRANIDS MONSTER model. You can use this Stratagem on that model even
   though it was just destroyed.
-- Effect : do not roll one D6 to determine whether mortal wounds are inflicted by your
+- Effet : do not roll one D6 to determine whether mortal wounds are inflicted by your
   model's Deadly Demise ability. Instead, mortal wounds are automatically inflicted.
 
-**"Rampaging Monstrosities"** (1 PC) — Fight Phase, Battle Tactic
-- When : Fight phase.
-- Target : one TYRANIDS MONSTER unit from your army that has not been selected to fight
+**"Rampaging Monstrosities"** (1 PC) — Tactique de Bataille
+- Quand : Fight phase.
+- Cible : one TYRANIDS MONSTER unit from your army that has not been selected to fight
   this phase.
-- Effect : until the end of the phase, each time a model in your unit makes an attack,
+- Effet : until the end of the phase, each time a model in your unit makes an attack,
   you can re-roll the Hit roll.
 
-**"Savage Roar"** (1 PC) — Fight Phase, Battle Tactic
-- When : Fight phase, just after an enemy unit has selected its targets.
-- Target : one TYRANIDS MONSTER unit from your army that was selected as the target of
+**"Savage Roar"** (1 PC) — Tactique de Bataille
+- Quand : Fight phase, just after an enemy unit has selected its targets.
+- Cible : one TYRANIDS MONSTER unit from your army that was selected as the target of
   one or more of the attacking unit's attacks.
-- Effect : that enemy unit must take a Battle-shock test and, until the end of the
+- Effet : that enemy unit must take a Battle-shock test and, until the end of the
   phase, each time a model in that enemy unit makes an attack that targets your unit,
   subtract 1 from the Hit roll. If that Battle-shock test was failed, subtract 1 from
   the Wound roll as well.
 
-**Férocité Débridée** (1 PC) — Movement Phase, Strategic Ploy
-- When [C] : your Movement phase.
-- Target [C] : one TYRANIDS MONSTER unit from your army that has not been selected to
+**Férocité Débridée** (1 PC) — Subterfuge Stratégique
+- Quand : your Movement phase.
+- Cible : one TYRANIDS MONSTER unit from your army that has not been selected to
   move this phase.
 - Effet [O] (erratum du Pack) : jusqu'à la fin de la phase, chaque fois qu'une figurine
   de votre unité fait un mouvement Normal, d'Avance ou de Retraite, elle peut passer à
@@ -652,25 +692,27 @@ Objective Control characteristic.
     de 4" de haut, mais dans ce cas, après que son unité s'est déplacée, jetez 1 D6 :
     sur 1, votre unité est Ébranlée.
 
-**"Swarm-guided Salvoes"** (1 PC) — Shooting Phase, Battle Tactic
-- When : your Shooting phase.
-- Target : one TYRANIDS MONSTER unit from your army that has not been selected to shoot
+**"Swarm-guided Salvoes"** (1 PC) — Tactique de Bataille
+- Quand : your Shooting phase.
+- Cible : one TYRANIDS MONSTER unit from your army that has not been selected to shoot
   this phase.
-- Effect : until the end of the phase, ranged weapons equipped by models in your unit
+- Effet : until the end of the phase, ranged weapons equipped by models in your unit
   have the [IGNORES COVER] ability, and until the end of the phase each time a model in
   your unit makes an attack, you can ignore any or all modifiers to that model's
   Ballistic Skill characteristic and any or all modifiers to the Hit roll.
 
-**"Massive Impact"** (1 PC) — Charge Phase, Epic Deed
-- When : your Charge phase, just after a TYRANIDS MONSTER model from your army ends a
+**"Massive Impact"** (1 PC) — Fait Épique
+- Quand : your Charge phase, just after a TYRANIDS MONSTER model from your army ends a
   Charge move.
-- Target : that TYRANIDS MONSTER model.
-- Effect : select one enemy unit within Engagement Range of your model and roll six D6:
+- Cible : that TYRANIDS MONSTER model.
+- Effet : select one enemy unit within Engagement Range of your model and roll six D6:
   for each 4+, that enemy unit suffers 1 mortal wound.
 
 ## Attaque Souterraine [O]
 
 3 PdD · Perturbation, Reconnaissance
+
+Texte du Pack ; l'appli donne le même contenu en anglais.
 
 ### Mots-clés
 
@@ -720,13 +762,13 @@ de mêlée dont le porteur est équipé.
 
 ### Stratagèmes
 
-**Adaptation Optimisée** (1 PC) — Stratagème d'Équipement
+**Adaptation Optimisée** (1 PC) — Équipement
 - Quand : à la phase de Commandement.
 - Cible : 1 unité de MAWLOC ou de TRYGON de votre armée.
 - Effet : jusqu'au début de votre prochaine phase de Commandement, votre unité a le
   mot-clé SYNAPSE.
 
-**Essaims Renfloués** (1 PC) — Stratagème d'Équipement
+**Essaims Renfloués** (1 PC) — Équipement
 - Quand : à votre phase de Mouvement.
 - Cible : 1 unité TYRANIDE de votre armée, entièrement à 9" d'un ou plusieurs Marqueurs
   de Tunnel que vous avez placés.
@@ -734,14 +776,14 @@ de mêlée dont le porteur est équipé.
   restituer à votre unité jusqu'à D3+1 figurines détruites avec une caractéristique de
   Points de Vie de 1 à la place.
 
-**Tir en Enfilade Émergent** (1 PC) — Stratagème de Ruse Stratégique
+**Tir en Enfilade Émergent** (1 PC) — Subterfuge Stratégique
 - Quand : à la fin de votre phase de Mouvement.
 - Cible : 1 unité TYRANIDE de votre armée qui a été placée comme Renfort à ce tour.
 - Effet : jusqu'à la fin de votre prochaine phase de Combat, les armes dont sont
   équipées les figurines de votre unité ont les aptitudes [TOUCHES SOUTENUES 1] et
   [IGNORE LE COUVERT].
 
-**Réseau de Tunnels** (1 PC) — Stratagème de Ruse Stratégique
+**Réseau de Tunnels** (1 PC) — Subterfuge Stratégique
 - Quand : à la fin de votre phase de Mouvement.
 - Cible : 1 unité TYRANIDE de votre armée qui est entièrement à 9" d'un ou plusieurs de
   vos Marqueurs de Tunnel et qui n'est à Portée d'Engagement d'aucune unité ennemie.
@@ -749,20 +791,20 @@ de mêlée dont le porteur est équipé.
   à 9" d'un autre Marqueur de Tunnel que vous avez placé, et à plus de 6" à
   l'horizontale des unités ennemies.
 
-**Attaque en Essaims** (1 PC) — Stratagème de Ruse Stratégique
+**Attaque en Essaims** (1 PC) — Subterfuge Stratégique
 - Quand : à votre phase de Charge.
 - Cible : 1 unité de MONSTRE TYRANIDE de votre armée qui a été placée comme Renfort à ce
   tour.
 - Effet : jusqu'à la fin de la phase, les unités TYRANIDES amies à 6" de votre unité
   peuvent relancer les jets de Charge.
 
-**Retraite Souterraine** (1 PC) — Stratagème de Ruse Stratégique
+**Retraite Souterraine** (1 PC) — Subterfuge Stratégique
 - Quand : à la fin de la phase de Combat adverse.
 - Cible : 1 unité TYRANIDE ou jusqu'à deux unités de FOUISSEURS de votre armée qui ne
   sont à Portée d'Engagement d'aucune unité ennemie.
 - Effet : retirez votre unité du champ de bataille et placez-la en Réserve Stratégique.
 
-## Flotte d'Invasion [C]
+## Flotte d'Invasion [O, en anglais dans l'appli]
 
 3 PdD · Prendre et Tenir, Atouts Prioritaires
 
@@ -803,55 +845,55 @@ within 9" of the bearer, that unit is within Synapse Range of your army.
 ### Stratagèmes
 
 **Régénération Rapide** (« Rapid Regeneration », nom français donné par la FAQ du Pack)
-(1 PC) — Shooting & Fight Phase, Battle Tactic
-- When : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
+(1 PC) — Tactique de Bataille
+- Quand : your opponent's Shooting phase or the Fight phase, just after an enemy unit has
   selected its targets.
-- Target : one TYRANIDS unit from your army that was selected as the target of one or
+- Cible : one TYRANIDS unit from your army that was selected as the target of one or
   more of the attacking unit's attacks.
-- Effect : until the end of the phase, models in your unit have the Feel No Pain 6+
+- Effet : until the end of the phase, models in your unit have the Feel No Pain 6+
   ability. If your unit is within Synapse Range of your army, models in your unit have
   the Feel No Pain 5+ ability instead.
 - FAQ du Pack [O] : inutilisable quand une aptitude comme Éclair de Mort doit infliger
   des blessures mortelles à une unité TYRANIDE de votre armée.
 
-**"Adrenal Surge"** (2 PC) — Fight Phase, Battle Tactic
-- When : Fight phase.
-- Target : up to two TYRANIDS units from your army that are within Synapse Range of your
+**"Adrenal Surge"** (2 PC) — Tactique de Bataille
+- Quand : Fight phase.
+- Cible : up to two TYRANIDS units from your army that are within Synapse Range of your
   army and are eligible to fight, or one other TYRANIDS unit from your army that is
   eligible to fight.
-- Effect : until the end of the phase, each time a model in any of those selected units
+- Effet : until the end of the phase, each time a model in any of those selected units
   makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit.
 
-**"Death Frenzy"** (1 PC) — Fight Phase, Strategic Ploy
-- When : Fight phase, just after an enemy unit has selected its targets.
-- Target : one TYRANIDS unit from your army that was selected as the target of one or
+**"Death Frenzy"** (1 PC) — Subterfuge Stratégique
+- Quand : Fight phase, just after an enemy unit has selected its targets.
+- Cible : one TYRANIDS unit from your army that was selected as the target of one or
   more of the attacking unit's attacks.
-- Effect : until the end of the phase, each time a model in your unit is destroyed, if
+- Effet : until the end of the phase, each time a model in your unit is destroyed, if
   that model has not fought this phase, roll one D6: on a 4+, do not remove it from
   play. The destroyed model can fight after the attacking model's unit has finished
   making its attacks, and is then removed from play.
 
-**"Overrun"** (1 PC) — Fight Phase, Strategic Ploy
-- When : Fight phase, just before a TYRANIDS unit from your army Consolidates.
-- Target : that TYRANIDS unit.
-- Effect : until the end of the phase, each time your unit Consolidates, models in it
+**"Overrun"** (1 PC) — Subterfuge Stratégique
+- Quand : Fight phase, just before a TYRANIDS unit from your army Consolidates.
+- Cible : that TYRANIDS unit.
+- Effet : until the end of the phase, each time your unit Consolidates, models in it
   can move an additional 3" as long as your unit can end that move within Engagement
   Range of one or more enemy units. If your unit is within Synapse Range of your army and
   not within Engagement Range of any enemy units, instead of making that Consolidation
   move, it can make a Normal move of up to 6".
 
-**"Predatory Imperative"** (1 PC) — Command Phase, Strategic Ploy
-- When : your Command phase.
-- Target : up to two TYRANIDS units from your army that are within Synapse Range of your
+**"Predatory Imperative"** (1 PC) — Subterfuge Stratégique
+- Quand : your Command phase.
+- Cible : up to two TYRANIDS units from your army that are within Synapse Range of your
   army, or one other TYRANIDS unit from your army.
-- Effect : select one Hyper-adaptation. Until the start of your next Command phase, that
+- Effet : select one Hyper-adaptation. Until the start of your next Command phase, that
   Hyper-adaptation is active for those selected units in addition to any other that may
   be active for your army.
 - Restriction : you cannot select the same Hyper-adaptation you selected at the start of
   the first battle round.
 
-**"Endless Swarm"** (1 PC) — Command Phase, Strategic Ploy
-- When : your Command phase.
-- Target : up to two ENDLESS MULTITUDE units from your army that are within Synapse Range
+**"Endless Swarm"** (1 PC) — Subterfuge Stratégique
+- Quand : your Command phase.
+- Cible : up to two ENDLESS MULTITUDE units from your army that are within Synapse Range
   of your army, or one other ENDLESS MULTITUDE unit from your army.
-- Effect : you can return up to D3+3 destroyed models to each of those selected units.
+- Effet : you can return up to D3+3 destroyed models to each of those selected units.
