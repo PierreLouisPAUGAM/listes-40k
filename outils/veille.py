@@ -465,7 +465,7 @@ def lire_bloc(arbre, bloc):
             if "backgroundColor" in style:
                 dispositions.append(nettoyer(arbre.texte(n)))
                 return False
-            if isinstance(n[2], str) and UUID.match(n[2]) and n[1] == "div" and n is not bloc:
+            if isinstance(n[2], str) and UUID.match(n[2]) and n[1] in ("div", "$1") and n is not bloc:
                 valeurs = []
                 arbre.parcourir(n, lambda e: valeurs.append(arbre.texte(e)) if e[1] == "span" else None)
                 valeurs = [nettoyer(v) for v in valeurs if nettoyer(v)]
