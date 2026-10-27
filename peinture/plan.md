@@ -37,3 +37,8 @@ montage peut se faire à réception.
   apparaît, elle reprend sa place normale.
 - **Guetteurs des Ténèbres** : en dernier, priorité très basse, peints pour le plaisir.
 - **Apothicaire Biologis** : priorité basse.
+- **Escouade Infernus** (à décaper) et **Escouade Intercessor** (à acheter) : prévues au
+  palier 8 (1 250 pts Space Marines / Dark Angels), avant les Terminators, pour ne pas
+  laisser la troupe en fin de séquence. Les deux à 10 figurines (360 pts) dépassent les
+  250 pts ajoutés à 1 250 : 5 + 5 au palier 8, ou une seule des deux à 10. Achat des
+  Intercessors avant la fin du palier 7.
