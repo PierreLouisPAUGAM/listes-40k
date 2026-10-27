@@ -1,0 +1,1251 @@
+== Référence > Tyranides > Codex: Tyranids > Règles d’Armée
+Synapse,  Déplié
+If your Army Faction is **TYRANIDS**, while a **TYRANIDS** unit from your army is within 6" of one or more friendly **SYNAPSE** models, that **TYRANIDS** unit is said to be within Synapse Range of that model and of your army. While a **TYRANIDS** unit from your army is within Synapse Range of your army:
+
+■ Each time that unit takes a Battle-shock test, take that test on 3D6 instead of 2D6.
+■ Each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Shadow in the Warp,  Déplié
+If your Army Faction is **TYRANIDS**, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. Each time an enemy unit takes such a Battle-shock test, if it is within 6" of one or more **SYNAPSE** units from your army, subtract 1 from that test. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Mises à Jour & Errata
+Dernière Mise à Jour : 14 octobre 2026
+Tyranid Prime with Lash Whip Aggressive Leader-beast Ability
+Change to: In your opponent’s Shooting phase, when an enemy unit has shot, if a model in this unit was destroyed by those attacks, this unit can make a surge move of up to D6”.
+Hyperadapted Raveners Hypersensory Array Ability
+Change to:
+'Once per battle round, you can target this unit with the Rapid Ingress/Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:
+▪ That use is -1 CP.
+▪ That use does not prevent any uses of that stratagem on other units this phase.'
+Vanguard Onslaught, Neuronode Enhancement
+Change to:
+‘TYRANIDS model only. After both players have deployed their armies, you can select up to three VANGUARD INVADER units from your army and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.’
+Surprise Assault Stratagem
+Change to:
+‘WHEN: Your Shooting phase or the Fight phase, just after a VANGUARD INVADER unit from your army has selected its targets.
+TARGET: That VANGUARD INVADER unit.
+EFFECT: Select one enemy unit that was selected as the target of one or more of your unit’s attacks. That enemy unit must take a Battle-shock test. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, add 1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as well.’
+The Swarmlord, Abilities, Malign Presence
+Change to:
+‘Lord of Deceit (Aura): If this model is your WARLORD, each time your opponent targets a unit from their army with a Stratagem, if that unit is within 12" of this model, increase the cost of that use of that Stratagem by 1CP.
+
+Designer’s Note: This ability takes precedence over the Lord of Deceit ability presented in the Balance Dataslate June 2024.’
+Harridan
+The following units lose the AIRCRAFT keyword.
+Harridan
+
+The following unit has M 14":
+Harridan
+The following units have the FRAME keyword:
+Hierophant, Toxicrene, Tyrannocyte and Tyrannofex.
+Reinforced Hive Node Stratagem, Effect Section
+Change to:
+'Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1.’
+The following units lose the Hover core ability:
+Harpy and Hive Crone.
+The following units have M and OC of "-":
+Harpy and Hive Crone.
+Synapse Army Rule
+Change to: ‘If your Army Faction is TYRANIDS, while a TYRANIDS unit from your army is within 6" of one or more friendly SYNAPSE models, that TYRANIDS unit is said to be within Synapse Range of that model and of your army. While a TYRANIDS unit from your army is within Synapse Range of your army:
+
+■ Each time that unit takes a Battle-shock test, take that test on 3D6 instead of 2D6.
+■ Each time a model in that unit makes a melee attack, add 1 to the Strength characteristic of that attack.’
+Shadow in the Warp Army Rule
+Change to: ‘If your Army Faction is TYRANIDS, once per battle, in either player’s Command phase, if one or more units from your army with this ability are on the battlefield, you can unleash the Shadow in the Warp. When you do, each enemy unit on the battlefield must take a Battle-shock test. Each time an enemy unit takes such a Battle-shock test, if it is within 6" of one or more SYNAPSE units from your army, subtract 1 from that test.’
+Feed the Swarm Detachment Rule
+Change to:
+‘In your Command phase, each HARVESTER unit from your army can Regenerate one friendly TYRANIDS unit that is within 6" of it. A unit can only be regenerated once per phase. Each time a unit regenerates, do one of the following:
+■ One model in that unit regains up to D3+1 lost wounds.
+■ One destroyed INFANTRY model (excluding CHARACTERS) is returned to that unit with its full wounds remaining. If that unit is an ENDLESS MULTITUDE unit, up to 3 destroyed models are returned instead.’
+Instinctive Defence Enhancement
+Change to:
+TYRANIDS model only. While the bearer is within 6" of one or more friendly HARVESTER units, when you target this unit with the Heroic Intervention stratagem, that use is -1 CP. In addition, while the bearer is within 6" of one or more friendly HARVESTER units, models in the bearer's unit have the Fights First ability.
+Enraged Behemoths Detachment Rule
+Change to:
+‘Each time a TYRANIDS MONSTER model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength. In addition, while a TYRANIDS MONSTER unit from your army (excluding Battle-shocked units) is at its Starting Strength, add 2 to the Objective Control characteristic of models in that unit.
+Untrammelled Ferocity Stratagem, Effect Section
+Change to:
+‘Until the end of the phase, each time a model in your unit makes a Normal, Advance or Fall Back move, it can move through models (excluding TITANIC models) and sections of terrain features that are 4" or less in height. When doing so:
+■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.
+■ It can also move through sections of terrain features that are more than 4" in height, but if it does, after its unit has moved, roll one D6: on a 1, your unit is Battle-shocked.’
+Insurmountable Odds Detachment Rule
+Change to:
+'In your opponent’s Shooting phase, when an enemy unit has shot, if a model from a friendly ENDLESS MULTITUDE unit was destroyed as a result of those attacks, that friendly unit can make a surge move of up to D6”.'
+Neuronode Enhancement
+Change to:
+‘TYRANIDS model only. After both players have deployed their armies, you can select up to three VANGUARD INVADER units from your army and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves.’
+Hypersensory Scillia Stratagem, Target Section
+Change 9" to 8".
+Biovores, Seed Spore Mine Ability
+Change 9" to 8".
+Broodlord, Parasite of Mortrex
+■ Abilities Section: Add ‘FACTION: Shadow in the Warp’
+■ Keywords Section: Add 'SYNAPSE'.
+Exocrine, Ranged Weapons, bio-plasmic cannon
+Change S to '9'.
+Hive Tyrant, Onslaught Ability
+Change to:
+‘While a friendly TYRANIDS unit is within 6" of this model, ranged weapons equipped by models in that unit have the [ASSAULT] and [LETHAL HITS] abilities.’
+Harpy, Spore Mine Cysts Ability
+Change to:
+'At the end of your opponent’s Fight phase, you can do one of the following:
+■ Select one visible enemy unit (excluding Lone Operative units) within 24" of this unit and roll six D6 for that unit: for each 3+, that unit suffers 1 mortal wound.
+■ Add a new SPORE MINES unit containing D3 models to your army and set it up anywhere on the battlefield that is within 6" of this model and more than 8" horizontally away from all enemy units. You cannot select this option for more than one model per turn.'
+Hive Tyrant, Winged Hive Tyrant – Will of the Hive Mind Ability
+Change to:
+‘Once per battle round, one model from your army with this ability can use it when a friendly TYRANIDS unit within 12" of that model is targeted with a Stratagem. If it does, reduce the CP cost of that use of that Stratagem by 1CP.’
+Mawloc, Raveners, Trygon – Keywords Section
+Add 'VANGUARD INVADER'.
+Neurolictor, Keywords Section
+Add 'SYNAPSE'.
+Norn Assimilator, Keywords Section
+Add 'HARVESTER'.
+Norn Assimilator, [HARPOONED] Weapon Ability
+Change to:
+
+‘Harpooned: When this unit declares a charge, if an enemy MONSTER/VEHICLE unit is within 12" of this unit and was hit by an attack made by this weapon this turn, you can use this ability. If you do:
+
+▪ This unit has +2 to charge rolls until the end of the phase.
+
+▪ This unit must end that charge move engaged with that MONSTER/VEHICLE unit.’
+Psychophage
+■ Profile – Change M to 12".
+■ Bio-stimulus Ability – Change to: ‘In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly TYRANIDS unit makes a melee attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per turn.'
+■ Keywords – Add ‘SMOKE’.
+■ Talons and Betentacled Maw Weapon – Change A to '6' and AP to '-2'.
+The Swarmlord, Malign Presence Ability
+Change to:
+'Once per turn, when your opponent targets a unit from their army within 12” of this model with a stratagem, you can use this ability. If you do increase the CP cost of that use of that stratagem by 1CP.'
+Tyrannofex, Ranged Weapons, Rupture Cannon
+Change D to 'D6+6'.
+Trygon, Subterranean Tunnels Ability
+Change to:
+‘In your Movement phase, when this model is set up on the battlefield using the Deep Strike ability, it can use a subterranean tunnel. If it does, this model can be set up anywhere on the battlefield that is more than 6" horizontally away from all enemy units, but until the end of the turn, it is not eligible to declare a charge.’
+Termagants, Skulking Horrors Ability
+Change to:
+'In your opponent's Movement phase, if an enemy unit ends a move within 8” of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6”.
+Von Ryan's Leapers, Pouncing Leap ability
+Change to:
+'You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:
+▪ That use is -1 CP.
+▪ That use does not prevent any uses of that stratagem on other units this phase.'
+Sporocyst, Seed Mucolids Ability
+Change 9" to 8".
+Vanguard Onslaught Detachment, Chameleonic Enhancement
+Change to:
+‘VANGUARD INVADER model only. This unit has Stealth.'
+Tyranid Warriors with Melee Bio-weapons, Adaptive Instincts Ability
+Change to:
+‘Adaptive Instincts (Once per turn, per unit): In the Fight phase, when this unit is selected to fight or when an enemy unit targets this unit, you can select one of the following:
+▪ This unit’s melee attacks have +1 S.
+▪ Or: This unit has +1 T.'
+Tyrannocyte, Aerial Seeding Ability
+Change 9" to 8".
+Venomthropes, Foul Spores ability
+Change to:
+‘Friendly TYRANIDS units within 6" of this unit have Stealth.'
+Synaptic Goading Stratagem, When and Effect Sections
+Change to:
+
+‘WHEN: Any phase, just before an ENDLESS MULTITUDE unit from your army that is within Synapse Range of your army makes a surge move. 
+
+EFFECT: When making that surge move, you can re-roll the D6 to determine how far your unit moves, and your unit can end that move as close as possible to the closest objective marker (instead of as close as possible to the closest enemy unit). All other rules for making surge moves still apply.’
+
+== Référence > Tyranides > Codex: Tyranids > FAQ
+Dernière Mise à Jour : 14 octobre 2026
+Q : While using the Subterranean Assault Detachment, does a Mawloc’s Terror from the Deep ability trigger when arriving via a Tunnel Marker?
+R : No.
+Q : What is the effect of the Unseen Lurkers Stratagem with respect to the Balance Dataslate ruling on Stratagems that prevent units from being targeted?
+R : The effect of the Unseen Lurkers Stratagem becomes:
+‘EFFECT: Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18" or, if your unit has the Lone Operative ability, if the attacking model is within 6". Your opponent can select new targets for the attacking unit’s attacks.’
+Q : Do units that are repositioned by rules that do not specify that the unit being repositioned is first placed into Reserves (e.g. the Grey Knights Teleport Assault rule) need to take a Battle-shock test on a roll of 2+ if a TYRANIDS CHARACTER with the Hunting Grounds Enhancement is on the battlefield?
+R : Yes. Rules that are triggered by or apply to Reserves units are also triggered by and apply to a repositioned unit when it is set back up.
+Q : Can I use the Rapid Regeneration Stratagem when an ability like Doombolt or Vortex of Doom would inflict mortal wounds on a TYRANIDS unit from my army?
+R : No.
+Q : When resolving a Mawloc’s Terror From the Deep ability, which units need to take a Battle-shock test: every unit within 12" of the Mawloc, or only those units for which a 5+ was rolled when resolving that ability?
+R : Only those units for which a 5+ was rolled.
+Q : If my opponent uses a rule to place a unit into Strategic Reserves during the first battle round, and that rule states that the unit must arrive on the battlefield in the next battle round, what happens if a model from my army uses the Psychostatic Disruption Enhancement in the second battle round when that enemy Strategic Reserves unit is due to arrive?
+R : The ‘cannot arrive’ rule takes precedence over the rule stating that the unit ‘must arrive’ from Strategic Reserves. Roll one D6: on a 4+, that enemy unit cannot arrive on the battlefield this turn.
+Q : If I select a unit of Neurogaunts for a Neurotyrant’s Neuroloids ability that is not led by a SYNAPSE unit, does that unit of Neurogaunts gain the SYNAPSE keyword?
+R : No.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Q : Does an Attached unit containing a Hive Tyrant and Tyrant Guard receive the Stealth ability from a Venomthrope’s Foul Spores ability?
+R : No. The unit has the MONSTER keyword and the ability excludes MONSTERS.
+Q : Are Spore Mines units that are added to an army during a battle restricted by abilities that prevent Reserves from being set up within a certain range (e.g. Space Marines Infiltrators’ Omniscrambers)?
+R : No.
+Q : Do rules such as the Insurmountable Odds Detachment rule and the Carnifexes’ Blistering Assault ability let me choose between not moving the unit in question or moving the unit as far as possible following the conditions?
+R : Yes.
+Q : If I roll one D6 for a Carnifexes unit’s Blistering Assault move and then choose not to move the models, do they still count as having made a Blistering Assault move that phase?
+R : Yes, they have made a Blistering Assault move of 0".
+Q : When a CARNIFEX model makes a Blistering Assault move or an ENDLESS MULTITUDE model makes a Surge move, does that model have to move the full amount allowed by the dice result?
+R : No, it can move any distance up to that allowed distance.
+Q : Does a unit affected by the Psychostatic Disruption Enhancement have to arrive from Reserves in the next Movement phase?
+R : No.
+Q : Does the Synaptic Goading Stratagem allow a unit to leave Engagement Range and move towards the closest objective marker?
+R : Yes.
+Q : Can units targeted by the Shadow in the Warp army rule use the Insane Bravery Stratagem?
+R : No. Insane Bravery can only be used in your Command phase.
+Q : When my Biovores unit uses the Seed Spore Mines ability, does my unit lose hidden?
+R : No.
+
+== Référence > Tyranides > Codex: Tyranids > Assaut de Bioformes de Type Guerrier
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Bêtes Meneuses,  Déplié
+<ul><li>Les unités de <k>Guerriers Tyranides avec Bio-armes de Tir/Guerriers Tyranides avec Bio-armes de Mêlée</k> amies ont :</li>
+<ul><li><k>Guerriers Tyranides</k>.</li>
+<li><k>Ligne</k>.</li></ul>
+<li>Les figurines de <k>Guerriers Tyranides/Primat Tyranide avec Bio-knout/Primat Tyranide Ailé</k> de votre armée ont une <b>SvIn</b> de 5+.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Tyranides > Codex: Tyranids > Assaut de Bioformes de Type Guerrier > Optimisations
+Puissance Élevée, 30 Points, Déplié
+Figurine de <k>Primat Tyranide Ailé</k>/<k>Primat Tyranide avec bio-knout</k> seulement. Les attaques de mêlée de cette figurine :
+<ul><li>Peuvent relancer les <b>jets de blessure</b>.</li>
+<li>Ont +1 en <b>PA</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adaptation Oculaire, 20 Points, Déplié
+Figurine de <k>Primat Tyranide Ailé</k>/<k>Primat Tyranide avec bio-knout</k> seulement. Les attaques de mêlée de cette unité ont +1 aux <b>jets de touche</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Assaut de Bioformes de Type Guerrier > Stratagèmes
+Physiologie Xéno, 1PC, Déplié
+Assaut de Bioformes de Type Guerrier  
+À la phase de Tir adverse ou à la phase de Combat, quand une unité ennemie cible une unité de <k>Guerriers Tyranides</k> amie. 
+Cette unité de <k>Guerriers Tyranides</k>. 
+Les attaques qui ciblent votre unité avec une <b>F</b> supérieure à son <b>E</b> ont -1 aux <b>jets de blessure</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Charge Parasitaire, 1PC, Déplié
+Assaut de Bioformes de Type Guerrier  
+À votre phase de Tir, quand une unité de <k>Guerriers Tyranides</k> amie est <b>choisie pour tirer</b>. 
+Cette unité de <k>Guerriers Tyranides</k>. 
+Les attaques de tir de votre unité ont <k>[Ignore le Couvert]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Micronodules Synaptiques, 1PC, Déplié
+Assaut de Bioformes de Type Guerrier  
+À la fin de votre phase de Mouvement. 
+Une unité de <k>Guerriers Tyranides</k> amie. 
+Choisissez un <b>objectif</b> que votre unité contrôle. Cet <b>objectif</b> est <b>sécurisé</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Assimilation Swarm
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Feed the Swarm,  Déplié
+In your Command phase, each **HARVESTER** unit from your army can Regenerate one friendly **TYRANIDS** unit that is within 6" of it. A unit can only be regenerated once per phase. Each time a unit regenerates, do one of the following:
+
+■ One model in that unit regains up to D3+1 lost wounds.
+■ One destroyed **INFANTRY** model (excluding **CHARACTERS**) is returned to that unit with its full wounds remaining. If that unit is an **ENDLESS MULTITUDE** unit, up to 3 destroyed models are returned instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+
+== Référence > Tyranides > Codex: Tyranids > Assimilation Swarm > Optimisations
+Regenerating Monstrosity, 20 Points, Déplié
+**TYRANIDS** model only (excluding **MONSTERS** models). The bearer’s unit can be regenerated up to twice per phase, instead of once. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Instinctive Defence, 15 Points, Déplié
+**TYRANIDS** model only. While the bearer is within 6" of one or more friendly **HARVESTER** units, when you target this unit with the Heroic Intervention stratagem, that use is -1 CP. In addition, while the bearer is within 6" of one or more friendly **HARVESTER** units, models in the bearer’s unit have the Fights First ability. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Biophagic Flow (Aura), 10 Points, Déplié
+**TYRANIDS** model only. While a friendly **HARVESTER** model is within 12" of the bearer, when using the Feed the Swarm ability, that **HARVESTER** model can Regenerate one friendly **TYRANIDS** unit that is within 9" of it, instead of one within 6". 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Parasitic Biomorphology, 25 Points, Déplié
+**TYRANIDS** model only. Add 1 to the Strength characteristic of melee weapons equipped by models in the bearer’s unit. The first time the bearer’s unit destroys an enemy unit in the Fight phase while the bearer is within 6" of one or more friendly **HARVESTER** units, until the end of the battle, add 1 to the Attacks characteristic of melee weapons equipped by models in the bearer’s unit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Assimilation Swarm > Stratagèmes
+Broodguard Impulse, 1PC, Déplié
+Assimilation Swarm - Fait Épique 
+Any phase. 
+One **HARVESTER** unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. 
+Until the end of the battle, each time a friendly **TYRANIDS** model makes an attack that targets the enemy unit that just destroyed your **HARVESTER** unit, add 1 to the Wound roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Reclaim Biomass, 1PC, Déplié
+Assimilation Swarm - Subterfuge Stratégique 
+Any phase, when a **TYRANIDS** unit from your army is destroyed, before the last model in it is removed from play. 
+One **HARVESTER** unit from your army that is within 6" of that destroyed unit. 
+Regenerate one friendly **TYRANIDS** unit within 6" of your **HARVESTER** unit (See Feed the Swarm). 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tyrannoformed, 1PC, Déplié
+Assimilation Swarm - Subterfuge Stratégique 
+Command phase. 
+One **HARVESTER** unit from your army that is within range of an objective marker you control. 
+That objective marker remains under your control until your opponent’s Level of Control over that objective marker is greater than yours at the end of a phase. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Ablative Carapace, 2PC, Déplié
+Assimilation Swarm - Fait Épique 
+Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. 
+One **HARVESTER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, models in your unit have the Feel No Pain 5+ ability. If your unit is within range of an objective marker you control, until the end of the phase models in your unit have the Feel No Pain 4+ ability instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Secure Biomass, 1PC, Déplié
+Assimilation Swarm - Subterfuge Stratégique 
+Fight phase. 
+One **TYRANIDS** unit from your army that has not been selected to fight this phase. 
+Until the end of the phase, melee weapons equipped by models in your unit have the **[LETHAL HITS]** ability. If your unit is a **HARVESTER** unit, each time a model in that unit makes a melee attack, a successful unmodified Hit roll of 5+ scores a Critical Hit as well. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Rapacious Hunger, 1PC, Déplié
+Assimilation Swarm - Tactique de Bataille 
+Your Fight phase. 
+One **TYRANIDS** unit from your army that just destroyed an enemy unit. 
+Your unit immediately Regenerates (See Feed the Swarm). When doing so, if your unit is a **HARVESTER** unit and you choose for one model to regain up to D3 lost wounds, that model regains up to 3 lost wounds instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Crusher Stampede
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Enraged Behemoths,  Déplié
+Each time a **TYRANIDS MONSTER** model from your army makes an attack, add 1 to the Hit roll if that model’s unit is below its Starting Strength, and add 1 to the Wound roll as well if that model’s unit is Below Half-strength. In addition, while a **TYRANIDS MONSTER** unit from your army (excluding Battle-shocked units) is at its Starting Strength, add 2 to the Objective Control characteristic of models in that unit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Éliminez l’Adversaire
+
+== Référence > Tyranides > Codex: Tyranids > Crusher Stampede > Optimisations
+Ominous Presence, 15 Points, Déplié
+**TYRANIDS MONSTER** model only. Add 3 to the bearer’s Objective Control characteristic. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Enraged Reserves, 20 Points, Déplié
+**TYRANIDS MONSTER** model only. If the bearer is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 3+, do not remove it from play. It can fight after the attacking model’s unit has finished making its attacks, and is then removed from play. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Null Nodules, 10 Points, Déplié
+**TYRANIDS MONSTER** model only. Once per battle, when a Psychic Attack is allocated to the bearer, it can use this ability. If it does, until the end of the phase, the bearer has the Feel No Pain 5+ ability against Psychic Attacks. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Monstrous Nemesis, 25 Points, Déplié
+**TYRANIDS MONSTER** model only. Each time the bearer makes a melee attack that targets a **MONSTER** or **VEHICLE** unit, add 1 to the Wound roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Crusher Stampede > Stratagèmes
+Corrosive Viscera, 1PC, Déplié
+Crusher Stampede - Subterfuge Stratégique 
+Your opponent’s Shooting phase or the Fight phase, just after a **TYRANIDS MONSTER** model from your army with the Deadly Demise ability that cannot Fly is destroyed. 
+That **TYRANIDS MONSTER** model. You can use this Stratagem on that model even though it was just destroyed. 
+Do not roll one D6 to determine whether mortal wounds are inflicted by your model’s Deadly Demise ability. Instead, mortal wounds are automatically inflicted. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Rampaging Monstrosities, 1PC, Déplié
+Crusher Stampede - Tactique de Bataille 
+Fight phase. 
+One **TYRANIDS MONSTER** unit from your army that has not been selected to fight this phase. 
+Until the end of the phase, each time a model in your unit makes an attack, you can re-roll the Hit roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Savage Roar, 1PC, Déplié
+Crusher Stampede - Tactique de Bataille 
+Fight phase, just after an enemy unit has selected its targets. 
+One **TYRANIDS MONSTER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+That enemy unit must take a Battle-shock test and, until the end of the phase, each time a model in that enemy unit makes an attack that targets your unit, subtract 1 from the Hit roll. If that Battle-shock test was failed, subtract 1 from the Wound roll as well. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Untrammelled Ferocity, 1PC, Déplié
+Crusher Stampede - Subterfuge Stratégique 
+Your Movement phase. 
+One **TYRANIDS MONSTER** unit from your army that has not been selected to move this phase. 
+Until the end of the phase, each time a model in your unit makes a Normal, Advance or Fall Back move, it can move through models (excluding **TITANIC** models) and sections of terrain features that are 4" or less in height. When doing so:
+■ It can move within Engagement Range of enemy models, but cannot end that move within Engagement Range of them.
+■ It can also move through sections of terrain features that are more than 4" in height, but if it does, after its unit has moved, roll one D6: on a 1, your unit is Battle-shocked. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Swarm-guided Salvoes, 1PC, Déplié
+Crusher Stampede - Tactique de Bataille 
+Your Shooting phase. 
+One **TYRANIDS MONSTER** unit from your army that has not been selected to shoot this phase. 
+Until the end of the phase, ranged weapons equipped by models in your unit have the **[IGNORES COVER]** ability, and until the end of the phase each time a model in your unit makes an attack, you can ignore any or all modifiers to that model’s Ballistic Skill characteristic and any or all modifiers to the Hit roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Massive Impact, 1PC, Déplié
+Crusher Stampede - Fait Épique 
+Your Charge phase, just after a **TYRANIDS MONSTER** model from your army ends a Charge move. 
+That **TYRANIDS MONSTER** model. 
+Select one enemy unit within Engagement Range of your model and roll six D6: for each 4+, that enemy unit suffers 1 mortal wound. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Invasion Fleet
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 3PdD.
+Hyper-adaptations,  Déplié
+At the start of the first battle round, select one of the following Hyper-adaptations to be active for **TYRANIDS** units from your army until the end of the battle. 
+Swarming Instincts
+Each time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets an **INFANTRY** or **SWARM** unit, that attack has the **[SUSTAINED HITS 1]** ability. 
+Hyper-aggression
+Each time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets a **MONSTER** or **VEHICLE** unit, that attack has the **[LETHAL HITS]** ability. 
+Hive Predators
+Each time a **TYRANIDS** model with this Hyper-adaptation makes an attack that targets a **CHARACTER** unit, on a Critical Hit, that attack has the **[PRECISION]** ability. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Atouts Prioritaires
+Prendre et Tenir
+
+== Référence > Tyranides > Codex: Tyranids > Invasion Fleet > Optimisations
+Alien Cunning, 30 Points, Déplié
+**TYRANIDS** model only. After both players have deployed their armies, select up to three **TYRANIDS** units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves if you wish, regardless of how many units are already in Strategic Reserves. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Perfectly Adapted, 15 Points, Déplié
+**TYRANIDS** model only. Once per turn, you can re-roll one Hit roll, one Wound roll, one Damage roll, one Advance roll, one Charge roll or one saving throw made for the bearer. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Synaptic Linchpin, 20 Points, Déplié
+**TYRANIDS** model only. While a friendly **TYRANIDS** unit is within 9" of the bearer, that unit is within Synapse Range of your army. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adaptive Biology, 25 Points, Déplié
+**TYRANIDS** model only. The bearer has the Feel No Pain 5+ ability. At the start of any turn, if the bearer has fewer than its starting number of wounds remaining, until the end of the battle, it has the Feel No Pain 4+ ability instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Invasion Fleet > Stratagèmes
+Rapid Regeneration, 1PC, Déplié
+Invasion Fleet - Tactique de Bataille 
+Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. 
+One **TYRANIDS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, models in your unit have the Feel No Pain 6+ ability. If your unit is within Synapse Range of your army, models in your unit have the Feel No Pain 5+ ability instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adrenal Surge, 2PC, Déplié
+Invasion Fleet - Tactique de Bataille 
+Fight phase. 
+Up to two **TYRANIDS** units from your army that are within Synapse Range of your army and are eligible to fight, or one other **TYRANIDS** unit from your army that is eligible to fight. 
+Until the end of the phase, each time a model in any of those selected units makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Death Frenzy, 1PC, Déplié
+Invasion Fleet - Subterfuge Stratégique 
+Fight phase, just after an enemy unit has selected its targets. 
+One **TYRANIDS** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, each time a model in your unit is destroyed, if that model has not fought this phase, roll one D6: on a 4+, do not remove it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Overrun, 1PC, Déplié
+Invasion Fleet - Subterfuge Stratégique 
+Fight phase, just before a **TYRANIDS** unit from your army Consolidates. 
+That **TYRANIDS** unit. 
+Until the end of the phase, each time your unit Consolidates, models in it can move an additional 3" as long as your unit can end that move within Engagement Range of one or more enemy units. If your unit is within Synapse Range of your army and not within Engagement Range of any enemy units, instead of making that Consolidation move, it can make a Normal move of up to 6". 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Predatory Imperative, 1PC, Déplié
+Invasion Fleet - Subterfuge Stratégique 
+Your Command phase. 
+Up to two **TYRANIDS** units from your army that are within Synapse Range of your army, or one other **TYRANIDS** unit from your army. 
+Select one Hyper-adaptation. Until the start of your next Command phase, that Hyper-adaptation is active for those selected units in addition to any other that may be active for your army. 
+You cannot select the same Hyper-adaptation you selected at the start of the first battle round. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Endless Swarm, 1PC, Déplié
+Invasion Fleet - Subterfuge Stratégique 
+Your Command phase. 
+Up to two **ENDLESS MULTITUDE** units from your army that are within Synapse Range of your army, or one other **ENDLESS MULTITUDE** unit from your army. 
+You can return up to D3+3 destroyed models to each of those selected units. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Prédateurs Embusqués
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Faim de Cerveau,  Déplié
+<ul><li>Les unités de <k>La Mort Subite/Lictor/Neurolictor</k> amies ont <b>Frappe en Profondeur</b>.</li>
+<li>Les attaques des unités de <k>Lictor/Neurolictor</k> amies qui ciblent une unité de <k>Personnage</k> peuvent relancer les <b>jets de touche</b> de 1.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Tyranides > Codex: Tyranids > Prédateurs Embusqués > Optimisations
+Encerclement d’Horreurs (Amélioration), 20 Points, Déplié
+Unité de <k>Lictor/Neurolictor/Bondisseurs de Von Ryan</k> seulement. À la phase de Mouvement adverse, quand une unité ennemie finit un mouvement à 8" ou moins de cette unité, cette dernière peut faire un <b>mouvement normal</b> de D3+3" maximum. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Chasseurs Dissimulés (Amélioration), 15 Points, Déplié
+Unité de <k>Bondisseurs de Von Ryan</k> seulement. Cette unité a ‑3" en <b>portée de détection</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Prédateurs Embusqués > Stratagèmes
+Contre-prédation, 1PC, Déplié
+Prédateurs Embusqués  
+À la phase de Combat, quand une unité de <k>La Mort Subite/Lictor/Neurolictor/Bondisseurs de Von Ryan</k> amie est <b>choisie pour combattre</b>. 
+Cette unité de <k>La Mort Subite/Lictor/Neurolictor/Bondisseurs de Von Ryan</k>. 
+Les attaques de votre unité qui ciblent une unité <b>cachée</b> ont +1 en <b>F</b> et en <b>PA</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Écho Fantôme, 1PC, Déplié
+Prédateurs Embusqués  
+À la fin de la phase de Combat adverse. 
+Une unité de <k>La Mort Subite/Lictor/Neurolictor</k> amie <b>non engagée</b>. 
+Placez votre unité en <b>réserve stratégique</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adaptations Hypersensorielles, 1PC, Déplié
+Prédateurs Embusqués  
+Au début de votre phase de Tir. 
+Une unité de <k>La Mort Subite/Lictor/Neurolictor/Bondisseurs de Von Ryan</k> amie. 
+Choisissez une unité ennemie <b>visible</b> et à 12" ou moins de votre unité. L'unité ennemie choisie a +6" en  <b>portée de détection</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Serres de la Reine Norne
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 1PdD.
+Impératifs Supérieurs,  Déplié
+Les unités d’<k>Émissaire Norne/Assimilatrice Norne</k> amies ont aptitude suivante :
+
+
+<b>Objectif Protéiforme :</b> (Une fois par bataille, par unité) À votre phase de Commandement, vous pouvez utiliser cette aptitude. Dans ce cas, cette unité peut faire un choix pour son aptitude <b>But Singulier</b> (ce choix remplace le précédent).
+ 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+
+== Référence > Tyranides > Codex: Tyranids > Serres de la Reine Norne > Optimisations
+Ciblage Fatal (Amélioration), 20 Points, Déplié
+Unité d’<k>Émissaire Norne</k> seulement. Les attaques de tir de cette unité ont <k>[Anti‑Personnage 2+]</k>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Interférence Synaptique (Amélioration), 30 Points, Déplié
+Unité d’<k>Assimilatrice Norne</k> seulement. Cette unité a une <b>SvIn</b> de 4+. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Serres de la Reine Norne > Stratagèmes
+Proie Insignifiante, 1PC, Déplié
+Serres de la Reine Norne  
+À la phase de Combat, quand une unité d’<k>Assimilatrice Norne/Émissaire Norne</k> amie est <b>choisie pour combattre</b>. 
+Cette unité d’<k>Assimilatrice Norne/Émissaire Norne</k>. 
+Les attaques de mêlée de votre unité ont +2 en <b>F</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Biofortification Catalytique, 1PC, Déplié
+Serres de la Reine Norne  
+À n’importe quelle phase, quand une unité d’<k>Assimilatrice Norne</k> amie subit a blessure mortelle. 
+Cette unité d’<k>Assimilatrice Norne</k>. 
+Votre unité a <b>Insensible à la Douleur 4+</b> contre les <b>blessures mortelles</b>. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Munitions Enchevêtreuses, 1PC, Déplié
+Serres de la Reine Norne  
+À votre phase de Tir, quand une unité d’<k>Assimilatrice Norne</k> amie a tiré. 
+Cette unité d’<k>Assimilatrice Norne</k>. 
+Choisissez une unité ennemie touchée par ces attaques. Ladite unité ennemie est <b>enchevêtrée</b> jusqu’au début de votre prochaine phase de Commandement :
+<ul><li>Tant qu’une unité est <b>enchevêtrée</b>, elle a ‑2” en <b>M</b>.</li></ul> 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Subterranean Assault
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 3PdD.
+KEYWORDS
+• | MAWLOC and TRYGON units from your army have the BURROWER keyword.
+• | In the Muster Armies step, you can select up to 2 TRYGON models from your army. The selected units gain the CHARACTER keyword.
+
+Designer’s Note: This means that the selected models can be given Enhancements and one of them can be selected as your WARLORD.
+Surprise Assault,  Déplié
+Each time a **TYRANIDS** model from your army makes an attack, re-roll a Hit roll of 1.
+
+Each time a **BURROWER** unit from your army is set up on the battlefield from Reserves, place a 40mm circular Tunnel Marker anywhere on the battlefield within 1" of that unit and more than 3" horizontally away from all enemy units.
+
+In the Reinforcements step of your Movement phase, when you set up a unit on the battlefield from Reserves, you can set that unit up wholly within 9" of one of your Tunnel Markers and more than 6" horizontally away from any enemy units.
+
+If an enemy model (excluding **AIRCRAFT**) ends any kind of move within 3" of one of your Tunnel Markers, that Tunnel Marker is removed from the battlefield. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+Reconnaissance
+
+== Référence > Tyranides > Codex: Tyranids > Subterranean Assault > Optimisations
+Synaptic Strategy, 15 Points, Déplié
+**TYRANIDS** model only. Once per battle, you can target the bearer’s unit with the Rapid Ingress stratagem for 0CP, and can do so even if you have already targeted a different unit with that Stratagem this phase. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tremor Senses, 20 Points, Déplié
+**TYRANIDS** model only. After both players have deployed their armies, select up to three friendly **TYRANIDS** units from your army and redeploy them. When doing so, you can set those units up in Strategic Reserves, regardless of how many units are already in Strategic Reserves. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vanguard Intellect, 15 Points, Déplié
+**TYRANIDS** model with the Deep Strike ability only. The bearer’s unit can be set up using the Deep Strike ability in the Reinforcements step of your first, second or third Movement phase, regardless of any mission rules. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Trygon Prime, 20 Points, Déplié
+**TRYGON** model only. The bearer gains the **SYNAPSE** keyword. Improve the Strength and Weapon Skill characteristics of melee weapons equipped by the bearer by 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Subterranean Assault > Stratagèmes
+Adaptive Optimisation, 1PC, Déplié
+Subterranean Assault - Équipement 
+Command phase. 
+One **MAWLOC** or **TRYGON** unit from your army. 
+Until the start of your next Command phase, your unit has the **SYNAPSE** keyword. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Replenishing Swarms, 1PC, Déplié
+Subterranean Assault - Équipement 
+Your Movement phase. 
+One **TYRANIDS** unit from your army, wholly within 9" of one or more Tunnel Markers you placed. 
+One model in your unit regains up to D3+1 lost wounds, or you can return up to D3+1 destroyed models with a Wounds characteristic of 1 to your unit, with their full wounds remaining, instead. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Enfilading Emergence, 1PC, Déplié
+Subterranean Assault - Subterfuge Stratégique 
+End of your Movement phase. 
+One **TYRANIDS** unit from your army that was set up as Reinforcements this turn. 
+Until the end of your next Fight phase, weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** and **[IGNORES COVER]** abilities. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Tunnel Network, 1PC, Déplié
+Subterranean Assault - Subterfuge Stratégique 
+End of your Movement phase. 
+One **TYRANIDS** unit from your army that is wholly within 9" of one or more of your Tunnel Markers and not within Engagement Range of one or more enemy units. 
+Remove your unit from the battlefield and set it up again, wholly within 9" of another Tunnel Marker you placed, and more than 6" horizontally away from all enemy units. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Swarming Assault, 1PC, Déplié
+Subterranean Assault - Subterfuge Stratégique 
+Your Charge phase. 
+One **TYRANIDS MONSTER** unit from your army that was set up as Reinforcements this turn. 
+Until the end of the phase, friendly **TYRANIDS** units within 6" of your unit can re-roll Charge rolls. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Retreat Below, 1PC, Déplié
+Subterranean Assault - Subterfuge Stratégique 
+End of your opponent’s Fight phase. 
+One **TYRANIDS** unit or up to two **BURROWER** units from your army that are not within Engagement Range of one or more enemy units. 
+Remove your unit from the battlefield and place it into Strategic Reserves. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Synaptic Nexus
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Synaptic Imperatives,  Déplié
+At the start of the battle round, you can select one of the Synaptic Imperatives shown below. Until the end of the battle round, that Synaptic Imperative is active for your army and while a **TYRANIDS** unit from your army is within Synapse Range of your army, it will benefit from it. Each Synaptic Imperative can only be selected once per battle.
+
+■ **Synaptic Augmentation**: While this unit is within Synapse Range of your army, models in this unit have a 5+ invulnerable save.
+■ **Surging Vitality**: While this unit is within Synapse Range of your army, add 1 to Advance and Charge rolls made for this unit.
+■ **Goaded to Slaughter**: While this unit is within Synapse Range of your army, each time a model in this unit makes a melee attack, add 1 to the Hit roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Perturbation
+
+== Référence > Tyranides > Codex: Tyranids > Synaptic Nexus > Optimisations
+Power of the Hive Mind, 10 Points, Déplié
+**TYRANIDS PSYKER** model only. Improve the Strength and Armour Penetration characteristics of psychic weapons equipped by the bearer by 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Psychostatic Disruption, 30 Points, Déplié
+**TYRANIDS SYNAPSE** model only. Enemy units that arrive on the battlefield from Reserves cannot be set up within 12" of the bearer. In addition, once per battle, during the first or second battle round, when your opponent declares that a unit will arrive on the battlefield from Strategic Reserves, the bearer can use this Enhancement. If it does, roll one D6: on a 4+, that enemy unit cannot arrive on the battlefield this turn. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Synaptic Control, 20 Points, Déplié
+**TYRANIDS SYNAPSE** model only. Each time an attack is allocated to the bearer, subtract 1 from the Damage characteristic of that attack. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+The Dirgeheart of Kharis (Aura), 15 Points, Déplié
+**TYRANIDS SYNAPSE** model only. While an enemy unit is within 9" of the bearer, worsen that unit’s Leadership characteristic by 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Synaptic Nexus > Stratagèmes
+The Smothering Shadow, 1PC, Déplié
+Synaptic Nexus - Subterfuge Stratégique 
+Any phase, just after an enemy unit fails a Battle-shock test. 
+One **SYNAPSE** unit from your army within 12" of that enemy unit. 
+Roll six D6: for each 3+, that enemy unit suffers 1 mortal wound. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Synaptic Channelling, 1PC, Déplié
+Synaptic Nexus - Tactique de Bataille 
+Command phase. 
+One **SYNAPSE** unit from your army. 
+Until the end of the turn, while a friendly **TYRANIDS** unit is within 9" of the selected unit, that unit is within Synapse Range of your army. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Irresistible Will, 1PC, Déplié
+Synaptic Nexus - Tactique de Bataille 
+Your Shooting phase or the Fight phase. 
+One **SYNAPSE** unit from your army that has not been selected to shoot or fight this phase, and one enemy unit within 24" of and visible to the **SYNAPSE** unit. 
+Until the end of the phase, each time a friendly **TYRANIDS** model makes an attack that targets that enemy unit, if the attacking model’s unit is within 6" of your **SYNAPSE** unit, re-roll a Hit roll of 1 and re-roll a Wound roll of 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Reinforced Hive Node, 1PC, Déplié
+Synaptic Nexus - Tactique de Bataille 
+Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. 
+One **SYNAPSE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the attacking unit has finished making its attacks, each time an attack targets your unit, worsen the Armour Penetration characteristic of that attack by 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Imperative Dominance, 1PC, Déplié
+Synaptic Nexus - Subterfuge Stratégique 
+Your Command phase. 
+One **TYRANIDS** unit from your army that is within Synapse Range of your army. 
+Select one Synaptic Imperative, even if you have already selected that imperative this battle. Until the start of your next Command phase, that Synaptic Imperative is active for your unit instead of any other Synaptic Imperative that is active for your army. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Override Instincts, 1PC, Déplié
+Synaptic Nexus - Subterfuge Stratégique 
+Your Movement phase. 
+One **TYRANIDS** unit from your army that is within Synapse Range of your army and made a Fall Back move this phase. 
+Your unit is eligible to shoot and declare a charge this turn. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Unending Swarm
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Insurmountable Odds,  Déplié
+In your opponent’s Shooting phase, when an enemy unit has shot, if a model from a friendly **ENDLESS MULTITUDE** unit was **destroyed** as a result of those attacks, that friendly unit can make a **surge move** of up to D6”. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Prendre et Tenir
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Unending Swarm > Optimisations
+Relentless Hunger, 20 Points, Déplié
+**TYRANIDS** model only. Add 2" to the Move characteristic of models in the bearer’s unit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Naturalised Camouflage, 30 Points, Déplié
+**TYRANIDS** model only. At the start of the first battle round, select up to three friendly **ENDLESS MULTITUDE** units within 9" of the bearer. Until the end of the battle round, each time a ranged attack targets one of those units, models in that unit have the Benefit of Cover against that attack. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Piercing Talons, 25 Points, Déplié
+**TYRANIDS** model only. Each time a model in the bearer’s unit makes an attack, on a Critical Wound, improve the Armour Penetration characteristic of that attack by 1. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Adrenalised Onslaught, 15 Points, Déplié
+**TYRANIDS** model only. Each time the bearer’s unit Piles In or Consolidates, models in this unit can move an additional 3". 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Unending Swarm > Stratagèmes
+Synaptic Goading, 1PC, Déplié
+Unending Swarm - Subterfuge Stratégique 
+Any phase, just before an **ENDLESS MULTITUDE** unit from your army that is within Synapse Range of your army makes a **Surge move**. 
+That **ENDLESS MULTITUDE** unit 
+When making that **Surge move**, you can re-roll the D6 to determine how far your unit moves, and your unit can end that move as close as possible to the closest objective marker (instead of as close as possible to the closest enemy unit). All other rules for making **Surge moves** still apply. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Unending Waves, 2PC, Déplié
+Unending Swarm - Subterfuge Stratégique 
+Any phase. 
+One **ENDLESS MULTITUDE** unit from your army that was just destroyed. You can use this Stratagem on that unit even though it was just destroyed. 
+Add a new unit to your army identical to your destroyed unit, in Strategic Reserves, at its Starting Strength. 
+Any destroyed **CHARACTER** units that were attached to your unit are not returned. You can only use this Stratagem once per battle. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Teeming Masses, 1PC, Déplié
+Unending Swarm - Tactique de Bataille 
+Your opponent’s Shooting phase or the Fight phase, just after an enemy unit has selected its targets. 
+One **ENDLESS MULTITUDE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, each time an attack targets your unit, subtract 1 from the Hit roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Swarming Masses, 1PC, Déplié
+Unending Swarm - Tactique de Bataille 
+Your Shooting phase or the Fight phase. 
+One **ENDLESS MULTITUDE** unit from your army that has not been selected to shoot or fight this phase. 
+Until the end of the phase, weapons equipped by models in your unit have the **[SUSTAINED HITS 1]** ability, and If your unit contains 15 or more models, each time a model in your unit makes an attack, an unmodified Hit roll of 5+ scores a Critical Hit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Bounding Advance, 1PC, Déplié
+Unending Swarm - Tactique de Bataille 
+Your Movement phase. 
+One **ENDLESS MULTITUDE** unit from your army. 
+Until the end of the phase, each time your unit Advances, do not make an Advance roll. Instead, until the end of the phase, add 6" to the Move characteristic of models in your unit. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Preservation Imperative, 1PC, Déplié
+Unending Swarm - Subterfuge Stratégique 
+Your opponent’s Shooting phase, just after an enemy unit has selected its targets. 
+One **ENDLESS MULTITUDE** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, your unit is treated as containing fewer than five models for the purpose of the **[BLAST]** ability. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Vanguard Onslaught
+Optimisations
+Stratagèmes
+RÈGLES DE DÉTACHEMENT
+Points de Détachement
+• Pour utiliser ce détachement, vous devez dépenser 2PdD.
+Questing Tendrils,  Déplié
+**TYRANIDS** units with this ability are eligible to charge in a turn in which they Fell Back. **VANGUARD INVADER** units with this ability are eligible to charge in a turn in which they Advanced. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Vanguard Prime,  Déplié
+**DEATHLEAPER** loses the Hunter Organism rule and can be your **WARLORD**. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Dispositions des Forces,  Déplié
+Ce détachement a accès aux Dispositions de Forces suivantes : 
+Reconnaissance
+
+== Référence > Tyranides > Codex: Tyranids > Vanguard Onslaught > Optimisations
+Hunting Grounds, 30 Points, Déplié
+**TYRANIDS** model only. While the bearer is on the battlefield, each time your opponent sets up a Reserves unit on the battlefield, roll one D6: on a 2+, that unit must take a Battle-shock test. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Chameleonic, 15 Points, Déplié
+**VANGUARD INVADER** model only. This unit has **Stealth**. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Stalker, 10 Points, Déplié
+**VANGUARD INVADER** model only. At the start of the battle, select one enemy unit. Each time the bearer makes an attack that targets that enemy unit, add 1 to the Hit roll and add 1 to the Wound roll. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Neuronode, 20 Points, Déplié
+**TYRANIDS** model only. After both players have deployed their armies, you can select up to three **VANGUARD INVADER** units from your army and redeploy all of those units. When doing so, any of those units can be placed into Strategic Reserves, regardless of how many units are already in Strategic Reserves. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Tyranides > Codex: Tyranids > Vanguard Onslaught > Stratagèmes
+Surprise Assault, 1PC, Déplié
+Vanguard Onslaught - Tactique de Bataille 
+Your Shooting phase or the Fight phase, just after a **VANGUARD INVADER** unit from your army has selected its targets. 
+That **VANGUARD INVADER** unit. 
+Select one enemy unit that was selected as the target of one or more of your unit’s attacks. That enemy unit must take a Battle-shock test. Until the end of the phase, each time a model in your unit makes an attack that targets that enemy unit, add 1 to the Hit roll. If the Battle-shock test was failed, add 1 to the Wound roll as well. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Assassin Beasts, 1PC, Déplié
+Vanguard Onslaught - Tactique de Bataille 
+Fight phase. 
+One **VANGUARD INVADER INFANTRY** unit from your army that has not been selected to fight this phase. 
+Until the end of the phase, melee weapons equipped by models in your unit have the **[PRECISION]** ability. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Seeded Broods, 1PC, Déplié
+Vanguard Onslaught - Subterfuge Stratégique 
+Your Movement phase. 
+One **TYRANIDS** unit from your army that is in Reserves, or up to two **VANGUARD INVADER** units from your army that are in Reserves. 
+Until the end of the phase, for the purposes of setting up those selected units on the battlefield, treat the current battle round number as being one higher than it actually is. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Hypersensory Scillia, 2PC, Déplié
+Vanguard Onslaught - Subterfuge Stratégique 
+Your opponent’s Movement phase, just after an enemy unit ends a Normal, Advance or Fall Back move. 
+Up to two **VANGUARD INVADER** units from your army that are within 8" of that enemy unit, or one other **TYRANIDS INFANTRY** unit from your army that is within 8" of that enemy unit. 
+Those selected units can each make a Normal move of up to 6". 
+You cannot target units that are within Engagement Range of one or more enemy units. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Unseen Lurkers, 1PC, Déplié
+Vanguard Onslaught - Subterfuge Stratégique 
+Your opponent’s Shooting phase, just after an enemy unit has selected its targets. 
+One **VANGUARD INVADER** unit from your army that was selected as the target of one or more of the attacking unit’s attacks. 
+Until the end of the phase, your unit can only be selected as the target of a ranged attack if the attacking model is within 18" or, if your unit has the Lone Operative ability, if the attacking model is within 6". Your opponent can select new targets for the attacking unit’s attacks. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Invisible Hunter, 1PC, Déplié
+Vanguard Onslaught - Subterfuge Stratégique 
+End of your opponent’s Fight phase. 
+Up to two **VANGUARD INVADER** units from your army, or one **TYRANIDS INFANTRY** unit from your army. 
+Remove the targeted units from the battlefield and place them into Strategic Reserves. 
+The targeted units must be more than 3" away from all enemy units. 
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Winged Tyranid Prime » > Winged Tyranid Prime, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030827-1-caracteristiques.png | Winged Tyranid Prime. Mouvement : 12". Endurance : 5. Sauvegarde : 4+. Points de Vie : %wounds@. Commandement : 7+. Contrôle d'Objectif : 1.
+Armes de Mêlée -  Prime talons.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 6.
+Pénétration d'Armure : -1.
+Dégats : 2.
+
+Base :
+DEEP STRIKE | LEADER
+Aptitudes de Faction :
+SHADOW IN THE WARP | SYNAPSE
+Aptitudes de Fiche Technique :
+ALPHA WARRIOR
+While this model is leading a unit, weapons equipped by models in that unit have the [SUSTAINED HITS 1] ability.
+DEATH BLOW
+If this model is destroyed by a melee attack, if it has not fought this phase, roll one D6: on a 4+, do not remove  it from play. The destroyed model can fight after the attacking model’s unit has finished making its attacks, and is then removed from play.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ GARGOYLES
+■ TYRANID WARRIORS WITH MELEE BIO-WEAPONS
+■ TYRANID WARRIORS WITH RANGED BIO-WEAPONS
+■ 1 Winged Tyranid Prime
+
+This model is equipped with: Prime talons.
+Nom de Figurine | Compte | Points
+Winged Tyranid Prime | 1 | 65
+Taille de Socle
+50mm
+Mots-clés: INFANTERIE, PERSONNAGE, VOL, GRAND DÉVOREUR, SYNAPSE, ENVAHISSEUR D'AVANT-GARDE, PRIMAT TYRANIDE AILÉ
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Prime talons ; arme parente probable : Winged Tyranid Prime ; vérifier sur capture
+
+== Référence > Recherche « Neurotyrant » > Neurotyrant, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030859-1-caracteristiques.png | Neurotyrant. Mouvement : 6". Endurance : 8. Sauvegarde : 4+. Points de Vie : %wounds@. Commandement : 7+. Contrôle d'Objectif : 3.
+Sauvegarde Invulnérable, 4+
+Armes de Tir -  Psychic scream.
+Portée : 18".
+Attaques : 2D6.
+Capacité de Tir : -.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 2.
+Aptitudes d'Arme. Ignores Cover - Button. Psychic - Button. Torrent - Button.
+Armes de Mêlée -  Neurotyrant claws and lashes.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Base :
+LEADER
+Aptitudes de Faction :
+SYNAPSE | SHADOW IN THE WARP
+Aptitudes de Fiche Technique :
+NODE LASH (PSYCHIQUE)
+While this model is leading a unit, each time a model in that unit makes an attack, add 1 to the Hit roll. If the target is Battle-shocked, add 1 to the Wound roll as well.
+PSYCHIC TERROR (PSYCHIQUE)
+If one or more Neurotyrants from your army are on the battlefield when you unleash the Shadow in the Warp, subtract 1 from the Battle-shock test each enemy unit on the battlefield must take as a result.
+NEUROLOIDS
+In your Command phase, you can select up to two friendly TYRANIDS units within 18" of this model’s unit. Until the start of your next Command phase, the selected units are always considered to be within Synapse Range of your army.
+
+Designer’s Note: Place a Neuroloid token next to each selected unit to remind you.
+Cette figurine peut être attachée aux unités suivantes:
+
+■ NEUROGAUNTS
+■ TYRANT GUARD
+■ ZOANTHROPES
+■ 1 Neurotyrant
+
+This model is equipped with: Psychic Scream; Neurotyrant claws and lashes.
+Nom de Figurine | Compte | Points
+Neurotyrant | 1 | 120
+Taille de Socle
+50mm
+Mots-clés: MONSTRE, PERSONNAGE, VOL, PSYKER, GRAND DÉVOREUR, SYNAPSE, NEUROTYRANT
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Psychic scream, Neurotyrant claws and lashes ; arme parente probable : Neurotyrant ; vérifier sur capture
+
+== Référence > Recherche « Screamer-Killer » > Screamer-Killer, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030889-1-caracteristiques.png | Screamer-Killer. Mouvement : 8". Endurance : 9. Sauvegarde : 2+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 3.
+Armes de Tir -  Bio-plasmic scream.
+Portée : 18".
+Attaques : D6+3.
+Capacité de Tir : 4+.
+Force : 8.
+Pénétration d'Armure : -2.
+Dégats : 1.
+Aptitudes d'Arme. Assault - Button. Blast - Button.
+Armes de Mêlée -  Scream-Killer talons.
+Portée : Melee.
+Attaques : 10.
+Capacité de Combat : 3+.
+Force : 10.
+Pénétration d'Armure : -2.
+Dégats : 3.
+
+Base :
+DEADLY DEMISE 1
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+DEATH SCREAM
+In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. That unit must take a Battle-shock test, subtracting 1 from that test.
+■ 1 Screamer-Killer
+
+This model is equipped with: bio-plasmic scream; Screamer-Killer talons.
+Nom de Figurine | Compte | Points
+Screamer-Killer | 1 | 125
+Après la 2e sélection de cette unité, les sélections supplémentaires de cette unité coûtent chacune +10 pts.
+Taille de Socle
+90mm
+Mots-clés: MONSTRE, GRAND DÉVOREUR, SCREAMER-KILLER
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Bio-plasmic scream, Scream-Killer talons ; arme parente probable : Screamer-Killer ; vérifier sur capture
+
+== Référence > Recherche « Psychophage » > Psychophage, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030920-1-caracteristiques.png | Psychophage. Mouvement : 12". Endurance : 9. Sauvegarde : 3+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 3.
+Armes de Tir -  Psychoclastic torrent.
+Portée : 12".
+Attaques : D6.
+Capacité de Tir : -.
+Force : 6.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. Ignores Cover - Button. Torrent - Button.
+Armes de Mêlée -  Talons and betentacled maw.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 3+.
+Force : 6.
+Pénétration d'Armure : -2.
+Dégats : 2.
+Aptitudes d'Arme. Anti-psyker 4+ - Button. Devastating Wounds - Button.
+Base :
+DEADLY DEMISE 1 | FEEL NO PAIN 5+
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+BIO-STIMULUS (AURA)
+In your Shooting phase, after this model has shot, select one enemy unit hit by one or more of those attacks. Until the end of the turn, each time a friendly TYRANIDS unit makes a melee attack that targets that enemy unit, improve the Armour Penetration characteristic of that attack by 1. The same enemy unit can only be affected by this ability once per turn.
+FEEDING FRENZY
+Each time this model makes a melee attack that targets a unit that is below its Starting Strength, add 1 to the Hit roll. If that target is also Below Half-strength, add 1 to the Wound roll as well.
+■ 1 Psychophage
+
+This model is equipped with: psychoclastic torrent; talons and betentacled maw.
+Nom de Figurine | Compte | Points
+Psychophage | 1 | 110
+Taille de Socle
+120 x 92mm Oval Base
+Mots-clés: MONSTRE, FUMÉE, GRAND DÉVOREUR, RÉCOLTEUR, PSYCHOPHAGE
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Psychoclastic torrent, Talons and betentacled maw ; arme parente probable : Psychophage ; vérifier sur capture
+
+== Référence > Recherche « Von Ryan’s Leapers » > Von Ryan’s Leapers, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030948-1-caracteristiques.png | Von Ryan’s Leapers. Mouvement : 10". Endurance : 5. Sauvegarde : 4+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 1.
+Sauvegarde Invulnérable, 6+
+Armes de Mêlée -  Leaper’s talons.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 3+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+
+Base :
+FIGHTS FIRST | INFILTRATORS | STEALTH
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+POUNCING LEAP
+You can target this unit with the Heroic Intervention stratagem, regardless of any other uses of that stratagem this phase. If you do:
+■ That use is -1 CP.
+■ That use does not prevent any uses of that stratagem on other units this phase.
+■ 3-6 Von Ryan’s Leapers
+
+Every model is equipped with: Leaper’s talons.
+Nom de Figurine | Compte | Points
+Von Ryan’s Leaper | 3 | 55
+Von Ryan’s Leaper | 4-6 | 105
+Taille de Socle
+40mm
+Mots-clés: INFANTERIE, GRAND DÉVOREUR, ENVAHISSEUR D'AVANT-GARDE, VON RYAN’S LEAPERS
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Barbgaunts » > Barbgaunts, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793030977-1-caracteristiques.png | Barbgaunts. Mouvement : 6". Endurance : 4. Sauvegarde : 4+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 1.
+Armes de Tir -  Barblauncher.
+Portée : 24".
+Attaques : D6.
+Capacité de Tir : 4+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Blast - Button. Heavy - Button.
+Armes de Mêlée -  Chitinous claws and teeth.
+Portée : Melee.
+Attaques : 1.
+Capacité de Combat : 4+.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+DISRUPTION BOMBARDMENT
+In your Shooting phase, after this unit has shot, select one enemy INFANTRY unit hit by one or more of those attacks. Until the end of your opponent’s next turn, that enemy unit is disrupted. While a unit is disrupted, subtract 2 from its Move characteristic and subtract 2 from Advance and Charge rolls made for it.
+■ 5-10 Barbgaunts
+
+Every model is equipped with: barblauncher; chitinous claws and teeth.
+Nom de Figurine | Compte | Points
+Barbgaunt | 5 | 50
+Barbgaunt | 6-10 | 100
+Taille de Socle
+40mm
+Mots-clés: INFANTERIE, GRAND DÉVOREUR, BARBGAUNTS
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Neurogaunts » > Neurogaunts, Codex: Tyranids
+Neurogaunt Nodebeast
+Neurogaunt, Mouvement : 6". Endurance : 3. Sauvegarde : 6+. Points de Vie : 1. Commandement : 8+. Contrôle d'Objectif : 1.
+Armes de Mêlée -  Chitinous claws and teeth.
+Portée : Melee.
+Attaques : 1.
+Capacité de Combat : 4+.
+Force : 3.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+NEUROCYTES
+While this unit is within Synapse Range of a friendly TYRANIDS unit (excluding NEUROGAUNT units), it has the SYNAPSE keyword.
+■ 1-2 Neurogaunt Nodebeasts*
+■ 10-20 Neurogaunts
+
+Every model is equipped with: chitinous claws and teeth.
+
+* This unit can only contain 2 Neurogaunt Nodebeasts if it contains 20 Neurogaunts.
+Nom de Figurine | Compte | Points
+Neurogaunt Nodebeast | 1
+45
+Neurogaunt | 10
+Neurogaunt Nodebeast | 1
+90
+Neurogaunt | 11-20
+Neurogaunt Nodebeast | 2
+90
+Neurogaunt | 20
+Taille de Socle
+Neurogaunts: 25mm
+Nodebeast: 28.5mm
+Mots-clés: INFANTERIE, GRAND DÉVOREUR, MULTITUDE INFINIE, NEUROGAUNTS
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+
+== Référence > Recherche « Termagants » > Termagants, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793031035-1-caracteristiques.png | Termagants. Mouvement : 6". Endurance : 3. Sauvegarde : 5+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 2.
+Armes de Tir -  Fleshborer.
+Portée : 18".
+Attaques : 1.
+Capacité de Tir : 4+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Assault - Button.
+Armes de Tir -  Shardlauncher.
+Portée : 18".
+Attaques : D3.
+Capacité de Tir : 4+.
+Force : 5.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Blast - Button. Heavy - Button.
+Armes de Tir -  Spike rifle.
+Portée : 24".
+Attaques : 1.
+Capacité de Tir : 4+.
+Force : 4.
+Pénétration d'Armure : -1.
+Dégats : 1.
+Aptitudes d'Arme. Heavy - Button.
+Armes de Tir -  Strangleweb.
+Portée : 18".
+Attaques : D6.
+Capacité de Tir : -.
+Force : 2.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Assault - Button. Devastating Wounds - Button. Torrent - Button.
+Armes de Tir -  Termagant devourer.
+Portée : 18".
+Attaques : 2.
+Capacité de Tir : 4+.
+Force : 4.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Armes de Tir -  Termagant spinefists.
+Portée : 12".
+Attaques : 2.
+Capacité de Tir : 4+.
+Force : 3.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Assault - Button. Pistol - Button. Twin-linked - Button.
+⚠ raccord incertain entre deux écrans : vérifier sur capture
+Armes de Mêlée -  Chitinous claws and teeth.
+Portée : Melee.
+Attaques : 1.
+Capacité de Combat : 4+.
+Force : 3.
+Pénétration d'Armure : 0.
+Dégats : 1.
+
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+SKULKING HORRORS
+In your opponent's Movement phase, if an enemy unit ends a move within 8” of this unit, if this unit is not within Engagement Range of one or more enemy units, this unit can make a Normal move of up to D6”.
+■ All models in this unit can each have their fleshborer replaced with 1 Termagant devourer.
+■ All models in this unit can each have their fleshborer replaced with 1 Termagant spinefists.
+■ For every 10 models in this unit, 1 model’s ranged weapon can be replaced with 1 shardlauncher.
+■ For every 10 models in this unit, 1 model’s ranged weapon can be replaced with 1 spike rifle.
+■ For every 10 models in this unit, 1 model’s ranged weapon can be replaced with 1 strangleweb.
+■ 10-20 Termagants
+
+Every model is equipped with: fleshborer; chitinous claws and teeth.
+Nom de Figurine | Compte | Points
+Termagant | 10 | 55
+Termagant | 11-20 | 110
+Taille de Socle
+28.5mm
+Mots-clés: INFANTERIE, LIGNE, GRAND DÉVOREUR, MULTITUDE INFINIE, TERMAGANTS
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Fleshborer, Shardlauncher, Spike rifle, Strangleweb, Chitinous claws and teeth ; arme parente probable : model’s ranged weapon can be replaced with 1 shardlauncher ou model’s ranged weapon can be replaced with 1 spike rifle ou model’s ranged weapon can be replaced with 1 strangleweb ; vérifier sur capture
+
+== Référence > Recherche « Ripper Swarms » > Ripper Swarms, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793031067-1-caracteristiques.png | Ripper Swarms. Mouvement : 6". Endurance : 2. Sauvegarde : 6+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 0.
+Armes de Tir -  Spinemaws.
+Portée : 6".
+Attaques : 4.
+Capacité de Tir : 5+.
+Force : 3.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Pistol - Button.
+Armes de Mêlée -  Chitinous claws and teeth.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 5+.
+Force : 2.
+Pénétration d'Armure : 0.
+Dégats : 1.
+Aptitudes d'Arme. Sustained Hits 1 - Button.
+Base :
+DEEP STRIKE
+Aptitudes de Faction :
+SYNAPSE
+Aptitudes de Fiche Technique :
+CHITINOUS HORRORS (AURA)
+While an enemy unit is within Engagement Range of this unit, halve the Objective Control characteristic of models in that enemy unit.
+■ All models in this unit can each be equipped with 1 spinemaws.
+■ 1-3 Ripper Swarms
+
+Every model is equipped with: chitinous claws and teeth.
+Nom de Figurine | Compte | Points
+Ripper Swarm | 1 | 30
+Ripper Swarm | 2 | 40
+Ripper Swarm | 3 | 50
+Taille de Socle
+40mm
+Mots-clés: NUÉE, GRAND DÉVOREUR, RÉCOLTEUR, RIPPER SWARMS
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Chitinous claws and teeth ; arme parente probable : non déduite ; vérifier sur capture
+
+== Référence > Recherche « Parasite of Mortrex » > Parasite of Mortrex, Codex: Tyranids
+⚠ PV non exposés par l'appli : les lire sur la capture /private/tmp/claude-501/-Users-paugam-repos-listes-40k/7e29814a-c3d9-5175-8a7b-5c531a090c43/scratchpad/captures/1793031097-1-caracteristiques.png | Parasite of Mortrex. Mouvement : 12". Endurance : 5. Sauvegarde : 4+. Points de Vie : %wounds@. Commandement : 8+. Contrôle d'Objectif : 1.
+Armes de Mêlée -  Barbed ovipositor.
+Portée : Melee.
+Attaques : 1.
+Capacité de Combat : 2+.
+Force : 3.
+Pénétration d'Armure : -2.
+Dégats : 3.
+Aptitudes d'Arme. Anti-infantry 3+ - Button. Extra Attacks - Button.
+Armes de Mêlée -  Clawed limbs.
+Portée : Melee.
+Attaques : 6.
+Capacité de Combat : 2+.
+Force : 5.
+Pénétration d'Armure : -1.
+Dégats : 1.
+
+Base :
+DEEP STRIKE | LONE OPERATIVE | STEALTH
+Aptitudes de Faction :
+SHADOW IN THE WARP | SYNAPSE
+Aptitudes de Fiche Technique :
+PARASITIC INFECTION
+Each time an INFANTRY model is destroyed by an attack made with this model’s barbed ovipositor, after this model has finished making its attacks, you can add one new RIPPER SWARMS unit to your army consisting of D3 models and set it up within 3" of this model. If you do, that RIPPER SWARMS unit can be set up within Engagement Range of the destroyed model’s unit (but not within Engagement Range of any other enemy units).
+IT ITCHES!
+At the start of the Fight phase, select one enemy unit within Engagement Range of this model. That enemy unit must take a Battle-shock test.
+■ 1 Parasite of Mortrex
+
+This model is equipped with: barbed ovipositor; clawed limbs.
+Nom de Figurine | Compte | Points
+Parasite of Mortrex | 1 | 65
+Taille de Socle
+40mm
+Mots-clés: INFANTERIE, PERSONNAGE, VOL, GRAND DÉVOREUR, ENVAHISSEUR D'AVANT-GARDE, SYNAPSE, PARASITE OF MORTREX
+Mots-clés de Faction: TYRANIDES
+Historique Replié : Bouton - appuyez deux fois pour déplier
+⚠ armes à profils, nom de l'arme non exposé par l'appli : Barbed ovipositor, Clawed limbs ; arme parente probable : Parasite of Mortrex ; vérifier sur capture

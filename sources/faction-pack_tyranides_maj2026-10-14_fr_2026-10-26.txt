@@ -1,0 +1,665 @@
+                                                 TYRANIDES
+                                      PACK DE FACTION : VERSION 1.3
+                                           Valide pour le jeu égal à partir du 14 octobre 2026
+
+Les pages suivantes contiennent des règles additionnelles et des clarifications qui complètent votre Codex, comme des détachements
+et des fiches techniques supplémentaires, des mises à jour de règles et des errata. Tous ces changements sont aussi mis à jour dans
+l'appli Warhammer 40,000, de même que les valeurs en points de vos unités et détachements.
+
+
+QUOI DE NEUF ?                                                        SOMMAIRE
+▪ Changements aux Mises à Jour de Règles                               Détachements�������������������������������������������������������������������������������2
+                                                                         Prédateurs Embusqués�����������������������������������������������������������������������������2
+                                                                         Serres de la Reine Norne���������������������������������������������������������������������������3
+                                                                         Assaut de Bioformes de Type Guerrier��������������������������������������������������4
+                                                                         Attaque Souterraine�����������������������������������������������������������������������������������5
+                                                                       Fiches Techniques�������������������������������������������������������������������������7
+                                                                         La Terreur Rouge������������������������������������������������������������������������������������������7
+                                                                         Primat Tyranide avec Bio-knout��������������������������������������������������������������9
+                                                                         Rôdeurs������������������������������������������������������������������������������������������������������11
+                                                                       Mises à Jour de Règles����������������������������������������������������������������13
+PRÉDATEURS EMBUSQUÉS
+DES ORGANISMES D’AVANT-GARDE CHASSENT LEUR MALHEUREUSE PROIE, EN FRAPPANT DEPUIS LES OMBRES
+
+
+ RÈGLES DE DÉTACHEMENT                                                    CONTRE-PRÉDATION                                                       1PC
+                                                                          STRATAGÈME PRÉDATEURS EMBUSQUÉS
+FAIM DE CERVEAU
+                                                                          Il est malavisé de tenter de piéger des chasseurs optimisés pour
+Un instinct vorace pousse ces organismes d’avant-garde à traquer          l’embuscade, au risque de devenir leur proie.
+les chefs ennemis, à leur ouvrir crâne et à dévorer la matière
+                                                                          QUAND : À la phase de Combat, quand une unité de LA MORT SUBITE/
+cérébrale qui s’y trouve.                                                 LICTOR/NEUROLICTOR/BONDISSEURS DE VON RYAN amie est choisie
+                                                                          pour combattre.
+▪ Les unités de LA MORT SUBITE/LICTOR/NEUROLICTOR amies ont              CIBLE : Cette unité de LA MORT SUBITE/LICTOR/NEUROLICTOR/
+   Frappe en Profondeur.                                                  BONDISSEURS DE VON RYAN.
+▪ Les attaques des unités de LICTOR/NEUROLICTOR amies qui                EFFET : Les attaques de votre unité qui ciblent une unité cachée ont
+   ciblent une unité de PERSONNAGE peuvent relancer les jets de           +1 en F et en PA.
+   touche de 1.
+
+                                                                          ADAPTATIONS HYPERSENSORIELLES                                          1PC
+ OPTIMISATIONS                                                            STRATAGÈME PRÉDATEURS EMBUSQUÉS
+
+                                                                          Les organismes qui composent l’avant-garde tyranide ont des sens
+ENCERCLEMENT D’HORREURS AMÉLIORATION                                      exceptionnels et peuvent détecter des proies cachées et relayer
+                                                                          leurs positions à l’Esprit-ruche.
+Sans laisser à ses proies le temps de comprendre qu’elles sont
+traquées, les organismes d’avant-garde de l’Esprit-ruche les ont prises   QUAND : Au début de votre phase de Tir.
+dans une étreinte fatale. Il est impossible d’échapper à ce qui suivra.   CIBLE : Une unité de LA MORT SUBITE/LICTOR/NEUROLICTOR/
+                                                                          BONDISSEURS DE VON RYAN amie.
+Unité de LICTOR/NEUROLICTOR/BONDISSEURS DE VON RYAN                       EFFET : Choisissez une unité ennemie visible et à 12" ou moins de
+                                                                          votre unité. L’unité ennemie choisie a +6" en portée de détection.
+seulement. À la phase de Mouvement adverse, quand une unité
+ennemie finit un mouvement à 8" ou moins de cette unité, cette
+dernière peut faire un mouvement normal de D3+3" maximum.
+                                                                          ÉCHO FANTÔME                                                           1PC
+CAMOUFLAGE CRYPTOPHOTAÏQUE AMÉLIORATION                                   STRATAGÈME PRÉDATEURS EMBUSQUÉS
+
+Le derme de ces biochasseurs a été adapté pour altérer sa couleur         Ce qui semble être un contact tyranide certain et identifié se
+                                                                          volatilise soudain, tel un fantôme.
+en fonction de ce que les capteurs oculaires de la proie s’attendent
+à voir, ce qui permet à ces créatures de se cacher en évidence.           QUAND : À la fin de la phase de Combat adverse.
+                                                                          CIBLE : Une unité de LA MORT SUBITE/LICTOR/NEUROLICTOR amie
+Unité de BONDISSEURS DE VON RYAN seulement. Cette unité a ‑3"             non engagée.
+en portée de détection.                                                   EFFET : Placez votre unité en réserve stratégique.
+SERRES DE LA REINE NORNE
+LORSQUE LES BÊTES-AGENTS DES REINES NORNES RÔDENT, LES CONSÉQUENCES SERONT DES PLUS FUNESTES
+
+
+ RÈGLES DE DÉTACHEMENT                                                     BIOFORTIFICATION CATALYTIQUE                                      1PC
+                                                                           STRATAGÈME SERRES DE LA REINE NORNE
+IMPÉRATIFS SUPÉRIEURS
+                                                                           Les impacts et les dégâts déclenchent une inflammation
+Douées de raisonnement complexe et d’une initiative effrayante,            de l’exosquelette de cet organisme, qui crée des couches
+                                                                           protectrices capables de résister aux coups les plus puissants.
+les Émissaires et Assimilatrices Nornes font montre d’une grande
+capacité d’action dans l’accomplissement de leurs tâches.                  QUAND : À n’importe quelle phase, quand une unité
+                                                                           d’ASSIMILATRICE NORNE amie subit une blessure mortelle.
+Les unités d’ÉMISSAIRE NORNE/ASSIMILATRICE NORNE amies ont                 CIBLE : Cette unité d’ASSIMILATRICE NORNE.
+aptitude suivante :                                                        EFFET : Votre unité a Insensible à la Douleur 4+ contre les
+                                                                           blessures mortelles.
+  Objectif Protéiforme : (Une fois par bataille, par unité) À votre
+  phase de Commandement, vous pouvez utiliser cette aptitude.
+  Dans ce cas, cette unité peut faire un choix pour son aptitude           PROIE INSIGNIFIANTE                                               1PC
+  But Singulier (ce choix remplace le précédent).
+                                                                           STRATAGÈME SERRES DE LA REINE NORNE
+
+                                                                           Concentrée sur l’accomplissement de ses objectifs, cette
+ OPTIMISATIONS                                                             bioforme fait voler en éclats les proies sur son chemin avec
+                                                                           à un surcroît de force.
+
+PRÉDATION DÉSTABILISANTE AMÉLIORATION                                      QUAND : À la phase de Combat, quand une unité d’ASSIMILATRICE
+                                                                           NORNE/ÉMISSAIRE NORNE amie est choisie pour combattre.
+Telle une manifestation de la volonté de l’Esprit-ruche, les tirs précis
+de cet organisme sont parfaitement calibrés pour abattre les chefs         CIBLE : Cette unité d’ASSIMILATRICE NORNE/ÉMISSAIRE NORNE.
+parmi les proies.                                                          EFFET : Les attaques de mêlée de votre unité ont +2 en F.
+
+
+Unité d’ÉMISSAIRE NORNE seulement. Les attaques de tir de cette
+unité ont [ANTI‑PERSONNAGE 2+].
+                                                                           MUNITIONS ENCHEVÊTREUSES                                          1PC
+                                                                           STRATAGÈME SERRES DE LA REINE NORNE
+SYNAPTOPRESCIENCE AMÉLIORATION                                             Ces révulsantes munitions vivantes éclatent à l’impact pour
+                                                                           recouvrir les organismes proies alentour de fils atrocement
+Comme si elle possédait un aperçu de la vision quasi-omnisciente           collants dont on met du temps à se libérer.
+de l’Esprit-ruche, cette bête imposante évite les menaces de
+façon troublante.                                                          QUAND : À votre phase de Tir, quand une unité d’ASSIMILATRICE
+                                                                           NORNE amie a tiré.
+                                                                           CIBLE : Cette unité d’ASSIMILATRICE NORNE.
+Unité d’ASSIMILATRICE NORNE seulement. Cette unité a une SvIn
+                                                                           EFFET : Choisissez une unité ennemie touchée par ces attaques.
+de 4+.
+                                                                           Ladite unité ennemie est enchevêtrée jusqu’au début de votre
+                                                                           prochaine phase de Commandement :
+                                                                           ▪ Tant qu’une unité est enchevêtrée, elle a ‑2" en M.
+ASSAUT DE BIOFORMES
+DE TYPE GUERRIER
+LES GUERRIERS TYRANIDES SONT ADAPTÉS POUR AIGUILLER LES ESSAIMS POPULEUX SUR LE CHAMP DE BATAILLE
+
+
+ RÈGLES DE DÉTACHEMENT                                                 PHYSIOLOGIE XÉNO                                                        1PC
+                                                                       STRATAGÈME ASSAUT DE BIOFORMES DE TYPE GUERRIER
+BÊTES MENEUSES
+                                                                       La résistance de ces organismes guerriers semble surnaturelle
+L’Esprit-ruche a engendré ses essaims entiers de Guerriers Tyranides   pour leur proie horrifiée.
+sur ce champ de bataille, les rendant plus résistants et plus
+                                                                       QUAND : À la phase de Tir adverse ou à la phase de Combat, quand
+nombreux, pour mieux s’en servir de vaisseaux de sa volonté.           une unité ennemie cible une unité de GUERRIERS TYRANIDES amie.
+                                                                       CIBLE : Cette unité de GUERRIERS TYRANIDES.
+▪ Les unités de GUERRIERS TYRANIDES AVEC BIO-ARMES DE TIR/
+                                                                       EFFET : Les attaques qui ciblent votre unité avec une F supérieure à
+   GUERRIERS TYRANIDES AVEC BIO-ARMES DE MÊLÉE amies ont les           son E ont -1 aux jets de blessure.
+   mots-clés :
+    ▫ GUERRIERS TYRANIDES.
+    ▫ LIGNE.
+                                                                       MICRONODULES SYNAPTIQUES                                                1PC
+▪ Les figurines de GUERRIERS TYRANIDES/PRIMAT TYRANIDE AVEC           STRATAGÈME ASSAUT DE BIOFORMES DE TYPE GUERRIER
+  BIOKNOUT/PRIMAT TYRANIDE AILÉ de votre armée ont une SvIn
+                                                                       Telles des spores dispersées par des exosquelettes chitineux,
+  de 5+.                                                               ces micronodules infestent le champ de bataille de particules
+                                                                       conscientes de l’Esprit-ruche.
+
+                                                                       QUAND : À la fin de votre phase de Mouvement.
+ OPTIMISATIONS                                                         CIBLE : Une unité de GUERRIERS TYRANIDES amie.
+                                                                       EFFET : Choisissez un objectif que votre unité contrôle. Cet objectif
+PUISSANCE ÉLEVÉE                                                       est sécurisé.
+Cette bioforme et ses bêtes-armes symbiotiques ont été adaptées
+pour offrir une efficacité meurtrière maximale.
+                                                                       CHARGE PARASITAIRE                                                      1PC
+Figurine de PRIMAT TYRANIDE AILÉ/PRIMAT TYRANIDE AVEC                  STRATAGÈME ASSAUT DE BIOFORMES DE TYPE GUERRIER
+BIOKNOUT seulement. Les attaques de mêlée de cette figurine :          Les projectiles tirés par cette arme sont infestés par des
+                                                                       parasites qui s’enfouissent dans le système nerveux de leurs
+                                                                       cibles ; celles-ci poussent alors des hurlements de douleur
+▪ Peuvent relancer les jets de blessure.                              et signalent ainsi leurs positions aux essaims en approche.
+▪ Ont +1 en PA.
+                                                                       QUAND : À votre phase de Tir, quand une unité de GUERRIERS
+ADAPTATION OCULAIRE                                                    TYRANIDES amie est choisie pour tirer.
+                                                                       CIBLE : Cette unité de GUERRIERS TYRANIDES.
+Les bioadaptations de cette bête-nodule lui permettent de percevoir
+les plus infimes impulsions électriques ou signatures thermiques.      EFFET : Les attaques de tir de votre unité ont [IGNORE LE COUVERT].
+
+Rares sont les organismes à pouvoir échapper à ses griffes.
+
+Figurine de PRIMAT TYRANIDE AILÉ/PRIMAT TYRANIDE AVEC
+BIOKNOUT seulement. Les attaques de mêlée de cette unité
+ont +1 aux jets de touche.
+       ATTAQUE SOUTERRAINE
+       Quand les organismes d’une flotte-ruche s’abattent, aucun lieu n’est à l’abri de leur courroux.
+       Tandis que les terres frémissent sous l’avancée des essaims et que le ciel se couvre de
+       monstruosités ailées, d’autres créatures hostiles progressent sous terre à l’insu de tous.
+       Mawlocs, Rôdeurs et Trygons jaillissent du sol au milieu des poches de défenseurs, fauchant et
+       dévorant leurs victimes hurlantes avant même qu’elles pointent leurs armes, et semant la peur et
+       la confusion chez tous ceux qui sont témoins de cette violence aussi atroce qu’inattendue.
+
+
+
+
+     RÈGLE DE DÉTACHEMENT                               OPTIMISATIONS
+
+    ASSAUT PAR SURPRISE                                STRATÉGIE SYNAPTIQUE
+    Les bioformes fouisseuses tyranides                Grâce à son lien étroit avec l’esprit-ruche, cette
+    jaillissent du sol telles des horreurs.            créature bénéficie d’un influx de données sensorielles
+                                                       lui permettant de traverser le champ de bataille pour
+    Chaque fois qu’une figurine Tyranide               émerger au moment et à l’endroit le plus significatif.
+    de votre armée fait une attaque, relancez
+    tout jet de Touche de 1.                           Figurine Tyranide seulement. Une fois par bataille,
+                                                       vous pouvez cibler l’unité du porteur avec le
+    Chaque fois qu’une unité de Fouisseur              Stratagème Arrivée Précipitée pour 0PC, et vous
+    de votre armée est placée sur le champ             pouvez le faire même si vous avez déjà ciblé une unité
+    de bataille depuis les Réserves, placez            différente avec ce Stratagème à cette phase.
+    un Marqueur de Tunnel rond de 40mm
+    de diamètre n’importe où sur le champ              SENSIBILITÉ SISMIQUE
+    de bataille à 1" de l’unité et plus de 3" à        Depuis sa cachette souterraine, ce biomorphe identifie
+    l’horizontale des unités ennemies.                 les mouvements de la force ennemie et intime aux
+                                                       organismes sous sa tutelle de se repositionner en vue
+    À l’étape des Renforts de votre phase              d’un assaut coordonné.
+    de Mouvement, quand vous placez une
+    unité sur le champ de bataille depuis              Figurine Tyranide seulement. Après que les deux joueurs
+    les Réserves, vous pouvez placer l’unité           ont déployé leur armée, choisissez jusqu’à trois unités
+    entièrement à 9" de 1 de vos Marqueurs             Tyranides de votre armée et redéployez-les. Ce faisant,
+    de Tunnel et à plus de 6" à l’horizontale          vous pouvez placer ces unités en Réserve Stratégique,
+    des unités ennemies.                               quel que soit le nombre d’unités s’y trouvant déjà.
+
+    Si une figurine ennemie (sauf les                  INTELLECT D’AVANT-GARDE
+    Aérodyne) finit n’importe quelle sorte de          Cette bioforme compte sur ses sens et son intellect de
+    mouvement à 3" d’un de vos Marqueurs               prédateur pour s’enfouir en position et frapper avant
+    de Tunnel, de dernier est retiré du champ          que l’ennemi ne puisse réagir.
+    de bataille.
+                                                       Figurine Tyranide avec l’aptitude Frappe en Profondeur
+                                                       seulement. L’unité du porteur peut être placée en utilisant
+    MOTS-CLÉS                                         l’aptitude Frappe en Profondeur à l’étape des Renforts
+                                                       de votre première, deuxième ou troisième phase de
+    Les unités de Mawloc et de Trygon de               Mouvement, quelles que soient les règles de la mission.
+    votre armée ont le mot-clé Fouisseur.
+                                                       PRIMAT TRYGON
+    À l’étape Rassembler les Armées, vous              Occurrence rare au sein des flottes-ruches, le Primat
+    pouvez choisir jusqu’à 2 figurines de              Trygon jouit d’un réseau synaptique amélioré au sein de
+    Trygon de votre armée. Les unités                  son cortex, ce qui lui permet de coordonner les attaques
+    choisies gagnent le mot-clé Personnage.            des Tyranides fouisseurs avec une grande précision.
+
+    Note de Conception : Cela signifie que             Figurine de Trygon seulement. Le porteur gagne le
+    les figurines choisies peuvent recevoir des        mot-clé Synapse. Améliorez de 1 les caractéristiques
+5   Optimisations et que vous pouvez choisir           de Force et de Capacité de Combat des armes de
+    l’une d’elles comme Seigneur de Guerre.            mêlée dont le porteur est équipé.
+          ADAPTATION OPTIMISÉE                                          RÉSEAU DE TUNNELS
+          ATTAQUE SOUTERRAINE – STRATAGÈME D’ÉQUIPEMENT                 ATTAQUE SOUTERRAINE – STRATAGÈME DE RUSE STRATÉGIQUE
+
+          Lorsque les assauts souterrains s’avèrent utiles,             Tirant avantage de tunnels creusés récemment, les
+          l’esprit-ruche altère parfois spontanément ses                bioformes tyranides se déplacent rapidement à travers
+    1PC   organismes fouisseurs pour qu’ils servent de relais     1PC   le paysage et émergent à des endroits inattendus.
+          à sa volonté.
+                                                                        QUAND : À la fin de votre phase de Mouvement.
+          QUAND : À la phase de Commandement.                           CIBLE : 1 unité Tyranide de votre armée qui est
+          CIBLE : 1 unité de Mawloc ou de Trygon de                     entièrement à 9" d’un ou plusieurs de vos Marqueurs
+          votre armée.                                                  de Tunnel et qui n’est à Portée d’Engagement
+          EFFET : Jusqu’au début de votre prochaine phase               d’aucune unité ennemie.
+          de Commandement, votre unité a le mot-clé Synapse.            EFFET : Retirez votre unité du champ de bataille et
+                                                                        replacez-la à nouveau, entièrement à 9" d’un autre
+                                                                        Marqueur de Tunnel que vous avez placé, et plus de
+          ESSAIMS RENFLOUÉS                                             6" à l’horizontale des unités ennemies.
+          ATTAQUE SOUTERRAINE – STRATAGÈME D’ÉQUIPEMENT
+
+          Une multitude censément inépuisable de bêtes-                 ATTAQUE EN ESSAIMS
+          guerrières et de bioformes récolteuses emerge des
+    1PC   profondeurs pour renforcer les essaims en surface.
+                                                                        ATTAQUE SOUTERRAINE – STRATAGÈME DE RUSE STRATÉGIQUE
+
+                                                                        Les organismes d’avant-garde d’une flotte-ruche
+          QUAND : À votre phase de Mouvement.
+                                                                        prisent la mobilité et l’agressivité, en maintenant
+          CIBLE : 1 unité Tyranide de votre armée, entièrement    1PC   l’ennemi sur la défensive grâce à une succession
+          à 9" d’un ou plusieurs Marqueurs de Tunnel que vous           d’attaques coordonnées.
+          avez placés.
+                                                                        QUAND : À votre phase de Charge.
+          EFFET : 1 figurine de votre unité récupère jusqu’à
+          D3+1 PV perdus, ou vous pouvez restituer à votre              CIBLE : 1 unité de Monstre Tyranide de votre
+          unité jusqu’à D3+1 figurines détruites avec une               armée qui a été placée comme Renfort à ce tour.
+          caractéristique de Points de Vie de 1 à la place.             EFFET : Jusqu’à la fin de la phase, les unités
+                                                                        Tyranides amies à 6" de votre unité peuvent
+                                                                        relancer les jets de Charge.
+          TIR EN ENFILADE ÉMERGENT
+          ATTAQUE SOUTERRAINE – STRATAGÈME DE RUSE STRATÉGIQUE
+                                                                        RETRAITE SOUTERRAINE
+          Surgissant du sol, les bioformes tyranides pointent
+                                                                        ATTAQUE SOUTERRAINE – STRATAGÈME DE RUSE STRATÉGIQUE
+          leurs armes morphiques et crachent des salves de
+    1PC   munitions vivantes dans le dos exposé des proies              Le réseau de tunnels sous le champ de bataille
+          prises à revers.                                              permet aux organismes tyranides de se replier pour
+                                                                  1PC   préparer de nouvelles embuscades.
+          QUAND : À la fin de votre phase de Mouvement.
+          CIBLE : 1 unité Tyranide de votre armée qui a été             QUAND : À la fin de la phase de Combat adverse.
+          placée comme Renfort à ce tour.                               CIBLE : 1 unité Tyranide ou jusqu’à deux unités de
+          EFFET : Jusqu’à la fin de votre prochaine phase de            Fouisseurs de votre armée qui ne sont à Portée
+          Combat, les armes dont sont équipées les figurines de         d’Engagement d’aucune unité ennemie.
+          votre unité ont les aptitudes [TOUCHES SOUTENUES 1]           EFFET : Retirez votre unité du champ de bataille et
+          et [IGNORE LE COUVERT].                                       placez-la en Réserve Stratégique.
+
+
+
+
+6
+LA TERREUR ROUGE
+ M           E           SV           PV          CD         CO
+
+10"         8           3+            9          8+          3
+
+
+
+      ARMES DE MÊLÉE                                              PORTÉE   A    CC   F   PA    D     APTITUDES
+      Gueule béante                                                                                  BASE : Frappe en Profondeur
+                                                                   Mêlée   1    2+   5   -    D3+2
+      [ATTAQUES BONUS, BLESSURES DÉVASTATRICES, PRÉCISION]
+      Griffes tranchantes                                          Mêlée   12   2+   7   -2    2     FACTION : Synapse
+
+                                                                                                     Gobage : Chaque fois qu’une attaque avec la gueule béante
+                                                                                                     de cette figurine cible une unité d’Infanterie, Montée ou
+                                                                                                     de Bêtes, chaque jet de Blessure non modifié réussi est une
+                                                                                                     Blessure Critique. Chaque fois qu’une figurine d’Infanterie,
+                                                                                                     Montée ou de Bêtes est détruite à cause d’une attaque de
+                                                                                                     la gueule béante de cette figurine, cette dernière récupère
+                                                                                                     jusqu’à D3+2 PV perdus.
+                                                                                                     Chasseur Souterrain : À la fin de la phase de Combat, si cette
+                                                                                                     unité n’est à Portée d’Engagement d’aucune unité ennemie,
+                                                                                                     vous pouvez la retirer du champ de bataille et la placer en
+                                                                                                     Réserve Stratégique.
+
+
+
+
+     MOTS-CLÉS : Personnage, Mobile, Héros Épique, Grand Dévoreur, Monstre,                              MOTS-CLÉS DE FACTION :
+                  Fouisseur, Envahisseur d’Avant-garde, La Terreur Rouge                                  Tyranides
+LA TERREUR ROUGE
+Monstre serpentin qui creuse sous le champ de bataille pour
+frapper sa proie par surprise, la Terreur Rouge est une bioforme
+rare engendrée pour semer la confusion derrière les lignes
+ennemies. En écartant les mâchoires, la bête peut avaler une proie
+tout rond et en absorber la biomasse pour soigner ses blessures.
+
+
+       OPTIONS D’ÉQUIPEMENT                                                    COMPOSITION D’UNITÉ
+       Aucune.                                                                 ■ 1 La Terreur Rouge – Héros Épique
+                                                                               Cette figurine est équipée de : griffes tranchantes,
+                                                                               gueule béante.
+
+
+
+
+     MOTS-CLÉS : Personnage, Mobile, Héros Épique, Grand Dévoreur, Monstre,        MOTS-CLÉS DE FACTION :
+                  Fouisseur, Envahisseur d’Avant-garde, La Terreur Rouge            Tyranides
+PRIMAT TYRANIDE AVEC BIOKNOUT
+ M          E          SV         PV   CD   CO
+
+10"         5         3+          6    7+   1
+
+
+
+      ARMES DE MÊLÉE                             PORTÉE    A    CC    F   PA   D   APTITUDES
+      Serre perforante                            Mêlée    4     2+   8   -2   3   BASE : Meneur
+      Bioknout [ATTAQUES BONUS]                   Mêlée    8     2+   4   -2   1
+      Griffes tranchantes                         Mêlée    6     2+   6   -2   2   FACTION : L’Ombre dans le Warp, Synapse
+
+                                                                                   Guerrier Alpha : Les armes dont sont équipées les figurines de
+                                                                                   l’unité de cette figurine ont l’aptitude [TOUCHES SOUTENUES 1].
+                                                                                   Bête Meneuse Agressive : À la phase de Tir adverse, chaque
+                                                                                   fois qu’une unité ennemie a tiré, si une ou plusieurs figurines
+                                                                                   de cette unité ont été détruites à cause de ces attaques, cette
+                                                                                   unité peut faire un mouvement d’Élan. Dans ce cas, jetez
+                                                                                   1 D6 : les figurines de cette unité se déplacent d’un nombre
+                                                                                   de pouces maximum égal au résultat, mais cette unité
+                                                                                   doit finir ce mouvement aussi près que possible de l’unité
+                                                                                   ennemie la plus proche (sauf les Aérodynes). Ce faisant, ces
+                                                                                   figurines peuvent être déplacées à Portée d’Engagement de
+                                                                                   l’unité ennemie. Cette unité ne peut pas faire un mouvement
+                                                                                   d’Élan tant qu’elle est Ébranlée ou à Portée d’Engagement
+                                                                                   d’une ou plusieurs unités ennemies, et peut faire seulement
+                                                                                   1 mouvement d’Élan par phase.
+
+
+
+
+     MOTS-CLÉS : Infanterie, Personnage, Grand Dévoreur, Synapse,                      MOTS-CLÉS DE FACTION :
+                  Primat Tyranide avec Bioknout                                         Tyranides
+PRIMAT TYRANIDE AVEC BIOKNOUT
+Véritable fanal de la volonté de l’Esprit-ruche, le Primat Tyranide
+avance parmi les essaims d’organismes guerriers, les aiguillant
+jusqu’aux proies. Si un ennemi récalcitrant ancre la ligne adverse
+face à la horde affamée, le Primat Tyranide l’attaque avec son
+bioknout pour l’étrangler, le tourmenter et le tuer.
+
+
+        OPTIONS D’ÉQUIPEMENT                                          COMPOSITION D’UNITÉ
+        Aucune.                                                       ■ 1 Primat Tyranide avec Bioknout
+                                                                      Cette figurine est équipée de : 1 serre perforante ; 1 bioknout ;
+                                                                      1 griffes tranchantes.
+
+
+                                                                      MENEUR
+                                                                      Cette figurine peut être attachée aux unités suivantes :
+                                                                      Hormagaunts, Termagants, Guerriers Tyranides
+                                                                      avec Bio-armes de Mêlée, Guerriers Tyranides avec
+                                                                      Bio-armes de Tir.
+
+
+
+
+      MOTS-CLÉS : Infanterie, Personnage, Grand Dévoreur, Synapse,        MOTS-CLÉS DE FACTION :
+                   Primat Tyranide avec Bioknout                           Tyranides
+RÔDEURS
+ M          E          SV         PV         CD   CO
+
+10"         5         4+           3         8+   1
+
+
+
+      ARMES DE MÊLÉE                                   PORTÉE   A   CC   F   PA   D   APTITUDES
+      Griffes et serres de Rôdeur [JUMELÉ]              Mêlée   3   3+   5   -2   2   BASE : Frappe en Profondeur
+
+                                                                                      FACTION : Synapse
+
+                                                                                      La Mort Vient du Dessous : À la fin du tour adverse, si cette
+                                                                                      unité n’est à Portée d’Engagement d’aucune unité ennemie,
+                                                                                      vous pouvez la retirer du champ de bataille et la placer en
+                                                                                      Réserve Stratégique.
+
+
+
+
+     MOTS-CLÉS : Infanterie, Grand Dévoreur, Envahisseur d’Avant-garde,                   MOTS-CLÉS DE FACTION :
+                  Fouisseurs, Rôdeurs                                                      Tyranides
+RÔDEURS
+Bioformes serpentines capables de se déplacer à une vitesse
+terrifiante, les Rôdeurs sont doublement dangereux en raison de
+leur aptitude à creuser des tunnels même dans la roche mère.
+Leurs attaques souterraines font d’eux les organismes prédateurs
+de prédilection de l’Esprit-ruche pour agir comme troupes de choc.
+
+
+       OPTIONS D’ÉQUIPEMENT                                                COMPOSITION D’UNITÉ
+       Aucune.                                                             ■ 5 Rôdeurs
+                                                                           Chaque Rôdeur est équipé de : griffes et serres de Rôdeur.
+
+
+
+
+     MOTS-CLÉS : Infanterie, Grand Dévoreur, Envahisseur d’Avant-garde,        MOTS-CLÉS DE FACTION :
+                  Fouisseurs, Rôdeurs                                           Tyranides
+RÔDEURS HYPERADAPTÉS
+ M           E            SV           PV           CD      CO
+
+10"          5          4+             6            7+      1      PRIMAT RÔDEUR
+
+10"          5          4+             3            8+      1      RÔDEURS
+
+
+      ARMES DE TIR                                               PORTÉE      A   CT     F   PA   D   APTITUDES
+      Trait venimeux [ASSAUT, IGNORE LE COUVERT, TORRENT]          12"    D6+3   N/A    6   -1   1   BASE : Frappe en Profondeur, Meneur
+
+      ARMES DE MÊLÉE                                             PORTÉE      A   CC     F   PA   D   FACTION : L’Ombre dans le Warp (Primat Rôdeur seulement),
+                                                                                                     Synapse
+      Griffes et serres de Primat
+                                                                  Mêlée      6     3+   5   -2   2
+      [ANTI-MONSTRE 5+, ANTI-VÉHICULE 5+, JUMELÉ]
+                                                                                                     Envahisseur Alpha : Les armes dont sont équipées les figurines
+      Griffes et serres lourdes de Rôdeur                                                            de cette unité ont l’aptitude [TOUCHES SOUTENUES 1].
+                                                                  Mêlée      3     3+   5   -2   2
+      [ANTI-MONSTRE 5+, ANTI-VÉHICULE 5+, JUMELÉ]
+                                                                                                     Panoplie Hypersensorielle : Une fois par round de bataille,
+                                                                                                     vous pouvez cibler cette unité avec le Stratagème Arrivée
+                                                                                                     Précipitée ou Intervention Héroïque pour 0PC, et vous pouvez
+                                                                                                     le faire même si vous avez déjà ciblé une unité différente
+                                                                                                     avec ce Stratagème à ce tour.
+
+
+
+
+     MOTS-CLÉS – TOUTES LES FIGURINES : Infanterie, Grand Dévoreur, Envahisseur d’Avant-                  MOTS-CLÉS DE FACTION :
+     garde, Fouisseurs, Rôdeurs Hyperadaptés | PRIMAT RÔDEUR : Personnage, Synapse                        Tyranides
+RÔDEURS HYPERADAPTÉS
+Créés pour lutter au sein ses essaims d’avant-garde, les Rôdeurs Hyperadaptés
+sont dotés de biomorphes et d’armes-symbiotes supplémentaires. Les faux
+toxiques, les serres perforantes et les pinces broyeuses des bioformes les plus
+lourdes, couplées à des bioacides et des sens surdéveloppés, leur permettent
+de neutraliser les véhicules blindés de la proie.
+
+
+       MENEUR                                                                               COMPOSITION D’UNITÉ
+       Cette unité peut être attachée aux unités suivantes : Rôdeurs                        ■ 1 Primat Rôdeur
+                                                                                            ■ 4 Rôdeurs
+                                                                                            Le Primat Rôdeur est équipé de : griffes et serres de Primat.
+                                                                                            3 Rôdeurs sont équipés de : griffes et serres lourdes
+                                                                                            de Rôdeur.
+                                                                                            1 Rôdeur est équipé de : trait venimeux ; griffes et serres
+                                                                                            lourdes de Rôdeur.
+
+
+
+
+      MOTS-CLÉS – TOUTES LES FIGURINES : Infanterie, Grand Dévoreur, Envahisseur d’Avant-        MOTS-CLÉS DE FACTION :
+      garde, Fouisseurs, Rôdeurs Hyperadaptés | PRIMAT RÔDEUR : Personnage, Synapse              Tyranides
+                                                       TYRANIDES
+                                                   MISES À JOUR DE RÈGLES
+Cette section présente des mises à jour et des clarifications pour vos règles de faction, conçues pour améliorer l'expérience de jeu de
+tous les joueurs. Les modifications appliquées après la première itération de ce Pack de Faction seront en rouge.
+
+
+                                                                             DÉTACHEMENT DE RUÉE BROYEUSE
+MISES À JOUR                                                                 Règle de Détachement Béhémoths Enragés
+                                                                             Remplacez par :
+RÈGLES D'ARMÉE                                                               “À chaque attaque d’une figurine de MONSTRE TYRANIDE de votre armée,
+l’Ombre dans le Warp                                                         ajoutez 1 au jet de Touche si l’unité de la figurine est en dessous de son
+Remplacez par :                                                              Effectif Initial, et ajoutez 1 au jet de Blessure également si l’unité de la
+“Si votre Faction d’Armée est TYRANIDES, une fois par bataille, à la phase   figurine est En Dessous de son Demi-effectif. De plus, tant qu’une unité
+de Commandement de n’importe quel joueur, si une ou plusieurs                de MONSTRE TYRANIDE de votre armée (unités Ébranlées exclues) est à
+unités de votre armée avec cette aptitude sont sur le champ de bataille,     son Effectif Initial, ajoutez 2 à la caractéristique de Contrôle d’Objectif
+vous pouvez déchaîner l’Ombre dans le Warp. En ce cas, chaque unité          des figurines de l’unité.”
+ennemie sur le champ de bataille doit faire un test d’Ébranlement.
+Chaque fois qu’une unité ennemie fait un tel test d’Ébranlement, si elle     Stratagèmes Férocité Débridée, section Effet
+est à 6" ou moins d’une ou plusieurs unités SYNAPSE de votre armée,          Remplacez par :
+soustrayez 1 au test.”                                                       “Jusqu’à la fin de la phase, chaque fois qu’une figurine de votre unité
+                                                                             fait un mouvement Normal, d’Avance ou de Retraite, elle peut passer à
+Synapse                                                                      travers les figurines (figurines TITANESQUES exclues) et les sections des
+Remplacez par :                                                              éléments de terrain de 4” ou moins de haut. Ce faisant :
+“Si votre Faction d’Armée est TYRANIDES, tant qu’une unité TYRANIDE          ▪ Elle peut passer à Portée d’Engagement des figurines ennemies, mais
+de votre armée est à 6" ou moins d’une ou plusieurs figurines SYNAPSE           ne peut pas finir ce mouvement à Portée d’Engagement d’elles.
+amies, cette unité TYRANIDE est dite à Portée de Synapse de votre            ▪ Elle peut également passer à travers les sections des éléments de
+armée. Tant qu’une unité TYRANIDE de votre armée est à Portée de                terrain de plus de 4” de haut, mais dans ce cas, après que son unité
+Synapse de votre armée :                                                        s’est déplacée, jetez 1 D6 : sur 1, votre unité est Ébranlée.”
+▪ Chaque fois que l’unité fait un test d’Ébranlement, faites le test sur
+   3D6 au lieu de 2D6.                                                       DÉTACHEMENT DE NEXUS SYNAPTIQUE
+▪ Chaque fois qu’une figurine de l’unité fait une attaque de mêlée,         Stratagème Point Nodal Renforcé, section Effet
+   ajoutez 1 à la caractéristique de Force de l’attaque.”                    Remplacez par :
+                                                                             “Jusqu’à ce que l’unité attaquante a fini de faire ses attaques, chaque
+DÉTACHEMENT D'ESSAIM D'ASSIMILATION                                          fois qu’une attaque cible votre unité, dégradez de 1 la caractéristique
+Règle de Détachement Nourrir l’Essaim                                        de Pénétration d’Armure de cette attaque.”
+Remplacez par :
+“À votre phase de Commandement, chaque unité de RÉCOLTEURS de                DÉTACHEMENT D'ESSAIM INÉPUISABLE
+votre armée peut Régénérer 1 unité TYRANIDE amie à 6" ou moins d’elle.       Règle de détachement Situation Insurmontable
+Une unité peut être régénérée une seule fois par phase. Chaque fois          Remplacez par :
+qu’une unité est régénérée, faites 1 des choses suivantes :                  “À la phase de Tir adverse, quand une unité ennemie a tiré, si une ou
+▪ Une figurine de l’unité récupère jusqu’à D3+1 points de vie perdus.       plusieurs figurines d'une unité d'ESSAIM INÉPUISABLE de votre armée
+▪ Une figurine d’INFANTERIE détruite (PERSONNAGES exclus) est               ont été détruites à cause de ces attaques, cette unité peut faire un
+   restituée à l’unité avec tous ses points de vie initiaux. À la place,     mouvement d'élan de D6" maximum.”
+   s’il s’agit d’une unité de MULTITUDE INFINIE, 3 figurines détruites
+   maximum lui sont restituées.”                                             Stratagème Guidage Synaptique, Sections Quand et Effet
+                                                                             Remplacez par :
+Optimisation Défense Instinctive                                             “QUAND : À n’importe quelle phase, juste avant qu’une unité MULTITUDE
+Remplacez par :                                                              INFINIE de votre armée à Portée de Synapse de votre armée fasse un
+Figurine TYRANIDE seulement. Tant que le porteur est à 6" ou moins           mouvement d’élane.
+d’une ou plusieurs unités de RÉCOLTEURS amies, quand vous ciblez cette       EFFET : En faisant ce mouvement d’élan, vous pouvez relancer le D6
+unité avec le stratagème Intervention Héroïque, cette utilisation se fait    pour déterminer la distance à laquelle se déplace votre unité, et cette
+à -1 PC. De plus, tant que le porteur est à 6" ou moins d’une ou plusieurs   dernière peut finir ce mouvement aussi près que possible du pion
+unités de RÉCOLTEURS amies, les figurines de l’unité du porteur ont          d’objectif le plus proche (au lieu d’aussi près que possible de l’unité
+l’aptitude Combat en Premier.                                                ennemie la plus proche). Toutes les autres règles des mouvements
+                                                                             d’élan s’appliquent.”
+DÉTACHEMENT D'OFFENSIVE D'AVANT-GARDE                                       Assimilatrice Norne, Section Mots-clés
+Optimisation Caméléonisme                                                   Ajoutez “RÉCOLTEUR”.
+Remplacez par :
+“Figurine d’ENVAHISSEUR D’AVANT-GARDE seulement.                            Assimilatrice Norne, Aptitude d’Arme [HARPONNÉ]
+Cette unité a Discrétion.”                                                  Remplacez par :
+                                                                            “Harponné : Quand cette unité déclare une charge, si une unité de
+Optimisation Neuronodule                                                    MONSTRE/VÉHICULE ennemie est à 12" ou moins de cette unité et a été
+Remplacez par :                                                             touchée par une attaque faite avec cette arme à ce tour, vous pouvez
+“Figurine TYRANIDE seulement. Après que les deux joueurs ont déployé        utiliser cette aptitude. Dans ce cas :
+leurs armées, vous pouvez choisir trois unités ENVAHISSEUR D'AVANT-         ▪ Cette unité a +2 aux jets de charge jusqu’à la fin de la phase.
+GARDE maximum de votre armée et les redéployer. Ce faisant, vous            ▪ Cette unité doit finir ce mouvement de charge engagée avec cette
+pouvez en placer certaines ou toutes en Réserve Stratégique, quel que          unité de MONSTRE/VÉHICULE ennemie.”
+soit le nombre d’unités s’y trouvant déjà.”
+                                                                            Psychophage
+Stratagème Vibrisses Hypersensibles, section Cible                          ▪ Profil – Remplacez le M par 12”.
+Remplacez 9" par 8".                                                        ▪ Aptitude Biostimulus – Remplacez par : “À votre phase de Tir, après
+                                                                            que cette figurine a tiré, choisissez 1 unité ennemie touchée par une
+FICHES TECHNIQUES                                                           ou plusieurs de ces attaques. Jusqu'à la fin du tour, à chaque attaque
+Biovores, Aptitude Semer des Spores Mines                                   de mêlée d'une unité TYRANIDE amie qui cible ladite unité ennemie,
+Remplacez 9" par 8".                                                        améliorez de 1 la caractéristique de Pénétration d'Armure de l'attaque.
+                                                                            La même unité ennemie peut être affectée par cette aptitude une seule
+Génocrate, Parasite de Mortrex                                              fois par tour.”
+▪ Section Aptitudes : Ajoutez “FACTION : L'Ombre dans le Warp”             ▪ Mots-clés – Ajoutez “FUMÉE”.
+▪ Section Mots-clés : Ajoutez “SYNAPSE”.                                   ▪ Arme Griffes et gueule tentaculaire – Remplacez les A par “6” et la
+                                                                               PA par “-2”.
+Carnifex, Aptitude Assaut Fulgurant
+Remplacez par :                                                             Sporokyste, Aptitude Semer des Spores Mucolides
+“À la phase de Tir adverse, quand une unité ennemie a tiré, si cette        Remplacez 9" par 8".
+figurine a perdu un ou plusieurs points de vie à cause de ces attaques,
+cette unité peut faire un mouvement d'élan de D6+2" maximum.”               Le Maître des Essaims, Aptitude Présence Malveillante
+                                                                            Remplacez par :
+Exocrine, Armes de Tir, canon bio-plasmique                                 “Une fois par tour, quand votre adversaire cible une unité de son armée
+Remplacez la F par “9”.                                                     à 12" ou moins de cette figurine avec un stratagème, vous pouvez
+                                                                            utiliser cette aptitude. Dans ce cas, augmentez de 1 PC le coût en PC
+Tyran des Ruches, Aptitude Déferlante                                       de cette utilisation de ce stratagème.”
+Remplacez par :
+“Tant qu’une unité TYRANIDE amie est à 6" ou moins de cette figurine,       Termagants, Aptitude Horreurs Prédatrices
+les armes de tir dont sont équipées les figurines de l’unité ont les        Remplacez par :
+aptitudes [ASSAUT] et [TOUCHES FATALES].”                                   “À la phase de Mouvement adverse, si une unité ennemie finit un
+                                                                            mouvement à 8” ou moins de cette unité, si cette unité n’est à Portée
+Harpie, Aptitude Kystes à Spores Mines                                      d’Engagement d’aucune unité ennemie, elle peut faire un mouvement
+Remplacez par : “À la fin de la phase de Combat adverse, vous pouvez        Normal de D6” maximum.”
+faire 1 des choix suivants :
+▪ Choisir 1 unité ennemie visible (unités Agent Solitaire exclues) à 24"   Trygon, Aptitude Galeries Souterraines
+   ou moins de cette unité, et jetez six D6 pour cette unité ennemie :      Remplacez par :
+   Pour chaque jet de 3+, cette unité ennemie subit 1 blessure mortelle.    “À votre phase de Mouvement, quand cette figurine est placée sur le
+▪ Ajoutez à votre armée 1 nouvelle unité de SPORE MINES contenant          champ de bataille en utilisant l’aptitude Frappe en Profondeur, elle peut
+   D3 figurines et placez-la n’importe où sur le champ de bataille          utiliser une galerie souterraine. Dans ce cas, cette figurine peut être
+   entièrement à 6" ou moins de cette figurine et à plus de 8" à            placée n’importe où sur le champ de bataille à plus de 6" à l’horizontale
+   l’horizontale des unités ennemies. Vous ne pouvez pas choisir cette      des unités ennemies, mais jusqu’à la fin du tour, elle n’est pas éligible
+   option pour plus d’une figurine par tour.”                               pour déclarer une charge.”
+
+Tyran des Ruches, Tyran des Ruches Ailé - Aptitude Volonté de               Guerriers Tyranides avec Bio-armes de Mêlée, Aptitude Instincts
+l’Esprit-ruche                                                              d’Adaptation
+Remplacez par :                                                             Remplacez par :
+“Une fois par round de bataille, une figurine de votre armée ayant cette    “Instincts d’Adaptation (Une fois par tour, par unité) : À la phase de
+aptitude peut l’utiliser quand une unité TYRANIDE amie à 12" ou moins       Combat, quand cette unité est choisie pour combattre ou quand une
+d’elle est ciblée par un Stratagème. Dans ce cas, réduisez de 1PC le coût   unité ennemie cible cette unité, vous pouvez choisir une des options
+de cette utilisation du Stratagème.”                                        suivantes :
+                                                                            ▪ Les attaques de mêlée de cette unité ont +1 en F.
+Mawloc, Rôdeurs, Trygon - Mots-clés                                         ▪ Ou : Cette unité a +1 en E.”
+Ajoutez “ENVAHISSEURS D'AVANT-GARDE”.
+                                                                            Tyrannocyte, Aptitude Dispersion Aérienne
+Neurolictor, Section Mots-clés                                              Remplacez 9" par 8".
+Ajoutez “SYNAPSE”.
+                                                                                Q : Lorsqu’on utilise le Stratagème Recyclage de Biomasse, est-ce que
+Tyrannofex, Armes de Tir, Canon Briseur                                         l’effet du Stratagème peut être utilisé sur l’unité qui vient d’être détruite ?
+Remplacez par :                                                                 R : Non.
+
+Canon Briseur [LOURD]                                                           Q : Est-ce qu’une unité Attachée contenant un Tyran des Ruches et des
+     PORTÉE             A   CT     F     PA      D                              Gardes Tyranides reçoit l’aptitude Discrétion grâce à l’aptitude Nuage
+                                                                                Infect d’un Venomthrope ?
+       48"              2   3+     18    -4     D6+6
+                                                                                R : Non. L’unité a le mot-clé MONSTRE et l’aptitude exclut les MONSTRES.
+Venomthropes, Aptitude Nuage Infect
+Remplacez par :                                                                 Q : Est-ce que les unités de SPORE MINES qui sont ajoutées à une armée
+“Les unités TYRANIDES amies à 6" de cette unité ont Discrétion.”                pendant une bataille sont limitées par les aptitudes qui empêchent les
+                                                                                Réserves d’être placées à une certaine portée (ex. les omnibrouilleurs
+Bondisseurs de Von Ryan, aptitude Grand Bond                                    des Infiltrators Space Marine) ?
+Remplacez par :                                                                 R : Non.
+“Vous pouvez cibler cette unité avec le stratagème Intervention
+Héroïque, quel que soit le nombre d'autres utilisations de ce                   Q : Est-ce qu’une unité affectée par l’Optimisation Perturbation
+stratagème à cette phase. Dans ce cas :                                         Psychoparasite doit arriver des Réserves à la prochaine phase de
+▪ Cette utilisation se fait à -1 PC.                                           Mouvement ?
+▪ Cette utilisation n'empêche pas d'autres utilisations de ce stratagème       R : Non.
+   sur d'autres unités à cette phase.”
+                                                                                Q : Est-ce que le Stratagème Guidage Synaptique permet à une unité de
+Harpie, Virago des Ruches                                                       quitter la Portée d’Engagement et de se déplacer vers le pion d’objectif
+• Aptitudes de Base : Retirez “Stationnaire”.                                   le plus proche ?
+• Profil : Remplacez le M et le CO par “-”.                                     R : Oui.
+
+                                                                                Q : Est-ce que des unités ciblées par la règle d’armée l’Ombre dans
+FAQ                                                                             le Warp peuvent utiliser le stratagème Courage Insensé ?
+Q : Quand mon unité de Biovores utilise l’aptitude Lancer des Spores            R : Non. Courage Insensé peut être utilisé uniquement à votre phase
+Mines, perd-elle le fait d’être cachée ?                                        de Commandement.
+R : Non.
+                                                                                Q : Lorsque j’utilise le Détachement d’Attaque Souterraine, est-ce que
+Q : Est-ce que les unités qui sont repositionnées par des règles qui            l’aptitude Terreur des Profondeurs du Mawloc se déclenche lorsqu’il
+ne précisent pas que l’unité repositionnée est tout d’abord placée en           arrive via un Marqueur de Tunnel ?
+Réserve (ex. la règle Assaut Téléporté des Grey Knights) doivent faire          R : Non.
+un test d’Ébranlement sur un jet de 2+ si un PERSONNAGE TYRANIDE avec
+l’Optimisation Terrains de Chasse est sur le champ de bataille ?
+R : Oui. Les règles déclenchées par ou appliquées aux unités de
+Réserve sont également déclenchées par et appliquées à une unité
+repositionnée lorsqu’elle est placée à nouveau.
+
+Q : Puis-je utiliser le Stratagème Régénération Rapide lorsqu’une
+aptitude comme Éclair de Mort est censée infliger des blessures
+mortelles à une unité TYRANIDE de mon armée ?
+R : Non.
+
+Q : Quand on résout l’aptitude Terreur des Profondeurs d’un Mawloc,
+quelles sont les unités qui doivent faire un test d’Ébranlement  : toutes
+les unités à 12" ou moins du Mawloc, ou seulement celles pour qui un
+résultat de 5+ a été obtenu en résolvant cette aptitude ?
+R : Seulement les unités qui ont obtenu 5+.
+
+Q : Si mon adversaire utilise une règle pour placer une unité en Réserve
+Stratégique au premier round de bataille, et si cette règle précise que
+l’unité doit arriver sur le champ de bataille au prochain round de
+bataille, qu’arrive-t-il si une figurine de mon armée utilise l’Optimisation
+Perturbation Psychoparasite au deuxième round de bataille lorsque
+cette unité de Réserve Stratégique ennemie est censée arriver ?
+R : La règle “ne peut pas arriver” prévaut sur la règle stipulant que l’unité
+“doit arriver” des Réserves Stratégiques. Jetez un D6  : sur 4+, cette unité
+ennemie ne peut pas arriver sur le champ de bataille à ce tour.
+
+Q : Si je choisis pour l’aptitude Neuroloïdes d’un Neurotyran une unité de
+Neurogaunts qui n’est pas menée par une unité SYNAPSE, est-ce que cette
+unité de Neurogaunts gagne le mot-clé SYNAPSE ?
+R : Non.
+

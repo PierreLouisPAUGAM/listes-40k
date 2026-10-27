@@ -25,24 +25,23 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
 | Appli Warhammer 40,000, Dark Angels (fr) | officielle | données v995 | `datasheets.md`, `detachements.md` | 23/10/2026 |
 | Appli Warhammer 40,000, Règles de Base (fr) | officielle | données v995, MAJ 14/10/2026 | `construction-armee.md` | 23/10/2026 |
 | Appli Warhammer 40,000, Space Marines (fr) | officielle | données v995, MAJ 14/10/2026 | `datasheets.md`, `detachements.md` | 26/10/2026 |
+| Appli Warhammer 40,000, Tyranides (fr) | officielle | données v995, MAJ 14/10/2026 | `datasheets.md`, `detachements.md` | 26/10/2026 |
 | Mises à jour des règles universelles (fr) | officielle | MAJ 26/08/2026 | `construction-armee.md` | 08/10/2026 |
 | Munitorum Dark Angels (fr) | officielle | v1.6 | `dark-angels-points.tsv`, `dark-angels-detachements.tsv`, `dark-angels-attachements.tsv`, `dark-angels-options.tsv` | 23/10/2026 |
 | Munitorum Space Marines (fr) | officielle | v1.6 | `space-marines-points.tsv`, `space-marines-detachements.tsv`, `space-marines-attachements.tsv`, `space-marines-options.tsv` | 23/10/2026 |
-| Munitorum Tyranides (fr) | officielle | v1.5 | `tyranids-points.tsv`, `tyranids-detachements.tsv`, `tyranids-attachements.tsv`, `tyranids-options.tsv` | 08/10/2026 |
+| Munitorum Tyranides (fr) | officielle | v1.6 | `tyranids-points.tsv`, `tyranids-detachements.tsv`, `tyranids-attachements.tsv`, `tyranids-options.tsv` | 26/10/2026 |
 | Pack de Faction Dark Angels (en) | officielle | Legends seulement, MAJ 30/09/2026 | `datasheets.md`, `detachements.md` | 09/10/2026 |
 | Pack de Faction Space Marines (en) | officielle | aucun pack (codex ou appli) | `datasheets.md`, `detachements.md` | 09/10/2026 |
-| Pack de Faction Tyranides (fr) | officielle | MAJ 26/08/2026 | `datasheets.md`, `detachements.md` | 09/10/2026 |
+| Pack de Faction Tyranides (fr) | officielle | MAJ 14/10/2026 | `datasheets.md`, `detachements.md` | 26/10/2026 |
 | Rassembler les Armées (fr) | officielle | sans version | `rassembler-les-armees.txt`, `construction-armee.md` | 08/10/2026 |
 | Règles de Base (fr) | officielle | MAJ 01/06/2026 | `construction-armee.md` | 08/10/2026 |
-| 40k.app Tyranides (en) | communautaire | sans version | `datasheets.md`, `detachements.md` | 09/10/2026 |
 <!-- fraicheur:fin -->
 
 ## À récupérer
 
-- Codex Tyranides ou captures de l'appli : texte français des fiches et des 6 détachements
-  absents du Pack (en anglais communautaire pour l'instant).
-- Tyranides : mots-clés de faction des 10 unités possédées, absents de 40k.app et du
-  Pack (fiches du codex ou de l'appli).
+- Tyranides : texte français des fiches, de la règle d'armée et des 6 détachements absents
+  du Pack, en anglais dans l'appli au 26/10/2026. Seul le codex papier peut le donner
+  (extrait à fournir si besoin).
 - Dark Angels : texte français de l'aptitude d'équipement « Watcher in the Dark »
   (Chevaliers et Escouade Terminator de la Deathwing), en anglais dans l'appli au
   23/10/2026. Seul le codex papier peut le donner (extrait à fournir si besoin).
@@ -71,8 +70,13 @@ Généré par `python3 -I outils/veille.py --readme` depuis `sources/etat.json`.
 - Lion El'Jonson : l'aptitude Primarque de la Première Légion parle de « deux
   aptitudes », la rubrique de l'appli en liste trois.
 - Tyranides, Situation Insurmontable (Essaim Inépuisable) : l'erratum français du Pack
-  v1.2 vise les unités « d'ESSAIM INÉPUISABLE », 40k.app les ENDLESS MULTITUDE
-  (MULTITUDE INFINIE). Erreur probable de traduction, à trancher par l'appli ou le codex.
+  (v1.2 et v1.3) vise les unités « d'ESSAIM INÉPUISABLE », l'appli les ENDLESS MULTITUDE
+  (MULTITUDE INFINIE). Tranché par l'appli le 26/10/2026 ; erreur de traduction du Pack
+  non corrigée.
+- Tyranides, appli : trois optimisations portent un autre nom français que dans le
+  Munitorum et le Pack (Chasseurs Dissimulés, Ciblage Fatal, Interférence Synaptique) ;
+  la FAQ de l'appli ne contient pas la question sur Recyclage de Biomasse du Pack.
+  Détail : `regles/factions/tyranides/detachements.md`.
 
 ## Procédures de recherche
 

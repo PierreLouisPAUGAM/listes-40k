@@ -35,13 +35,13 @@
         "regles/factions/space-marines/detachements.md"
       ]
     },
-    "c:40kapp:tyranids": {
-      "libelle": "40k.app Tyranides (en)",
-      "type": "communautaire",
-      "url": "https://www.40k.app/factions/tyranids",
-      "version": "sans version",
-      "empreinte": "743264e2b59d1c7fef233dd1ef1e1d1a9e976c978d500da97f1db9cfe34510f9",
-      "consulte_le": "2026-10-09",
+    "appli:tyranides:fr": {
+      "libelle": "Appli Warhammer 40,000, Tyranides (fr)",
+      "type": "officielle",
+      "url": null,
+      "version": "données v995, MAJ 14/10/2026",
+      "empreinte": "Tyranides > Codex: Tyranids=14 octobre 2026",
+      "consulte_le": "2026-10-26",
       "derives": [
         "regles/factions/tyranides/datasheets.md",
         "regles/factions/tyranides/detachements.md"
@@ -91,9 +91,9 @@
       "libelle": "Munitorum Tyranides (fr)",
       "type": "officielle",
       "url": "https://mfm.warhammer-community.com/fr/tyranids",
-      "version": "v1.5",
-      "empreinte": "d47fe4a5978fcce42d6f001839e9d21264d19777bcf5c4ade769fc317c7136f7",
-      "consulte_le": "2026-10-08",
+      "version": "v1.6",
+      "empreinte": "5528ab793a151b74265d8050d867f1204836ebc92a82ec1f7d8b10c6e7740a02",
+      "consulte_le": "2026-10-26",
       "derives": [
         "regles/factions/tyranides/tyranids-points.tsv",
         "regles/factions/tyranides/tyranids-detachements.tsv",
@@ -139,10 +139,10 @@
     "pdf:pack:tyranides:fr": {
       "libelle": "Pack de Faction Tyranides (fr)",
       "type": "officielle",
-      "url": "https://assets.warhammer-community.com/fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
-      "version": "MAJ 26/08/2026",
-      "empreinte": "26/08/2026|fre_wh40k_faction_pack_tyranids-yakv5chylg-jagqfku21c.pdf",
-      "consulte_le": "2026-10-09",
+      "url": "https://assets.warhammer-community.com/fre_14-10_wh40k_faction_pack_tyranids-gt0vl8gg9x-xgsxs8oxlq.pdf",
+      "version": "MAJ 14/10/2026",
+      "empreinte": "14/10/2026|fre_14-10_wh40k_faction_pack_tyranids-gt0vl8gg9x-xgsxs8oxlq.pdf",
+      "consulte_le": "2026-10-26",
       "derives": [
         "regles/factions/tyranides/datasheets.md",
         "regles/factions/tyranides/detachements.md"
